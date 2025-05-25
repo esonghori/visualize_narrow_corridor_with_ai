@@ -39,7 +39,7 @@ As an example, we analyzed Iran (Persia) from 1870 to 2025 in 5-year intervals. 
 If you use this code, please cite this:
 
 ```
-@misc{CircuitTraining2021,
+@misc{VisualizeNarrowCorridor2025,
   title = {Visualize Narrow Corridor using Generative Artificial Intelligence.},
   author = {M. Songhori, Ebrahim},
   howpublished = {\url{https://github.com/esonghori/visualize_narrow_corridor_with_ai}},
