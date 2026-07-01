@@ -189,7 +189,7 @@ def _load_external():
 def validation_table(by_country) -> None:
     ext = _load_external()
     lines = [
-        r"\begin{table}[t]", r"\centering", r"\small",
+        r"\begin{table*}[t]", r"\centering", r"\small",
         r"\caption{Consistency with V-Dem (\texttt{claude-opus-4-8}): Spearman "
         r"$\rho$ at period-midpoint years, reported as level\,/\,$\Delta$ (levels "
         r"vs.\ first differences). Society vs.\ \texttt{v2xcs\_ccsi}; state vs.\ "
@@ -218,7 +218,7 @@ def validation_table(by_country) -> None:
             sta_d = _spearman(_diff(lt), _diff(et))
         n_cell = n if n else r"\ph{--}"
         lines.append(f"{country} & {window} & {n_cell} & {_pair(soc_l, soc_d)} & {_pair(sta_l, sta_d)} \\\\")
-    lines += [r"\bottomrule", r"\end{tabular}", r"\end{table}"]
+    lines += [r"\bottomrule", r"\end{tabular}", r"\end{table*}"]
     (TABLES_DIR / "validation.tex").write_text("\n".join(lines) + "\n")
     status = "computed" if ext is not None else "placeholder (no external CSV)"
     print(f"wrote validation.tex ({status})")
