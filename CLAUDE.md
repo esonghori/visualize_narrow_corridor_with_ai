@@ -46,4 +46,4 @@ The `src/` package is the reusable library; the reproducible research around it 
 - Standard **4-space** Python indentation (the old notebook used 2-space Google style).
 - The two-axis methodology is the core value: keep the Chain-of-Thought (events first) and In-Context Learning (prior scores fed forward) structure when editing prompts or the pipeline.
 - `PeriodScore` is the contract between the prompt and the parser — if you change requested output fields in `prompts.py`, update the pydantic model (and the regex fallback in `llm.py` if the `<...>` shape changes).
-- `example/` holds a committed sample run for the United States 1775–2025 by Claude Sonnet 4.6 (`usa-sonnet-4-6.{json,png,gif}` — full transcript + outputs).
+- There is no separate `example/` dir; the committed sample runs are the paper sweep under `paper/experiments/results/` (full transcripts + PNGs). The README's worked example points at the USA reference-model run there.

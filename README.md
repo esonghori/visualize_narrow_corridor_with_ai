@@ -84,10 +84,12 @@ It reads each run's JSON sidecar for the country/model names, copies the images 
 
 # Example
 
-As an example, we analyzed United States' path from 1775 to 2025 in 5-year intervals. You can find a corresponding Claude Sonnet 4.6 prompt/response transcript [here](./example/usa-sonnet-4-6.json).
+As an example, the paper's reference-model run traces the United States' path from 1789 in decade-length periods, by Claude Opus 4.8. You can find the full prompt/response transcript [here](./paper/experiments/results/united-states__anthropic-claude-opus-4-8.json).
 
-![USA's path from 1775 to 2025 Animation](./example/usa-sonnet-4-6.gif).
-![USA's path from 1775 to 2025](./example/usa-sonnet-4-6.png).
+![USA's path animation](./docs/assets/united-states__anthropic-claude-opus-4-8.gif).
+![USA's path](./docs/assets/united-states__anthropic-claude-opus-4-8.png).
+
+The full sweep (6 countries × 4 models, plus V-Dem and ensemble atlases) lives under [`paper/experiments/results/`](./paper/experiments/results); browse it interactively in the [gallery](./docs).
 
 # How to cite
 
