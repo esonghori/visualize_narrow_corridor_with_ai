@@ -31,9 +31,19 @@ Module map under `src/narrow_corridor/`:
 - `storage.py` — `save_path`/`load_path` as JSON (replaces the old pickle-to-Drive).
 - `cli.py` — the `ncorridor` entry point (`generate` / `plot` / `animate` / `models`). Heavy imports are deferred into each command so `--help` and `models` stay fast.
 
+## Paper, experiments & gallery
+
+The `src/` package is the reusable library; the reproducible research around it lives in `paper/` and `scripts/`. **`paper/RUNBOOK.md` is the authoritative end-to-end guide** (commands, cost, and how to interpret each result) — read it before touching the experiment pipeline.
+
+- `paper/experiments/run_experiments.py` — the sweep config *and* the config source for every other script: `COUNTRIES`, `MODELS`, `END`, `STEP`, `slug()`, `RUNS_DIR` live here, and `analysis.py` / `ensemble.py` / `summarize.py` / `vdem_atlas.py` all `import from run_experiments`. Change the country/model set here, in one place. It writes `paper/experiments/results/<country-slug>__<model-slug>.{json,png,gif}` (**committed**, not gitignored — note some docs still say `runs/`; the code uses `results/`). Slugs match the `\includegraphics` names in `main.tex`.
+- `analysis.py` → `paper/tables/{intermodel,validation}.tex` (Krippendorff's α across models on first differences; Spearman ρ vs. V-Dem). `ensemble.py` → `<country>__ensemble-mean.{json,png}` (mean across models). `summarize.py` → `paper/experiments/derived/*.csv` for the prose. `vdem_atlas.py` → `<country>__vdem.{json,png}`. Only `run_experiments.py` calls an LLM; the rest are pure post-processing.
+- V-Dem is a third-party input you provide at `paper/experiments/external/vdem.csv` (gitignored); indicator columns are configured at the top of `analysis.py`. Without it, tables still write with placeholders and the paper still compiles.
+- `paper/main.tex` compiles standalone (twocolumn, no external `.sty`); unfilled items are red `\ph{...}` macros — grep for `\ph` to find open items.
+- `scripts/build_site.py --runs <dir> --out docs` — turns a results dir into the committed static gallery in `docs/` (GitHub Pages). Discovery is driven off each run's `.json` sidecar (real country/model names), not the slug.
+
 ## Conventions
 
 - Standard **4-space** Python indentation (the old notebook used 2-space Google style).
 - The two-axis methodology is the core value: keep the Chain-of-Thought (events first) and In-Context Learning (prior scores fed forward) structure when editing prompts or the pipeline.
 - `PeriodScore` is the contract between the prompt and the parser — if you change requested output fields in `prompts.py`, update the pydantic model (and the regex fallback in `llm.py` if the `<...>` shape changes).
-- `example/` holds a committed sample run for Iran (Persia) 1880–2025 (full transcript + output PNG).
+- `example/` holds a committed sample run for the United States 1775–2025 by Claude Sonnet 4.6 (`usa-sonnet-4-6.{json,png,gif}` — full transcript + outputs).

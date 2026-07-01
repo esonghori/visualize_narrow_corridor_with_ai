@@ -12,3 +12,5 @@ paper/experiments/results/*.gif
 dist/
 build/
 uv.lock
+paper/main.blg
+paper/main.log
