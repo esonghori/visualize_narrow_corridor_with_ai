@@ -66,7 +66,7 @@ def plot(
 def animate(
     run: Path = typer.Argument(..., help="Path JSON produced by `generate`."),
     out: Path = typer.Option(Path("runs/trajectory.gif"), help="Output GIF."),
-    fps: int = typer.Option(1, help="Periods per second."),
+    fps: float = typer.Option(0.5, help="Periods per second (0.5 = 2s per period)."),
 ):
     """Render an animated GIF tracing the trajectory with per-period event callouts."""
     from narrow_corridor.animate import animate_path

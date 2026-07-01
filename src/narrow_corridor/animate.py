@@ -27,9 +27,13 @@ def animate_path(
     path: NarrowCorridorPath,
     filename: str | Path = "trajectory.gif",
     *,
-    fps: int = 1,
+    fps: float = 0.5,
 ) -> Path:
-    """Render the trajectory to an animated GIF (fps = periods per second)."""
+    """Render the trajectory to an animated GIF (fps = periods per second).
+
+    Default 0.5 fps = two seconds per period, giving the viewer time to read
+    each period's event caption before the path advances.
+    """
     periods = path.periods
     x = [path.society_power[p] for p in periods]
     y = [path.state_power[p] for p in periods]
@@ -89,7 +93,7 @@ def animate_path(
             bbox=dict(boxstyle="round", facecolor="wheat", alpha=0.85),
         )
 
-    anim = FuncAnimation(fig, draw, frames=frames, interval=1000 / max(fps, 1))
+    anim = FuncAnimation(fig, draw, frames=frames, interval=1000 / max(fps, 0.01))
 
     out = Path(filename)
     out.parent.mkdir(parents=True, exist_ok=True)
