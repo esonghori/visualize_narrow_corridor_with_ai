@@ -12,7 +12,7 @@
 \usepackage{xcolor}
 \usepackage[colorlinks=true,allcolors=blue]{hyperref}
 
-\graphicspath{{experiments/runs/}{figures/}}
+\graphicspath{{experiments/results/}{figures/}}
 
 % Numbers/claims to fill in after running experiments are wrapped so they are
 % easy to find and visually obvious in a draft build.
@@ -21,8 +21,8 @@
 % Include an atlas panel if it has been generated, else a labeled placeholder box
 % so the paper compiles before experiments are run.
 \newcommand{\atlas}[1]{%
-  \IfFileExists{experiments/runs/#1.png}%
-    {\includegraphics[width=0.32\textwidth]{experiments/runs/#1.png}}%
+  \IfFileExists{experiments/results/#1.png}%
+    {\includegraphics[width=0.32\textwidth]{experiments/results/#1.png}}%
     {\fbox{\parbox[c][3.4cm][c]{0.30\textwidth}{\centering\footnotesize
        \textcolor{red}{\texttt{\detokenize{#1}}}\\[2pt](panel not generated)}}}%
 }
@@ -234,17 +234,17 @@ giving 14--24 periods per country
 of concept, not a basis for cross-national generalization.
 
 \paragraph{Models.} We compare four models from four families (Google,
-Anthropic, OpenAI, Alibaba): three closed-weight models
-(\texttt{gemini-3.5-flash}, \texttt{claude-opus-4-8}, \texttt{gpt-4o}) and one
-open-weight model (\texttt{qwen-2.5-72b-instruct}). All are driven through the
-same interface with identical prompts, isolating model effects from prompt
-effects.
+Anthropic, OpenAI, Alibaba): three closed-weight models (\texttt{gemini-2.5-pro},
+\texttt{claude-opus-4-8}, \texttt{gpt-5.5}) and one open-weight model
+(\texttt{qwen-2.5-72b-instruct}), which keeps an open- vs.\ closed-weight
+contrast. All are driven through the same interface with identical prompts,
+isolating model effects from prompt effects.
 
 \paragraph{Consistency check against an expert index.} We compare the LLM scores
 to V-Dem~\citep{coppedge2024vdem}, aligning each period's midpoint year to the
 V-Dem year. We map LLM \emph{society power} to the V-Dem core civil-society index
 (\texttt{v2xcs\_ccsi}) and LLM \emph{state power} to a state-authority measure
-(V-Dem state authority over territory, \texttt{v2terr}) --- a narrow,
+(V-Dem state authority over territory, \texttt{v2svstterr}) --- a narrow,
 territorial-control proxy for the rubric's broader penetration-of-society notion
 of state power. The mapping is fixed before inspecting correlations, and
 alternative capacity indicators are easy to swap in the released code. We report
@@ -265,10 +265,19 @@ additional anchors but are out of scope here.
 Figure~\ref{fig:atlas} shows the six trajectories under \texttt{claude-opus-4-8},
 chosen as a single reference model for legibility; the per-model panels for all
 four models are in the online gallery, and their disagreement is quantified in
-Section~\ref{sec:reliability}. \ph{One paragraph reading the atlas: which
-countries sit inside vs.\ above vs.\ below the corridor, and the shape of the
-paths (e.g., loops indicating oscillation, long diagonal runs indicating
-co-growth).}
+Section~\ref{sec:reliability}. The six paths span the corridor's regions and
+largely match the book's canonical placements. The \textbf{United Kingdom} stays
+inside the corridor throughout, state and society rising together (the Red
+Queen). \textbf{France} enters it, moving from society-leaning in 1789 to inside
+by the late twentieth century, and \textbf{Chile} loops out and back --- a sharp
+fall of society and spike of state at the 1973 coup, then a return toward the
+corridor after the 1990 transition. \textbf{Iran} and \textbf{China} exit
+\emph{upward} into state dominance (the Despotic Leviathan), Iran after 1979 and
+China after 1949. The \textbf{United States} is the outlier, drifting from a
+society-leaning founding toward state dominance --- a placement we scrutinize
+below, as it departs from both the book and the expert data. Long diagonal runs
+mark co-growth; tight loops mark oscillation in contested periods; large
+single-period jumps mark ruptures.
 
 \begin{figure*}[t]
   \centering
@@ -282,28 +291,99 @@ co-growth).}
   \caption{Trajectory atlas: society power (x) vs.\ state power (y) for six
   countries under \texttt{claude-opus-4-8}. Paths are time-shaded (dark $=$
   early, bright $=$ late); dashed lines mark the corridor illustratively.
-  Animated versions are available in the online gallery. \ph{Regenerate with
-  \texttt{paper/experiments/run\_experiments.py}.}}
+  Animated versions are available in the online gallery.}
   \label{fig:atlas}
 \end{figure*}
 
+\subsection{Ensemble atlas (mean across models)}
+\label{sec:ensemble}
+Figure~\ref{fig:atlas-mean} shows, for each country, the trajectory averaged
+across all four models period by period. Because independent models rarely share
+the same idiosyncratic error, the mean is a more robust reading than any single
+model's path: where the four agree it tracks the consensus tightly, and where
+they diverge it sits between them, so a point should then be read as uncertain
+rather than precise (the underlying per-axis agreement is quantified as
+Krippendorff's $\alpha$ in Section~\ref{sec:reliability}). We treat this mean
+atlas, not any single model, as the paper's headline reading. The mean is nearly
+identical to the reference model for the high-agreement cases (Iran, Chile;
+Section~\ref{sec:reliability}) and visibly smoother for the United States, where
+the models disagree most; the corridor placements are unchanged --- UK inside,
+France and Chile in or entering it, Iran and China state-dominated, the US
+drifting toward state dominance.
+
+\begin{figure*}[t]
+  \centering
+  \atlas{iran-persia__ensemble-mean}\hfill
+  \atlas{france__ensemble-mean}\hfill
+  \atlas{united-kingdom__ensemble-mean}\\[4pt]
+  \atlas{united-states__ensemble-mean}\hfill
+  \atlas{china__ensemble-mean}\hfill
+  \atlas{chile__ensemble-mean}
+  \caption{Ensemble atlas: the same six countries, each averaged across the four
+  models period by period. Compared with the single-model atlas
+  (Fig.~\ref{fig:atlas}), the mean damps any one model's idiosyncrasy; the spread
+  it averages over is reported as Krippendorff's $\alpha$ in
+  Table~\ref{tab:intermodel}. Time-shaded (dark $=$ early, bright $=$ late);
+  dashed lines mark the corridor illustratively.}
+  \label{fig:atlas-mean}
+\end{figure*}
+
 \subsection{Cross-country patterns}
-\ph{Report patterns visible across the atlas: e.g., whether corridor-resident
-countries (candidate: UK, France late) show tighter co-growth than
-outside-corridor countries (candidate: China high-state/low-society; pre-modern
-cases low-state), and how sharp transitions (revolutions, coups) appear as
-large single-period jumps.}
+Three regularities recur. First, the countries the book treats as
+corridor-dwellers --- the UK throughout, France and Chile by their late histories
+--- trace long diagonal runs in which state and society grow together. Second,
+every country's largest single-period move is an institutional rupture that
+pushes the \emph{state} axis up: the 1979 Iranian revolution, the 1973 Chilean
+coup, post-1949 Chinese consolidation, and the US Civil War. Third, the two
+twentieth-century revolutions from below (Iran, China) end in state dominance
+rather than liberty --- precisely the Despotic Leviathan trap the framework
+predicts when a mobilized society confronts, but does not balance, a hardening
+state.
 
 \subsection{Consistency with V-Dem}
 \label{sec:validation}
 Table~\ref{tab:validation} reports correlations between the LLM scores and V-Dem
-over overlapping years, on both levels and first differences. \ph{Summarize:
-society vs.\ \texttt{v2xcs\_ccsi} and state vs.\ \texttt{v2terr}; contrast the
-(high) level correlations against the (lower, more informative) first-difference
-correlations; note where consistency holds vs.\ breaks down.} As noted above,
-this measures agreement with expert consensus the models were likely trained on,
-not independent accuracy.
+over overlapping years, on both levels and first differences. On \emph{levels},
+LLM society power tracks V-Dem's core civil-society index strongly for China
+($\rho=0.89$), France ($0.87$), Chile ($0.74$) and the UK ($0.70$); the striking
+exception is the United States ($\rho=-0.10$, discussed in the case studies). On
+the more demanding \emph{first differences} the society signal is positive but
+weaker (China $0.66$, Iran $0.60$, France $0.40$), as expected once the shared
+trend is removed. The \emph{state} axis is where consistency collapses ---
+first-difference $\rho\approx0$ for four of six countries. Figure~\ref{fig:vdem}
+shows why: our V-Dem state proxy (\texttt{v2svstterr}, authority over territory)
+is near-saturated and flat for consolidated states, so it cannot move with the
+LLM's broader state-\emph{capacity} notion; the LLM tracks the \emph{building} of
+the modern state that a territorial-control index does not. As noted above, this
+measures agreement with expert consensus the models were likely trained on, not
+independent accuracy.
 \input{tables/validation}
+
+Figure~\ref{fig:vdem} re-plots each country from V-Dem in the same space
+(society $=$ \texttt{v2xcs\_ccsi}$\times10$, state $=$ \texttt{v2svstterr}$/10$),
+at the LLM period-midpoint years. The society axis broadly rhymes with the LLM
+ensemble (Fig.~\ref{fig:atlas-mean}), but the state axis is pinned high for every
+consolidated state --- V-Dem places even 1880s Qajar Iran and the early United
+States near the top of the state axis, the opposite of the LLM, which reads those
+as weak states still building capacity. The comparison is thus best read as
+\emph{agreement on society, divergence on the operationalization of state power}.
+
+\begin{figure*}[t]
+  \centering
+  \atlas{iran-persia__vdem}\hfill
+  \atlas{france__vdem}\hfill
+  \atlas{united-kingdom__vdem}\\[4pt]
+  \atlas{united-states__vdem}\hfill
+  \atlas{china__vdem}\hfill
+  \atlas{chile__vdem}
+  \caption{V-Dem atlas: the same six countries plotted from expert codings
+  (society $=$ core civil-society index $\times10$; state $=$ authority over
+  territory $/10$) at the LLM period-midpoint years. Compared with the LLM
+  ensemble (Fig.~\ref{fig:atlas-mean}) the society axis broadly agrees, but
+  V-Dem's territorial-authority state axis is near-saturated for consolidated
+  states and misses the state-capacity dynamics the LLM captures.}
+  \label{fig:vdem}
+\end{figure*}
 
 \subsection{Model comparison and reliability}
 \label{sec:reliability}
@@ -314,17 +394,34 @@ agreement between models on the same country. We report Krippendorff's $\alpha$
 raters) on the period-to-period \emph{changes} rather than on levels (for the
 same reason first differences are used in Section~\ref{sec:validation}):
 agreement on changes tests whether models see the same \emph{moves}, not merely
-the same secular trend. \ph{Summarize: which axis is more reliable, which model pairs agree
-most, and whether the open-weight model diverges from the closed frontier
-models.}
+the same secular trend. Models agree more on society ($\alpha=0.74$ overall) than
+on the state axis ($0.67$), and most on the countries with the clearest arcs ---
+Iran ($0.77/0.78$) and Chile (society $0.83$). Agreement is lowest for the United
+States (society $\alpha=0.47$), the same case whose atlas placement and V-Dem
+society correlation are most anomalous: model disagreement localizes exactly the
+contested reading, as a human panel's would. The open-weight model does not
+systematically diverge on the periods it scored; its real limitation was
+\emph{reliability of structured output} --- the strongest open model we tried,
+Qwen3-235B-A22B, could not reliably emit valid JSON on the longer prompts, so we
+fell back to the stable \texttt{qwen-2.5-72b-instruct} (Section~\ref{sec:limitations}).
 \input{tables/intermodel}
 
 \subsection{Qualitative case studies}
-\ph{Two or three short reads checking that trajectories match documented history:
-Iran around 1979 (sharp state consolidation / society suppression after the
-revolution); Chile 1973 and 1990 (coup and redemocratization); and a third
-(e.g., UK gradual co-growth, or China post-1949). Note where the model matches
-consensus and where it is anachronistic or flattens contested episodes.}
+\textbf{Iran, 1979.} All four models place a society peak in the 1970s that
+collapses into state dominance in the 1980s (the ensemble society score falls
+sharply while state climbs past 8), matching the book's account of a mobilized
+society producing not liberty but a Despotic Leviathan. \textbf{Chile,
+1973/1990.} The 1973 coup is the largest single move (society crashing, state
+spiking near the ceiling), followed by recovery after the 1990 plebiscite --- a
+country leaving and re-entering the corridor. \textbf{United States (a genuine
+divergence).} The models read a long slide from a society-leaning founding toward
+a strong federal and security state, ending state-leaning, with the Civil War as
+the largest move. This contradicts both the book, which treats the US as a
+corridor-dwelling Shackled Leviathan, and V-Dem, which keeps US civil society
+pinned high throughout (Fig.~\ref{fig:vdem}); it is also the country where the
+models agree least. We read it as a caution --- the LLM appears to over-weight
+the growth of the federal and security state relative to the resilience of
+American civil society --- rather than as a finding.
 
 \section{Discussion: LLM vs.\ Human Researcher or Expert Panel}
 \label{sec:discussion}
@@ -387,14 +484,18 @@ language bias.} Training corpora over-represent English-language, recent, and
 Western sources --- weakest for exactly three of our cases (Iran, China, Chile),
 and we prompt in English throughout. \emph{Path dependence.} In-context anchoring
 can propagate an early mis-score through the whole trajectory; we do not ablate
-it here. \emph{Single-model atlas.} Figure~\ref{fig:atlas} uses one model for
-legibility; readers should treat it as one reading, with cross-model spread in
-Section~\ref{sec:reliability}. \emph{Scale and statistics.} Six countries and
-short per-country series preclude cross-national generalization or strong
-significance claims. We deliberately keep the study small; the natural next steps
---- a human expert-coder baseline, prompt/period-granularity ablations, a
-non-English prompting probe, more indices, and an ensemble atlas --- are left to
-future work.
+it here. \emph{Model idiosyncrasy.} We report the mean-across-models atlas
+(Fig.~\ref{fig:atlas-mean}) as the headline reading and quantify per-axis spread
+(Section~\ref{sec:reliability}); still, all four are English-centric LLMs and may
+share bias. \emph{Structured-output reliability.} The strongest open model we
+tried, Qwen3-235B-A22B, could not reliably emit valid JSON on the longer prompts
+(garbage or degenerate repetition), so we used the previous-generation
+\texttt{qwen-2.5-72b-instruct} --- a practical caveat for open-weight reproduction.
+\emph{Scale and statistics.} Six countries and short per-country series preclude
+cross-national generalization or strong significance claims. We deliberately keep
+the study small; the natural next steps --- a human expert-coder baseline,
+prompt/period-granularity ablations, a non-English prompting probe, and more
+expert indices --- are left to future work.
 
 \section{Conclusion}
 We presented, as a proof of concept, a method and a provider-agnostic tool that

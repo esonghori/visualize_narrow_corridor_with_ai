@@ -1,0 +1,130 @@
+{
+  "country": "China",
+  "model": "ensemble-mean (4 models)",
+  "periods": [
+    [
+      1880,
+      1889
+    ],
+    [
+      1890,
+      1899
+    ],
+    [
+      1900,
+      1909
+    ],
+    [
+      1910,
+      1919
+    ],
+    [
+      1920,
+      1929
+    ],
+    [
+      1930,
+      1939
+    ],
+    [
+      1940,
+      1949
+    ],
+    [
+      1950,
+      1959
+    ],
+    [
+      1960,
+      1969
+    ],
+    [
+      1970,
+      1979
+    ],
+    [
+      1980,
+      1989
+    ],
+    [
+      1990,
+      1999
+    ],
+    [
+      2000,
+      2009
+    ],
+    [
+      2010,
+      2019
+    ]
+  ],
+  "society_power": {
+    "1880-1889": 2.75,
+    "1890-1899": 3.325,
+    "1900-1909": 4.45,
+    "1910-1919": 5.525,
+    "1920-1929": 5.125,
+    "1930-1939": 4.975,
+    "1940-1949": 3.625,
+    "1950-1959": 1.875,
+    "1960-1969": 1.325,
+    "1970-1979": 2.5,
+    "1980-1989": 3.475,
+    "1990-1999": 2.7,
+    "2000-2009": 3.8,
+    "2010-2019": 2.7
+  },
+  "state_power": {
+    "1880-1889": 4.5,
+    "1890-1899": 3.575,
+    "1900-1909": 3.3,
+    "1910-1919": 2.425,
+    "1920-1929": 4.3,
+    "1930-1939": 4.15,
+    "1940-1949": 5.875,
+    "1950-1959": 8.575,
+    "1960-1969": 8.075,
+    "1970-1979": 8.15,
+    "1980-1989": 8.175,
+    "1990-1999": 8.725,
+    "2000-2009": 9.075,
+    "2010-2019": 9.525
+  },
+  "key_event": {
+    "1880-1889": "Late Qing \"Self-Strengthening\" amid post-Taiping decentralization",
+    "1890-1899": "Sino-Japanese War defeat and Scramble for Concessions",
+    "1900-1909": "Boxer defeat, exam abolition, Tongmenghui, provincial assemblies",
+    "1910-1919": "Xinhai Revolution, warlord fragmentation, May Fourth mobilization",
+    "1920-1929": "Northern Expedition reunification and Nanjing government; 1927 anti-labor purge",
+    "1930-1939": "Nanjing Decade state-building, then Japanese invasion (1937)",
+    "1940-1949": "CCP victory in civil war; founding of PRC (1949)",
+    "1950-1959": "CCP consolidation: collectivization, purges, danwei/hukou, Great Leap",
+    "1960-1969": "Cultural Revolution and deepening danwei/hukou atomization of society",
+    "1970-1979": "Mao's death, Gang of Four fall, Reform and Opening begin",
+    "1980-1989": "Reform-era economic opening, then Tiananmen crackdown",
+    "1990-1999": "Post-Tiananmen repression plus fiscal recentralization and growth-based legitimacy",
+    "2000-2009": "WTO-driven boom and Olympics-era security consolidation",
+    "2010-2019": "Xi's consolidation, digital surveillance state, 709 crackdown"
+  },
+  "reasoning": {
+    "1880-1889": "mean of 4 models",
+    "1890-1899": "mean of 4 models",
+    "1900-1909": "mean of 4 models",
+    "1910-1919": "mean of 4 models",
+    "1920-1929": "mean of 4 models",
+    "1930-1939": "mean of 4 models",
+    "1940-1949": "mean of 4 models",
+    "1950-1959": "mean of 4 models",
+    "1960-1969": "mean of 4 models",
+    "1970-1979": "mean of 4 models",
+    "1980-1989": "mean of 4 models",
+    "1990-1999": "mean of 4 models",
+    "2000-2009": "mean of 4 models",
+    "2010-2019": "mean of 4 models"
+  },
+  "events_trends_prompt": {},
+  "events_trends_response": {},
+  "score_prompt": {},
+  "score_response": {}
+}

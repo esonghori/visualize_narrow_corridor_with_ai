@@ -45,8 +45,16 @@ def _cache_put(cache_dir: Path, key: str, value: str) -> None:
     (cache_dir / f"{key}.txt").write_text(value, encoding="utf-8")
 
 
-def _raw_completion(model: str, prompt: str, response_format=None) -> str:
-    """One LiteLLM call. Imported lazily so `--help`/`models` work without network deps loaded."""
+def _raw_completion(model: str, prompt: str, response_format=None, *, max_attempts: int = 3) -> str:
+    """One LiteLLM call, retried up to `max_attempts` times on transient errors.
+
+    Providers (esp. OpenRouter's multi-backend routing) intermittently return
+    rate-limit (429), provider-routing (400), timeout, or 5xx errors. Retrying
+    with backoff lets a momentary blip clear or reroute instead of aborting the
+    whole country run. litellm is imported lazily so `--help`/`models` stay fast.
+    """
+    import time
+
     import litellm
 
     kwargs: dict = {
@@ -55,8 +63,17 @@ def _raw_completion(model: str, prompt: str, response_format=None) -> str:
     }
     if response_format is not None:
         kwargs["response_format"] = response_format
-    resp = litellm.completion(**kwargs)
-    return resp.choices[0].message.content or ""
+
+    last_error: Exception | None = None
+    for attempt in range(max_attempts):
+        try:
+            resp = litellm.completion(**kwargs)
+            return resp.choices[0].message.content or ""
+        except Exception as e:  # noqa: BLE001 - retry any provider/transport error
+            last_error = e
+            if attempt + 1 < max_attempts:
+                time.sleep(3 * (attempt + 1))  # 3s, then 6s backoff
+    raise last_error
 
 
 def complete_text(
@@ -164,9 +181,9 @@ def _parse(raw: str, prev_society: float, prev_state: float) -> Optional[PeriodS
 def known_models() -> list[tuple[str, str]]:
     """Suggested LiteLLM model strings and the env var each one needs."""
     return [
-        ("gemini/gemini-3.5-flash", "GEMINI_API_KEY"),
+        ("gemini/gemini-2.5-pro", "GEMINI_API_KEY"),
         ("anthropic/claude-opus-4-8", "ANTHROPIC_API_KEY"),
-        ("openai/gpt-4o", "OPENAI_API_KEY"),
+        ("openai/gpt-5.5", "OPENAI_API_KEY"),
         ("openrouter/qwen/qwen-2.5-72b-instruct", "OPENROUTER_API_KEY"),
     ]
 

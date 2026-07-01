@@ -54,8 +54,8 @@ step, and end year are configured at the top of `run_experiments.py`.
   <https://www.v-dem.org/data/the-v-dem-dataset/>. It already has `country_name`
   and `year` columns plus the indicators.
 - Default indicator columns (edit the `EXT_*` constants in `analysis.py` to
-  taste): society ← `v2xcs_ccsi` (core civil society index); state ← `v2terr`
-  (state authority over territory). `v2terr` is a narrow proxy; consider
+  taste): society ← `v2xcs_ccsi` (core civil society index); state ← `v2svstterr`
+  (state authority over territory). `v2svstterr` is a narrow proxy; consider
   `v2clrspct` (impartial public administration) or an external state-capacity
   dataset (e.g. Hanson–Sigman) and re-running.
 - The V-Dem table reports Spearman correlations on both levels and first

@@ -7,7 +7,7 @@ Writes paper/tables/intermodel.tex and paper/tables/validation.tex, which
 main.tex \\input{}s. Tables are always (re)written so the paper compiles; rows
 fall back to placeholders when data is missing.
 
-Inter-model agreement uses only the runs in paper/experiments/runs/ and is
+Inter-model agreement uses only the runs in paper/experiments/results/ and is
 reported as Krippendorff's alpha (interval) on the period-to-period *changes*
 (agreement on moves, not on the shared secular trend).
 
@@ -29,7 +29,7 @@ from narrow_corridor.storage import load_path
 from run_experiments import COUNTRIES, END  # reuse the sweep config
 
 HERE = Path(__file__).parent
-RUNS_DIR = HERE / "runs"
+RUNS_DIR = HERE / "results"
 TABLES_DIR = HERE.parent / "tables"
 REF_MODEL = "anthropic/claude-opus-4-8"  # reference model for the V-Dem check
 
@@ -38,10 +38,10 @@ EXTERNAL_CSV = HERE / "external" / "vdem.csv"
 EXT_COUNTRY_COL = "country_name"
 EXT_YEAR_COL = "year"
 EXT_SOCIETY_COL = "v2xcs_ccsi"   # V-Dem core civil society index (0-1)
-# State power -> a state-authority proxy. v2terr = state authority over territory.
+# State power -> V-Dem state authority over territory (v2svstterr).
 # Alternatives worth trying: v2clrspct (rigorous/impartial public administration),
-# v2svstterr, or an external state-capacity dataset (Hanson-Sigman).
-EXT_STATE_COL = "v2terr"
+# or an external state-capacity dataset (Hanson-Sigman).
+EXT_STATE_COL = "v2svstterr"
 # LLM country name -> external-dataset country name
 COUNTRY_TO_EXT = {
     "Iran (Persia)": "Iran",
@@ -106,10 +106,16 @@ def _pair(a, b) -> str:
 
 
 def load_runs() -> dict[str, dict[str, object]]:
-    """country -> {model -> NarrowCorridorPath} for every run on disk."""
+    """country -> {model -> NarrowCorridorPath} for every real model run on disk.
+
+    Ensemble-mean runs are excluded: they are derived from the model runs, so
+    counting them as a rater would double-count and inflate inter-model agreement.
+    """
     by_country: dict[str, dict[str, object]] = defaultdict(dict)
     for f in sorted(RUNS_DIR.glob("*.json")):
         path = load_path(f)
+        if path.model.lower().startswith(("ensemble", "v-dem", "vdem")):
+            continue  # derived atlases, not model runs
         by_country[path.country][path.model] = path
     return by_country
 
@@ -187,7 +193,7 @@ def validation_table(by_country) -> None:
         r"\caption{Consistency with V-Dem (\texttt{claude-opus-4-8}): Spearman "
         r"$\rho$ at period-midpoint years, reported as level\,/\,$\Delta$ (levels "
         r"vs.\ first differences). Society vs.\ \texttt{v2xcs\_ccsi}; state vs.\ "
-        r"\texttt{v2terr}. First differences are the more honest signal.}",
+        r"\texttt{v2svstterr}. First differences are the more honest signal.}",
         r"\label{tab:validation}",
         r"\begin{tabular}{lcccc}", r"\toprule",
         r"Country & Window & $N$ & Society $\rho$ & State $\rho$ \\", r"\midrule",

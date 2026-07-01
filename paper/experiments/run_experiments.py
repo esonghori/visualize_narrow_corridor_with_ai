@@ -7,7 +7,7 @@ Run from the repo root (needs provider API keys in .env):
     uv run python paper/experiments/run_experiments.py --gif      # also animations
     uv run python paper/experiments/run_experiments.py --models anthropic/claude-opus-4-8
 
-Outputs land in paper/experiments/runs/ as <country-slug>__<model-slug>.{json,png,gif}
+Outputs land in paper/experiments/results/ as <country-slug>__<model-slug>.{json,png,gif}
 (the slug matches the \\includegraphics names in main.tex). Responses are cached,
 so re-running is free and interrupted runs resume.
 """
@@ -33,14 +33,21 @@ COUNTRIES: dict[str, int] = {
 END = 2020
 STEP = 10  # decade periods keep the sweep affordable; lower for finer paths.
 
+# Each provider's strongest current model. For Alibaba we use the strongest
+# *open-weight* Qwen (not the proprietary qwen-max) to keep an open/closed
+# contrast. Verify these ids resolve in your LiteLLM version before a full run;
+# an unresolved id just skips that model (the sweep continues, no cost).
 MODELS = [
-    "gemini/gemini-3.5-flash",
+    "gemini/gemini-2.5-pro",                  # gemini-3.1-pro unavailable -> previous version
     "anthropic/claude-opus-4-8",
-    "openai/gpt-4o",
+    "openai/gpt-5.5",
+    # Fell back from Qwen3-235B-A22B: its plain endpoint returns non-JSON and its
+    # :nitro endpoint degenerates into repetition on the longer scoring prompts.
+    # qwen-2.5-72b-instruct is the stable open-weight fallback (honors response_format).
     "openrouter/qwen/qwen-2.5-72b-instruct",
 ]
 
-RUNS_DIR = Path(__file__).parent / "runs"
+RUNS_DIR = Path(__file__).parent / "results"  # committed (not gitignored) for reproducibility
 
 
 def slug(s: str) -> str:
@@ -49,7 +56,7 @@ def slug(s: str) -> str:
     'anthropic/claude-opus-4-8' -> 'anthropic-claude-opus-4-8'."""
     for ch in "()":
         s = s.replace(ch, "")
-    return "-".join(s.lower().replace("/", " ").split())
+    return "-".join(s.lower().replace("/", " ").replace(":", " ").split())
 
 
 def main() -> None:

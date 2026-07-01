@@ -7,7 +7,7 @@ and tables, and interpret the results. All commands run from the **repo root**.
 
 | Paper element | Script | Output |
 |---|---|---|
-| §Setup generation (6 countries × 4 models) | `paper/experiments/run_experiments.py` | `paper/experiments/runs/<country>__<model>.{json,png,gif}` |
+| §Setup generation (6 countries × 4 models) | `paper/experiments/run_experiments.py` | `paper/experiments/results/<country>__<model>.{json,png,gif}` |
 | Fig. 1 Trajectory atlas (reference model) | (above) + `\atlas{}` in `main.tex` | PNG panels, assembled by LaTeX |
 | §Consistency with V-Dem (Table 2) | `paper/experiments/analysis.py` | `paper/tables/validation.tex` |
 | §Model comparison & reliability (Table 1) | `paper/experiments/analysis.py` | `paper/tables/intermodel.tex` |
@@ -33,9 +33,14 @@ cp .env.example .env      # add keys for the providers you want
 - **V-Dem CSV** (for Table 2 only): download the V-Dem dataset CSV to
   `paper/experiments/external/vdem.csv`. See §Step 2. Without it, Table 2 is
   written with placeholders and the paper still compiles.
-- **Cost**: generation is 1–2 LLM calls per period, ~15 periods × 6 countries ×
-  4 models ≈ a few hundred calls per full sweep. Responses are cached under
-  `runs/.cache/`, so re-runs and interrupted sweeps are free/resumable.
+- **Cost**: ~944 LLM calls per full sweep (1–2 per period × 121 country-periods ×
+  4 models). With each provider's strongest model the estimate is **≈ $8, range
+  $5–15** — dominated by `claude-opus-4-8`, `gpt-5`, and `gemini-3.5-pro`; the
+  open-weight Qwen is cents. Reasoning-tier models (`gpt-5`, Gemini Pro) emit
+  hidden reasoning tokens, so their output cost and wall-clock (≈ 1–2 h,
+  sequential) are the least predictable part. Responses are cached under
+  `runs/.cache/`, so re-runs and interrupted sweeps are free/resumable. Outputs
+  land in `paper/experiments/results/` (committed, not gitignored).
 
 ## Step 1 — Generate the trajectories
 
@@ -43,7 +48,7 @@ cp .env.example .env      # add keys for the providers you want
 uv run python paper/experiments/run_experiments.py --gif
 ```
 
-Produces `paper/experiments/runs/<country-slug>__<model-slug>.{json,png,gif}`.
+Produces `paper/experiments/results/<country-slug>__<model-slug>.{json,png,gif}`.
 Country/model set, period length (decade), and end year (2020) are the constants
 at the top of `run_experiments.py`. To generate only the atlas reference model
 first (cheapest, needs only the Anthropic key):
@@ -54,12 +59,30 @@ uv run python paper/experiments/run_experiments.py --models anthropic/claude-opu
 
 ## Step 2 — Build the tables
 
-Download the V-Dem dataset CSV (Country-Year, Full+Others) from
-<https://www.v-dem.org/data/the-v-dem-dataset/> to
-`paper/experiments/external/vdem.csv`. It already has `country_name` and `year`
-columns. The indicator columns and country-name mapping are configured at the
-top of `analysis.py` (society ← `v2xcs_ccsi`; state ← `v2terr`; see that file to
-swap in a different state-capacity indicator such as `v2clrspct`).
+Get the V-Dem **Country-Year: Full+Others** dataset from
+<https://www.v-dem.org/data/the-v-dem-dataset/> (the full CSV is ~406 MB and
+~4,600 columns). Slim it to the four columns we need for the six countries into
+`paper/experiments/external/vdem.csv` (gitignored — V-Dem is a third-party input,
+not our data). If the zip is at `runs/V-Dem-CY-FullOthers-v16_csv.zip`:
+
+```bash
+uv run python - <<'PY'
+import zipfile, csv, io
+KEEP = {"Iran","France","United Kingdom","United States of America","China","Chile"}
+COLS = ["country_name","year","v2xcs_ccsi","v2svstterr"]
+zf = zipfile.ZipFile("runs/V-Dem-CY-FullOthers-v16_csv.zip")
+with zf.open("V-Dem-CY-Full+Others-v16.csv") as f:
+    r = csv.reader(io.TextIOWrapper(f, "utf-8")); h = next(r); i = {c: h.index(c) for c in COLS}
+    rows = [[row[i[c]] for c in COLS] for row in r if row[i["country_name"]] in KEEP]
+import os; os.makedirs("paper/experiments/external", exist_ok=True)
+csv.writer(open("paper/experiments/external/vdem.csv","w",newline="")).writerows([COLS]+rows)
+print("wrote", len(rows), "rows")
+PY
+```
+
+Indicator columns and the country-name map are configured at the top of
+`analysis.py` (society ← `v2xcs_ccsi`; state ← `v2svstterr` = state authority
+over territory; swap to `v2clrspct` for an administration-quality proxy).
 
 ```bash
 uv run python paper/experiments/analysis.py
@@ -81,10 +104,21 @@ position, net drift per axis, largest single-period move), and prints a
 cross-country overview. Use these to write the Cross-country patterns and Case
 studies subsections.
 
+Then build the **ensemble (mean-across-models) atlas** — Figure 2 in the paper:
+
+```bash
+uv run python paper/experiments/ensemble.py
+```
+
+Writes `paper/experiments/results/<country>__ensemble-mean.{json,png}`, averaging
+society/state power across all available models per period (reference-model key
+events supply the turn labels). This is the paper's headline reading; the
+single-model atlas (Fig. 1) stays for legibility.
+
 ## Step 4 — Build the gallery
 
 ```bash
-uv run python scripts/build_site.py --runs paper/experiments/runs --out docs
+uv run python scripts/build_site.py --runs paper/experiments/results --out docs
 ```
 
 ## Step 5 — Compile the paper

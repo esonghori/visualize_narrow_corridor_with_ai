@@ -1,0 +1,210 @@
+{
+  "country": "United States",
+  "model": "ensemble-mean (4 models)",
+  "periods": [
+    [
+      1789,
+      1798
+    ],
+    [
+      1799,
+      1808
+    ],
+    [
+      1809,
+      1818
+    ],
+    [
+      1819,
+      1828
+    ],
+    [
+      1829,
+      1838
+    ],
+    [
+      1839,
+      1848
+    ],
+    [
+      1849,
+      1858
+    ],
+    [
+      1859,
+      1868
+    ],
+    [
+      1869,
+      1878
+    ],
+    [
+      1879,
+      1888
+    ],
+    [
+      1889,
+      1898
+    ],
+    [
+      1899,
+      1908
+    ],
+    [
+      1909,
+      1918
+    ],
+    [
+      1919,
+      1928
+    ],
+    [
+      1929,
+      1938
+    ],
+    [
+      1939,
+      1948
+    ],
+    [
+      1949,
+      1958
+    ],
+    [
+      1959,
+      1968
+    ],
+    [
+      1969,
+      1978
+    ],
+    [
+      1979,
+      1988
+    ],
+    [
+      1989,
+      1998
+    ],
+    [
+      1999,
+      2008
+    ],
+    [
+      2009,
+      2018
+    ],
+    [
+      2019,
+      2028
+    ]
+  ],
+  "society_power": {
+    "1789-1798": 6.25,
+    "1799-1808": 7.0,
+    "1809-1818": 7.15,
+    "1819-1828": 7.525,
+    "1829-1838": 7.9,
+    "1839-1848": 8.125,
+    "1849-1858": 8.425,
+    "1859-1868": 8.15,
+    "1869-1878": 7.9,
+    "1879-1888": 7.75,
+    "1889-1898": 7.425,
+    "1899-1908": 7.75,
+    "1909-1918": 7.725,
+    "1919-1928": 7.575,
+    "1929-1938": 7.675,
+    "1939-1948": 7.85,
+    "1949-1958": 7.975,
+    "1959-1968": 8.65,
+    "1969-1978": 9.025,
+    "1979-1988": 8.625,
+    "1989-1998": 8.6,
+    "1999-2008": 8.275,
+    "2009-2018": 8.15,
+    "2019-2028": 7.825
+  },
+  "state_power": {
+    "1789-1798": 4.375,
+    "1799-1808": 5.075,
+    "1809-1818": 5.75,
+    "1819-1828": 6.175,
+    "1829-1838": 6.625,
+    "1839-1848": 7.175,
+    "1849-1858": 6.85,
+    "1859-1868": 7.95,
+    "1869-1878": 7.525,
+    "1879-1888": 7.8,
+    "1889-1898": 8.1,
+    "1899-1908": 8.5,
+    "1909-1918": 9.025,
+    "1919-1928": 8.6,
+    "1929-1938": 9.125,
+    "1939-1948": 9.475,
+    "1949-1958": 9.45,
+    "1959-1968": 9.475,
+    "1969-1978": 8.725,
+    "1979-1988": 8.65,
+    "1989-1998": 8.375,
+    "1999-2008": 8.9,
+    "2009-2018": 8.825,
+    "2019-2028": 8.7
+  },
+  "key_event": {
+    "1789-1798": "Constitution ratified; new federal government established",
+    "1799-1808": "Peaceful transfer of power (1800) and Louisiana Purchase",
+    "1809-1818": "War of 1812 spurred state-building despite exposing fiscal weakness",
+    "1819-1828": "Franchise expansion and Jacksonian mass mobilization",
+    "1829-1838": "Jacksonian mass democracy expands suffrage and executive power",
+    "1839-1848": "Mexican War/Texas expansion; reform movements vs. rising Slave Power",
+    "1849-1858": "Sectional crisis over slavery; Bleeding Kansas and Dred Scott",
+    "1859-1868": "Civil War and federal state-building",
+    "1869-1878": "Compromise of 1877 ends Reconstruction; Redeemer reaction",
+    "1879-1888": "Corporate concentration outpaces weak state; labor crushed post-Haymarket",
+    "1889-1898": "Pullman Strike crushed; state coercion and Spanish-American War expansion",
+    "1899-1908": "Progressive Era: activist state and reform mobilization grow together",
+    "1909-1918": "WWI mobilization and Progressive administrative state expansion",
+    "1919-1928": "Red Scare, labor decline; suffrage partly offsets",
+    "1929-1938": "New Deal state-building paired with labor mobilization",
+    "1939-1948": "WWII mobilization and permanent national-security state",
+    "1949-1958": "Civil rights movement rises amid Cold War security state",
+    "1959-1968": "Civil rights and Great Society: simultaneous mobilization and state-building",
+    "1969-1978": "Watergate and the rights revolution constrain executive power",
+    "1979-1988": "Reagan era: labor's decline and deregulation weaken society",
+    "1989-1998": "Cold War's end, deregulation, and declining associational life",
+    "1999-2008": "9/11 and War on Terror expand the security state",
+    "2009-2018": "Polarization and surveillance state amid vigorous protest movements",
+    "2019-2028": "Polarization, Jan 6, and executive-power concentration"
+  },
+  "reasoning": {
+    "1789-1798": "mean of 4 models",
+    "1799-1808": "mean of 4 models",
+    "1809-1818": "mean of 4 models",
+    "1819-1828": "mean of 4 models",
+    "1829-1838": "mean of 4 models",
+    "1839-1848": "mean of 4 models",
+    "1849-1858": "mean of 4 models",
+    "1859-1868": "mean of 4 models",
+    "1869-1878": "mean of 4 models",
+    "1879-1888": "mean of 4 models",
+    "1889-1898": "mean of 4 models",
+    "1899-1908": "mean of 4 models",
+    "1909-1918": "mean of 4 models",
+    "1919-1928": "mean of 4 models",
+    "1929-1938": "mean of 4 models",
+    "1939-1948": "mean of 4 models",
+    "1949-1958": "mean of 4 models",
+    "1959-1968": "mean of 4 models",
+    "1969-1978": "mean of 4 models",
+    "1979-1988": "mean of 4 models",
+    "1989-1998": "mean of 4 models",
+    "1999-2008": "mean of 4 models",
+    "2009-2018": "mean of 4 models",
+    "2019-2028": "mean of 4 models"
+  },
+  "events_trends_prompt": {},
+  "events_trends_response": {},
+  "score_prompt": {},
+  "score_response": {}
+}

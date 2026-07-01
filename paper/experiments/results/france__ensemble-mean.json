@@ -1,0 +1,210 @@
+{
+  "country": "France",
+  "model": "ensemble-mean (4 models)",
+  "periods": [
+    [
+      1789,
+      1798
+    ],
+    [
+      1799,
+      1808
+    ],
+    [
+      1809,
+      1818
+    ],
+    [
+      1819,
+      1828
+    ],
+    [
+      1829,
+      1838
+    ],
+    [
+      1839,
+      1848
+    ],
+    [
+      1849,
+      1858
+    ],
+    [
+      1859,
+      1868
+    ],
+    [
+      1869,
+      1878
+    ],
+    [
+      1879,
+      1888
+    ],
+    [
+      1889,
+      1898
+    ],
+    [
+      1899,
+      1908
+    ],
+    [
+      1909,
+      1918
+    ],
+    [
+      1919,
+      1928
+    ],
+    [
+      1929,
+      1938
+    ],
+    [
+      1939,
+      1948
+    ],
+    [
+      1949,
+      1958
+    ],
+    [
+      1959,
+      1968
+    ],
+    [
+      1969,
+      1978
+    ],
+    [
+      1979,
+      1988
+    ],
+    [
+      1989,
+      1998
+    ],
+    [
+      1999,
+      2008
+    ],
+    [
+      2009,
+      2018
+    ],
+    [
+      2019,
+      2028
+    ]
+  ],
+  "society_power": {
+    "1789-1798": 7.0,
+    "1799-1808": 4.25,
+    "1809-1818": 4.95,
+    "1819-1828": 5.175,
+    "1829-1838": 5.9,
+    "1839-1848": 7.1,
+    "1849-1858": 4.45,
+    "1859-1868": 6.0,
+    "1869-1878": 7.125,
+    "1879-1888": 7.775,
+    "1889-1898": 8.225,
+    "1899-1908": 8.325,
+    "1909-1918": 7.15,
+    "1919-1928": 7.425,
+    "1929-1938": 7.65,
+    "1939-1948": 7.825,
+    "1949-1958": 8.15,
+    "1959-1968": 8.2,
+    "1969-1978": 8.6,
+    "1979-1988": 8.5,
+    "1989-1998": 8.6,
+    "1999-2008": 8.45,
+    "2009-2018": 8.2,
+    "2019-2028": 8.4
+  },
+  "state_power": {
+    "1789-1798": 5.625,
+    "1799-1808": 8.125,
+    "1809-1818": 6.675,
+    "1819-1828": 7.125,
+    "1829-1838": 7.25,
+    "1839-1848": 6.45,
+    "1849-1858": 8.15,
+    "1859-1868": 7.55,
+    "1869-1878": 7.025,
+    "1879-1888": 7.525,
+    "1889-1898": 7.575,
+    "1899-1908": 8.05,
+    "1909-1918": 8.85,
+    "1919-1928": 8.175,
+    "1929-1938": 7.8,
+    "1939-1948": 8.0,
+    "1949-1958": 6.675,
+    "1959-1968": 8.025,
+    "1969-1978": 7.7,
+    "1979-1988": 7.6,
+    "1989-1998": 7.2,
+    "1999-2008": 7.5,
+    "2009-2018": 7.95,
+    "2019-2028": 7.675
+  },
+  "key_event": {
+    "1789-1798": "French Revolution: mass mobilization amid collapsing central authority",
+    "1799-1808": "Napoleon's despotic Leviathan: centralization, codification, plebiscitary empire",
+    "1809-1818": "Napoleon's fall and the Charter of 1814",
+    "1819-1828": "Liberal public sphere grows despite Ultra reaction and censorship",
+    "1829-1838": "1830 July Revolution absorbed by elite July Monarchy",
+    "1839-1848": "1848 February Revolution overthrows July Monarchy",
+    "1849-1858": "Louis-Napoléon's 1851 coup and the authoritarian Second Empire",
+    "1859-1868": "Liberal Empire concessions: strike legalization, press/assembly liberalization",
+    "1869-1878": "Third Republic founded; Seize Mai defeat entrenches parliamentary supremacy",
+    "1879-1888": "Republican consolidation: Ferry Laws, press/union freedoms",
+    "1889-1898": "Dreyfus Affair mobilizes intellectuals; Ligue des droits de l'homme founded",
+    "1899-1908": "Church-state separation and Dreyfus resolution consolidate secular republic",
+    "1909-1918": "WWI mobilization and Union sacrée expand the wartime state",
+    "1919-1928": "Franc crisis and stabilization under Poincaré (1926)",
+    "1929-1938": "Popular Front mobilization amid weak, unstable Depression-era state",
+    "1939-1948": "Defeat, Vichy, Liberation, and postwar dirigiste/welfare state-building",
+    "1949-1958": "Fourth Republic instability, colonial defeats, then 1958 Gaullist restoration",
+    "1959-1968": "Fifth Republic consolidation; May 1968 mass mobilization",
+    "1969-1978": "Giscardian liberalizing reforms and post-1968 civic mobilization",
+    "1979-1988": "Decentralization and rights reforms offset by nationalization-privatization wash",
+    "1989-1998": "Maastricht integration and liberalization erode autonomous national state",
+    "1999-2008": "CPE protests and EU treaty rejection: society checks state",
+    "2009-2018": "State of emergency and security-law expansion after terror attacks",
+    "2019-2028": "Red Queen standoff: Yellow Vests, pension strikes, 49.3"
+  },
+  "reasoning": {
+    "1789-1798": "mean of 4 models",
+    "1799-1808": "mean of 4 models",
+    "1809-1818": "mean of 4 models",
+    "1819-1828": "mean of 4 models",
+    "1829-1838": "mean of 4 models",
+    "1839-1848": "mean of 4 models",
+    "1849-1858": "mean of 4 models",
+    "1859-1868": "mean of 4 models",
+    "1869-1878": "mean of 4 models",
+    "1879-1888": "mean of 4 models",
+    "1889-1898": "mean of 4 models",
+    "1899-1908": "mean of 4 models",
+    "1909-1918": "mean of 4 models",
+    "1919-1928": "mean of 4 models",
+    "1929-1938": "mean of 4 models",
+    "1939-1948": "mean of 4 models",
+    "1949-1958": "mean of 4 models",
+    "1959-1968": "mean of 4 models",
+    "1969-1978": "mean of 4 models",
+    "1979-1988": "mean of 4 models",
+    "1989-1998": "mean of 4 models",
+    "1999-2008": "mean of 4 models",
+    "2009-2018": "mean of 4 models",
+    "2019-2028": "mean of 4 models"
+  },
+  "events_trends_prompt": {},
+  "events_trends_response": {},
+  "score_prompt": {},
+  "score_response": {}
+}

@@ -1,0 +1,186 @@
+{
+  "country": "Chile",
+  "model": "ensemble-mean (4 models)",
+  "periods": [
+    [
+      1818,
+      1827
+    ],
+    [
+      1828,
+      1837
+    ],
+    [
+      1838,
+      1847
+    ],
+    [
+      1848,
+      1857
+    ],
+    [
+      1858,
+      1867
+    ],
+    [
+      1868,
+      1877
+    ],
+    [
+      1878,
+      1887
+    ],
+    [
+      1888,
+      1897
+    ],
+    [
+      1898,
+      1907
+    ],
+    [
+      1908,
+      1917
+    ],
+    [
+      1918,
+      1927
+    ],
+    [
+      1928,
+      1937
+    ],
+    [
+      1938,
+      1947
+    ],
+    [
+      1948,
+      1957
+    ],
+    [
+      1958,
+      1967
+    ],
+    [
+      1968,
+      1977
+    ],
+    [
+      1978,
+      1987
+    ],
+    [
+      1988,
+      1997
+    ],
+    [
+      1998,
+      2007
+    ],
+    [
+      2008,
+      2017
+    ],
+    [
+      2018,
+      2027
+    ]
+  ],
+  "society_power": {
+    "1818-1827": 3.5,
+    "1828-1837": 3.0,
+    "1838-1847": 3.725,
+    "1848-1857": 4.025,
+    "1858-1867": 5.2,
+    "1868-1877": 6.1,
+    "1878-1887": 5.9,
+    "1888-1897": 6.65,
+    "1898-1907": 6.7,
+    "1908-1917": 7.225,
+    "1918-1927": 6.625,
+    "1928-1937": 7.25,
+    "1938-1947": 7.425,
+    "1948-1957": 7.325,
+    "1958-1967": 8.2,
+    "1968-1977": 2.8,
+    "1978-1987": 4.5,
+    "1988-1997": 6.925,
+    "1998-2007": 7.625,
+    "2008-2017": 8.4,
+    "2018-2027": 8.55
+  },
+  "state_power": {
+    "1818-1827": 4.0,
+    "1828-1837": 6.0,
+    "1838-1847": 7.075,
+    "1848-1857": 7.425,
+    "1858-1867": 7.575,
+    "1868-1877": 7.475,
+    "1878-1887": 8.4,
+    "1888-1897": 7.275,
+    "1898-1907": 7.425,
+    "1908-1917": 7.025,
+    "1918-1927": 7.8,
+    "1928-1937": 7.075,
+    "1938-1947": 8.05,
+    "1948-1957": 8.075,
+    "1958-1967": 8.55,
+    "1968-1977": 9.175,
+    "1978-1987": 8.425,
+    "1988-1997": 7.525,
+    "1998-2007": 8.075,
+    "2008-2017": 8.075,
+    "2018-2027": 7.55
+  },
+  "key_event": {
+    "1818-1827": "Independence declared amid caudillo instability and O'Higgins's fall",
+    "1828-1837": "Portalian order and 1833 Constitution consolidate centralized state",
+    "1838-1847": "Portalian consolidation and Yungay victory strengthen the state",
+    "1848-1857": "Portalian state consolidated; 1851 civil war crushed; Civil Code",
+    "1858-1867": "Liberal-Conservative fusion, Radical Party founding, secularization",
+    "1868-1877": "Liberal reforms constraining executive; franchise expansion",
+    "1878-1887": "War of the Pacific victory and nitrate revenue windfall",
+    "1888-1897": "Civil War of 1891 and Parliamentary Republic's congressional supremacy",
+    "1898-1907": "Nitrate-era labor mobilization met by state massacres",
+    "1908-1917": "Labor federation (FOCH) and socialist party consolidate worker mobilization",
+    "1918-1927": "1925 Constitution and Ibáñez centralize state authority",
+    "1928-1937": "Ibáñez dictatorship, Depression collapse, then constitutional restoration and Popular Front",
+    "1938-1947": "Popular Front governance and CORFO-led state industrialization",
+    "1948-1957": "Ley Maldita bans Communists as labor keeps organizing (CUT)",
+    "1958-1967": "Frei's \"Revolution in Liberty\": agrarian reform, peasant unions, copper Chileanization",
+    "1968-1977": "1973 coup crushes society, builds despotic state",
+    "1978-1987": "1983 protest waves after debt-crisis shattered regime legitimacy",
+    "1988-1997": "1988 \"No\" plebiscite and return to democratic government",
+    "1998-2007": "Pinochet's fall, 2005 reforms end authoritarian enclaves",
+    "2008-2017": "2011 student movement and durable protest ecosystem",
+    "2018-2027": "2019 estallido social and two failed constitutional rewrites"
+  },
+  "reasoning": {
+    "1818-1827": "mean of 4 models",
+    "1828-1837": "mean of 4 models",
+    "1838-1847": "mean of 4 models",
+    "1848-1857": "mean of 4 models",
+    "1858-1867": "mean of 4 models",
+    "1868-1877": "mean of 4 models",
+    "1878-1887": "mean of 4 models",
+    "1888-1897": "mean of 4 models",
+    "1898-1907": "mean of 4 models",
+    "1908-1917": "mean of 4 models",
+    "1918-1927": "mean of 4 models",
+    "1928-1937": "mean of 4 models",
+    "1938-1947": "mean of 4 models",
+    "1948-1957": "mean of 4 models",
+    "1958-1967": "mean of 4 models",
+    "1968-1977": "mean of 4 models",
+    "1978-1987": "mean of 4 models",
+    "1988-1997": "mean of 4 models",
+    "1998-2007": "mean of 4 models",
+    "2008-2017": "mean of 4 models",
+    "2018-2027": "mean of 4 models"
+  },
+  "events_trends_prompt": {},
+  "events_trends_response": {},
+  "score_prompt": {},
+  "score_response": {}
+}

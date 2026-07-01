@@ -1,0 +1,210 @@
+{
+  "country": "United Kingdom",
+  "model": "ensemble-mean (4 models)",
+  "periods": [
+    [
+      1789,
+      1798
+    ],
+    [
+      1799,
+      1808
+    ],
+    [
+      1809,
+      1818
+    ],
+    [
+      1819,
+      1828
+    ],
+    [
+      1829,
+      1838
+    ],
+    [
+      1839,
+      1848
+    ],
+    [
+      1849,
+      1858
+    ],
+    [
+      1859,
+      1868
+    ],
+    [
+      1869,
+      1878
+    ],
+    [
+      1879,
+      1888
+    ],
+    [
+      1889,
+      1898
+    ],
+    [
+      1899,
+      1908
+    ],
+    [
+      1909,
+      1918
+    ],
+    [
+      1919,
+      1928
+    ],
+    [
+      1929,
+      1938
+    ],
+    [
+      1939,
+      1948
+    ],
+    [
+      1949,
+      1958
+    ],
+    [
+      1959,
+      1968
+    ],
+    [
+      1969,
+      1978
+    ],
+    [
+      1979,
+      1988
+    ],
+    [
+      1989,
+      1998
+    ],
+    [
+      1999,
+      2008
+    ],
+    [
+      2009,
+      2018
+    ],
+    [
+      2019,
+      2028
+    ]
+  ],
+  "society_power": {
+    "1789-1798": 5.825,
+    "1799-1808": 5.975,
+    "1809-1818": 6.225,
+    "1819-1828": 6.925,
+    "1829-1838": 7.625,
+    "1839-1848": 7.875,
+    "1849-1858": 8.075,
+    "1859-1868": 8.525,
+    "1869-1878": 8.925,
+    "1879-1888": 9.125,
+    "1889-1898": 9.4,
+    "1899-1908": 9.55,
+    "1909-1918": 9.65,
+    "1919-1928": 9.45,
+    "1929-1938": 9.25,
+    "1939-1948": 9.55,
+    "1949-1958": 9.475,
+    "1959-1968": 9.55,
+    "1969-1978": 9.725,
+    "1979-1988": 8.675,
+    "1989-1998": 8.875,
+    "1999-2008": 8.925,
+    "2009-2018": 8.775,
+    "2019-2028": 8.55
+  },
+  "state_power": {
+    "1789-1798": 6.925,
+    "1799-1808": 7.625,
+    "1809-1818": 7.75,
+    "1819-1828": 7.775,
+    "1829-1838": 8.15,
+    "1839-1848": 8.35,
+    "1849-1858": 8.55,
+    "1859-1868": 8.675,
+    "1869-1878": 8.85,
+    "1879-1888": 9.0,
+    "1889-1898": 9.225,
+    "1899-1908": 9.375,
+    "1909-1918": 9.725,
+    "1919-1928": 9.3,
+    "1929-1938": 9.6,
+    "1939-1948": 9.85,
+    "1949-1958": 9.4,
+    "1959-1968": 9.05,
+    "1969-1978": 8.075,
+    "1979-1988": 8.925,
+    "1989-1998": 8.475,
+    "1999-2008": 8.525,
+    "2009-2018": 8.3,
+    "2019-2028": 8.575
+  },
+  "key_event": {
+    "1789-1798": "Parliamentary constitutionalism amid reaction to French Revolution",
+    "1799-1808": "Wartime fiscal-military expansion and repression of radicalism",
+    "1809-1818": "Wartime fiscal-military expansion meets repressed radical unrest",
+    "1819-1828": "Peterloo and reform mobilization; repeal of Combination/Test Acts",
+    "1829-1838": "Great Reform Act (1832) and rise of mass mobilization",
+    "1839-1848": "Chartism and Corn Law repeal amid state administrative buildout",
+    "1849-1858": "Post-Chartist civic deepening; free trade; cheaper press",
+    "1859-1868": "Second Reform Act (1867) doubles electorate; TUC founded",
+    "1869-1878": "Ballot Act, union legalization, and mass party mobilization",
+    "1879-1888": "Third Reform Act (1884) expands electorate; balanced Red Queen growth",
+    "1889-1898": "New Unionism and Dock Strike; expanded state administration",
+    "1899-1908": "Liberal welfare reforms and Labour's parliamentary breakthrough",
+    "1909-1918": "WWI mobilization, People's Budget, 1918 mass suffrage",
+    "1919-1928": "Mass democracy completed alongside failed General Strike",
+    "1929-1938": "Depression, union decline, and expanding interventionist National Government",
+    "1939-1948": "WWII mobilization, Beveridge, 1945 Labour landslide, NHS founding",
+    "1949-1958": "Welfare state consolidation; Suez exposes imperial limits",
+    "1959-1968": "Affluence, declining deference, and sterling devaluation strain state credibility",
+    "1969-1978": "Union militancy and stagflation weaken the Leviathan",
+    "1979-1988": "Thatcher's defeat of unions and centralization of state authority",
+    "1989-1998": "Poll tax revolt, devolution, Human Rights Act rebalance toward society",
+    "1999-2008": "Devolution and rights culture vs. surveillance/security state expansion",
+    "2009-2018": "Brexit referendum and austerity amid civic mobilization surges",
+    "2019-2028": "COVID emergency powers, protest/judicial-review restrictions vs. functioning checks"
+  },
+  "reasoning": {
+    "1789-1798": "mean of 4 models",
+    "1799-1808": "mean of 4 models",
+    "1809-1818": "mean of 4 models",
+    "1819-1828": "mean of 4 models",
+    "1829-1838": "mean of 4 models",
+    "1839-1848": "mean of 4 models",
+    "1849-1858": "mean of 4 models",
+    "1859-1868": "mean of 4 models",
+    "1869-1878": "mean of 4 models",
+    "1879-1888": "mean of 4 models",
+    "1889-1898": "mean of 4 models",
+    "1899-1908": "mean of 4 models",
+    "1909-1918": "mean of 4 models",
+    "1919-1928": "mean of 4 models",
+    "1929-1938": "mean of 4 models",
+    "1939-1948": "mean of 4 models",
+    "1949-1958": "mean of 4 models",
+    "1959-1968": "mean of 4 models",
+    "1969-1978": "mean of 4 models",
+    "1979-1988": "mean of 4 models",
+    "1989-1998": "mean of 4 models",
+    "1999-2008": "mean of 4 models",
+    "2009-2018": "mean of 4 models",
+    "2019-2028": "mean of 4 models"
+  },
+  "events_trends_prompt": {},
+  "events_trends_response": {},
+  "score_prompt": {},
+  "score_response": {}
+}
