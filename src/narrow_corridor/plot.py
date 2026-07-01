@@ -22,10 +22,15 @@ def _bounds(x: list[float], y: list[float]) -> tuple[float, float]:
 
 
 def _draw_corridor(ax, lo: float, hi: float) -> None:
-    """Two dashed-green lines bounding the 'narrow corridor'."""
+    """Illustrative constant-width band around the diagonal (|state - society| <= w).
+
+    Drawn near the diagonal at constant width as a deliberate simplification of
+    the book's widening corridor (see the paper's Method, "The space").
+    """
     x_line = np.array([lo, hi])
-    ax.plot(x_line, 1.05 * x_line + hi / 15, "--", color="green")
-    ax.plot(x_line, 0.95 * x_line - hi / 15, "--", color="green")
+    w = (hi - lo) * 0.08
+    ax.plot(x_line, x_line + w, "--", color="green")
+    ax.plot(x_line, x_line - w, "--", color="green")
 
 
 def _gradient_line(ax, x, y, *, smooth: bool = True, clim: tuple[float, float]) -> None:

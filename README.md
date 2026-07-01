@@ -84,9 +84,10 @@ It reads each run's JSON sidecar for the country/model names, copies the images 
 
 # Example
 
-As an example, we analyzed Iran (Persia) from 1870 to 2025 in 5-year intervals. You can find a corresponding Gemini (gemini-2.0-flash) prompt/response transcript [here](./example/Iran%20(Persia)%201880-2025%20promot%20and%20response.txt).
+As an example, we analyzed United States' path from 1775 to 2025 in 5-year intervals. You can find a corresponding Claude Sonnet 4.6 prompt/response transcript [here](./example/usa-sonnet-4-6.json).
 
-![Iran's path from 1880 to 2025](./example/Iran%20(Persia)%201880-2025.png).
+![USA's path from 1775 to 2025 Animation](./example/usa-sonnet-4-6.gif).
+![USA's path from 1775 to 2025](./example/usa-sonnet-4-6.png).
 
 # How to cite
 

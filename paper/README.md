@@ -28,6 +28,9 @@ to find open items.
 
 ## Reproduce the experiments
 
+> Full step-by-step plan — commands, data processing, tables/figures, and how to
+> interpret each result — is in **[RUNBOOK.md](RUNBOOK.md)**. Quick version below.
+
 Needs provider API keys in the repo-root `.env` (see `../.env.example`):
 `GEMINI_API_KEY`, `ANTHROPIC_API_KEY`, `OPENAI_API_KEY`, `OPENROUTER_API_KEY`.
 
@@ -35,6 +38,7 @@ Needs provider API keys in the repo-root `.env` (see `../.env.example`):
 # from the repo root
 uv run python paper/experiments/run_experiments.py --gif   # JSON + PNG (+ GIF)
 uv run python paper/experiments/analysis.py                # writes tables/*.tex
+uv run python paper/experiments/summarize.py               # derived/*.csv for the prose
 ```
 
 `run_experiments.py` is idempotent — responses are cached under `runs/.cache/`,
@@ -50,11 +54,14 @@ step, and end year are configured at the top of `run_experiments.py`.
   <https://www.v-dem.org/data/the-v-dem-dataset/>. It already has `country_name`
   and `year` columns plus the indicators.
 - Default indicator columns (edit the `EXT_*` constants in `analysis.py` to
-  taste): society ← `v2xcs_ccsi` (core civil society index); state ←
-  `v2x_rule` (rule-of-law, a rough state-capacity proxy). Consider swapping the
-  state proxy for a dedicated state-capacity/authority measure and re-running.
-- Polity5 / Freedom House can be dropped in the same way by pointing the
-  constants at their column names (add more reference rows to `validation_table`).
+  taste): society ← `v2xcs_ccsi` (core civil society index); state ← `v2terr`
+  (state authority over territory). `v2terr` is a narrow proxy; consider
+  `v2clrspct` (impartial public administration) or an external state-capacity
+  dataset (e.g. Hanson–Sigman) and re-running.
+- The V-Dem table reports Spearman correlations on both levels and first
+  differences; inter-model agreement uses Krippendorff's alpha (interval) on
+  first differences. Polity5 / Freedom House can be added by pointing the
+  constants at their columns.
 
 Without the CSV the validation table is written with `\ph{--}` placeholders so
 the paper still compiles.

@@ -44,7 +44,12 @@ RUNS_DIR = Path(__file__).parent / "runs"
 
 
 def slug(s: str) -> str:
-    return "-".join(s.lower().replace("(", "").replace(")", "").split())
+    """Filename-safe slug. Replaces '/' (model ids) and parens; must match the
+    <country-slug>__<model-slug> names used by \\atlas{} in paper/main.tex, e.g.
+    'anthropic/claude-opus-4-8' -> 'anthropic-claude-opus-4-8'."""
+    for ch in "()":
+        s = s.replace(ch, "")
+    return "-".join(s.lower().replace("/", " ").split())
 
 
 def main() -> None:
