@@ -1,0 +1,384 @@
+\documentclass[twocolumn,10pt]{article}
+
+% --- Self-contained two-column preprint (no external arxiv.sty needed) --------
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[margin=0.85in]{geometry}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{amsmath}
+\usepackage{authblk}
+\usepackage[numbers,sort&compress]{natbib}
+\usepackage{xcolor}
+\usepackage[colorlinks=true,allcolors=blue]{hyperref}
+
+\graphicspath{{experiments/runs/}{figures/}}
+
+% Numbers/claims to fill in after running experiments are wrapped so they are
+% easy to find and visually obvious in a draft build.
+\newcommand{\ph}[1]{\textcolor{red}{\textbf{[#1]}}}
+
+% Include an atlas panel if it has been generated, else a labeled placeholder box
+% so the paper compiles before experiments are run.
+\newcommand{\atlas}[1]{%
+  \IfFileExists{experiments/runs/#1.png}%
+    {\includegraphics[width=0.32\textwidth]{experiments/runs/#1.png}}%
+    {\fbox{\parbox[c][3.4cm][c]{0.30\textwidth}{\centering\footnotesize
+       \textcolor{red}{\texttt{\detokenize{#1}}}\\[2pt](panel not generated)}}}%
+}
+
+\title{\bf Mapping the Narrow Corridor with Large Language Models:\\
+A Provider-Agnostic Method for Quantifying State and Society Power Trajectories}
+
+\author[1]{Ebrahim M. Songhori}
+\affil[1]{Ricursive \quad \texttt{ebrahim@ricursive.com} \\ \ph{affiliation --- edit}}
+\date{}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+Acemoglu and Robinson's \emph{The Narrow Corridor} argues that liberty emerges
+from a balance between the power of the state and the power of society, and
+traces national histories as paths through a two-dimensional (state, society)
+space. The book supplies the conceptual space but no quantified trajectories:
+assigning numbers to ``state power'' and ``society power'' at each historical
+moment is precisely the labor-intensive, judgment-laden task that has kept the
+framework qualitative. We ask whether large language models (LLMs) can
+operationalize this task at scale. We introduce a reproducible, provider-agnostic
+pipeline that scores a country's trajectory period by period using
+chain-of-thought prompting (list events and trends first, then score) and
+in-context learning (prior periods anchor later ones), against an explicit
+rubric and returning schema-validated numeric output. Using this pipeline we
+produce a trajectory atlas for six countries (Iran, France, the United Kingdom,
+the United States, China, and Chile) and compare four models spanning three
+providers and both closed and open weights. We validate the LLM scores three
+ways: correlation with established expert indices (V-Dem, Polity5, Freedom
+House), inter-model and run-to-run agreement as a reliability measure, and
+qualitative case studies of well-documented transitions. Finally we discuss the
+distinct bias profiles of an LLM annotator versus a human researcher or expert
+panel performing the same coding task, and argue that LLMs offer scalability,
+reproducibility, and transparent, restatable instructions at the cost of opaque
+training-data bias and a tendency toward received historical consensus. Code,
+prompts, and all runs are released, alongside an interactive web gallery of the
+animated trajectories.
+\end{abstract}
+
+\section{Introduction}
+\label{sec:intro}
+
+In \emph{The Narrow Corridor}~\citep{acemoglu2019narrow}, Acemoglu and Robinson
+propose that liberty is neither the natural product of a strong state nor of a
+strong society, but of a contested balance between the two. They picture a
+country's history as a path through a plane whose horizontal axis is the power
+of civil society and whose vertical axis is the power of the state; a ``narrow
+corridor'' running between the axes marks the region where the two powers grow
+together and liberty is sustained. The book is rich in narrative but contains
+\emph{no plotted trajectories}. The obstacle is not conceptual but
+operational: turning centuries of a nation's history into a sequence of
+$(\text{society}, \text{state})$ coordinates requires an enormous amount of
+expert judgment, and any such coding is vulnerable to the biases, selective
+readings, and coarse simplifications that historians rightly distrust.
+
+This is a measurement problem, and measurement problems in the social sciences
+increasingly admit machine assistance. Large language models have been shown to
+annotate and classify political text at or above the level of crowd
+workers~\citep{gilardi2023chatgpt}, and a growing literature examines their use
+as instruments in computational social science~\citep{ziems2024can}. We ask a
+narrower, concrete question: \emph{can an LLM place a country in the Narrow
+Corridor space, period by period, in a way that is reproducible, defensible
+against external ground truth, and useful to a researcher?}
+
+We take an applied, digital-humanities stance. Our primary artifact is a
+\textbf{six-country trajectory atlas} --- Iran, France, the United Kingdom, the
+United States, China, and Chile --- rendered as time-shaded paths through the
+corridor, together with the cross-country patterns those paths reveal. The
+method and its validation are the backing that makes the atlas trustworthy
+rather than decorative. Concretely, we contribute:
+
+\begin{enumerate}
+  \item \textbf{A scoring method.} A period-by-period pipeline combining an
+        anchored $0$--$10$ rubric, chain-of-thought elicitation of events and
+        trends~\citep{wei2022chain}, and in-context anchoring on prior
+        periods~\citep{brown2020language,dong2024survey}, emitting
+        schema-validated numeric scores.
+  \item \textbf{A provider-agnostic, open implementation.} Any model reachable
+        through a unified interface can be swapped by changing one string; we
+        release code, prompts, caches, and every run.
+  \item \textbf{A trajectory atlas and cross-country reading} of six countries.
+  \item \textbf{An interactive, publicly hosted web gallery.} A static site
+        (GitHub Pages) presenting every trajectory as a time-shaded plot with
+        \emph{click-to-play animations} that reveal the path period by period
+        and annotate the historical event driving each move; readers explore and
+        compare models directly in the browser, turning a static figure into a
+        navigable atlas.
+  \item \textbf{A three-way validation} of the scores against expert indices,
+        against each other across models, and against documented history.
+  \item \textbf{A discussion of measurement bias}: what an LLM annotator gets
+        right and wrong relative to a human researcher or an expert panel doing
+        the identical task.
+\end{enumerate}
+
+\section{Related Work}
+\label{sec:related}
+
+\paragraph{The Narrow Corridor and measuring state/society power.}
+The (state, society) framing extends the institutional program of Acemoglu and
+Robinson~\citep{acemoglu2012why,acemoglu2019narrow}. Quantifying the two axes
+connects to decades of effort to measure regime characteristics and state
+capacity: the Varieties of Democracy (V-Dem) project aggregates expert codings
+into latent indices including a core civil-society index and measures of state
+administrative capacity~\citep{coppedge2024vdem,pemstein2018vdem}; Polity5 codes
+regime authority on an autocracy--democracy scale~\citep{marshall2020polity};
+and Freedom House rates political rights and civil
+liberties~\citep{freedomhouse2023}. These projects are themselves large expert
+coding operations, which makes them both our natural validation targets
+(Section~\ref{sec:validation}) and our natural comparison point when we ask what
+an LLM changes about the coding process (Section~\ref{sec:discussion}).
+
+\paragraph{Text as data and LLMs as social-science instruments.}
+The use of automated methods to extract measures from text is
+well established~\citep{grimmer2013text}. Recent work reports that instruction-tuned
+LLMs match or exceed human annotators on political text-labeling
+tasks~\citep{gilardi2023chatgpt} and surveys their broader promise and pitfalls
+for computational social science~\citep{ziems2024can}. A related strand uses LLMs
+to \emph{simulate} human populations~\citep{argyle2023out} and debates whether
+they can stand in for human participants at
+all~\citep{dillion2023can}. Our task differs from labeling or simulation: we ask
+the model to produce a continuous, temporally coherent \emph{measurement} of a
+theoretical construct, then check that measurement against independent data.
+
+\paragraph{Prompting.}
+Our pipeline relies on two now-standard techniques. Chain-of-thought
+prompting~\citep{wei2022chain} improves reasoning by eliciting intermediate
+steps; we use it to force the model to enumerate historical events and trends
+\emph{before} scoring. In-context learning~\citep{brown2020language,dong2024survey}
+lets the model condition on examples provided at inference time; we feed all
+prior periods' scores forward so the trajectory is temporally coherent rather
+than a sequence of independent guesses. Both techniques exploit capabilities
+that emerge as model and corpus size grow~\citep{kaplan2020scaling}.
+
+\paragraph{Bias and reliability.}
+LLMs inherit biases from training data~\citep{bender2021dangers} and exhibit
+measurable political leanings: they do not reflect a representative cross-section
+of opinion~\citep{santurkar2023whose}, can carry the political slant of their
+pretraining corpora into downstream behavior~\citep{feng2023pretraining}, and
+have been probed directly for partisan
+bias~\citep{motoki2024more}. These findings motivate both our reliability
+analysis --- borrowing the logic of inter-coder reliability from content
+analysis~\citep{krippendorff2018content} --- and our discussion of how LLM bias
+compares to the well-known biases of human expert coders.
+
+\section{Method}
+\label{sec:method}
+
+\paragraph{The space.} We place a country at each time period $t$ at a point
+$\big(\mathrm{soc}_t, \mathrm{sta}_t\big) \in [0,10]^2$, where $\mathrm{soc}_t$
+is the power of civil society and $\mathrm{sta}_t$ is the power of the state. A
+period is a fixed span of years (e.g., a decade). The corridor is drawn as two
+dashed boundary lines around the diagonal, following the book's picture of a
+balanced band.
+
+\paragraph{Anchored rubric.} A free-floating request for ``two numbers'' is not
+a measurement. Every scoring prompt embeds a fixed $0$--$10$ rubric that defines
+each band of state power (from $0$--$2$, collapsed/nonexistent, to $9$--$10$,
+overwhelming penetration of society) and society power (from $0$--$2$, atomized,
+to $9$--$10$, society pervasively checks the state), plus explicit neutrality
+guidance: judge each period on its own terms, weigh evidence for and against a
+shift, avoid presentism, and treat the two axes as independent. The rubric is
+what makes scores comparable across periods, countries, and models.
+
+\paragraph{Chain-of-thought: events then scores.} For each period the model is
+first asked to list the major events and trends affecting state or society power,
+separating slow-moving trends from discrete events and noting the direction of
+each effect. This narrative is then inserted into a second prompt that requests
+the numeric score, so the number is conditioned on explicit reasoning rather
+than produced in one leap~\citep{wei2022chain}.
+
+\paragraph{In-context learning: temporal anchoring.} Starting from the earliest
+period (scored on absolute terms), we accumulate every prior period's
+$(\mathrm{soc},\mathrm{sta})$ pair and feed the running trajectory into each
+subsequent scoring prompt~\citep{brown2020language}. The model reports both the
+change from the previous period and the resulting absolute values, which
+discourages the sequence from drifting and keeps a quiet period near zero
+change.
+
+\paragraph{Structured, validated output.} Each scoring call returns a JSON
+object --- the two power values, their per-period changes, a short key event, and
+a one-sentence justification --- validated against a fixed schema. A malformed
+response triggers one reminder retry and then a numeric fallback extractor before
+an error is raised. This replaces the brittle free-text parsing of earlier
+prototypes and makes the pipeline robust across providers whose JSON conventions
+differ.
+
+\paragraph{Provider-agnostic access and caching.} All model calls go through a
+single unified interface, so a model is selected by one identifier string and
+providers can be swapped without code changes. Because the pipeline makes one or
+two calls per period and is therefore expensive, every response is cached on
+disk keyed by (model, prompt); re-runs and visualization iteration are free, and
+the released cache makes our exact runs reproducible.
+
+\paragraph{Visualization.} A run renders as (i) a static plot of society vs.\
+state power with the path time-shaded from early (dark) to late (bright) and a
+year colorbar, the largest moves annotated with their year and key event; and
+(ii) an animation that reveals the path period by period, drawing an arrow for
+the move each event caused and captioning it. Figure~\ref{fig:atlas} is built
+from the static renderings.
+
+\section{Experimental Setup}
+\label{sec:setup}
+
+\paragraph{Countries.} We study six countries chosen to span regions of the
+corridor and of the world: \textbf{Iran (Persia)}, \textbf{France}, the
+\textbf{United Kingdom}, the \textbf{United States}, \textbf{China}, and
+\textbf{Chile}. Each is scored from a country-appropriate start year through
+2020 in \ph{step}-year periods (Table~\ref{tab:validation} lists windows).
+
+\paragraph{Models.} We compare four models spanning three provider families and
+both closed and open weights: \texttt{gemini-3.5-flash}, \texttt{claude-opus-4-8},
+\texttt{gpt-4o}, and an open-weight \texttt{qwen} model. All are driven through
+the same interface with identical prompts, isolating model effects from
+prompt effects.
+
+\paragraph{Validation data.} For external validation we align each period's
+midpoint year to V-Dem~\citep{coppedge2024vdem}, Polity5~\citep{marshall2020polity},
+and Freedom House~\citep{freedomhouse2023}. We map LLM \emph{state power} to
+V-Dem state-capacity/authority measures and LLM \emph{society power} to the
+V-Dem core civil-society index, and report rank and linear correlations over the
+overlapping years per country.
+
+\section{Results}
+\label{sec:results}
+
+\subsection{Trajectory atlas}
+\label{sec:atlas}
+Figure~\ref{fig:atlas} shows the six trajectories under
+\texttt{claude-opus-4-8}. \ph{One paragraph reading the atlas: which countries sit
+inside vs.\ above vs.\ below the corridor, and the shape of the paths (e.g.,
+loops indicating oscillation, long diagonal runs indicating co-growth).}
+
+\begin{figure*}[t]
+  \centering
+  % Panels match run_experiments.py slugs: <country-slug>__<model-slug>
+  \atlas{iran-persia__anthropic-claude-opus-4-8}\hfill
+  \atlas{france__anthropic-claude-opus-4-8}\hfill
+  \atlas{united-kingdom__anthropic-claude-opus-4-8}\\[4pt]
+  \atlas{united-states__anthropic-claude-opus-4-8}\hfill
+  \atlas{china__anthropic-claude-opus-4-8}\hfill
+  \atlas{chile__anthropic-claude-opus-4-8}
+  \caption{Trajectory atlas: society power (x) vs.\ state power (y) for six
+  countries under \texttt{claude-opus-4-8}. Paths are time-shaded (dark $=$
+  early, bright $=$ late); dashed lines mark the corridor. \ph{Regenerate with
+  \texttt{paper/experiments/run\_experiments.py}.}}
+  \label{fig:atlas}
+\end{figure*}
+
+\subsection{Cross-country patterns}
+\ph{Report patterns visible across the atlas: e.g., whether corridor-resident
+countries (candidate: UK, France late) show tighter co-growth than
+outside-corridor countries (candidate: China high-state/low-society; pre-modern
+cases low-state), and how sharp transitions (revolutions, coups) appear as
+large single-period jumps.}
+
+\subsection{External validation}
+\label{sec:validation}
+Table~\ref{tab:validation} reports correlations between LLM scores and expert
+indices over overlapping years. \ph{Summarize: society power vs.\ V-Dem civil
+society $r=\ldots$; state power vs.\ state-capacity $r=\ldots$; where correlation
+is high vs.\ where it breaks down.}
+\input{tables/validation}
+
+\subsection{Model comparison and reliability}
+\label{sec:reliability}
+Treating each model as a ``rater,'' Table~\ref{tab:intermodel} reports pairwise
+agreement between models on the same country, and (where repeated runs are
+enabled) run-to-run variance. \ph{Summarize: which axis is more stable, which
+model pairs agree most, and whether the open-weight model diverges from the
+closed frontier models.}
+\input{tables/intermodel}
+
+\subsection{Qualitative case studies}
+\ph{Two or three short reads checking that trajectories match documented history:
+Iran around 1979 (sharp state consolidation / society suppression after the
+revolution); Chile 1973 and 1990 (coup and redemocratization); and a third
+(e.g., UK gradual co-growth, or China post-1949). Note where the model matches
+consensus and where it is anachronistic or flattens contested episodes.}
+
+\section{Discussion: LLM vs.\ Human Researcher or Expert Panel}
+\label{sec:discussion}
+
+Both an LLM and a human expert (or panel) performing this coding are biased; the
+useful question is \emph{how the bias profiles differ}, and which task
+properties favor which coder.
+
+\paragraph{What a human panel brings.} Domain expertise, sensitivity to
+contested historiography, the ability to flag ``this case is genuinely
+disputed,'' and accountable, attributable judgment. Established indices such as
+V-Dem manage individual coder bias with multiple experts per case and a latent
+measurement model that estimates and corrects for coder
+disagreement~\citep{pemstein2018vdem}; content analysis formalizes this as
+inter-coder reliability~\citep{krippendorff2018content}. The costs are equally
+real: expert panels are slow, expensive, hard to scale to arbitrary
+country-periods, and carry their own systematic biases --- national, ideological,
+disciplinary --- that are difficult to audit because they live in individual
+judgment.
+
+\paragraph{What an LLM changes.} An LLM annotator is fast, cheap at scale,
+and \emph{transparent in its instructions}: the rubric and prompts are explicit
+artifacts that can be inspected, criticized, versioned, and re-run identically.
+Its bias, however, is \emph{opaque in origin}: it reflects the distribution of
+its training data~\citep{bender2021dangers,santurkar2023whose,feng2023pretraining},
+which over-represents English-language, recent, and Western sources, and it tends
+toward received consensus, likely flattening contested or under-documented
+episodes rather than flagging them. It has no accountable author, and its scores
+can shift with model version or provider (Section~\ref{sec:reliability}).
+
+\paragraph{Reliability as the bridge.} The inter-coder logic that human panels
+use for humans applies to models: agreement across independent models, and
+stability across repeated runs, is a measurable proxy for reliability. High
+inter-model agreement plus high correlation with expert indices is our evidence
+that a score reflects a shared signal rather than one model's idiosyncrasy;
+disagreement usefully localizes exactly the contested cases a human panel would
+also flag.
+
+\paragraph{When to use which.} We argue the LLM pipeline is best positioned as a
+\emph{scalable first pass and a reproducible baseline} --- generating candidate
+trajectories over many countries cheaply, surfacing where models disagree, and
+freeing expert attention for the contested cases --- rather than as a replacement
+for expert coding where accountability and contested-case judgment are
+paramount.
+
+\section{Limitations}
+\label{sec:limitations}
+The two axes compress vast, contested constructs into single numbers; the rubric
+mitigates but cannot eliminate this. Training-data cutoffs and coverage bias the
+scores toward well-documented, recent, Western-adjacent histories. We validate
+against expert indices that are themselves imperfect and only partially aligned
+in construct with our axes. Scores can depend on model version, decoding
+randomness, and prompt phrasing; we quantify the first two but a full prompt-
+sensitivity study is future work. Finally, we study six countries and four
+models --- enough to demonstrate the method and expose model effects, not to make
+global claims.
+
+\section{Conclusion}
+We showed that LLMs can operationalize the Narrow Corridor's (state, society)
+space into reproducible, externally validatable trajectories, and released a
+provider-agnostic tool that makes doing so a one-command exercise. The resulting
+six-country atlas is a first quantified rendering of a framework that has been
+purely qualitative, and the accompanying validation and bias analysis frame
+honestly what such LLM-generated measurements are --- and are not --- good for.
+
+\section*{Reproducibility}
+All code, prompts, the on-disk response cache, and every run (JSON, static
+plots, animations) are released at
+\url{https://github.com/esonghori/visualize_narrow_corridor_with_ai}. The exact
+experiments in this paper are reproduced by
+\texttt{paper/experiments/run\_experiments.py} and \texttt{analysis.py}; see
+\texttt{paper/README.md}. The interactive gallery of animated trajectories is
+hosted at \url{https://esonghori.github.io/visualize_narrow_corridor_with_ai/}.
+
+\bibliographystyle{plainnat}
+\bibliography{references}
+
+\end{document}

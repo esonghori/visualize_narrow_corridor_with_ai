@@ -14,25 +14,79 @@ To improve the accuracy and relevance of the numerical values for state and soci
 
 To ensure consistency across time periods, we also use In-Context Learning [[4]](#4). Beginning from the earliest year, we provide the model with prior period values when predicting the next, thereby anchoring its output and improving temporal coherence.
 
+To make scores comparable across countries and across models, each scoring prompt embeds an explicit **0–10 rubric** for both axes and neutrality guidance (weigh evidence both ways, avoid presentism, treat the two axes as independent). The model returns a structured JSON object per period (the two power values, their per-period changes, a one-line key event, and a short justification), validated against a schema rather than scraped from free text.
+
+# Install
+
+This project uses [uv](https://docs.astral.sh/uv/). It is a normal Python package — no Colab or Google Drive required.
+
+```bash
+uv sync
+cp .env.example .env   # then add a key for whichever provider(s) you want
+```
+
 # How to Use
 
-1.  **Obtain a Google Cloud API key** to access Gemini model APIs.
-1.  **Configure the parameters** for the `get_narrow_corridor` function to define the desired historical range. For example:
-	```
-	country: str = "Iran (Persia)"
-	start_year: int = 1870
-	end_year: int = 2025
-	step_years: int = 5
-	```
-1. **Visualize the results** using the `plot_path` function, which renders the country's historical trajectory in the state-society power space.
+Any model reachable through [LiteLLM](https://docs.litellm.ai/) works — swap providers by changing the model string. List the suggested strings and see which API keys are set:
 
+```bash
+uv run ncorridor models
+```
+
+1. **Generate** a trajectory (one or two LLM calls per period; responses are cached under `runs/.cache/`):
+
+   ```bash
+   uv run ncorridor generate \
+     --country "Iran (Persia)" --start 1880 --end 2025 --step 5 \
+     --model gemini/gemini-3.5-flash \
+     --out runs/iran.json
+   ```
+
+   Swap `--model anthropic/claude-opus-4-8`, `--model openai/gpt-4o`, `--model openrouter/qwen/qwen-2.5-72b-instruct`, etc. to compare models.
+
+2. **Plot** the static trajectory in state–society power space:
+
+   ```bash
+   uv run ncorridor plot runs/iran.json --out runs/iran.png
+   ```
+
+3. **Animate** the trajectory as a GIF, showing each period's key historical event and the move it caused:
+
+   ```bash
+   uv run ncorridor animate runs/iran.json --out runs/iran.gif
+   ```
+
+The library is also importable:
+
+```python
+from narrow_corridor import get_narrow_corridor, save_path, load_path
+from narrow_corridor.plot import plot_path
+from narrow_corridor.animate import animate_path
+
+path = get_narrow_corridor(model="anthropic/claude-opus-4-8", country="France",
+                           start_year=1780, end_year=2025, step_years=5)
+save_path(path, "runs/france.json")
+plot_path(path, "runs/france.png")
+animate_path(path, "runs/france.gif")
+```
+
+# Website (interactive gallery)
+
+`scripts/build_site.py` turns a runs directory into a static gallery — PNG plots with click-to-play animations — for GitHub Pages:
+
+```bash
+uv run python scripts/build_site.py --runs runs --out docs
+# or, for the paper's sweep:
+uv run python scripts/build_site.py --runs paper/experiments/runs --out docs
+```
+
+It reads each run's JSON sidecar for the country/model names, copies the images into `docs/assets/`, and writes a self-contained `docs/index.html` (model filter + click-to-animate; GIFs load on demand). Preview locally with `python -m http.server -d docs`, then open <http://localhost:8000>. To publish, enable **GitHub Pages → Deploy from branch → `main` / `docs`** in the repo settings. (Because Pages serves committed files, `docs/assets/` holds the images — GIFs are a few MB each.)
 
 # Example
 
-As an example, we analyzed Iran (Persia) from 1870 to 2025 in 5-year intervals. You can find the corresponding Gemini (gemini-2.0-flash) prompts and responses [here](./example/Iran%20(Persia)%201880-2025%20promot%20and%20response.txt).
+As an example, we analyzed Iran (Persia) from 1870 to 2025 in 5-year intervals. You can find a corresponding Gemini (gemini-2.0-flash) prompt/response transcript [here](./example/Iran%20(Persia)%201880-2025%20promot%20and%20response.txt).
 
 ![Iran's path from 1880 to 2025](./example/Iran%20(Persia)%201880-2025.png).
-
 
 # How to cite
 
