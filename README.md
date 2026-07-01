@@ -1,4 +1,4 @@
-# Visualize Narrow Corridor using Generative Artificial Intelligence (AI).
+# Mapping the Narrow Corridor with Large Language Models
 
 In **The Narrow Corridor: States, Societies, and the Fate of Liberty, Daron Acemoglu and James A. Robinson** [[1]](#1) propose a framework for analyzing a country's historical trajectory within a two-dimensional space defined by the relative power of the state and society. While the book lays out this conceptual model, it does not include any concrete visualization example.
 
@@ -96,11 +96,11 @@ The full sweep (6 countries × 4 models, plus V-Dem and ensemble atlases) lives 
 If you use this code, please cite this:
 
 ```
-@misc{VisualizeNarrowCorridor2025,
-  title = {Visualize Narrow Corridor using Generative Artificial Intelligence.},
+@misc{MappingNarrowCorridor2025,
+  title = {Mapping the Narrow Corridor with Large Language Models.},
   author = {M. Songhori, Ebrahim},
-  howpublished = {\url{https://github.com/esonghori/visualize_narrow_corridor_with_ai}},
-  url = "https://github.com/esonghori/visualize_narrow_corridor_with_ai",
+  howpublished = {\url{https://github.com/esonghori/narrow-corridor-llm}},
+  url = "https://github.com/esonghori/narrow-corridor-llm",
   year = 2025,
   note = "[Online; accessed 25-May-2025]"
 }

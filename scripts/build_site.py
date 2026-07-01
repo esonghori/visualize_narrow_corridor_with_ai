@@ -157,7 +157,7 @@ _TEMPLATE = """<!doctype html>
 <header>
   <h1>The Narrow Corridor — Trajectory Atlas</h1>
   <p>State vs. society power paths, scored by LLMs. {n} panels · {n_countries} countries.</p>
-  <p>Method &amp; code: <a href="https://github.com/esonghori/visualize_narrow_corridor_with_ai">GitHub repository</a>.
+  <p>Method &amp; code: <a href="https://github.com/esonghori/narrow-corridor-llm">GitHub repository</a>.
      Click any plot to play its animation.</p>
 </header>
 <div class="controls"><div class="inner">

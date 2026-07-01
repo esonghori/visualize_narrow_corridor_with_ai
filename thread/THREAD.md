@@ -1,8 +1,8 @@
 # X / Twitter thread (draft)
 
 Attach the noted image to each tweet. Links: repo
-`https://github.com/esonghori/visualize_narrow_corridor_with_ai` · gallery
-`https://esonghori.github.io/visualize_narrow_corridor_with_ai/`
+`https://github.com/esonghori/narrow-corridor-llm` · gallery
+`https://esonghori.github.io/narrow-corridor-llm/`
 
 ---
 
@@ -60,5 +60,5 @@ Two caveats I lead with, not bury:
 
 Everything's open: code, prompts, every run, the paper, and an interactive gallery where you can click any trajectory to play its animation.
 
-Repo: github.com/esonghori/visualize_narrow_corridor_with_ai
-Gallery: esonghori.github.io/visualize_narrow_corridor_with_ai
+Repo: github.com/esonghori/narrow-corridor-llm
+Gallery: esonghori.github.io/narrow-corridor-llm
