@@ -1,0 +1,8 @@
+{
+  "society_power": 7.0,
+  "state_power": 4.5,
+  "society_change": 1.0,
+  "state_change": -1.0,
+  "key_event": "Rise of populist movements and economic reforms",
+  "reasoning": "Populist movements and economic reforms strengthened civil society, while state power was weakened by economic instability and political shifts."
+}

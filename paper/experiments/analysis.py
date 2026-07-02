@@ -42,6 +42,13 @@ EXT_SOCIETY_COL = "v2xcs_ccsi"   # V-Dem core civil society index (0-1)
 # Alternatives worth trying: v2clrspct (rigorous/impartial public administration),
 # or an external state-capacity dataset (Hanson-Sigman).
 EXT_STATE_COL = "v2svstterr"
+# Short display names for the LaTeX tables (full names blow the column width).
+# Only affects table cells; prompts, filenames, slugs, and V-Dem lookup keep the
+# full country name.
+DISPLAY_NAME = {
+    "Democratic Republic of the Congo": "DR Congo",
+}
+
 # LLM country name -> external-dataset country name
 COUNTRY_TO_EXT = {
     "Iran (Persia)": "Iran",
@@ -50,6 +57,8 @@ COUNTRY_TO_EXT = {
     "France": "France",
     "China": "China",
     "Chile": "Chile",
+    "Colombia": "Colombia",
+    "Democratic Republic of the Congo": "Democratic Republic of the Congo",
 }
 
 
@@ -158,7 +167,7 @@ def inter_model_table(by_country) -> None:
         r"Country & \#models & Society $\alpha$ & State $\alpha$ \\", r"\midrule",
     ]
     for country, k, soc, sta in rows:
-        lines.append(f"{country} & {k} & {_fmt(soc)} & {_fmt(sta)} \\\\")
+        lines.append(f"{DISPLAY_NAME.get(country, country)} & {k} & {_fmt(soc)} & {_fmt(sta)} \\\\")
     lines += [
         r"\midrule",
         f"\\textbf{{Overall}} & -- & \\textbf{{{_fmt(overall_soc)}}} & \\textbf{{{_fmt(overall_sta)}}} \\\\",
@@ -217,7 +226,8 @@ def validation_table(by_country) -> None:
             soc_d = _spearman(_diff(ls), _diff(es))
             sta_d = _spearman(_diff(lt), _diff(et))
         n_cell = n if n else r"\ph{--}"
-        lines.append(f"{country} & {window} & {n_cell} & {_pair(soc_l, soc_d)} & {_pair(sta_l, sta_d)} \\\\")
+        disp = DISPLAY_NAME.get(country, country)
+        lines.append(f"{disp} & {window} & {n_cell} & {_pair(soc_l, soc_d)} & {_pair(sta_l, sta_d)} \\\\")
     lines += [r"\bottomrule", r"\end{tabular}", r"\end{table*}"]
     (TABLES_DIR / "validation.tex").write_text("\n".join(lines) + "\n")
     status = "computed" if ext is not None else "placeholder (no external CSV)"

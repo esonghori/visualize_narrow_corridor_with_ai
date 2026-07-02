@@ -1,0 +1,8 @@
+{
+  "society_power": 6.2,
+  "state_power": 5.3,
+  "society_change": 0.7,
+  "state_change": -1.7,
+  "key_event": "2019-2021 nationwide protests and 2022 election of Gustavo Petro",
+  "reasoning": "Civil society strengthened through widespread protests and a shift in political leadership, while state power was weakened by governance challenges and public dissent."
+}

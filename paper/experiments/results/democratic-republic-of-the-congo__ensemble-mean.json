@@ -1,0 +1,130 @@
+{
+  "country": "Democratic Republic of the Congo",
+  "model": "ensemble-mean (4 models)",
+  "periods": [
+    [
+      1885,
+      1894
+    ],
+    [
+      1895,
+      1904
+    ],
+    [
+      1905,
+      1914
+    ],
+    [
+      1915,
+      1924
+    ],
+    [
+      1925,
+      1934
+    ],
+    [
+      1935,
+      1944
+    ],
+    [
+      1945,
+      1954
+    ],
+    [
+      1955,
+      1964
+    ],
+    [
+      1965,
+      1974
+    ],
+    [
+      1975,
+      1984
+    ],
+    [
+      1985,
+      1994
+    ],
+    [
+      1995,
+      2004
+    ],
+    [
+      2005,
+      2014
+    ],
+    [
+      2015,
+      2024
+    ]
+  ],
+  "society_power": {
+    "1885-1894": 2.05,
+    "1895-1904": 1.125,
+    "1905-1914": 0.9,
+    "1915-1924": 0.925,
+    "1925-1934": 0.75,
+    "1935-1944": 0.75,
+    "1945-1954": 1.8,
+    "1955-1964": 3.325,
+    "1965-1974": 1.2,
+    "1975-1984": 1.8,
+    "1985-1994": 3.325,
+    "1995-2004": 2.425,
+    "2005-2014": 2.925,
+    "2015-2024": 3.15
+  },
+  "state_power": {
+    "1885-1894": 3.375,
+    "1895-1904": 5.25,
+    "1905-1914": 6.25,
+    "1915-1924": 7.075,
+    "1925-1934": 7.45,
+    "1935-1944": 7.975,
+    "1945-1954": 8.225,
+    "1955-1964": 3.375,
+    "1965-1974": 6.7,
+    "1975-1984": 4.8,
+    "1985-1994": 3.025,
+    "1995-2004": 2.0,
+    "2005-2014": 3.15,
+    "2015-2024": 3.15
+  },
+  "key_event": {
+    "1885-1894": "Leopold II establishes Congo Free State as private colony",
+    "1895-1904": "Rubber-quota terror and Force Publique consolidate despotic extraction",
+    "1905-1914": "Belgian annexation institutionalizes extractive Despotic Leviathan (1908)",
+    "1915-1924": "WWI mobilization, extractive boom, Kimbangu suppression",
+    "1925-1934": "Consolidated extractive colonial state; Pende Revolt crushed",
+    "1935-1944": "WWII \"war effort\": intensified extraction, forced labor, crushed strikes",
+    "1945-1954": "Postwar boom, urbanization, and first legal African associations",
+    "1955-1964": "Independence, Force Publique mutiny, secessions, and state collapse",
+    "1965-1974": "Mobutu's 1965 coup and single-party despotic consolidation",
+    "1975-1984": "Copper crash and Shaba invasions hollow out the state",
+    "1985-1994": "Economic collapse, army pillages, and multiparty/civic mobilization",
+    "1995-2004": "Two Congo Wars; state collapse into \"Africa's World War\"",
+    "2005-2014": "2006 elections and Kabila consolidation amid persistent eastern conflict",
+    "2015-2024": "Church-led mobilization, disputed transfers, and M23 resurgence"
+  },
+  "reasoning": {
+    "1885-1894": "mean of 4 models",
+    "1895-1904": "mean of 4 models",
+    "1905-1914": "mean of 4 models",
+    "1915-1924": "mean of 4 models",
+    "1925-1934": "mean of 4 models",
+    "1935-1944": "mean of 4 models",
+    "1945-1954": "mean of 4 models",
+    "1955-1964": "mean of 4 models",
+    "1965-1974": "mean of 4 models",
+    "1975-1984": "mean of 4 models",
+    "1985-1994": "mean of 4 models",
+    "1995-2004": "mean of 4 models",
+    "2005-2014": "mean of 4 models",
+    "2015-2024": "mean of 4 models"
+  },
+  "events_trends_prompt": {},
+  "events_trends_response": {},
+  "score_prompt": {},
+  "score_response": {}
+}

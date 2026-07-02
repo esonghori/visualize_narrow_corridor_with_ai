@@ -1,0 +1,8 @@
+{
+  "society_power": 5.5,
+  "state_power": 3.0,
+  "key_event": "The 1991 Constitution, a product of social mobilization.",
+  "reasoning": "Society's power grew significantly as the Séptima Papeleta movement successfully forced the creation of the 1991 Constitution. The state remained profoundly weak, its sovereignty contested across vast territories by guerrillas and paramilitaries, though the death of Pablo Escobar represented a key victory against narco-terrorism.",
+  "society_change": 1.5,
+  "state_change": 0.5
+}

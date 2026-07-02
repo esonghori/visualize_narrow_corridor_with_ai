@@ -1,0 +1,8 @@
+{
+  "society_power": 5.5,
+  "state_power": 1.5,
+  "key_event": "State collapse as Sovereign National Conference challenges regime.",
+  "reasoning": "The state effectively collapsed, losing its monopoly on violence through army mutinies and control over territory to refugees. Simultaneously, civil society organized powerfully through the Sovereign National Conference, creating a parallel source of legitimacy, even if it could not ultimately impose its will.",
+  "society_change": 2.5,
+  "state_change": -3.0
+}

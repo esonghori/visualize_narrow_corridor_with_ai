@@ -1,0 +1,8 @@
+{
+  "society_power": 5.5,
+  "state_power": 2.5,
+  "society_change": 0.5,
+  "state_change": -1.0,
+  "key_event": "Growth of paramilitary groups and drug trafficking",
+  "reasoning": "Paramilitary groups and drug trafficking weakened state control while strengthening civil society's resistance."
+}

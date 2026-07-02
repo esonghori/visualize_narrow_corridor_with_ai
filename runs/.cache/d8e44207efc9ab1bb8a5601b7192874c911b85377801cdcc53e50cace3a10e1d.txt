@@ -1,0 +1,8 @@
+{
+  "society_power": 4.8,
+  "state_power": 3.2,
+  "society_change": -1.4,
+  "state_change": -1.6,
+  "key_event": "The Thousand Days' War and economic instability",
+  "reasoning": "The civil war and economic instability significantly weakened both civil society and state power."
+}

@@ -1,0 +1,8 @@
+{
+  "society_power": 1.0,
+  "state_power": 7.5,
+  "key_event": "Mobutu's coup and the creation of a one-party state.",
+  "reasoning": "Mobutu's 1965 coup ended the post-independence chaos, rapidly building a strong, centralized state through terror, co-optation, and institutionalizing single-party rule. This process systematically destroyed the vibrant, if chaotic, societal pluralism of the previous era, atomizing civil society and eliminating nearly all autonomous organization.",
+  "society_change": -5.0,
+  "state_change": 6.0
+}

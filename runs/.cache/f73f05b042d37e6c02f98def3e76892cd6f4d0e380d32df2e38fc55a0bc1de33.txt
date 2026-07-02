@@ -1,0 +1,8 @@
+{
+  "society_power": 6.5,
+  "state_power": 4.0,
+  "society_change": -1.5,
+  "state_change": -1.0,
+  "key_event": "Assassination of Jorge Eliécer Gaitán and La Violencia",
+  "reasoning": "The assassination of Gaitán and subsequent La Violencia weakened both state control and civil society cohesion, leading to a fragmented and less effective society and state."
+}

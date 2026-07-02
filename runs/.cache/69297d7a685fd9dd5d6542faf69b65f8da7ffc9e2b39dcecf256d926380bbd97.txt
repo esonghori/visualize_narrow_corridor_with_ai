@@ -1,0 +1,8 @@
+{
+  "society_power": 1.5,
+  "state_power": 2.8,
+  "society_change": 0.5,
+  "state_change": -1.2,
+  "key_event": "2011 Presidential Election and M23 Rebellion",
+  "reasoning": "The controversial 2011 election and M23 rebellion weakened state authority, while civil society showed some resilience through protests and international support."
+}

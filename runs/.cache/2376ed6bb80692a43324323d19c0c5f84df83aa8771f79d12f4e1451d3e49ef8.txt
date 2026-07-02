@@ -1,0 +1,8 @@
+{
+  "society_power": 1.2,
+  "state_power": 8.2,
+  "key_event": "Systematic consolidation of the extractive colonial state apparatus.",
+  "reasoning": "The Belgian colonial state became a highly effective, bureaucratic Despotic Leviathan, proven by its ability to mobilize for WWI and crush resistance. Although the massive Kimbanguist movement demonstrated a new potential for societal organization, its swift suppression reinforced the state's overwhelming dominance and society's profound weakness.",
+  "society_change": 0.4,
+  "state_change": 1.2
+}

@@ -1,0 +1,8 @@
+{
+  "society_power": 4.5,
+  "state_power": 5.0,
+  "society_change": 0.5,
+  "state_change": 1.5,
+  "key_event": "Plan Colombia and Uribe's anti-insurgency policies",
+  "reasoning": "Plan Colombia and Uribe's strong anti-insurgency stance increased state power, while civil society faced mixed effects from ongoing conflict and demographic shifts."
+}

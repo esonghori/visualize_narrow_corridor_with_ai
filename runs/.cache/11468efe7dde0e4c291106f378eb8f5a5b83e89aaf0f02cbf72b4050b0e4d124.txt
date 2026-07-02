@@ -1,0 +1,24 @@
+# Colombia (New Granada) 1849–1858 in *The Narrow Corridor* Framework
+
+A note on Acemoğlu and Robinson's use of Colombia: they treat it as an example of a **weak/absent Leviathan**, where the state never gained a monopoly on violence and power devolved to regional elites, local strongmen, and paramilitary orders. The 1849–1858 period saw liberal reforms that, in their reading, further *decentralized* and *weakened* an already feeble state rather than building capacity.
+
+## Trends
+
+- **Federalist decentralization of authority** — A sustained institutional drift toward provincial/regional autonomy, culminating in the 1858 Granadine Confederation. This *weakened the central state's* capacity to project power uniformly across territory.
+- **Consolidation of the Liberal–Conservative party division** — The hardening of two rival political camps tied to competing visions (secular/federal vs. clerical/centralist). This *strengthened certain forms of societal mobilization* but also entrenched partisan conflict that undermined stable state authority.
+- **Commercial liberalization and export orientation (tobacco, etc.)** — Dismantling of colonial-era economic controls and monopolies expanded market activity and merchant interests, *strengthening some segments of civil society* (regional commercial elites) while reducing state fiscal instruments.
+- **Weakening of Church economic and institutional power** — Ongoing anticlerical measures reduced a major corporate rival to the state, but by attacking one pillar of order without building state capacity, the net effect was *ambiguous for the state and destabilizing for social cohesion*.
+- **Persistence of regionalized, elite-controlled coercion** — Armed force remained dispersed among local notables and militias rather than centralized; a slow-moving structural feature that kept the state *chronically weak*.
+
+## Events
+
+- **Abolition of slavery (1851, effective 1852)** — A discrete emancipation act that *expanded formal rights (society)* but provoked violent backlash from slaveholding elites.
+- **Constitution of 1853** — Introduced broad (near-universal male) suffrage, separation of church and state, and greater provincial autonomy; *strengthened participatory dimensions of society* while *decentralizing/weakening the central state*.
+- **Civil war of 1851** — Conservative/pro-slavery revolt against liberal reforms; a discrete conflict reflecting and reinforcing the *absence of a state monopoly on violence*.
+- **Coup and dictatorship of José María Melo (April 1854)** — A military-artisan seizure of power in Bogotá, followed by a coalition war to remove him; demonstrated *acute state fragility* and the readiness of factions to resort to arms.
+- **Artisan mobilization and the Sociedades Democráticas** — Organized urban craftsmen (linked to Melo) pressing against free-trade tariff policy; a concrete instance of *popular civil-society mobilization*, though ultimately suppressed.
+- **Constitution of 1858 (Granadine Confederation)** — Formalized a federal system, sharply *devolving power from the center to sovereign states* and further *weakening the national state*.
+
+---
+
+**Caveat:** Acemoğlu and Robinson's own text does not walk through this decade event-by-event; the above applies their state-vs-society framework to standard Colombian historiography for the period. You should verify specific dates and characterizations against a dedicated history of nineteenth-century Colombia, as some details (e.g., exact scope of suffrage, effective dates of emancipation) are debated.

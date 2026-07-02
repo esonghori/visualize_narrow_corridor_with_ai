@@ -1,0 +1,8 @@
+{
+  "society_power": 0.2,
+  "state_power": 7.5,
+  "society_change": -1.3,
+  "state_change": 1.7,
+  "key_event": "Mobutu's consolidation of power and suppression of civil society",
+  "reasoning": "Mobutu's authoritarian rule significantly weakened civil society and opposition while strengthening state control and military power."
+}

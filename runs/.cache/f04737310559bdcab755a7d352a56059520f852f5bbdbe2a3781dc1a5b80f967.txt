@@ -1,0 +1,8 @@
+{
+  "society_power": 4.5,
+  "state_power": 2.8,
+  "key_event": "The dissolution of Gran Colombia.",
+  "reasoning": "The collapse of Gran Colombia represented a catastrophic failure of state power and a corresponding victory for powerful regional factions within society. While the new state of New Granada under Santander began rebuilding capacity, the period was defined by the state's fragmentation and the empowerment of these factions.",
+  "society_change": 1.0,
+  "state_change": -0.2
+}

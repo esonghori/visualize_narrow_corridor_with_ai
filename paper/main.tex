@@ -11,6 +11,10 @@
 \usepackage[numbers,sort&compress]{natbib}
 \usepackage{xcolor}
 \usepackage[colorlinks=true,allcolors=blue]{hyperref}
+% Fix twocolumn figure* placement: without this, full-width [t] floats migrate to
+% the very end of the document (after References). dblfloatfix keeps them near
+% their references and allows bottom placement.
+\usepackage{dblfloatfix}
 
 \graphicspath{{experiments/results/}{figures/}}
 
@@ -20,10 +24,12 @@
 
 % Include an atlas panel if it has been generated, else a labeled placeholder box
 % so the paper compiles before experiments are run.
+% 4 panels per row (0.24\textwidth each) keeps each 8-panel figure ~2 rows / half
+% a page tall, so it floats to a page top instead of a deferred full float page.
 \newcommand{\atlas}[1]{%
   \IfFileExists{experiments/results/#1.png}%
-    {\includegraphics[width=0.32\textwidth]{experiments/results/#1.png}}%
-    {\fbox{\parbox[c][3.4cm][c]{0.30\textwidth}{\centering\footnotesize
+    {\includegraphics[width=0.24\textwidth]{experiments/results/#1.png}}%
+    {\fbox{\parbox[c][2.6cm][c]{0.225\textwidth}{\centering\scriptsize
        \textcolor{red}{\texttt{\detokenize{#1}}}\\[2pt](panel not generated)}}}%
 }
 
@@ -44,11 +50,13 @@ language models (LLMs) can operationalize it. We introduce a reproducible,
 provider-agnostic pipeline that scores a country period by period using
 chain-of-thought (events first, then score) and in-context anchoring on prior
 periods, against an explicit rubric with schema-validated output. As a proof of
-concept we produce a six-country trajectory atlas (Iran, France, the United
-Kingdom, the United States, China, Chile) and compare four models. We assess the
+concept we produce an eight-country trajectory atlas (Iran, France, the United
+Kingdom, the United States, China, Chile, Colombia, and the Democratic Republic
+of the Congo), chosen to place at least one country in each of the book's four
+Leviathan types, and compare four models. We assess the
 scores for consistency with an expert index (V-Dem) and for inter-model
-agreement --- reading agreement as concurrent consistency rather than accuracy,
-since such indices likely appear in the models' training data --- and discuss
+agreement, reading agreement as concurrent consistency rather than accuracy,
+since such indices likely appear in the models' training data, and discuss
 conceptually how the biases of an LLM annotator and a human expert differ. Code,
 prompts, runs, and an interactive gallery of the animated trajectories are
 released.
@@ -79,10 +87,14 @@ narrower, concrete question: \emph{can an LLM place a country in the Narrow
 Corridor space, period by period, in a way that is reproducible, checkable
 against an established expert index, and useful to a researcher?}
 
-We take an applied, digital-humanities stance. Our primary artifact is a
-\textbf{six-country trajectory atlas} --- Iran, France, the United Kingdom, the
-United States, China, and Chile --- rendered as time-shaded paths through the
-corridor, together with the cross-country patterns those paths reveal. The
+We take an applied, digital-humanities stance. Our primary artifact is an
+\textbf{eight-country trajectory atlas} (Iran, France, the United Kingdom, the
+United States, China, Chile, Colombia, and the Democratic Republic of the
+Congo), rendered as time-shaded paths through the
+corridor, together with the cross-country patterns those paths reveal. The eight
+are chosen so that at least one country falls in each of the book's four
+Leviathan types (Section~\ref{sec:setup}), which lets us ask whether an LLM
+places each country in the region the book assigns it. The
 method and its validation are the backing that makes the atlas trustworthy
 rather than decorative. Concretely, we contribute:
 
@@ -94,7 +106,8 @@ rather than decorative. Concretely, we contribute:
   \item \textbf{A provider-agnostic, open implementation.} Any model reachable
         through a unified interface can be swapped by changing one string; we
         release code, prompts, caches, and every run.
-  \item \textbf{A trajectory atlas and cross-country reading} of six countries.
+  \item \textbf{A trajectory atlas and cross-country reading} of eight countries
+        spanning the book's four Leviathan types.
   \item \textbf{An interactive, publicly hosted web gallery.} A static site
         (GitHub Pages) presenting every trajectory as a time-shaded plot with
         \emph{click-to-play animations} that reveal the path period by period
@@ -107,8 +120,11 @@ rather than decorative. Concretely, we contribute:
         consistency rather than proof of accuracy.
   \item \textbf{A conceptual discussion of measurement bias}: what an LLM
         annotator plausibly gets right and wrong relative to a human researcher
-        or an expert panel doing the identical task (we run no human study here;
-        that comparison is left to future work).
+        or an expert panel doing the identical task. We do not commission a fresh
+        panel of coders; V-Dem is itself exactly such a study, a large expert
+        coding operation with many raters per case, so our comparison against it
+        (Section~\ref{sec:validation}) already stands in for the human-expert
+        baseline.
 \end{enumerate}
 
 \section{Related Work}
@@ -148,7 +164,7 @@ steps; we use it to force the model to enumerate historical events and trends
 lets the model condition on examples provided at inference time; we feed all
 prior periods' scores forward so the trajectory is temporally coherent rather
 than a sequence of independent guesses. This anchoring is a deliberate design
-choice with a cost --- an early mis-score can propagate --- which we return to in
+choice with a cost (an early mis-score can propagate) that we return to in
 Section~\ref{sec:limitations}.
 
 \paragraph{Bias and reliability.}
@@ -158,8 +174,8 @@ of opinion~\citep{santurkar2023whose}, can carry the political slant of their
 pretraining corpora into downstream behavior~\citep{feng2023pretraining}, and
 have been probed directly for partisan
 bias~\citep{motoki2024more}. These findings motivate both our reliability
-analysis --- borrowing the logic of inter-coder reliability from content
-analysis~\citep{krippendorff2018content} --- and our discussion of how LLM bias
+analysis, which borrows the logic of inter-coder reliability from content
+analysis~\citep{krippendorff2018content}, and our discussion of how LLM bias
 compares to the well-known biases of human expert coders.
 
 \section{Method}
@@ -170,11 +186,13 @@ $\big(\mathrm{soc}_t, \mathrm{sta}_t\big) \in [0,10]^2$, where $\mathrm{soc}_t$
 is the power of civil society and $\mathrm{sta}_t$ is the power of the state. A
 period is a fixed span of years (e.g., a decade). We read a country as
 \emph{in the corridor} in period $t$ when its state and society power are close
-(near the diagonal) and \emph{above}/\emph{below} it when one clearly dominates.
-The dashed lines in our plots mark this band \emph{illustratively}, near the
-diagonal, rather than as a fitted threshold, and are drawn at constant width ---
-a deliberate simplification of the book's \emph{widening} corridor; positions are
-therefore read qualitatively, not from a numeric cutoff.
+(near the diagonal) and \emph{above} or \emph{below} it when one clearly
+dominates. Following the book, the corridor in our plots is \emph{widening}: the
+dashed boundaries are narrow where state and society are both weak (bottom-left)
+and diverge as the two powers grow together (top-right), because liberty becomes
+easier to sustain once both are strong. They mark the band illustratively, not as
+a fitted threshold, so positions are read qualitatively, from where a path sits
+relative to the widening band, not from a numeric cutoff.
 
 \paragraph{Anchored rubric.} A free-floating request for ``two numbers'' is not
 a measurement. Every scoring prompt embeds a fixed $0$--$10$ rubric that defines
@@ -182,7 +200,9 @@ each band of state power (from $0$--$2$, collapsed/nonexistent, to $9$--$10$,
 overwhelming penetration of society) and society power (from $0$--$2$, atomized,
 to $9$--$10$, society pervasively checks the state), plus explicit neutrality
 guidance: judge each period on its own terms, weigh evidence for and against a
-shift, avoid presentism, and treat the two axes as independent. The rubric is
+shift, avoid \emph{presentism} (scoring a period by how things later turned out,
+or by today's standards, rather than by the conditions and information of the
+period itself), and treat the two axes as independent. The rubric is
 what makes scores comparable across periods, countries, and models.
 
 \paragraph{Chain-of-thought: events then scores.} For each period the model is
@@ -201,17 +221,16 @@ discourages the sequence from drifting and keeps a quiet period near zero
 change.
 
 \paragraph{Structured, validated output.} Each scoring call returns a JSON
-object --- the two power values, their per-period changes, a short key event, and
-a one-sentence justification --- validated against a fixed schema. A malformed
+object (the two power values, their per-period changes, a short key event, and
+a one-sentence justification) validated against a fixed schema. A malformed
 response triggers one reminder retry and then a numeric fallback extractor before
 an error is raised.
 
-\paragraph{Provider-agnostic access and caching.} All model calls go through a
+\paragraph{Provider-agnostic access.} All model calls go through a
 single unified interface, so a model is selected by one identifier string and
-providers can be swapped without code changes. Because the pipeline makes one or
-two calls per period and is therefore expensive, every response is cached on
-disk keyed by (model, prompt); re-runs and visualization iteration are free, and
-the released cache makes our exact runs reproducible.
+providers can be swapped without code changes. This is what lets us run the
+identical prompts across four model families and isolate model effects from
+prompt effects.
 
 \paragraph{Visualization.} A run renders as (i) a static plot of society vs.\
 state power with the path time-shaded from early (dark) to late (bright) and a
@@ -224,13 +243,23 @@ gallery at \url{https://esonghori.github.io/narrow-corridor-llm/}.
 \section{Experimental Setup}
 \label{sec:setup}
 
-\paragraph{Countries.} We study six countries chosen to span regions of the
-corridor and of the world: \textbf{Iran (Persia)}, \textbf{France}, the
-\textbf{United Kingdom}, the \textbf{United States}, \textbf{China}, and
-\textbf{Chile}. Each is scored from a country-appropriate start year through 2020
-(a common cutoff for consistency across cases) in decade (10-year) periods,
-giving 14--24 periods per country
-(Table~\ref{tab:validation} lists windows and counts). Six countries is a proof
+\paragraph{Countries.} We study eight countries, chosen so that at least one
+falls in each of the four Leviathan types the book defines. \textbf{China} and
+\textbf{Iran (Persia)} are candidate \emph{Despotic} Leviathans (a strong state
+over a weak society); the \textbf{United Kingdom} and \textbf{France} are
+candidate \emph{Shackled} Leviathans (state and society balanced inside the
+corridor), with the \textbf{United States} the book's Shackled case that our
+models read as contested (Section~\ref{sec:atlas}); \textbf{Colombia} is a
+candidate \emph{Paper} Leviathan (a state strong on paper but with little real
+reach into society or territory); and the \textbf{Democratic Republic of the
+Congo} is a candidate \emph{Absent} Leviathan (a state too weak to govern much of
+its territory). \textbf{Chile} is included as a leave-and-re-enter case around
+the 1973 coup. Labeling each a ``candidate'' is deliberate: whether the LLM
+actually places a country in its assigned region is a question we test, not an
+assumption (Section~\ref{sec:atlas}). Each country is scored from a
+country-appropriate start year through 2020 (a common cutoff for consistency
+across cases) in decade (10-year) periods, giving 14--24 periods per country
+(Table~\ref{tab:validation} lists windows and counts). Eight countries is a proof
 of concept, not a basis for cross-national generalization.
 
 \paragraph{Models.} We compare four models from four families (Google,
@@ -244,14 +273,16 @@ isolating model effects from prompt effects.
 to V-Dem~\citep{coppedge2024vdem}, aligning each period's midpoint year to the
 V-Dem year. We map LLM \emph{society power} to the V-Dem core civil-society index
 (\texttt{v2xcs\_ccsi}) and LLM \emph{state power} to a state-authority measure
-(V-Dem state authority over territory, \texttt{v2svstterr}) --- a narrow,
+(V-Dem state authority over territory, \texttt{v2svstterr}), a narrow,
 territorial-control proxy for the rubric's broader penetration-of-society notion
 of state power. The mapping is fixed before inspecting correlations, and
 alternative capacity indicators are easy to swap in the released code. We report
-rank (Spearman) correlations per country on both \emph{levels} and \emph{first
-differences} (period-to-period change): levels are dominated by a shared secular
-trend and inflate correlation, so first differences are the more honest
-agreement signal. Crucially, V-Dem is
+the \emph{Spearman rank correlation} $\rho$ per country, a number from $-1$ to
+$+1$ that measures whether two series move up and down together in the same
+rank order ($+1$ perfect agreement, $0$ none, $-1$ opposite), computed on both
+\emph{levels} and \emph{first differences} (period-to-period change): levels are
+dominated by a shared secular trend and inflate the correlation, so first
+differences are the more honest agreement signal. Crucially, V-Dem is
 itself almost certainly in the models' training data, so we read this as
 \emph{concurrent consistency with expert consensus}, not as external proof of
 accuracy (Section~\ref{sec:limitations}). Polity5 and Freedom House are natural
@@ -262,19 +293,32 @@ additional anchors but are out of scope here.
 
 \subsection{Trajectory atlas}
 \label{sec:atlas}
-Figure~\ref{fig:atlas} shows the six trajectories under \texttt{claude-opus-4-8},
+Figure~\ref{fig:atlas} shows the eight trajectories under \texttt{claude-opus-4-8},
 chosen as a single reference model for legibility; the per-model panels for all
 four models are in the online gallery, and their disagreement is quantified in
-Section~\ref{sec:reliability}. The six paths span the corridor's regions and
-largely match the book's canonical placements. The \textbf{United Kingdom} stays
+Section~\ref{sec:reliability}. Read against the book's four Leviathan types, most
+placements land where the framework expects. The \textbf{United Kingdom} stays
 inside the corridor throughout, state and society rising together (the Red
-Queen). \textbf{France} enters it, moving from society-leaning in 1789 to inside
-by the late twentieth century, and \textbf{Chile} loops out and back --- a sharp
-fall of society and spike of state at the 1973 coup, then a return toward the
-corridor after the 1990 transition. \textbf{Iran} and \textbf{China} exit
-\emph{upward} into state dominance (the Despotic Leviathan), Iran after 1979 and
-China after 1949. The \textbf{United States} is the outlier, drifting from a
-society-leaning founding toward state dominance --- a placement we scrutinize
+Queen), a textbook Shackled Leviathan. \textbf{France} enters it, moving from
+society-leaning in 1789 to inside by the late twentieth century, Shackled by its
+late history. \textbf{Iran} and \textbf{China} exit \emph{upward} into state
+dominance, Iran after 1979 and China after 1949, the Despotic Leviathan the book
+assigns them. \textbf{Chile} loops out and back, a sharp fall of society and
+spike of state at the 1973 coup, then a return toward the corridor after the 1990
+transition. \textbf{Colombia}, the book's Paper Leviathan, rises from a weak post-independence
+founding to only moderate levels by 2019 (society $\approx6.4$, state
+$\approx5.7$, the 1886 centralist constitution its largest move), never
+consolidating the strong, high-capacity state of the Shackled cases; it ends in
+the lower corridor rather than climbing to the strong-both corner, the muted arc
+the Paper-Leviathan reading predicts, though the model treats late-twentieth-century
+Colombia as closer to the corridor than clearly below it. The \textbf{Democratic
+Republic of the Congo}, the book's Absent Leviathan, stays near the origin
+throughout: state power spikes briefly under Mobutu's mid-century regime, then
+collapses around 1960 independence and the subsequent wars, ending low on both
+axes (society $\approx3.2$, state $\approx3.2$), the persistently weak state the
+Absent-Leviathan label describes. The \textbf{United States} is the
+outlier: the book treats it as a Shackled Leviathan, but our models drift it from
+a society-leaning founding toward state dominance, a placement we scrutinize
 below, as it departs from both the book and the expert data. Long diagonal runs
 mark co-growth; tight loops mark oscillation in contested periods; large
 single-period jumps mark ruptures.
@@ -284,14 +328,16 @@ single-period jumps mark ruptures.
   % Panels match run_experiments.py slugs: <country-slug>__<model-slug>
   \atlas{iran-persia__anthropic-claude-opus-4-8}\hfill
   \atlas{france__anthropic-claude-opus-4-8}\hfill
-  \atlas{united-kingdom__anthropic-claude-opus-4-8}\\[4pt]
-  \atlas{united-states__anthropic-claude-opus-4-8}\hfill
+  \atlas{united-kingdom__anthropic-claude-opus-4-8}\hfill
+  \atlas{united-states__anthropic-claude-opus-4-8}\\[4pt]
   \atlas{china__anthropic-claude-opus-4-8}\hfill
-  \atlas{chile__anthropic-claude-opus-4-8}
-  \caption{Trajectory atlas: society power (x) vs.\ state power (y) for six
+  \atlas{chile__anthropic-claude-opus-4-8}\hfill
+  \atlas{colombia__anthropic-claude-opus-4-8}\hfill
+  \atlas{democratic-republic-of-the-congo__anthropic-claude-opus-4-8}
+  \caption{Trajectory atlas: society power (x) vs.\ state power (y) for eight
   countries under \texttt{claude-opus-4-8}. Paths are time-shaded (dark $=$
-  early, bright $=$ late); dashed lines mark the corridor illustratively.
-  Animated versions are available in the online gallery.}
+  early, bright $=$ late); dashed lines mark the book's widening corridor
+  illustratively. Animated versions are available in the online gallery.}
   \label{fig:atlas}
 \end{figure*}
 
@@ -303,42 +349,87 @@ the same idiosyncratic error, the mean is a more robust reading than any single
 model's path: where the four agree it tracks the consensus tightly, and where
 they diverge it sits between them, so a point should then be read as uncertain
 rather than precise (the underlying per-axis agreement is quantified as
-Krippendorff's $\alpha$ in Section~\ref{sec:reliability}). We treat this mean
-atlas, not any single model, as the paper's headline reading. The mean is nearly
-identical to the reference model for the high-agreement cases (Iran, Chile;
+Krippendorff's $\alpha$ in Section~\ref{sec:reliability}). Each panel is titled
+``(ensemble mean)'' to distinguish it from the single-model atlas of
+Figure~\ref{fig:atlas}. We treat this mean
+atlas, not any single model, as the paper's headline reading. The mean is close
+to the reference model for the high-agreement cases (Iran, Chile;
 Section~\ref{sec:reliability}) and visibly smoother for the United States, where
-the models disagree most; the corridor placements are unchanged --- UK inside,
-France and Chile in or entering it, Iran and China state-dominated, the US
-drifting toward state dominance.
+the models disagree most, so the averaged path diverges most from any single
+model there. The corridor placements are unchanged: UK inside,
+France and Chile in or entering it, Iran and China state-dominated, Colombia and
+the Congo below the corridor, and the US drifting toward state dominance.
 
 \begin{figure*}[t]
   \centering
   \atlas{iran-persia__ensemble-mean}\hfill
   \atlas{france__ensemble-mean}\hfill
-  \atlas{united-kingdom__ensemble-mean}\\[4pt]
-  \atlas{united-states__ensemble-mean}\hfill
+  \atlas{united-kingdom__ensemble-mean}\hfill
+  \atlas{united-states__ensemble-mean}\\[4pt]
   \atlas{china__ensemble-mean}\hfill
-  \atlas{chile__ensemble-mean}
-  \caption{Ensemble atlas: the same six countries, each averaged across the four
-  models period by period. Compared with the single-model atlas
-  (Fig.~\ref{fig:atlas}), the mean damps any one model's idiosyncrasy; the spread
-  it averages over is reported as Krippendorff's $\alpha$ in
-  Table~\ref{tab:intermodel}. Time-shaded (dark $=$ early, bright $=$ late);
-  dashed lines mark the corridor illustratively.}
+  \atlas{chile__ensemble-mean}\hfill
+  \atlas{colombia__ensemble-mean}\hfill
+  \atlas{democratic-republic-of-the-congo__ensemble-mean}
+  \caption{Ensemble atlas: the same eight countries, each averaged across the four
+  models period by period (panels titled ``ensemble mean''). Compared with the
+  single-model atlas (Fig.~\ref{fig:atlas}), the mean damps any one model's
+  idiosyncrasy; the spread it averages over is reported as Krippendorff's
+  $\alpha$ in Table~\ref{tab:intermodel}. Time-shaded (dark $=$ early, bright $=$
+  late); dashed lines mark the book's widening corridor illustratively.}
   \label{fig:atlas-mean}
 \end{figure*}
 
-\subsection{Cross-country patterns}
+\subsection{One map, all countries}
+\label{sec:combined}
+The book plots countries together in a single plane. Doing the same requires the
+scores to be comparable \emph{across} countries, not merely across periods within
+one country, and this is a real question rather than a given: does the shared
+rubric actually put every country on one scale? Our design bets that it does. The
+fixed $0$--$10$ anchors (Section~\ref{sec:method}) are country-independent, so a
+$7$ on the state axis is meant to denote the same level of state capacity for the
+Congo as for China. Figure~\ref{fig:combined} overlays all eight ensemble-mean
+paths in one space to test that bet. The relative placement is broadly sensible:
+the Despotic cases (China, Iran) sit high on the state axis with weak society, the
+Shackled cases (UK, France) climb the diagonal into the strong-both upper-right,
+and the Paper and Absent cases sit lower and further from that corner, Colombia at
+moderate levels in the lower corridor and the Congo near the weak-state origin,
+with the US drifting upward. That the countries sort
+into the book's regions on a single common scale is evidence the rubric transports
+across countries well enough for a joint reading. It is not proof: the shared
+training-data biases that may inflate a score could do so consistently across
+countries (Section~\ref{sec:limitations}), and the absolute levels are softer than
+the within-country ordering. We therefore read the joint map as a qualitative
+cross-country atlas, not a metric one.
+
+\begin{figure*}[t]
+  \centering
+  \IfFileExists{experiments/results/all-countries__ensemble-mean.png}%
+    {\includegraphics[width=0.72\textwidth]{experiments/results/all-countries__ensemble-mean.png}}%
+    {\fbox{\parbox[c][6cm][c]{0.6\textwidth}{\centering\footnotesize
+       \textcolor{red}{\texttt{all-countries\_\_ensemble-mean}}\\[2pt]
+       (run \texttt{atlas\_combined.py})}}}%
+  \caption{All eight countries' ensemble-mean trajectories in one shared
+  (society, state) space, the direct analogue of the book's single-plane map. An
+  open marker is each country's start year, a filled marker and label its last
+  period; dashed lines mark the book's widening corridor. Because every country is
+  scored against the same fixed rubric, the paths are plotted on a common scale
+  without any per-country rescaling.}
+  \label{fig:combined}
+\end{figure*}
 Three regularities recur. First, the countries the book treats as
-corridor-dwellers --- the UK throughout, France and Chile by their late histories
---- trace long diagonal runs in which state and society grow together. Second,
+corridor-dwellers (the UK throughout, France and Chile by their late histories)
+trace long diagonal runs in which state and society grow together. Second,
 every country's largest single-period move is an institutional rupture that
 pushes the \emph{state} axis up: the 1979 Iranian revolution, the 1973 Chilean
 coup, post-1949 Chinese consolidation, and the US Civil War. Third, the two
-twentieth-century revolutions from below (Iran, China) end in state dominance
-rather than liberty --- precisely the Despotic Leviathan trap the framework
-predicts when a mobilized society confronts, but does not balance, a hardening
-state.
+twentieth-century revolutions (Iran 1979, China 1949) end in state dominance
+rather than liberty. The mechanism the paths trace is not that mobilizing society
+produces despotism, which would invert the book's logic, but the opposite: a
+revolution briefly raises society's power, then the new revolutionary state
+consolidates and \emph{demobilizes} the society that carried it, outgrowing
+rather than balancing it. Liberty fails because society does not stay strong
+enough to shackle the state the revolution builds, which is the book's Despotic
+Leviathan path.
 
 \subsection{Consistency with V-Dem}
 \label{sec:validation}
@@ -349,8 +440,8 @@ LLM society power tracks V-Dem's core civil-society index strongly for China
 exception is the United States ($\rho=-0.10$, discussed in the case studies). On
 the more demanding \emph{first differences} the society signal is positive but
 weaker (China $0.66$, Iran $0.60$, France $0.40$), as expected once the shared
-trend is removed. The \emph{state} axis is where consistency collapses ---
-first-difference $\rho\approx0$ for four of six countries. Figure~\ref{fig:vdem}
+trend is removed. The \emph{state} axis is where consistency collapses:
+first-difference $\rho\approx0$ for most countries. Figure~\ref{fig:vdem}
 shows why: our V-Dem state proxy (\texttt{v2svstterr}, authority over territory)
 is near-saturated and flat for consolidated states, so it cannot move with the
 LLM's broader state-\emph{capacity} notion; the LLM tracks the \emph{building} of
@@ -363,7 +454,7 @@ Figure~\ref{fig:vdem} re-plots each country from V-Dem in the same space
 (society $=$ \texttt{v2xcs\_ccsi}$\times10$, state $=$ \texttt{v2svstterr}$/10$),
 at the LLM period-midpoint years. The society axis broadly rhymes with the LLM
 ensemble (Fig.~\ref{fig:atlas-mean}), but the state axis is pinned high for every
-consolidated state --- V-Dem places even 1880s Qajar Iran and the early United
+consolidated state: V-Dem places even 1880s Qajar Iran and the early United
 States near the top of the state axis, the opposite of the LLM, which reads those
 as weak states still building capacity. The comparison is thus best read as
 \emph{agreement on society, divergence on the operationalization of state power}.
@@ -372,11 +463,13 @@ as weak states still building capacity. The comparison is thus best read as
   \centering
   \atlas{iran-persia__vdem}\hfill
   \atlas{france__vdem}\hfill
-  \atlas{united-kingdom__vdem}\\[4pt]
-  \atlas{united-states__vdem}\hfill
+  \atlas{united-kingdom__vdem}\hfill
+  \atlas{united-states__vdem}\\[4pt]
   \atlas{china__vdem}\hfill
-  \atlas{chile__vdem}
-  \caption{V-Dem atlas: the same six countries plotted from expert codings
+  \atlas{chile__vdem}\hfill
+  \atlas{colombia__vdem}\hfill
+  \atlas{democratic-republic-of-the-congo__vdem}
+  \caption{V-Dem atlas: the same eight countries plotted from expert codings
   (society $=$ core civil-society index $\times10$; state $=$ authority over
   territory $/10$) at the LLM period-midpoint years. Compared with the LLM
   ensemble (Fig.~\ref{fig:atlas-mean}) the society axis broadly agrees, but
@@ -389,39 +482,48 @@ as weak states still building capacity. The comparison is thus best read as
 \label{sec:reliability}
 Treating each model as a ``rater'' in the sense of inter-coder
 reliability~\citep{krippendorff2018content}, Table~\ref{tab:intermodel} reports
-agreement between models on the same country. We report Krippendorff's $\alpha$
-(interval, treating the 0--10 scores as interval-scaled and the four models as
-raters) on the period-to-period \emph{changes} rather than on levels (for the
-same reason first differences are used in Section~\ref{sec:validation}):
-agreement on changes tests whether models see the same \emph{moves}, not merely
-the same secular trend. Models agree more on society ($\alpha=0.74$ overall) than
-on the state axis ($0.67$), and most on the countries with the clearest arcs ---
-Iran ($0.77/0.78$) and Chile (society $0.83$). Agreement is lowest for the United
-States (society $\alpha=0.47$), the same case whose atlas placement and V-Dem
-society correlation are most anomalous: model disagreement localizes exactly the
-contested reading, as a human panel's would. The open-weight model does not
-systematically diverge on the periods it scored; its real limitation was
-\emph{reliability of structured output} --- the strongest open model we tried,
-Qwen3-235B-A22B, could not reliably emit valid JSON on the longer prompts, so we
-fell back to the stable \texttt{qwen-2.5-72b-instruct} (Section~\ref{sec:limitations}).
+agreement between models on the same country. We report \emph{Krippendorff's}
+$\alpha$, a standard inter-coder reliability coefficient that measures how much
+raters (here, the four models) agree beyond what chance would give: $\alpha=1$ is
+perfect agreement, $0$ is chance, and negative values mean systematic
+disagreement, with $\alpha\ge0.8$ conventionally read as strong and
+$0.67$--$0.8$ as tentative. We compute it (interval variant, treating the $0$--$10$
+scores as interval-scaled) on the period-to-period \emph{changes} rather than on
+levels (for the same reason first differences are used in
+Section~\ref{sec:validation}): agreement on changes tests whether models see the
+same \emph{moves}, not merely the same secular trend. Models agree
+slightly more on society ($\alpha=0.70$ overall) than on the state axis
+($0.68$), and most on the countries with the clearest arcs, Iran ($0.77/0.78$)
+and Chile (society $0.83$).
+Agreement is lowest for the United States (society $\alpha=0.47$), the same case
+whose atlas placement and V-Dem society correlation are most anomalous: model
+disagreement localizes exactly the contested reading, as a human panel's would.
+The open-weight model does not systematically diverge on the periods it scored.
 \input{tables/intermodel}
 
 \subsection{Qualitative case studies}
 \textbf{Iran, 1979.} All four models place a society peak in the 1970s that
 collapses into state dominance in the 1980s (the ensemble society score falls
-sharply while state climbs past 8), matching the book's account of a mobilized
-society producing not liberty but a Despotic Leviathan. \textbf{Chile,
+sharply while state climbs past 8). This matches the book's account of the
+revolution: the mobilization that toppled the Shah briefly raised society's
+power, but the new revolutionary state then consolidated and demobilized that
+society rather than balancing it, ending in a Despotic Leviathan. \textbf{Chile,
 1973/1990.} The 1973 coup is the largest single move (society crashing, state
-spiking near the ceiling), followed by recovery after the 1990 plebiscite --- a
+spiking near the ceiling), followed by recovery after the 1990 plebiscite, a
 country leaving and re-entering the corridor. \textbf{United States (a genuine
 divergence).} The models read a long slide from a society-leaning founding toward
 a strong federal and security state, ending state-leaning, with the Civil War as
 the largest move. This contradicts both the book, which treats the US as a
 corridor-dwelling Shackled Leviathan, and V-Dem, which keeps US civil society
 pinned high throughout (Fig.~\ref{fig:vdem}); it is also the country where the
-models agree least. We read it as a caution --- the LLM appears to over-weight
-the growth of the federal and security state relative to the resilience of
-American civil society --- rather than as a finding.
+models agree least. One plausible source of the bias is the training data itself:
+the United States is the most heavily reported and most scrutinized polity in the
+English-language corpus these models learn from, so its every expansion of
+federal, military, and surveillance power is documented in far greater volume than
+comparable developments elsewhere. A model may therefore over-weight the growth of
+the American state relative to the quieter resilience of its civil society, which
+is less sensational and less densely recorded. We read the US path as a caution
+rather than as a finding.
 
 \section{Discussion: LLM vs.\ Human Researcher or Expert Panel}
 \label{sec:discussion}
@@ -438,13 +540,17 @@ measurement model that estimates and corrects for coder
 disagreement~\citep{pemstein2018vdem}; content analysis formalizes this as
 inter-coder reliability~\citep{krippendorff2018content}. The costs are equally
 real: expert panels are slow, expensive, hard to scale to arbitrary
-country-periods, and carry their own systematic biases --- national, ideological,
-disciplinary --- that are difficult to audit because they live in individual
+country-periods, and carry their own systematic biases (national, ideological,
+disciplinary) that are difficult to audit because they live in individual
 judgment.
 
 \paragraph{What an LLM changes.} An LLM annotator is fast, cheap at scale,
 and \emph{transparent in its instructions}: the rubric and prompts are explicit
 artifacts that can be inspected, criticized, versioned, and re-run identically.
+To put a number on ``cheap,'' the entire eight-country, four-model sweep in this
+paper (on the order of $1{,}200$ scoring and event calls) cost roughly \$10 in
+API charges and ran in a couple of hours on one laptop; an expert-panel coding of
+the same country-periods would cost orders of magnitude more in time and money.
 Its bias, however, is \emph{opaque in origin}: it reflects the distribution of
 its training data~\citep{bender2021dangers,santurkar2023whose,feng2023pretraining},
 which over-represents English-language, recent, and Western sources, and it tends
@@ -458,14 +564,14 @@ measurable proxy for reliability. Where independent models agree on the moves, a
 score is more likely to reflect a shared signal than one model's idiosyncrasy;
 where they disagree, the disagreement usefully localizes the contested cases a
 human panel would also flag. Reliability is necessary but not sufficient for
-validity, though --- models trained on overlapping corpora can agree on a shared
-bias --- which is why we treat both inter-model agreement and V-Dem consistency
+validity, though: models trained on overlapping corpora can agree on a shared
+bias, which is why we treat both inter-model agreement and V-Dem consistency
 as evidence about \emph{reliability and consensus}, not accuracy.
 
 \paragraph{When to use which.} We argue the LLM pipeline is best positioned as a
-\emph{scalable first pass and a reproducible baseline} --- generating candidate
+\emph{scalable first pass and a reproducible baseline} (generating candidate
 trajectories over many countries cheaply, surfacing where models disagree, and
-freeing expert attention for the contested cases --- rather than as a replacement
+freeing expert attention for the contested cases) rather than as a replacement
 for expert coding where accountability and contested-case judgment are
 paramount.
 
@@ -481,31 +587,29 @@ work. \emph{Construct compression.} The two axes reduce vast, contested
 constructs to single numbers, and our single state-capacity indicator only
 partially aligns with the theory's notion of state power. \emph{Coverage and
 language bias.} Training corpora over-represent English-language, recent, and
-Western sources --- weakest for exactly three of our cases (Iran, China, Chile),
-and we prompt in English throughout. \emph{Path dependence.} In-context anchoring
+Western sources, weakest for exactly the cases we most need to read carefully
+(Iran, China, Chile, Colombia, and the Congo), and we prompt in English
+throughout. \emph{Path dependence.} In-context anchoring
 can propagate an early mis-score through the whole trajectory; we do not ablate
 it here. \emph{Model idiosyncrasy.} We report the mean-across-models atlas
 (Fig.~\ref{fig:atlas-mean}) as the headline reading and quantify per-axis spread
 (Section~\ref{sec:reliability}); still, all four are English-centric LLMs and may
-share bias. \emph{Structured-output reliability.} The strongest open model we
-tried, Qwen3-235B-A22B, could not reliably emit valid JSON on the longer prompts
-(garbage or degenerate repetition), so we used the previous-generation
-\texttt{qwen-2.5-72b-instruct} --- a practical caveat for open-weight reproduction.
-\emph{Scale and statistics.} Six countries and short per-country series preclude
-cross-national generalization or strong significance claims. We deliberately keep
-the study small; the natural next steps --- a human expert-coder baseline,
-prompt/period-granularity ablations, a non-English prompting probe, and more
-expert indices --- are left to future work.
+share bias. \emph{Scale and statistics.} Eight countries and short per-country
+series preclude cross-national generalization or strong significance claims. We
+deliberately keep the study small; the natural next steps, a purpose-built human
+coding of this exact task (beyond the V-Dem comparison we already report),
+prompt and period-granularity ablations, a non-English prompting probe, and more
+expert indices, are left to future work.
 
 \section{Conclusion}
 We presented, as a proof of concept, a method and a provider-agnostic tool that
 operationalize the Narrow Corridor's (state, society) space into reproducible
 trajectories, together with a protocol for checking their consistency with
 expert consensus and their reliability across models, and released it as a
-one-command exercise. The resulting six-country atlas is a first
+one-command exercise. The resulting eight-country atlas is a first
 quantified rendering of a framework that has been purely qualitative, and the
 accompanying consistency check and bias discussion frame honestly what such
-LLM-generated measurements are --- and are not --- good for.
+LLM-generated measurements are, and are not, good for.
 
 \section*{Reproducibility}
 All code, prompts, the on-disk response cache, and every run (JSON, static

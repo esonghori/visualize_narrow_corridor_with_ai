@@ -1,0 +1,8 @@
+{
+  "society_power": 3.2,
+  "state_power": 3.0,
+  "society_change": -1.3,
+  "state_change": -1.0,
+  "key_event": "Rebellion of 1829-1830 and dissolution of Gran Colombia",
+  "reasoning": "The rebellion and fragmentation weakened both state authority and societal cohesion."
+}

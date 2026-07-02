@@ -1,0 +1,8 @@
+{
+  "society_power": 0.1,
+  "state_power": 5.5,
+  "society_change": -1.1,
+  "state_change": -2.0,
+  "key_event": "Economic decline and ethnic polarization",
+  "reasoning": "Economic mismanagement and ethnic tensions severely weakened both civil society and state capacity."
+}

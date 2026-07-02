@@ -1,0 +1,8 @@
+{
+  "society_power": 4.5,
+  "state_power": 6.8,
+  "key_event": "Republican Hegemony and coffee economy rebuilt state and society.",
+  "reasoning": "The 'Republican Hegemony' created political stability and space for societal organization, while the burgeoning coffee economy provided a financial base for both a more capable state and a newly empowered class of producers. This moved the state towards greater institutional capacity and pulled society out of its post-war atomization.",
+  "society_change": 2.5,
+  "state_change": 0.3
+}

@@ -1,0 +1,23 @@
+Here are the major trends and events in Colombia from 1999-2008, analyzed through the framework of Acemoğlu and Robinson. This period is defined by the state's dramatic attempt to escape the "Absent Leviathan" condition by strengthening its coercive capacity, and society's simultaneous struggle to control that newly empowered state.
+
+### Trends:
+
+*   **Sustained Military Expansion and Professionalization:** Fueled by Plan Colombia (initiated in 2000) and President Uribe’s "Democratic Security" policy, this was a slow, multi-year buildup of the state's military and police capacity. It involved massive increases in troop numbers, funding, and technical capabilities (e.g., U.S.-supplied helicopters).
+    *   **Effect:** **Vastly strengthened the state’s** coercive power, allowing it to reclaim territorial control from guerrillas and paramilitaries and move away from being an "Absent Leviathan."
+*   **Massive Internal Displacement:** The intensification of the conflict during this period created one of the world's largest populations of internally displaced persons (IDPs). This was a continuous demographic shift of millions from rural conflict zones to urban centers.
+    *   **Effect:** **Weakened traditional rural civil society** by shattering local communities and norms. Simultaneously, it created new urban social movements and constituencies making novel demands for services and rights on the state, a complex shift in the composition of **society's power**.
+*   **Economic Growth and Foreign Investment:** Improved security conditions led to a sustained period of economic growth and a surge in foreign direct investment, particularly in mining and oil.
+    *   **Effect:** **Strengthened the state** by significantly expanding its tax base and resources. It also **strengthened a specific segment of society**—the business and financial elite—increasing its influence over state policy.
+*   **Growing Judicial Assertiveness:** Building on the 1991 Constitution, institutions like the Constitutional Court and the Supreme Court became increasingly powerful and independent actors throughout this period.
+    *   **Effect:** **Strengthened society’s** institutional power to check the executive branch. These courts frequently challenged the president on issues of human rights, re-election, and the legal framework for paramilitary demobilization, acting as a critical "shackle" on the growing Leviathan.
+
+### Events:
+
+*   **Collapse of the Caguán Peace Process (February 2002):** The failure of President Pastrana's three-year negotiation with the FARC created a widespread public mandate for a military solution, leading directly to the election of Álvaro Uribe.
+    *   **Effect:** Decisively shifted the political consensus toward **strengthening the state's military power** at the expense of societal efforts for a negotiated peace.
+*   **Formal Demobilization of the AUC Paramilitaries (2003-2006):** A negotiated process in which the United Self-Defense Forces of Colombia (AUC), a massive paramilitary federation, formally laid down its arms under the Justice and Peace Law.
+    *   **Effect:** A complex event that nominally **strengthened the state's** monopoly on violence by disarming a major non-state actor. However, the flawed process and revelations of state collusion (see Parapolitics) showed the profound weakness and penetration of the state that had allowed the AUC to exist.
+*   **The "Parapolitics" Scandal (Erupted c. 2006):** Investigations by the Supreme Court uncovered systematic, high-level collusion between dozens of politicians—many from the president's governing coalition—and the AUC paramilitary groups.
+    *   **Effect:** A powerful assertion of **society's power**, channeled through an independent judiciary and a free press, to hold the political class accountable. It revealed the state's corruption while simultaneously demonstrating society's capacity to challenge it (a classic "Red Queen" dynamic).
+*   **The "False Positives" Scandal (Revealed in 2008):** It was publicly exposed that Colombian Army units, under pressure to produce high body counts, had systematically murdered thousands of civilians and disguised them as guerrillas killed in combat.
+    *   **Effect:** Exposed the despotic, unaccountable character of the newly strengthened state military, **weakening the state's legitimacy**. The subsequent outcry and investigations, driven by human rights organizations and prosecutors, represented a crucial pushback from **civil society** against the state's brutal overreach.

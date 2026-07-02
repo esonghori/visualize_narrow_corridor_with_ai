@@ -1,0 +1,8 @@
+{
+  "society_power": 3.5,
+  "state_power": 3.0,
+  "key_event": "Formation of Gran Colombia and struggle for central control.",
+  "reasoning": "The new state of Gran Colombia was weak, with a nascent bureaucracy struggling to administer a vast, difficult territory and project authority over powerful regional caudillos. Society's power was also weak, characterized by fragmentation and elite-led factions rather than broad, independent civic institutions capable of holding the state accountable.",
+  "society_change": 0.0,
+  "state_change": 0.0
+}

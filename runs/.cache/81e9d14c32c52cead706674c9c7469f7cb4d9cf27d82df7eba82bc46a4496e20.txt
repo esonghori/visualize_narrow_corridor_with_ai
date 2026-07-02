@@ -1,0 +1,8 @@
+{
+  "society_power": 3.5,
+  "state_power": 4.0,
+  "society_change": 0.0,
+  "state_change": 0.0,
+  "key_event": "Simón Bolívar's leadership in independence",
+  "reasoning": "Civil society was weak but beginning to organize. The state had limited reach and depended on local powerbrokers."
+}

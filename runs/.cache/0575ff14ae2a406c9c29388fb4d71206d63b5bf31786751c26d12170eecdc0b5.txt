@@ -1,0 +1,8 @@
+{
+  "society_power": 1.2,
+  "state_power": 4.5,
+  "society_change": 1.1,
+  "state_change": -1.0,
+  "key_event": "1990 Protests and Demands for Democracy",
+  "reasoning": "Protests and CNS initially strengthened civil society, but state power weakened due to economic decline and corruption."
+}

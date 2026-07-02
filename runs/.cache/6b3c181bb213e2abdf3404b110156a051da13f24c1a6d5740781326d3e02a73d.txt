@@ -1,0 +1,8 @@
+{
+  "society_power": 4.0,
+  "state_power": 3.5,
+  "society_change": -2.5,
+  "state_change": -1.5,
+  "key_event": "Assassination of Gaitán and La Violencia",
+  "reasoning": "Political polarization, repression, and civil conflict significantly weakened civil society and state capacity."
+}

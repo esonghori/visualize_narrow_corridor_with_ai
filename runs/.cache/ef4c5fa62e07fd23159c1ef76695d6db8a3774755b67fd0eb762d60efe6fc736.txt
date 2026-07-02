@@ -1,0 +1,8 @@
+{
+  "society_power": 4.0,
+  "state_power": 5.5,
+  "key_event": "The 'Regeneration' creates the centralist Constitution of 1886.",
+  "reasoning": "The 'Regeneration' movement, victorious in the civil war of 1884-85, created a new constitution that established a powerful, centralized state and a national army. This crushed the power of the regional liberal elites who had previously dominated society, drastically reducing society's ability to constrain the state.",
+  "society_change": -3.0,
+  "state_change": 3.5
+}

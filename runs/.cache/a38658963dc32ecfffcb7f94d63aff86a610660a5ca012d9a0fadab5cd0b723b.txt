@@ -1,0 +1,26 @@
+Based on the framework in *The Narrow Corridor*, here are the major trends and events in Colombia from 1889-1898 that affected the balance of power between the state and society. This period is the height of the *Regeneración*, a conservative, centralizing project that dramatically shifted this balance.
+
+### Trends:
+
+*   **Consolidation of the 1886 Constitution:** This slow-moving institutional trend was the defining feature of the era. The new constitution dismantled the previous federalist system, creating a powerful, unitary, and centralized state. It explicitly fused the state with the Catholic Church, making Catholicism the state religion and giving the Church control over education.
+    *   **Effect:** Massively **strengthened the state** by centralizing fiscal, military, and political power. It simultaneously **weakened civil society** by suppressing regional autonomy, political pluralism (especially for the Liberal party), and secular thought.
+
+*   **Expansion of Coffee Cultivation:** The rapid growth of coffee as the country's primary export created a new, powerful economic class of landowners and merchants. This trend tied Colombia's economy, and thus the state's fiscal health (via tariffs), to volatile international markets.
+    *   **Effect:** Ambiguous. It **strengthened a segment of society** (the coffee elite), giving them economic power that could potentially be used to influence or challenge the state. However, it also gave the state a new, potent source of revenue that could enhance its capacity, creating a dependency between the two.
+
+*   **Development of National Infrastructure (Railroads & Telegraphs):** While limited, the continued construction of railway lines and telegraph networks, controlled by the central government, was a key trend in state-building. These technologies allowed for faster communication and deployment of the national army.
+    *   **Effect:** **Strengthened the state** by increasing its ability to project power, suppress regional dissent, and integrate the national territory under central control.
+
+### Events:
+
+*   **The Liberal Rebellion of 1895:** Disenfranchised by the *Regeneración* government, the Liberal party launched a short-lived civil war. The national army, professionalized under the new constitution, swiftly and decisively crushed the rebellion.
+    *   **Effect:** The rebellion was an expression of **societal power** attempting to resist the state. Its decisive failure and the subsequent repression massively **strengthened the state**, demonstrating its newfound coercive capacity and deterring further opposition for a time.
+
+*   **Death of President Rafael Núñez (1894):** The death of the primary architect of the *Regeneración* led to the full presidency of his vice president, the more dogmatic and intransigent Miguel Antonio Caro. Caro intensified the project's authoritarian and exclusionary aspects.
+    *   **Effect:** **Strengthened the state's** ideological rigidity and centralizing character while further alienating and **weakening the formal political power of opposition society** (Liberals and moderate Conservatives).
+
+*   **Collapse of International Coffee Prices (c. 1897-1898):** After a period of high prices, the global coffee market crashed. This had a devastating impact on the Colombian economy, slashing export revenues and government income from tariffs.
+    *   **Effect:** **Weakened the state** by crippling its finances and ability to function. It also **weakened a key segment of society** (the coffee elite), creating economic desperation that would fuel the political crisis leading to the War of a Thousand Days in 1899.
+
+*   **The "Law of the Horses" (Ley 61 de 1888):** Though enacted just before this period, its application throughout the 1890s was a critical tool. This law granted the executive extraordinary powers to suppress press freedom and imprison political opponents without trial, ostensibly to prevent threats to public order.
+    *   **Effect:** An event-like application of a legal tool that vastly **strengthened the state's** repressive power and **weakened society's** ability to organize, dissent, and hold the government accountable.

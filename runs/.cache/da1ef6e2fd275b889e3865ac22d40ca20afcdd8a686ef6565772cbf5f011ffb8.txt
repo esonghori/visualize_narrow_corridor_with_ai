@@ -1,0 +1,23 @@
+Based on Acemoğlu and Robinson's framework, here are the major historical trends and events in Colombia from 1859-1868 that affected the balance of power between the state and society.
+
+### Trends:
+
+*   **Ascendancy of Radical Liberal Ideology:** The period was dominated by an ideology that championed extreme federalism, individual liberties, and anti-clericalism. This intellectual trend provided the justification for dismantling central authority in favor of regional autonomy.
+    *   **Effect:** Fundamentally **weakened the central state** by design and **strengthened society**, primarily by empowering regional elites and local political structures over the national government.
+
+*   **Economic Liberalization and *Desamortización*:** The ongoing process of seizing and auctioning vast landholdings from the Catholic Church transferred enormous wealth and influence. This created a new class of Liberal-aligned landowners and weakened the Church, which had been a rival power center to the state.
+    *   **Effect:** **Weakened a key institution of civil society (the Church)** while **strengthening another part of society (new economic elites)**. It also provided a short-term fiscal boost to the nascent Liberal state.
+
+*   **Consolidation of Regional Caudillismo:** The weakness of the central government allowed regional political and military strongmen (*caudillos*) to entrench their power. These leaders commanded private armies and exercised de facto sovereignty, challenging the state's monopoly on violence.
+    *   **Effect:** Profoundly **weakened the central state** and **strengthened a fragmented and militarized civil society**, leading to persistent instability and preventing the emergence of a broad-based, unified society.
+
+### Events:
+
+*   **The Colombian Civil War (1860-1862):** Liberal General Tomás Cipriano de Mosquera led a successful military rebellion against the conservative central government of the Granadine Confederation, ultimately dissolving it.
+    *   **Effect:** A direct event that **destroyed the existing state** and demonstrated the **superior power of a mobilized segment of society** (in this case, a coalition of regional armies) over the national army.
+
+*   **The Rionegro Convention and Constitution of 1863:** The victorious Liberals drafted a new constitution creating the "United States of Colombia." It established nine "sovereign states," a tiny central army, a two-year presidential term with no immediate re-election, and absolute rights of free press, speech, and bearing arms.
+    *   **Effect:** Institutionally codified the extreme **weakening of the central state** to the point of near impotence and constitutionally **strengthened both individual liberties and the power of regional governments (society)**.
+
+*   **Mosquera's Decrees Seizing Church Assets (1861):** As provisional president during the war, Mosquera issued decrees for the *desamortización de bienes de manos muertas*, ordering the expropriation of all Church property.
+    *   **Effect:** A decisive action by a state actor that **dramatically weakened a powerful institution in civil society (the Church)**, stripping it of its economic power and political influence. This simultaneously **strengthened the state** by eliminating a rival and seizing its wealth.

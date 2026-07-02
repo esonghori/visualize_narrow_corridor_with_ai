@@ -1,0 +1,8 @@
+{
+  "society_power": 5.0,
+  "state_power": 5.5,
+  "key_event": "National Front pact enables state centralization but radicalizes society.",
+  "reasoning": "The elite National Front pact ended partisan warfare, enabling significant state modernization and centralization that increased state power. This political exclusion demobilized mainstream society but also fueled the growth of new organized movements like peasants and guerrillas, reconfiguring societal power without a net change.",
+  "society_change": 0.0,
+  "state_change": 2.0
+}

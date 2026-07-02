@@ -1,0 +1,8 @@
+{
+  "society_power": 3.0,
+  "state_power": 4.5,
+  "key_event": "Shaba invasions reveal state weakness as societal opposition organizes.",
+  "reasoning": "The state's functional and military capacity collapsed, as revealed by its reliance on foreign intervention during the Shaba invasions. Simultaneously, societal power began to coalesce with the rise of the Catholic Church as a parallel provider of services and the formation of the UDPS as an organized political opposition.",
+  "society_change": 2.0,
+  "state_change": -3.0
+}

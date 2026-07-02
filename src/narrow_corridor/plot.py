@@ -22,13 +22,17 @@ def _bounds(x: list[float], y: list[float]) -> tuple[float, float]:
 
 
 def _draw_corridor(ax, lo: float, hi: float) -> None:
-    """Illustrative constant-width band around the diagonal (|state - society| <= w).
+    """The book's *widening* corridor around the diagonal.
 
-    Drawn near the diagonal at constant width as a deliberate simplification of
-    the book's widening corridor (see the paper's Method, "The space").
+    In Acemoglu & Robinson the corridor is narrow where state and society are
+    both weak (bottom-left) and widens as the two powers grow together
+    (top-right): liberty gets easier to sustain once both are strong. We render
+    that as a band whose half-width grows linearly along the diagonal, from
+    narrow at ``lo`` to wide at ``hi``, so the two dashed boundaries diverge.
     """
     x_line = np.array([lo, hi])
-    w = (hi - lo) * 0.08
+    span = hi - lo
+    w = np.array([span * 0.03, span * 0.18])  # narrow at bottom-left, wide at top-right
     ax.plot(x_line, x_line + w, "--", color="green")
     ax.plot(x_line, x_line - w, "--", color="green")
 
@@ -132,7 +136,10 @@ def plot_path(
     ax.set_ylim(lo, hi)
     ax.set_xticks([])
     ax.set_yticks([])
-    ax.set_title(f"State vs Society Power in {path.country}")
+    m = (path.model or "").lower()
+    tag = (" (ensemble mean)" if m.startswith("ensemble")
+           else " (V-Dem)" if m.startswith(("v-dem", "vdem")) else "")
+    ax.set_title(f"State vs Society Power in {path.country}{tag}")
     if lc is not None:
         _year_colorbar(fig, ax, lc, path.periods)
 

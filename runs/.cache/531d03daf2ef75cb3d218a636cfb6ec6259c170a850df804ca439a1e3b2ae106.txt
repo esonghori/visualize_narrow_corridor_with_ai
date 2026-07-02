@@ -1,0 +1,8 @@
+{
+  "society_power": 6.0,
+  "state_power": 5.8,
+  "key_event": "Uribe's 'Democratic Security' policy expands state military capacity.",
+  "reasoning": "The state's coercive power surged under Plan Colombia and the 'Democratic Security' policy, allowing it to reclaim territory from armed groups. In response, society's institutional power, especially an assertive judiciary and free press, grew to challenge state overreach and corruption in a classic Red Queen dynamic.",
+  "society_change": 0.5,
+  "state_change": 2.8
+}

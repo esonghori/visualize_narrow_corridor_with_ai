@@ -1,0 +1,8 @@
+{
+  "society_power": 6.5,
+  "state_power": 2.0,
+  "key_event": "Rionegro Constitution creates an extremely weak federal state.",
+  "reasoning": "A civil war and the subsequent Rionegro Constitution deliberately dismantled central authority, creating a state with almost no power to project force or enforce its will. This radical federalism transferred power to regional caudillos and sovereign states, a fragmented but potent form of societal power that now completely dominated the national government.",
+  "society_change": 1.0,
+  "state_change": -1.5
+}

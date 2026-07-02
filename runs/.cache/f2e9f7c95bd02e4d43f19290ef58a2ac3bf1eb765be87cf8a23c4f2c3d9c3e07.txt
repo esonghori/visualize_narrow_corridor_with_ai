@@ -1,0 +1,8 @@
+{
+  "society_power": 0.6,
+  "state_power": 9.2,
+  "key_event": "The \"War Effort\" (L'effort de guerre) massively intensified extraction.",
+  "reasoning": "The Allied war effort gave the colonial state an urgent mandate to intensify its already powerful extractive and coercive capacities to overwhelming levels. This same effort further crushed a weak civil society through forced labor, forced cultivation, and the brutal suppression of any organized resistance.",
+  "society_change": -0.2,
+  "state_change": 0.7
+}

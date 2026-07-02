@@ -1,0 +1,8 @@
+{
+  "society_power": 0.8,
+  "state_power": 8.5,
+  "key_event": "Systematic extraction and suppression amid the Great Depression.",
+  "reasoning": "The colonial state demonstrated its immense coercive power by brutally crushing the Pende Revolt and suppressing Kimbanguism, especially as it intensified extraction during the Depression. This process simultaneously destroyed autonomous societal organizations and co-opted traditional leadership, further atomizing the Congolese population and weakening its capacity for collective action.",
+  "society_change": -0.4,
+  "state_change": 0.3
+}

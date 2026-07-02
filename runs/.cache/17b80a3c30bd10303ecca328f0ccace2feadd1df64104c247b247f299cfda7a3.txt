@@ -1,0 +1,21 @@
+# Colombia, 1909–1918: Acemoğlu–Robinson Framework
+
+A caveat up front: Acemoğlu and Robinson treat Colombia as a paradigmatic case of a **weak state with a fragmented, unevenly mobilized society**—the state never fully penetrates the periphery, and local power holders substitute for absent central authority. The 1909–1918 window sits in the aftermath of the Thousand Days' War (1899–1902) and the loss of Panama (1903), during the "Republican" reconstruction period. Here is my best concrete reconstruction, with the caveat that dating some slow trends precisely to this decade is approximate.
+
+**Trends:**
+- **Coffee-export expansion**, especially smallholder cultivation in Antioquia, Caldas, and the western *cordillera*—broadened a landowning/producing class and generated fiscal revenue; modestly strengthened *both* state capacity (customs income) and society (relatively decentralized, non-latifundist producers).
+- **Antioqueño colonization (*colonización antioqueña*)** of frontier lands continuing into this period—expanded settlement into a state-thin periphery; strengthened local society/self-organization but left the *central* state largely absent, reinforcing the "shackled/paper leviathan" pattern.
+- **Slow railroad and infrastructure buildout** tying export regions to ports—incrementally raised state fiscal reach and market integration, though geography kept penetration shallow.
+- **Bipartisan (Liberal–Conservative) elite accommodation** institutionalizing power-sharing after the civil war—stabilized elite politics and strengthened the state's *formal* durability, but channeled participation through patronage rather than broad civil-society autonomy.
+- **Persistent regional fragmentation and clientelism**—chronic weakness of central authority in the periphery; kept the Leviathan weak and left order dependent on local strongmen.
+
+**Events:**
+- **The Reyes dictatorship's collapse and Reyes's resignation (1909)**—popular/elite mobilization (including the March 1909 protests) forced out authoritarian centralization; a discrete moment strengthening society's check on executive power.
+- **The 1910 constitutional reform / National Assembly**—curtailed presidential powers, shortened the term, banned immediate re-election, and adjusted electoral rules (limited minority representation); institutionally strengthened constraints on the state and modestly widened political society.
+- **Election of Carlos E. Restrepo and the "Republican Union" (1910)**—a bipartisan reformist government embodying elite reconciliation; strengthened state legitimacy/stability post–civil war.
+- **Thomson–Urrutia Treaty negotiations over Panama (signed 1914)**—diplomatic effort to obtain U.S. compensation; a state-capacity/sovereignty matter, though ratification was delayed beyond this window.
+- **WWI-driven trade disruption (1914 onward)**—shocked export revenues and shipping, straining state finances and export-sector society; generally a weakening pressure on both.
+
+**Bottom line:** The decade shows a *modest strengthening of constraints on the state* (1909–1910 reforms) and *incremental economic/societal broadening via coffee and colonization*, set against enduring central-state weakness—consistent with A&R's placement of Colombia outside, or precariously near, the corridor.
+
+If you need this pinned to specific archival dates or figures, I'd recommend verifying the finer chronology, since my confidence is higher on the political-institutional events than on exact economic magnitudes.

@@ -7,8 +7,10 @@ and tables, and interpret the results. All commands run from the **repo root**.
 
 | Paper element | Script | Output |
 |---|---|---|
-| §Setup generation (6 countries × 4 models) | `paper/experiments/run_experiments.py` | `paper/experiments/results/<country>__<model>.{json,png,gif}` |
+| §Setup generation (8 countries × 4 models) | `paper/experiments/run_experiments.py` | `paper/experiments/results/<country>__<model>.{json,png,gif}` |
 | Fig. 1 Trajectory atlas (reference model) | (above) + `\atlas{}` in `main.tex` | PNG panels, assembled by LaTeX |
+| Fig. 2 Ensemble atlas (mean across models) | `paper/experiments/ensemble.py` | `results/<country>__ensemble-mean.{json,png}` |
+| Fig. 3 One-map combined atlas | `paper/experiments/atlas_combined.py` | `results/all-countries__ensemble-mean.png` |
 | §Consistency with V-Dem (Table 2) | `paper/experiments/analysis.py` | `paper/tables/validation.tex` |
 | §Model comparison & reliability (Table 1) | `paper/experiments/analysis.py` | `paper/tables/intermodel.tex` |
 | §Cross-country patterns (prose) | `paper/experiments/summarize.py` | `paper/experiments/derived/summary.csv` + stdout |
@@ -33,9 +35,9 @@ cp .env.example .env      # add keys for the providers you want
 - **V-Dem CSV** (for Table 2 only): download the V-Dem dataset CSV to
   `paper/experiments/external/vdem.csv`. See §Step 2. Without it, Table 2 is
   written with placeholders and the paper still compiles.
-- **Cost**: ~944 LLM calls per full sweep (1–2 per period × 121 country-periods ×
-  4 models). With each provider's strongest model the estimate is **≈ $8, range
-  $5–15** — dominated by `claude-opus-4-8`, `gpt-5`, and `gemini-3.5-pro`; the
+- **Cost**: ~1,200 LLM calls per full sweep (1–2 per period × ~156 country-periods ×
+  4 models). With each provider's strongest model the estimate is **≈ $10, range
+  $6–18** — dominated by `claude-opus-4-8`, `gpt-5`, and `gemini-3.5-pro`; the
   open-weight Qwen is cents. Reasoning-tier models (`gpt-5`, Gemini Pro) emit
   hidden reasoning tokens, so their output cost and wall-clock (≈ 1–2 h,
   sequential) are the least predictable part. Responses are cached under
@@ -61,14 +63,14 @@ uv run python paper/experiments/run_experiments.py --models anthropic/claude-opu
 
 Get the V-Dem **Country-Year: Full+Others** dataset from
 <https://www.v-dem.org/data/the-v-dem-dataset/> (the full CSV is ~406 MB and
-~4,600 columns). Slim it to the four columns we need for the six countries into
+~4,600 columns). Slim it to the four columns we need for the eight countries into
 `paper/experiments/external/vdem.csv` (gitignored — V-Dem is a third-party input,
 not our data). If the zip is at `runs/V-Dem-CY-FullOthers-v16_csv.zip`:
 
 ```bash
 uv run python - <<'PY'
 import zipfile, csv, io
-KEEP = {"Iran","France","United Kingdom","United States of America","China","Chile"}
+KEEP = {"Iran","France","United Kingdom","United States of America","China","Chile","Colombia","Democratic Republic of the Congo"}
 COLS = ["country_name","year","v2xcs_ccsi","v2svstterr"]
 zf = zipfile.ZipFile("runs/V-Dem-CY-FullOthers-v16_csv.zip")
 with zf.open("V-Dem-CY-Full+Others-v16.csv") as f:
@@ -114,6 +116,18 @@ Writes `paper/experiments/results/<country>__ensemble-mean.{json,png}`, averagin
 society/state power across all available models per period (reference-model key
 events supply the turn labels). This is the paper's headline reading; the
 single-model atlas (Fig. 1) stays for legibility.
+
+Then build the **one-map combined atlas** — Figure 3 — which overlays every
+country's ensemble-mean path in a single shared (society, state) space (the
+book's single-plane view; the shared rubric is what makes the cross-country
+numbers comparable):
+
+```bash
+uv run python paper/experiments/atlas_combined.py
+```
+
+Writes `paper/experiments/results/all-countries__ensemble-mean.png`. Needs the
+ensemble runs above, so run `ensemble.py` first.
 
 ## Step 4 — Build the gallery
 
@@ -169,7 +183,7 @@ then 1990 redemocratization). Note both matches (consensus captured) and misses
 **Caveats to state whenever you report a number.** (1) V-Dem overlap → concurrent
 consistency, not accuracy. (2) Coverage/language bias is worst for Iran, China,
 Chile (English prompts, sparser training data). (3) The atlas is one reference
-model — cross-model spread is in Table 1. (4) Six countries, short series → no
+model — cross-model spread is in Table 1. (4) Eight countries, short series → no
 significance/generalization claims.
 
 ## Filling the paper's `\ph{...}` placeholders

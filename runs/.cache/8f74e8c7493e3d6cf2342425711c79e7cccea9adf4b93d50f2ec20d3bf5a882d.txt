@@ -1,0 +1,29 @@
+I should be transparent about a key limitation: my knowledge is not reliable for the full 2019–2028 window, and I cannot verify developments in the later years of that range. Below I distinguish what I can speak to with reasonable confidence (roughly 2019–2024) from what would be speculation. I've flagged uncertainty where relevant rather than inventing specifics.
+
+Applying Acemoğlu and Robinson's framework (state capacity vs. society's mobilization, and whether they stay in the "corridor"):
+
+**Trends:**
+
+- **Post-FARC state penetration into ungoverned territories (slow, uneven).** Following the 2016 peace accord's implementation through this period, the state attempted to extend administrative reach into former FARC areas. Weakly executed—dissident groups, ELN, and criminal economies filled vacuums—so this arguably *weakened* the state's effective monopoly on violence more than it strengthened it. A classic "paper Leviathan" dynamic.
+
+- **Migration from Venezuela (demographic).** Absorption of roughly 2+ million Venezuelans strained public services and local governance capacity, testing state administrative capacity; a mixed effect—it revealed state weakness but also prompted institutional responses (regularization schemes).
+
+- **Growth and mobilization of civil society/protest culture.** A sustained trend of increasingly organized social movements—labor, students, Indigenous, feminist—*strengthened society's* capacity to constrain and demand from the state.
+
+- **Persistent illicit economies (coca, gold, extortion).** Ongoing entrenchment of non-state armed actors and rents *weakened the state* and, in affected regions, weakened autonomous civil society through coercion.
+
+- **Assassination of social leaders and ex-combatants (chronic).** A continuing pattern that *weakened civil society* by targeting local organizers and signaled state incapacity to protect.
+
+**Events:**
+
+- **2019 municipal/regional elections and late-2019 national strike wave (Paro Nacional).** Mass mobilization *strengthened society* as a countervailing force.
+
+- **2021 National Strike.** Large-scale protest against tax reform and inequality met with heavy police response; strengthened society's mobilization while exposing—and being met by—coercive state capacity (a corridor-tension moment).
+
+- **2022 election of Gustavo Petro (first left-wing president).** A discrete political realignment; effect on the state–society balance is genuinely ambiguous in A&R terms and depends on subsequent governance.
+
+- **COVID-19 pandemic (2020–21).** Prompted emergency executive powers and fiscal expansion (potentially *strengthening state* capacity/reach) while economic shock intensified grievances feeding later mobilization.
+
+- **ELN and dissident negotiations / "Total Peace" initiatives (2022 onward).** Attempts to reduce non-state armed power; outcomes uncertain and contested.
+
+**Important caveat:** For roughly **2025–2028**, I don't have reliable information and won't fabricate events, election outcomes, or policy results. If you have sources for that window, I can help you analyze them through the *Narrow Corridor* lens. Also please independently verify the specific claims above, as details in politically contested, recent events are easy to get slightly wrong.

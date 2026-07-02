@@ -1,0 +1,8 @@
+{
+  "society_power": 5.5,
+  "state_power": 6.0,
+  "society_change": 1.0,
+  "state_change": 1.0,
+  "key_event": "2016 Peace Agreement with FARC",
+  "reasoning": "The peace agreement with FARC strengthened civil society by reducing violence and fostering political participation, while also increasing state capacity through improved governance and security measures."
+}

@@ -1,0 +1,8 @@
+{
+  "society_power": 0.8,
+  "state_power": 7.0,
+  "key_event": "Annexation by Belgium establishes formal colonial state (1908).",
+  "reasoning": "The annexation by Belgium replaced Leopold's personal rule with a more systematic and bureaucratic colonial state, significantly increasing its power, while further atomizing society by legally formalizing its subjugation and co-opting traditional authorities.",
+  "society_change": -0.2,
+  "state_change": 1.5
+}

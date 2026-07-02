@@ -1,0 +1,8 @@
+{
+  "society_power": 6.2,
+  "state_power": 3.8,
+  "society_change": 0.7,
+  "state_change": -1.0,
+  "key_event": "Growing discontent with Conservative oligarchy and economic crises",
+  "reasoning": "Economic instability and political discontent strengthened civil society while weakening state power."
+}

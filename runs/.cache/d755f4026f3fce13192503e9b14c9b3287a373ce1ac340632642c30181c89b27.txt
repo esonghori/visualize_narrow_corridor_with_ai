@@ -1,0 +1,8 @@
+{
+  "society_power": 5.0,
+  "state_power": 2.0,
+  "society_change": -1.5,
+  "state_change": -1.5,
+  "key_event": "Escalation of armed conflict and drug trafficking",
+  "reasoning": "The intensification of conflict and the rise of drug cartels severely undermined both state authority and civil society organization."
+}

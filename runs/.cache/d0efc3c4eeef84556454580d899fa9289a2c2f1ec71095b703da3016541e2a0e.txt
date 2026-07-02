@@ -1,0 +1,8 @@
+{
+  "society_power": 7.8,
+  "state_power": 6.4,
+  "key_event": "Mass protests and the election of the first leftist president.",
+  "reasoning": "Society's power surged through massive national protests that successfully challenged state policy and culminated in a historic presidential election. State power eroded due to deepening political gridlock, loss of territorial control to armed groups, and the public failures of its 'Total Peace' policy.",
+  "society_change": 0.8,
+  "state_change": -0.8
+}

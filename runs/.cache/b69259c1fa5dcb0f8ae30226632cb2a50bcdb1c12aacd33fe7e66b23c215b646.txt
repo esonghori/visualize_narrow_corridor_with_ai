@@ -1,0 +1,8 @@
+{
+  "society_power": 1.0,
+  "state_power": 5.5,
+  "key_event": "The 'red rubber' system intensified state extraction and terror.",
+  "reasoning": "The state's coercive power grew immensely through the brutally efficient 'red rubber' system, while society was atomized by forced labor, demographic collapse, and the destruction of its traditional leadership.",
+  "society_change": -2.2,
+  "state_change": 2.5
+}

@@ -1,0 +1,8 @@
+{
+  "society_power": 5.0,
+  "state_power": 3.5,
+  "key_event": "La Violencia, the Rojas dictatorship, and the National Front.",
+  "reasoning": "The state nearly collapsed during La Violencia, then was reconstituted as a military dictatorship, leaving it weak and dependent on elite pacts. Society's power became self-destructive, was suppressed, and then reemerged in the 1957 general strike, though it was severely fractured by the conflict.",
+  "society_change": -2.5,
+  "state_change": -0.5
+}

@@ -1,0 +1,8 @@
+{
+  "society_power": 0.5,
+  "state_power": 7.5,
+  "society_change": 0.1,
+  "state_change": 0.2,
+  "key_event": "World War II and increased resource extraction",
+  "reasoning": "State power increased due to WWII resource demand, while civil society saw limited gains from resistance."
+}

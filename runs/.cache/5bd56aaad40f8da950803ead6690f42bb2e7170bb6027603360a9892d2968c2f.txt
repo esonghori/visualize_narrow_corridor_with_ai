@@ -1,0 +1,8 @@
+{
+  "society_power": 1.0,
+  "state_power": 4.0,
+  "society_change": 0.0,
+  "state_change": 0.0,
+  "key_event": "Congo Free State established under Leopold II",
+  "reasoning": "Civil society was largely atomized under Leopold II's control; the state, while weak, had limited administrative reach and coercive power through local powerbrokers."
+}

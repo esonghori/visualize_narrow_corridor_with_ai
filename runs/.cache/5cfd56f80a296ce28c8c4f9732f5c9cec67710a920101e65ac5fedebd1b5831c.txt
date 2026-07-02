@@ -1,0 +1,8 @@
+{
+  "society_power": 0.8,
+  "state_power": 7.4,
+  "society_change": -1.7,
+  "state_change": -1.1,
+  "key_event": "Formation of MNC and 1946 Léopoldville strike",
+  "reasoning": "Despite initial strengthening of society through labor movements and the MNC, overall civil society remained weak, while state power slightly decreased due to growing resistance."
+}

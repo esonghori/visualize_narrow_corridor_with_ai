@@ -1,0 +1,8 @@
+{
+  "society_power": 2.0,
+  "state_power": 6.5,
+  "key_event": "Thousand Days' War and authoritarian reconstruction under Reyes.",
+  "reasoning": "The Thousand Days' War shattered the state, whose power was then rebuilt under Reyes's authoritarian, centralizing project. This new despotic state further crushed an already weak civil society, whose institutions like Congress were dissolved.",
+  "society_change": -0.5,
+  "state_change": -0.5
+}

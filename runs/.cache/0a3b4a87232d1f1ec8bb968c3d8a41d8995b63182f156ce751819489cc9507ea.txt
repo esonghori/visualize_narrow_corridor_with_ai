@@ -1,0 +1,8 @@
+{
+  "society_power": 4.0,
+  "state_power": 3.0,
+  "key_event": "Post-war state-building and first democratic elections.",
+  "reasoning": "The state was rebuilt from near-total collapse after the Congo Wars, holding its first elections, though its reach remained highly contested. Society professionalized through NGOs and new technology, but its ability to hold the state accountable proved limited, as shown by the fraudulent 2011 election.",
+  "society_change": 0.5,
+  "state_change": 2.5
+}

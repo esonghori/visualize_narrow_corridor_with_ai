@@ -1,0 +1,27 @@
+# Congo Free State / Belgian Congo, 1905–1914
+
+Applying Acemoğlu and Robinson's framework, this period covers the transition from Leopold II's personal rule to formal Belgian colonial administration. In *Narrow Corridor* terms, this is a case of a **Despotic Leviathan** (extractive, coercive state power) imposed on societies whose autonomous capacity was systematically crushed—pushing the region further outside the corridor.
+
+## Trends
+
+- **Consolidation of an extractive, coercive state apparatus** (slow-moving, institutional): The rubber/ivory concession system and the Force Publique built up centralized despotic capacity to compel labor. This *strengthened* the state's coercive power while *weakening* society's ability to resist.
+
+- **Demographic collapse** (slow-moving, demographic): Massive population decline from violence, forced labor, disease, and falling birth rates depopulated communities. This *weakened* society by destroying the social networks and communal structures needed for collective resistance.
+
+- **Destruction/co-optation of indigenous authority** (slow-moving, institutional): Traditional chieftaincies were dismantled or turned into instruments of labor extraction ("indirect rule" distortions). This *weakened* autonomous society by degrading pre-existing norms and organizational capacity ("cage of norms" itself disrupted, but replaced by state coercion).
+
+- **Shift from wild-rubber extraction toward mining/plantation capital** (slow-moving, economic): As wild rubber prices fell and vines were exhausted, capital moved toward Katanga copper (Union Minière, 1906) and organized concessions. This *strengthened* the state–corporate nexus's economic base.
+
+## Events
+
+- **Publication of the Casement Report (1904) and mounting Congo Reform Association campaign (peaking 1905–1908)** (event): International pressure via E.D. Morel and reformers. This modestly *strengthened* external constraints on the state—but was foreign civil society, not Congolese.
+
+- **Belgian annexation—Congo Free State becomes Belgian Congo (November 1908)** (event): Transfer from Leopold's personal ownership to the Belgian state under the *Colonial Charter*. This nominally reformed but *institutionalized and legitimized* state power under metropolitan bureaucracy.
+
+- **Founding of Union Minière du Haut Katanga (1906)** (event): Established the mining-capital order structuring Katanga. This *strengthened* the extractive state–corporate economy.
+
+- **Continued armed revolts and their suppression** (events): Recurrent local uprisings against forced labor and the Force Publique. Attempts by society to reassert autonomy were repeatedly *crushed*, reinforcing state dominance.
+
+---
+
+**Caveat:** The reliability of quantitative claims (especially mortality figures) for this period is contested, and A&R's binary state-vs-society lens can understate how colonial rule simultaneously destroyed *and* imposed new forms of local authority—so the "society" being weakened is itself a moving analytical target.

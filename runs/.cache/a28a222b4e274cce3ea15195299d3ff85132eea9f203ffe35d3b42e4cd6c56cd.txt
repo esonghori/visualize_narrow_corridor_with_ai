@@ -1,0 +1,8 @@
+{
+  "society_power": 3.2,
+  "state_power": 3.0,
+  "key_event": "Establishment of Leopold II's brutal Congo Free State.",
+  "reasoning": "The new Congo Free State was a predatory, extractive entity with limited administrative reach but brutal enforcement via its private army, the Force Publique. Diverse Congolese societies mounted localized resistance but were too fragmented to collectively constrain the new regime.",
+  "society_change": 0.0,
+  "state_change": 0.0
+}

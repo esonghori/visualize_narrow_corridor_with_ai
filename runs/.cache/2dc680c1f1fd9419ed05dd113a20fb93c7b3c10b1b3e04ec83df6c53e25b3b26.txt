@@ -1,0 +1,8 @@
+{
+  "society_power": 5.5,
+  "state_power": 7.8,
+  "key_event": "The 'Dance of the Millions' fuels state building and labor.",
+  "reasoning": "A massive influx of foreign capital via the 'Dance of the Millions' and fiscal modernization from the Kemmerer Mission dramatically increased the state's administrative and coercive capacity. Simultaneously, economic growth fostered organized labor, strengthening society's ability to mobilize, although this was brutally checked by the newly empowered state during the 1928 Banana Massacre.",
+  "society_change": 1.0,
+  "state_change": 1.0
+}

@@ -1,0 +1,8 @@
+{
+  "society_power": 7.0,
+  "state_power": 2.0,
+  "key_event": "The Civil War of the Schools (1876-77) reveals state weakness.",
+  "reasoning": "The Radical Liberal constitution kept the central state exceptionally weak, a fact confirmed when societal actors (the Church, regional elites) successfully waged a civil war to resist state education policy, demonstrating society's immense power to contest the state.",
+  "society_change": 0.5,
+  "state_change": 0.0
+}

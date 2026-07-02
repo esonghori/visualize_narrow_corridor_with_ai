@@ -1,0 +1,8 @@
+{
+  "society_power": 3.7,
+  "state_power": 3.5,
+  "key_event": "Disputed elections and elite pacts subvert democratic aspirations.",
+  "reasoning": "State power increased slightly as President Tshisekedi consolidated central authority, though it remains weak with no monopoly on violence in the east. Society's power to mobilize was demonstrated in mass protests but ultimately weakened by elite pacts and fraudulent elections that subverted the popular will.",
+  "society_change": -0.3,
+  "state_change": 0.5
+}

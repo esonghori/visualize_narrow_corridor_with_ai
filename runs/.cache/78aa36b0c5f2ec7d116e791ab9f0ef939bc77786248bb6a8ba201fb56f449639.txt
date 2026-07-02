@@ -1,0 +1,29 @@
+Based on Acemoğlu and Robinson's framework, here are the major trends and events in Colombia from 1959-1968 that affected the balance of power between the state and society.
+
+### Trends:
+
+*   **The National Front (Frente Nacional) Political System:** This ongoing power-sharing pact (1958-1974) between the two traditional parties (Liberals and Conservatives) was the dominant institutional trend of the era. It ended widespread partisan violence but created an exclusionary and demobilized political system.
+    *   **Effect:** **Strengthened the central state** by guaranteeing elite stability and ending inter-party warfare, allowing for governance. Simultaneously, it **weakened broader civil society** by closing formal channels for political competition, forcing new social movements (students, peasants, labor) outside the established system and eroding democratic accountability.
+
+*   **Rural-to-Urban Migration:** A continuation and acceleration of demographic shifts driven by the lingering effects of *La Violencia* and limited rural economic opportunities. Cities like Bogotá, Medellín, and Cali grew rapidly.
+    *   **Effect:** **Weakened the state's capacity** to provide services and maintain order in rapidly expanding, often informal urban slums. At the same time, it **weakened traditional rural society** while strengthening new forms of urban social organization (e.g., neighborhood committees, new labor unions) that would later make demands on the state.
+
+*   **Professionalization of the Military and Counter-Insurgency Doctrine:** Under the influence of the U.S. Cold War strategy (e.g., Plan Lazo), the Colombian military was modernized, trained, and reoriented from national defense to internal counter-insurgency.
+    *   **Effect:** **Strengthened the state’s coercive capacity** significantly, giving it a more effective tool to project power and combat internal armed threats. This, in turn, aimed to **weaken specific segments of society** (peasant self-defense leagues and nascent guerrilla groups).
+
+*   **Rise of Organized Peasant Movements:** Spurred by unresolved land tenure issues and the promise of reform, peasant groups began to organize more formally, culminating in the creation of the National Association of Peasant Users (ANUC) in 1967.
+    *   **Effect:** **Strengthened civil society** by creating a powerful, organized national voice for a previously fragmented rural population, capable of making direct demands on the state for land and resources.
+
+### Events:
+
+*   **Agrarian Reform Law of 1961 (Law 135):** A direct response to rural unrest and pressure from the U.S. Alliance for Progress, this law created the Colombian Institute for Agrarian Reform (INCORA) to manage land redistribution.
+    *   **Effect:** A dual impact. It **strengthened the state** by expanding its administrative reach into the countryside and creating a new bureaucratic apparatus. However, its weak and slow implementation in the face of elite opposition also exposed the state's limited power against entrenched landowners, while simultaneously **strengthening peasant society** by providing a legal focus for its mobilization and demands.
+
+*   **The Founding of Guerrilla Movements (1964-1965):** Discrete military and political actions led to the formal establishment of Colombia's main insurgencies. This included the army's attack on the "Marquetalia Republic," which led peasant self-defense groups under Manuel Marulanda to form the FARC (1964), and the founding of the Cuban-inspired ELN (1964).
+    *   **Effect:** **Weakened the state** by directly challenging its monopoly on violence and creating permanent armed challengers to its authority. This simultaneously **strengthened a radical segment of society**, providing an organized, violent alternative for those excluded by the National Front.
+
+*   **Death of Camilo Torres Restrepo (1966):** The death in combat of this radical priest, a sociologist who had joined the ELN, was a highly symbolic event.
+    *   **Effect:** **Weakened the state's legitimacy** among students, intellectuals, and the international left. It **strengthened radical society** by creating a powerful martyr and legitimizing the path of armed struggle for a generation of activists who felt all peaceful avenues for change were closed.
+
+*   **Constitutional Reform of 1968:** A major reform led by President Carlos Lleras Restrepo that modernized the state, centralized economic planning, and gave the executive branch greater power to intervene in the economy.
+    *   **Effect:** **Significantly strengthened the state**, particularly the executive branch, enhancing its technocratic and administrative capacity to direct national development. This came at the expense of other powers, thereby **weakening the relative power of society’s elite actors** (e.g., Congress, regional interest groups) to check the central government.

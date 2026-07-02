@@ -1,0 +1,8 @@
+{
+  "society_power": 5.5,
+  "state_power": 4.5,
+  "society_change": 0.5,
+  "state_change": 1.5,
+  "key_event": "Constitution of 1886 and economic transformation",
+  "reasoning": "Economic growth and decentralization strengthened civil society, while the Constitution of 1886 bolstered state power."
+}

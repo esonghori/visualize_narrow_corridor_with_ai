@@ -1,0 +1,8 @@
+{
+  "society_power": 5.0,
+  "state_power": 3.0,
+  "society_change": 1.0,
+  "state_change": -1.0,
+  "key_event": "Formation of FARC and student protests",
+  "reasoning": "The formation of FARC and widespread student protests strengthened civil society's resistance and mobilization, while the state's control and legitimacy were weakened by economic stagnation and internal conflicts."
+}

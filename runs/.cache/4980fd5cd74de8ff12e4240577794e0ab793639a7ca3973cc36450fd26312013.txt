@@ -1,0 +1,8 @@
+{
+  "society_power": 5.5,
+  "state_power": 3.5,
+  "key_event": "The radical federalist Constitution of 1853 decentralizes power.",
+  "reasoning": "State power collapsed due to radical federalist reforms, culminating in the 1853 Constitution, which systematically decentralized administrative and fiscal authority. Conversely, society's power surged as this constitution introduced universal male suffrage and empowered regional elites, dramatically increasing society's ability to organize and check the central government.",
+  "society_change": 1.7,
+  "state_change": -1.5
+}

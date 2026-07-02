@@ -1,0 +1,8 @@
+{
+  "society_power": 6.8,
+  "state_power": 8.5,
+  "key_event": "López Pumarejo's 'Revolución en Marcha' and 1936 Constitution.",
+  "reasoning": "The Liberal 'Revolución en Marcha' dramatically expanded the state's fiscal capacity and constitutional mandate for economic intervention. Simultaneously, this political opening and explicit legal reforms empowered organized labor, strengthening civil society's ability to organize and make demands on the newly powerful state in a classic 'Red Queen' dynamic.",
+  "society_change": 1.3,
+  "state_change": 0.7
+}

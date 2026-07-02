@@ -1,0 +1,8 @@
+{
+  "society_power": 1.8,
+  "state_power": 2.5,
+  "society_change": 0.3,
+  "state_change": 0.7,
+  "key_event": "Kabila's Refusal to Step Down, 2018 Elections",
+  "reasoning": "Civil society strengthened through activism and opposition, but state power slightly increased due to international intervention and mixed mining reforms."
+}

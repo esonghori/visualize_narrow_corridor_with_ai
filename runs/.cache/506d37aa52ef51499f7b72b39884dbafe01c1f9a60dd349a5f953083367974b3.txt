@@ -1,0 +1,8 @@
+{
+  "society_power": 0.6,
+  "state_power": 6.5,
+  "society_change": -1.2,
+  "state_change": 0.5,
+  "key_event": "Intensification of forced labor and population decline",
+  "reasoning": "Intensified exploitation and population decline weakened civil society, while state institutions and control strengthened."
+}

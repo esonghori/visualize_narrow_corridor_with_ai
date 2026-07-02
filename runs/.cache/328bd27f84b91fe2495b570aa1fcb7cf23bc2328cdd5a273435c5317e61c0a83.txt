@@ -1,0 +1,8 @@
+{
+  "society_power": 2.8,
+  "state_power": 2.5,
+  "society_change": -1.2,
+  "state_change": -1.5,
+  "key_event": "War of the Supremes (1839-1843)",
+  "reasoning": "The civil conflict and political polarization significantly weakened both civil society and state power."
+}

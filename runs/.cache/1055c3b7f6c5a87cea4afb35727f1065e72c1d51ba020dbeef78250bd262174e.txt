@@ -1,0 +1,21 @@
+# Colombia, 1879–1888: State and Society Power
+
+A brief note on the framework: Acemoğlu and Robinson argue liberty emerges in a "narrow corridor" where state and society power balance and grow together. Colombia is one of their recurring examples of a weak, "Absent/Paper Leviathan" state, with power fragmented among regional elites. The period 1879–1888 spans the Radical Liberal *Olimpo Radical*'s decline and the *Regeneración* under Rafael Núñez, culminating in the 1886 Constitution.
+
+## Trends
+
+- **Institutional weakness of the federal Rionegro Constitution (1863) regime**: The ultra-federalist system devolved power to nine sovereign states with their own armies and electoral calendars—a chronically weak central state unable to project authority, keeping the "state" side of the ledger low throughout the early years.
+- **Coffee's slow expansion as an export sector**: Growing (though still modest) commercialization of coffee, especially in Santander and Cundinamarca, gradually shifted economic weight and provided a potential fiscal/tax base—marginally strengthening state capacity over the decade.
+- **Recurrent regional/partisan civil warfare as a structural pattern**: Endemic conflict between Liberal factions and Conservatives, and among sovereign states, entrenched armed regional elites and militias—strengthening fragmented *society/elite* factions while weakening any centralized state.
+- **Fiscal fragility and reliance on customs/tobacco-quinine cycles**: Boom-bust export earnings and the state's inability to tax internally left the central government financially hollow—a persistent weakness of the state.
+- **Growing Conservative–Church alignment vs. anticlerical Radical legacy**: The slow reaction against Radical secularization set the social base for centralist, clerical restoration—reshaping which social forces would back a stronger (but non-inclusive) state.
+
+## Events
+
+- **Rafael Núñez's first presidency and the "Regeneración" program (1880–1882)**: Explicit shift toward centralization and rejection of pure federalism—a deliberate project to *strengthen the state*.
+- **Founding of the Banco Nacional (1880)**: Created a national bank and paper-money capacity, giving the central government a fiscal/monetary instrument—*strengthened the state*.
+- **Núñez's return to the presidency (1884) and the 1884–1885 civil war**: A Radical Liberal uprising defeated by Núñez's forces; his victory let him declare the 1863 Constitution "no longer exists"—*weakened the old federalist society/state arrangement* and cleared the way for centralism.
+- **The 1886 Constitution**: Abolished the sovereign states (turning them into departments with presidentially appointed governors), created a strongly centralized, unitary republic with an extended presidential term—the decade's decisive *state-strengthening* event, but achieved by *suppressing regional and society power*.
+- **The Concordat with the Vatican (1887)**: Restored the Catholic Church's role in education and civil life—*strengthened the state's* ideological-administrative reach via the Church while empowering one particular societal force (the Church) at the expense of pluralistic civil society.
+
+**Interpretive caveat**: In Acemoğlu–Robinson terms, this decade shows the state growing *without* a commensurate strengthening of an autonomous, mobilized civil society. The Regeneración pushed Colombia toward a more *Despotic* (centralized but unaccountable) configuration rather than into the corridor—centralization that curtailed regional autonomy without building inclusive societal countervailing power.

@@ -1,0 +1,8 @@
+{
+  "society_power": 3.0,
+  "state_power": 9.5,
+  "key_event": "Emergence of urban associations, unions, and an educated elite.",
+  "reasoning": "The colonial state reached its peak capacity with the massive Ten-Year Plan, while society's power surged from a near-zero base as urbanization, legal unions, and an educated 'évolué' class created new forms of non-state organization.",
+  "society_change": 2.4,
+  "state_change": 0.3
+}

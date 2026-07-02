@@ -1,0 +1,8 @@
+{
+  "society_power": 0.5,
+  "state_power": 5.8,
+  "society_change": -3.3,
+  "state_change": -1.6,
+  "key_event": "Independence and subsequent political instability",
+  "reasoning": "Independence weakened both state and society due to political chaos and lack of institutions."
+}

@@ -1,0 +1,8 @@
+{
+  "society_power": 7.0,
+  "state_power": 7.2,
+  "key_event": "The 2016 FARC peace accord and its popular rejection.",
+  "reasoning": "The state's power grew immensely by ending the 50-year war with the FARC, its primary challenger. Simultaneously, society demonstrated its own significant power by rejecting the initial agreement in a plebiscite, forcing the state to renegotiate and deepening Colombia's presence in the 'Narrow Corridor'.",
+  "society_change": 1.0,
+  "state_change": 1.4
+}

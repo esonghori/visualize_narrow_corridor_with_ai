@@ -1,0 +1,29 @@
+# Colombia (New Granada) 1839–1848: State and Society
+
+A caveat before the lists: Acemoğlu and Robinson use Colombia as a paradigmatic case of a state that is weak *and* trapped outside the corridor—neither a strong Leviathan nor a strong society, with power fragmented and localized. The 1839–1848 period sits at the tail end of the Republic of New Granada's early consolidation. Here is my best reconstruction, though I'd flag that specific dating in this window is where I'm least certain.
+
+## Trends
+
+- **Persistent geographic fragmentation and weak state penetration** — The Andes cordilleras and poor transport left the central state unable to project authority into the periphery, entrenching regional caudillos and local power-holders. This kept *both* state and (national) civil society weak while empowering *local* elites—a hallmark of Acemoğlu-Robinson's "absent/paper Leviathan."
+
+- **Enduring colonial-inherited institutions** — Slavery, indigenous *resguardos*, church tithes/*fueros*, and tobacco/aguardiente state monopolies persisted, embedding norms and privileged interests that constrained both a coherent state and an autonomous, broad-based society.
+
+- **Incipient partisan cleavage (centralist vs. federalist, clerical vs. anticlerical, free-trade vs. protection)** — The proto-formation of what would become the Conservative and Liberal parties gradually organized elite society into mobilized factions; this arguably *strengthened* organized civil society (elite associational life) while *weakening* state cohesion by making politics existentially divisive.
+
+- **Slow commercialization and fiscal dependence on monopolies/customs** — A stagnant, agrarian, low-tax economy left the state chronically under-resourced, weakening state capacity.
+
+## Events
+
+- **War of the Supremes / *Guerra de los Supremos* (1839–1842)** — The defining discrete event of the window. Triggered by the closure of minor convents in Pasto, it escalated into a multi-regional civil war of provincial caudillos ("the Supremes") against the government of José Ignacio de Márquez. **Effect:** It *revealed and deepened* the weakness of the state (regional revolts it could barely suppress), but the government's ultimate victory and subsequent centralizing reaction *temporarily strengthened* central authority.
+
+- **The 1843 Constitution** — Adopted after the war under Pedro Alcántara Herrán, it was a deliberately **centralist, authoritarian** charter strengthening executive power and the Church's role. **Effect:** *strengthened* the central state (on paper) and privileged clerical/conservative interests, at the expense of federalist/liberal society.
+
+- **Mariano Ospina Rodríguez's education law and pro-Jesuit measures (mid-1840s)** — Reintroduction of the Jesuits (1844) and clerical influence over education. **Effect:** *strengthened* Church-aligned social institutions, sharpening the anticlerical backlash.
+
+- **Election of Tomás Cipriano de Mosquera (1845) and onset of modernizing reforms** — His administration pushed fiscal, infrastructural, and administrative modernization (currency reform, steam navigation on the Magdalena, road projects). **Effect:** modestly *strengthened* state capacity and market integration.
+
+- **Rising mid-century liberal agitation culminating toward 1848–1849** — Formation of *Sociedades Democráticas* (democratic societies, artisan and popular clubs) and the crystallization of the Liberal Party program (drafted 1848). **Effect:** notably *strengthened organized civil society*, mobilizing artisans and popular sectors into political life.
+
+---
+
+**Reliability note:** The macro-framework mapping and the major landmarks (War of the Supremes, 1843 Constitution, Mosquera's election, the emergence of the Democratic Societies and party formation) I'm confident about. Precise years for specific laws (e.g., exact Jesuit/education measures) are where errors are most likely—verify those dates against a dedicated source on early Republican New Granada.

@@ -1,0 +1,8 @@
+{
+  "society_power": 4.0,
+  "state_power": 1.5,
+  "society_change": 0.8,
+  "state_change": -1.0,
+  "key_event": "Federalist Constitution of 1858 and Civil War",
+  "reasoning": "The federalist constitution weakened central authority while civil society strengthened through decentralization and literacy growth."
+}

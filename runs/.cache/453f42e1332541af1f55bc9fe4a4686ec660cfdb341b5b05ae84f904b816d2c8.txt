@@ -1,0 +1,8 @@
+{
+  "society_power": 0.8,
+  "state_power": 6.0,
+  "society_change": -1.2,
+  "state_change": 2.0,
+  "key_event": "Forcible labor and mass atrocities",
+  "reasoning": "Intensified exploitation and forced labor weakened civil society, while mass atrocities temporarily exposed state brutality."
+}

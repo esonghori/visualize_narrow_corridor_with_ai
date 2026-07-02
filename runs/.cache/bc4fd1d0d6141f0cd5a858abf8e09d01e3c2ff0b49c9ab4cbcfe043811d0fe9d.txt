@@ -1,0 +1,8 @@
+{
+  "society_power": 0.5,
+  "state_power": 7.0,
+  "society_change": -1.1,
+  "state_change": 0.5,
+  "key_event": "Continued colonial exploitation and suppression",
+  "reasoning": "Colonial policies further weakened civil society through population decline and economic exploitation, while the state consolidated its control through forced labor and taxation."
+}

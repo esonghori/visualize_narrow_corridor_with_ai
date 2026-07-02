@@ -1,0 +1,8 @@
+{
+  "society_power": 3.5,
+  "state_power": 0.5,
+  "key_event": "The Second Congo War shatters the state and society.",
+  "reasoning": "The First and Second Congo Wars obliterated the remnant state, reducing its power to nearly zero across most of the territory. While the conflict and mass displacement catastrophically weakened society, the formal inclusion of civil society groups in the subsequent peace process preserved a degree of organizational power, preventing a total collapse.",
+  "society_change": -2.0,
+  "state_change": -1.0
+}

@@ -1,0 +1,21 @@
+# Colombia, 1869–1878: State and Society Power
+
+A note on context: This period falls under the 1863 Rionegro Constitution (the "Estados Unidos de Colombia"), a radical federalist charter enacted by the Liberal Radicals (Radicalismo). In Acemoğlu-Robinson terms, this was a decidedly weak-state configuration—arguably a case where extreme decentralization prevented the state from ever growing into (or through) the corridor.
+
+## Trends
+
+- **Radical federalism as institutional constraint**: The Rionegro Constitution's devolution of sovereignty to the nine states—including their right to maintain armed forces and near-total autonomy—systematically *weakened the central state's* capacity (fiscal, military, administrative) throughout the decade.
+- **Export-led liberal economic expansion**: The commodity boom (notably tobacco, and increasingly quinine/cinchona bark and incipient coffee) integrated Colombia into world markets. This *strengthened regional elites and merchant society* but did little to build central state capacity, since revenue and power stayed decentralized.
+- **Anticlerical liberalism and Church-State conflict**: Ongoing Radical efforts to curtail Church wealth and influence (following the 1861 desamortización/expropriation of mortmain properties) *weakened a major traditional pillar of civil society* while provoking mobilization by Conservatives and clergy—a slow-building polarization.
+- **Secular public-education expansion**: The push toward state-directed, secular schooling grew across the decade, an attempt to *strengthen the state's* reach into society and displace Church-run education—though it deepened cultural cleavages.
+- **Weak fiscal base and reliance on customs/regional revenue**: Chronic under-taxation kept the national government financially feeble, a persistent *state-weakening* structural condition.
+
+## Events
+
+- **The 1870 Organic Decree on Public Instruction (Decreto Orgánico de Instrucción Pública, DOIP)**: Established free, compulsory, secular primary education under federal direction—a discrete *state-strengthening* (capacity-projecting) measure that also inflamed Church-Conservative opposition.
+- **Arrival of the first German Pedagogical Mission (from ~1872)**: Brought foreign teacher-trainers and normal schools to implement the DOIP, a concrete attempt to build *state administrative/educational capacity*.
+- **Presidential successions of the Radical period** (e.g., Eustorgio Salgar 1870–72, Manuel Murillo Toro's second term 1872–74, Santiago Pérez 1874–76): Regular but weak civilian rotations that *neither materially strengthened the central state* nor consolidated durable institutions given the federalist limits.
+- **The Civil War / "War of the Schools" (Guerra de las Escuelas), 1876–1877**: A major Conservative-clerical uprising against the secular education reforms and Radical rule. It *weakened the state* by exposing its inability to prevent large-scale internal conflict, though the government's victory temporarily *strengthened the incumbent Liberal faction* (and empowered the rising Independent Liberal Julián Trujillo).
+- **Aquileo Parra's presidency and the war's aftermath (1876–1878)**: The conflict fractured the Liberal Party (Radicals vs. Independents), a discrete political rupture that *weakened the governing coalition* and set the stage for the later Regeneración.
+
+**Caveat**: Dating of specific measures (missions, decrees) and the precise ledger of "strengthening/weakening" should be verified against a dedicated source; my confidence is higher on the broad Radical-federalist framing and the 1876–77 war than on exact years of individual educational-mission details.

@@ -1,0 +1,29 @@
+# Colombia, 1899–1908 through *The Narrow Corridor* Framework
+
+In Acemoğlu and Robinson's terms, Colombia in this period exemplifies a persistently weak "Despotic/Absent Leviathan" tendency—where neither the state nor a countervailing society develops robust capacity. Below are the relevant trends and events.
+
+## Trends
+
+- **Chronic fiscal-institutional weakness of the central state**: The government lacked reliable tax capacity and a monopoly on violence, leaving it dependent on customs revenue and vulnerable to regional strongmen (*caudillos*)—a slow weakening of effective state power despite formal centralization under the 1886 Constitution.
+
+- **Hyperinflation and monetary collapse (paper money financing)**: The Regeneration-era reliance on printing unbacked paper money to fund conflict accelerated through the war, destroying purchasing power and public confidence—weakening both the state's legitimacy and society's economic autonomy.
+
+- **Persistent Liberal–Conservative partisan polarization**: The entrenched two-party cleavage, with parties functioning as vertical patronage networks rather than programmatic institutions, structurally weakened any autonomous civil society independent of factional loyalty.
+
+- **Coffee economy expansion (nascent)**: The gradual spread of smallholder and hacienda coffee cultivation began integrating Colombia into world markets, slowly building an economic base that could eventually support both state revenue and a propertied society—a long-run strengthening trend, though disrupted by war in these years.
+
+- **Regionalism and weak territorial integration**: Poor transport infrastructure and geographic fragmentation meant the central state's writ ran thin in the periphery (notably Panama), structurally limiting state penetration—weakening the state.
+
+## Events
+
+- **War of a Thousand Days (1899–1902)**: A devastating civil war between Liberals and Conservatives; ~100,000 dead, economic ruin, and guerrilla warfare across the country. It weakened the state (fiscal exhaustion, contested violence monopoly) *and* atomized society (displacement, militarization of political life).
+
+- **Loss of Panama / secession (1903)**: With U.S. backing after the failed Hay–Herrán Treaty, Panama seceded. This was a dramatic demonstration of the state's inability to control its territory or resist foreign intervention—a severe weakening of state power and national legitimacy.
+
+- **Peace treaties ending the war (1902)**: The Treaties of Neerlandia, Wisconsin, and Chinácota formally ended hostilities—a modest re-establishment of order that slightly restored the state's authority while leaving underlying grievances unresolved.
+
+- **Rafael Reyes's presidency and the "Quinquenio" (1904–1909)**: Reyes governed increasingly autocratically—closing Congress and ruling via a hand-picked National Assembly (1905)—while pursuing administrative modernization, fiscal reform, currency stabilization, and infrastructure/economic promotion. This **strengthened state capacity** but through **despotic** means, **weakening society's** checks—pushing Colombia toward the "Despotic Leviathan" side rather than the corridor.
+
+- **Currency reform (1905, creating a new peso / Junta de Conversión)**: An attempt to halt hyperinflation and restore monetary stability—strengthening state economic capacity and credibility.
+
+**Caveat**: In the authors' schema, the decade's dominant story is state *and* society weakness compounded by civil war and secession, with Reyes's authoritarian modernization illustrating how capacity-building unaccompanied by societal mobilization drifts *away* from the narrow corridor rather than into it.

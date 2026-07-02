@@ -1,0 +1,8 @@
+{
+  "society_power": 6.0,
+  "state_power": 1.5,
+  "key_event": "Independence followed by immediate state collapse and civil war.",
+  "reasoning": "The powerful Belgian colonial state vanished at independence, and the new Congolese state's power was immediately annihilated by army mutinies and secession. Society's power surged as ethnic and regional factions mobilized effectively, but this fragmented power shattered the state, leading to chaos.",
+  "society_change": 3.0,
+  "state_change": -8.0
+}

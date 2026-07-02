@@ -1,0 +1,8 @@
+{
+  "society_power": 1.0,
+  "state_power": 3.0,
+  "society_change": -1.2,
+  "state_change": -1.5,
+  "key_event": "Civil wars and state collapse",
+  "reasoning": "The civil wars and state collapse significantly weakened both state and civil society, leading to a fragmented and chaotic environment with little effective institutions or societal organization."
+}

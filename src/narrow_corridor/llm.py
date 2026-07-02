@@ -60,6 +60,11 @@ def _raw_completion(model: str, prompt: str, response_format=None, *, max_attemp
     kwargs: dict = {
         "model": model,
         "messages": [{"role": "user", "content": prompt}],
+        # Our outputs are tiny (a short JSON object or two bulleted lists), so cap
+        # the completion well below providers' 16k default. This also keeps the
+        # (prompt+max_tokens) cost under credit-limited accounts' per-request
+        # ceiling (OpenRouter rejects oversized max_tokens with HTTP 402).
+        "max_tokens": 8192,
     }
     if response_format is not None:
         kwargs["response_format"] = response_format

@@ -89,7 +89,7 @@ As an example, the paper's reference-model run traces the United States' path fr
 ![USA's path animation](./docs/assets/united-states__anthropic-claude-opus-4-8.gif).
 ![USA's path](./docs/assets/united-states__anthropic-claude-opus-4-8.png).
 
-The full sweep (6 countries × 4 models, plus V-Dem and ensemble atlases) lives under [`paper/experiments/results/`](./paper/experiments/results); browse it interactively in the [gallery](./docs).
+The full sweep (8 countries × 4 models, plus V-Dem and ensemble atlases) lives under [`paper/experiments/results/`](./paper/experiments/results); browse it interactively in the [gallery](./docs).
 
 # How to cite
 

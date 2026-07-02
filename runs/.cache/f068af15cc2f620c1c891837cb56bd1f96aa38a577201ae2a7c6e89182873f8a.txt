@@ -1,0 +1,8 @@
+{
+  "society_power": 6.0,
+  "state_power": 4.0,
+  "key_event": "Rise of guerrillas and drug trade erodes state control.",
+  "reasoning": "The state's power was significantly weakened by the rise of the drug economy and multiple armed groups (FARC, ELN, M-19), losing its territorial control and legitimacy after the 1970 election. Simultaneously, society's power grew through the organization of both mass social movements, like the 1977 Civic Strike, and these powerful non-state armed actors.",
+  "society_change": 1.0,
+  "state_change": -1.5
+}

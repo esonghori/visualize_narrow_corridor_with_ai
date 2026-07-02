@@ -1,0 +1,33 @@
+# Colombia, 1989–1998: State and Society in Acemoğlu & Robinson's Framework
+
+In *The Narrow Corridor*, the relevant question is whether state and society capacities grew in balance (staying in the corridor) or whether one outpaced/collapsed relative to the other. Colombia in this period is characterized by a chronically weak (absent) state alongside a fragmenting society, with power increasingly ceded to armed non-state actors.
+
+## Trends
+
+- **Expansion of guerrilla territorial control (FARC and ELN):** Throughout the decade both groups grew in numbers, financing, and territorial reach, effectively displacing the state across large rural zones. *Weakened the state* (loss of monopoly of violence) and *weakened legitimate civil society* (substituted coercion for local governance).
+
+- **Growth of paramilitary organizations:** Regional self-defense groups consolidated (culminating in the 1997 formation of the AUC), often in collusion with local elites and elements of the security forces. *Weakened the state* (privatized violence) while entrenching a "despotic" local order rather than genuine society power.
+
+- **Deepening penetration of the drug economy:** Cocaine revenues financed all armed actors and corrupted political, judicial, and security institutions. *Weakened the state* by hollowing out institutional autonomy and the rule of law.
+
+- **Economic liberalization (*apertura*):** Market-opening reforms begun under Gaviria integrated Colombia into global trade but disrupted rural livelihoods, arguably feeding coca cultivation and rural grievance. *Mixed*—modernized parts of the state's economic role but strained rural society.
+
+- **Persistent state absence in the periphery:** The long-standing pattern of centralized authority failing to project capacity into rural and frontier regions continued. *Structurally weak state* (a classic A&R "Absent Leviathan" dynamic).
+
+## Events
+
+- **1991 Constitution:** A new charter drafted by a broadly participatory Constituent Assembly expanded rights, decentralization, and mechanisms of participation (e.g., *tutela*, recognition of ethnic communities). *Strengthened civil society* and attempted to strengthen state legitimacy—a genuine corridor-widening moment.
+
+- **Demobilization of M-19 and smaller guerrillas (1990–1991):** Their conversion into a political party and role in the Constituent Assembly. *Strengthened civil society/legitimate politics* by channeling armed contestation into institutions.
+
+- **Killing of Medellín Cartel leadership / death of Pablo Escobar (1993):** The state's campaign against Escobar, whose *narcoterrorism* (assassinations, bombings, killing of presidential candidates in 1989–90) had directly attacked institutions. *Ambiguous*—a state assertion of force, but achieved via extralegal means and left cartel structures decentralized.
+
+- **Proceso 8000 scandal (1994–1996):** Revelations that Ernesto Samper's campaign took Cali Cartel money. *Weakened the state* by discrediting the presidency and eroding institutional legitimacy and international standing (U.S. decertification).
+
+- **Escalation of guerrilla military victories (1996–1998):** FARC inflicted major defeats on the army (e.g., Las Delicias 1996, El Billar 1998), demonstrating state incapacity. *Weakened the state* materially and symbolically.
+
+- **1997 formation of the AUC:** Unification of paramilitary forces under Carlos Castaño. *Weakened the state* by consolidating a rival coercive apparatus.
+
+---
+
+**Overall reading:** In A&R terms, 1989–1998 shows a promising society-strengthening constitutional moment (1991) that was overwhelmed by an Absent Leviathan losing ground to armed actors and corruption—Colombia drifting away from, rather than into, the narrow corridor.

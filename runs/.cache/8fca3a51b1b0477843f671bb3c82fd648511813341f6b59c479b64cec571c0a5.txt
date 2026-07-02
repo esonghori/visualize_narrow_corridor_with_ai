@@ -1,0 +1,8 @@
+{
+  "society_power": 3.8,
+  "state_power": 5.0,
+  "key_event": "Central government victory in the War of the Supremes (1839-42).",
+  "reasoning": "The state's decisive victory over regional caudillos in the War of the Supremes, followed by the centralizing Constitution of 1843, significantly increased state power by demonstrating its coercive capacity. This simultaneously weakened society by crushing its most organized challenge to central authority.",
+  "society_change": -0.7,
+  "state_change": 2.2
+}

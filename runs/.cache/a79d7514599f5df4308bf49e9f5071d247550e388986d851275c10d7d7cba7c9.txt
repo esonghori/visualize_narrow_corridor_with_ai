@@ -1,0 +1,19 @@
+Based on Acemoğlu and Robinson's framework, here are major trends and events in Colombia (then the central part of Gran Colombia, later New Granada) from 1829-1838 that affected the balance of power between the state and society.
+
+### Trends:
+
+*   **Persistent Regionalism and Geographic Fragmentation:** The Andean topography and lack of infrastructure created powerful, isolated regional elites (caudillos, landowners). This long-standing condition severely limited the central government's ability to project power, collect taxes, and enforce laws.
+    *   **Effect:** Fundamentally **weakened the state** (creating an "Absent Leviathan" in many areas) and **strengthened specific segments of society** (regional strongmen) who acted as the de facto authority.
+*   **Ideological Conflict between Centralism and Federalism:** The core political debate of the era was whether to build a strong, centralized state or a federation of autonomous provinces. This ongoing struggle prevented the consolidation of any single, effective form of governance.
+    *   **Effect:** **Weakened the state** through constant political instability and constitutional uncertainty, while **empowering societal factions** organized around these competing ideologies.
+*   **Struggle over the Power of the Catholic Church:** The Santander administration (1832-1837) initiated liberal reforms to subordinate the Church to the government, particularly in education and clerical appointments (patronato). This challenged the Church's deep-rooted, independent authority within society.
+    *   **Effect:** An attempt to **strengthen the state** by seizing functions from a powerful societal institution. It simultaneously **mobilized and divided society**, strengthening both pro-clerical and anti-clerical factions.
+
+### Events:
+
+*   **The Dissolution of Gran Colombia (1829-1831):** General Páez's secession of Venezuela (1829-30) and Flores's secession of Ecuador (1830) led to the collapse of Bolívar's supranational state project.
+    *   **Effect:** A catastrophic failure of state power that **eliminated the Gran Colombian state**. This event demonstrated that powerful, regionally-based societal forces could successfully defy and break the central government, decisively **strengthening society's power** relative to the (now defunct) state.
+*   **The Presidency of Francisco de Paula Santander and the Constitution of 1832:** Following the collapse, the Republic of New Granada was established with a new constitution and the return of Santander. His administration emphasized the rule of law, fiscal order, and public education.
+    *   **Effect:** A deliberate effort to **strengthen the state** by building its legal-rational and administrative capacity (a "Shackled Leviathan"). It also aimed to **strengthen civil society** through education, but its liberal, centralizing nature antagonized powerful traditionalist and regional elements.
+*   **The Sardá Conspiracy (1833):** A failed military coup led by General José Sardá against President Santander. The conspirators were captured, tried, and executed under the law.
+    *   **Effect:** **Strengthened the state** by demonstrating its ability to suppress an internal military threat and enforce its authority through legal, constitutional means rather than just warfare. It was a rare victory for civilian authority over military caudillismo.

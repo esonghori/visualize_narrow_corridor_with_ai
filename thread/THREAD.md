@@ -8,9 +8,11 @@ Attach the noted image to each tweet. Links: repo
 
 **1/** 🎞️ *[attach: `thread/iran.gif`]*
 
-Acemoglu & Robinson's *The Narrow Corridor* maps history in a 2D space — state power vs. society power — but never actually plots a country's path through it.
+Daron Acemoglu & James A. Robinson (2024 Economics Nobel laureates) wrote *The Narrow Corridor*, mapping history in a 2D space — state power vs. society power — but never actually plotted a country's path through it.
 
 So I had LLMs do it. Here's Iran, 1880→2010, decade by decade. 🧵
+
+*[optional: tag @DAcemogluMIT — verify the handle before posting]*
 
 ---
 
@@ -22,11 +24,13 @@ Provider-agnostic — I ran Gemini 2.5 Pro, Claude Opus 4.8, GPT-5.5, and open-w
 
 ---
 
-**3/** 📈 *[attach: `thread/ensemble_atlas.png`]*
+**3/** 📈 *[attach: `paper/experiments/results/all-countries__ensemble-mean.png`]*
 
-The six-country atlas (mean of the 4 models) reproduces the book's map:
+All 8 countries on one shared scale (mean of the models) sort into the book's Leviathan regions:
 
-🇬🇧 stays *in* the corridor · 🇫🇷 enters it · 🇨🇱 exits at the 1973 coup and returns after 1990 · 🇮🇷 & 🇨🇳 exit **upward** into state-dominance — the "Despotic Leviathan."
+🇨🇳 🇮🇷 above the corridor → **Despotic** · 🇬🇧 🇫🇷 🇺🇸 🇨🇱 inside → **Shackled** · 🇨🇴 a moderate, never-consolidated state → **Paper** · 🇨🇩 (DR Congo) stuck near the weak-state origin → **Absent**.
+
+The same fixed 0–10 rubric is what lets you plot them together.
 
 ---
 
@@ -34,7 +38,7 @@ The six-country atlas (mean of the 4 models) reproduces the book's map:
 
 Does it mean anything? Checked against V-Dem expert codings:
 
-LLM "society power" tracks V-Dem's civil-society index well (China ρ=.89, France .87). And the 4 models agree with each other (Krippendorff α=.74 on society).
+LLM "society power" tracks V-Dem's civil-society index well (China ρ=.89, France .87). And the models agree with each other (Krippendorff α=.70 on society).
 
 → a shared, expert-consistent signal, not one model's quirk.
 
@@ -52,7 +56,7 @@ The LLMs read modern America drifting toward state-dominance. The book (and V-De
 
 Two caveats I lead with, not bury:
 • These indices are almost certainly in the models' training data, so agreement = *consistency*, not proven accuracy.
-• The strongest *open* model (Qwen3-235B) couldn't reliably emit structured scores — a real reproducibility gotcha.
+• Coverage is thinnest for exactly the non-Western cases (Iran, China, Colombia, DR Congo) — the training data is English-heavy.
 
 ---
 

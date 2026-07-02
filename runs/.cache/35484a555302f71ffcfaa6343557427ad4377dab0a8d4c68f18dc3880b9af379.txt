@@ -1,0 +1,8 @@
+{
+  "society_power": 5.0,
+  "state_power": 3.0,
+  "society_change": 1.0,
+  "state_change": 1.5,
+  "key_event": "Liberal government reforms, decentralization, economic crisis",
+  "reasoning": "The formation of the Liberal government and 1876 constitutional reforms strengthened civil society by promoting liberal principles and decentralizing power. The economic crisis of 1873, however, temporarily bolstered state fiscal efforts while straining both state and societal capacities."
+}

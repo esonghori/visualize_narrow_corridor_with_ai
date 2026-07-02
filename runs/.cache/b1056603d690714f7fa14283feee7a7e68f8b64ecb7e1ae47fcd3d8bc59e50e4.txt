@@ -1,0 +1,23 @@
+Based on Acemoğlu and Robinson's framework, here are the major trends and events in Colombia from 1949-1958 that affected the power of the state and society. This period, known as *La Violencia*, is a classic example of a society falling out of the "narrow corridor" into a state of near-anarchy where both state and society are fractured and locked in conflict.
+
+### Trends:
+
+*   **Intensification and Fragmentation of *La Violencia***: The ongoing, low-intensity civil war between Liberal and Conservative partisans escalated dramatically after 1949. This was not a single event but a pervasive condition of rural life.
+    *   **Effect**: Fundamentally **weakened the state** by shattering its monopoly on legitimate violence across vast territories. It simultaneously **weakened civil society** by channeling its energy into destructive, partisan conflict rather than productive constraint on the state, destroying social trust and local institutions.
+*   **Politicization of State Institutions**: The national police, local judiciary, and bureaucracy were purged of Liberal sympathizers and staffed with Conservative partisans, particularly under President Laureano Gómez (1950-1953).
+    *   **Effect**: **Weakened the state** by destroying its impartiality and legitimacy. The state was no longer seen as a neutral arbiter but as a weapon of one faction, encouraging opponents to reject its authority entirely and take up arms.
+*   **Proliferation of Non-State Armed Groups**: In response to state-sanctioned violence and the breakdown of order, both Liberal guerrilla groups and Conservative paramilitary bands (*pájaros*) formed and operated with impunity.
+    *   **Effect**: Drastically **weakened the state** by creating parallel sources of power and authority that directly challenged its sovereignty. It also represented a mutation of society's power—strengthening armed factions while **weakening broader civil society** by replacing political discourse with armed struggle.
+*   **Forced Internal Displacement**: The violence drove hundreds of thousands of Colombians from the countryside into cities. This was one of the largest internal migrations in the country's history.
+    *   **Effect**: **Weakened society** by atomizing rural communities and destroying traditional social networks. While it did not immediately create a stronger urban civil society, it fundamentally altered the country's demographic landscape, presenting a long-term challenge to the **state's** weak capacity to provide urban services.
+
+### Events:
+
+*   **Closure of Congress (November 1949)**: Following a state of siege declaration and a boycotted presidential election, the Conservative government of Mariano Ospina Pérez closed Congress, which had a Liberal majority.
+    *   **Effect**: Significantly **weakened the state's** institutional checks and balances, concentrating power in an increasingly despotic executive. This action eliminated a key channel for society to constrain the state, fueling extralegal opposition.
+*   **The Military Coup of General Gustavo Rojas Pinilla (June 13, 1953)**: With widespread support from both Conservative and Liberal elites tired of the violence under Laureano Gómez, the military seized power.
+    *   **Effect**: Initially **strengthened the state’s** coercive capacity and ability to impose order. However, it did so by dissolving democratic institutions, thus crushing the power of **society** to participate in or constrain government, moving Colombia out of anarchy and toward a "Despotic Leviathan."
+*   **The National Civic Strike (May 1957)**: A broad coalition of bankers, industrialists, students, workers, and church leaders organized a massive general strike that paralyzed the country and, combined with the military's withdrawal of support, forced Rojas Pinilla from power.
+    *   **Effect**: A dramatic demonstration that **strengthened society**, showcasing its latent power to mobilize as a unified force to depose a dictator when elite and popular interests aligned. It showed society could successfully shackle a despotic state.
+*   **The Bipartisan National Front Pacts (Pact of Benidorm, 1956; Pact of Sitges, 1957)**: Exiled leaders of the Liberal and Conservative parties negotiated a power-sharing agreement to end *La Violencia* and alternate the presidency for 16 years. This was ratified by a national plebiscite in December 1957.
+    *   **Effect**: A move by elite civil society (the political parties) to rebuild and re-legitimize the state. It **strengthened the state** by providing stability and ending partisan warfare, but it did so by creating a political cartel that **weakened broader society's** ability to engage in meaningful political competition for a generation.

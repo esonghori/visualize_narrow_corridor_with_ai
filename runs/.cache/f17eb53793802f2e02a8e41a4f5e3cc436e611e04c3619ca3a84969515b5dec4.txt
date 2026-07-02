@@ -1,0 +1,8 @@
+{
+  "society_power": 7.5,
+  "state_power": 4.0,
+  "key_event": "Assassination of Gaitán triggers the Bogotazo and state collapse.",
+  "reasoning": "The populist Gaitanista movement demonstrated society's immense mobilization capacity, but Gaitán's assassination in 1948 triggered the Bogotazo riots. This event shattered the state's monopoly on violence and revealed its inability to maintain order, causing its power to plummet as the country descended into La Violencia.",
+  "society_change": 0.7,
+  "state_change": -4.5
+}

@@ -1,0 +1,19 @@
+Based on Acemoğlu and Robinson's framework, here are the major trends and events in Colombia from 1839-1848 that affected the balance of power between the state and society.
+
+### Trends:
+
+*   **Consolidation of Centralist Political Ideology:** In reaction to the perceived chaos of federalism, the ruling elite increasingly favored a strong, centralized government allied with the Catholic Church to impose order. This intellectual trend provided the justification for increasing state power at the expense of regional autonomy.
+    *   **Effect:** Strengthened the state (ideologically); Weakened society (by delegitimizing demands for regional power).
+*   **Growth of an Export-Oriented Tobacco Economy:** The slow but steady rise of tobacco as a major export commodity began creating a new merchant and landowning class. This group's economic power was independent of the central state bureaucracy and would later form a key pillar of the Liberal party.
+    *   **Effect:** Strengthened society (by creating new, economically powerful social groups).
+*   **Persistence of Regional Caudillismo:** Despite centralist victories, day-to-day power in many regions remained in the hands of local strongmen (*gamonales* or *caudillos*). The central state lacked the institutional capacity to enforce its will, collect taxes, or administer justice consistently at the local level.
+    *   **Effect:** Weakened the state (limited its effective territorial control); Strengthened society (in the form of powerful local elite networks that often operated outside state control).
+
+### Events:
+
+*   **The War of the Supremes (1839-1842):** This civil war began as a regional uprising and escalated into a nationwide conflict between regional caudillos (the "Supremes") and the central government. The central government's eventual, brutal victory was a pivotal moment.
+    *   **Effect:** Ultimately strengthened the state (by demonstrating its coercive capacity to crush a massive societal rebellion); Weakened society (by defeating and discrediting regional federalist forces).
+*   **Adoption of the Constitution of 1843:** Written by the victorious centralists after the war, this constitution dramatically increased the power of the executive branch, curtailed civil liberties, limited suffrage, and recentralized political authority that had been granted to provinces.
+    *   **Effect:** Strengthened the state (by legally codifying its authority and coercive power); Weakened society (by restricting political participation and regional autonomy).
+*   **Presidency of Tomás Cipriano de Mosquera (began 1845):** A conservative war hero, Mosquera initiated the first significant state-led economic modernization projects, including promoting steam navigation on the Magdalena River and fiscal reforms. These actions represented the state developing its administrative and economic *capacity*, not just its coercive power.
+    *   **Effect:** Strengthened the state (by enhancing its ability to penetrate society and direct the economy).
