@@ -8,6 +8,14 @@ This project addresses that challenge by employing a **Large Language Model (LLM
 
 We acknowledge the risks of bias in LLMs, especially those inherited from their training data. However, we argue that, with careful prompt engineering and systematic methodology, LLMs can offer a more scalable and potentially less biased alternative to purely expert-driven approaches.
 
+# The paper and the atlas
+
+An accompanying short paper, [`paper/main.pdf`](./paper/main.pdf), turns this into a reproducible study: an **eight-country trajectory atlas** — Iran, France, the United Kingdom, the United States, China, Chile, Colombia, and the Democratic Republic of the Congo — chosen so at least one country falls in each of the book's four **Leviathan types**: Despotic (China, Iran), Shackled (UK, France, and the contested US), Paper (Colombia), and Absent (DR Congo). It compares four LLMs (Gemini, Claude, GPT, and an open-weight Qwen), checks the scores against the **V-Dem** expert index, and quantifies inter-model agreement. Because every country is scored against the same fixed rubric, all eight can be placed on one shared map of the book's regions:
+
+![Where each country sits in 2020, over the book's Leviathan regions](./paper/experiments/results/all-countries__ensemble-mean.png)
+
+See [`paper/RUNBOOK.md`](./paper/RUNBOOK.md) to reproduce every figure and table end to end.
+
 # Methodology
 
 To improve the accuracy and relevance of the numerical values for state and society power, we apply the Chain-of-Thought technique [[3]](#3). For each historical period (e.g., a 5-year span), the LLM is first asked to identify major events and trends. This contextual narrative is then included in the next prompt, which asks the model to assign quantitative values for state and society power during that period.
@@ -77,7 +85,7 @@ animate_path(path, "runs/france.gif")
 ```bash
 uv run python scripts/build_site.py --runs runs --out docs
 # or, for the paper's sweep:
-uv run python scripts/build_site.py --runs paper/experiments/runs --out docs
+uv run python scripts/build_site.py --runs paper/experiments/results --out docs
 ```
 
 It reads each run's JSON sidecar for the country/model names, copies the images into `docs/assets/`, and writes a self-contained `docs/index.html` (model filter + click-to-animate; GIFs load on demand). Preview locally with `python -m http.server -d docs`, then open <http://localhost:8000>. To publish, enable **GitHub Pages → Deploy from branch → `main` / `docs`** in the repo settings. (Because Pages serves committed files, `docs/assets/` holds the images — GIFs are a few MB each.)
