@@ -1,0 +1,8 @@
+{
+  "society_power": 1.5,
+  "state_power": 4.0,
+  "key_event": "Self-Strengthening Movement under increasing foreign pressure.",
+  "reasoning": "The late Qing state's power was weak, decentralized to regional strongmen, and limited by foreign encroachment. Society remained largely traditional, organized locally by kinship and guilds, but politically atomized and unable to systematically hold the state accountable.",
+  "society_change": 0.0,
+  "state_change": 0.0
+}

@@ -1,0 +1,41 @@
+# The United States in the Narrow Corridor, 1909–1918
+
+In Acemoğlu and Robinson's framework, liberty emerges when state and society grow in tandem—a "Red Queen" dynamic. This decade saw the state expand dramatically (WWI, Progressive reforms) while society mobilized but also suffered wartime repression.
+
+## Trends
+
+- **Progressive reform movement (institutional):** Sustained push for administrative regulation, anti-trust enforcement, and professional bureaucracy—**strengthened the state's capacity** while also reflecting mobilized civil society (muckrakers, reform associations).
+
+- **Growth of the administrative/regulatory state (institutional):** Expansion of federal agencies (e.g., FTC, Federal Reserve) building durable bureaucratic capacity—**strengthened the state.**
+
+- **Immigration and urbanization (demographic):** Continued mass immigration from Southern/Eastern Europe swelling cities—**strengthened society** via associational life and labor organizing, but generated nativist backlash that later empowered coercive state responses.
+
+- **Industrial expansion and labor mobilization (economic):** Growth of large corporations alongside rising union membership (AFL, IWW)—an ambiguous effect: **strengthened organized society** while corporate concentration created powerful private actors that could rival or capture the state.
+
+- **The Great Migration begins (demographic):** African Americans moving north from ~1916—**strengthened Black civil society** through new communities and political weight, though facing violent resistance.
+
+- **Women's suffrage movement momentum (social/institutional):** Growing organized pressure (NAWSA, National Woman's Party)—**strengthened civil society** and broadened the base of political participation.
+
+## Events
+
+- **16th Amendment—federal income tax (1913):** Gave the state a powerful independent revenue stream—**strongly strengthened the state.**
+
+- **17th Amendment—direct election of senators (1913):** Increased popular control over the state—**strengthened society's leverage over the state.**
+
+- **Federal Reserve Act (1913):** Created central banking capacity—**strengthened state economic power.**
+
+- **Clayton Antitrust Act & FTC Act (1914):** Enhanced regulatory reach over corporations—**strengthened state capacity** to check private power (a "Shackled Leviathan" move).
+
+- **U.S. entry into World War I (1917):** Massive expansion of federal power via War Industries Board, food/fuel administration, conscription—**dramatically strengthened the state**, with society mobilized but increasingly subordinated.
+
+- **Selective Service Act (1917):** Mass conscription—**strengthened the state's coercive reach** into individual lives.
+
+- **Espionage Act (1917) and Sedition Act (1918):** Criminalized dissent, jailed critics (e.g., Eugene Debs)—**strengthened the state coercively while weakening civil society/liberty.**
+
+- **Suppression of the IWW and labor radicals (1917–1918):** Federal raids and prosecutions—**weakened a segment of civil society** (organized radical labor).
+
+- **1918 influenza pandemic:** Strained public health institutions and civic life—mixed, but broadly **weakened society** through demographic and social disruption.
+
+---
+
+**Framework note:** The decade illustrates the Red Queen tension: Progressive-era reforms represented balanced state–society growth (toward the corridor), but WWI mobilization tilted power sharply toward a **Leviathan** whose wartime coercion (Espionage/Sedition Acts) temporarily overran society's countervailing power—a warning that rapid state growth without matching societal capacity threatens liberty.

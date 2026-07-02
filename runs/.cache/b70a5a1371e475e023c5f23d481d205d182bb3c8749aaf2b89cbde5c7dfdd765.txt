@@ -1,0 +1,8 @@
+{
+  "society_power": 9.5,
+  "state_power": 8.3,
+  "society_change": 0.6,
+  "state_change": -1.5,
+  "key_event": "Growth of union power and social movements",
+  "reasoning": "The rise of powerful trade unions and social movements strengthened civil society, while economic stagnation and external pressures weakened the state's authority and fiscal strength."
+}

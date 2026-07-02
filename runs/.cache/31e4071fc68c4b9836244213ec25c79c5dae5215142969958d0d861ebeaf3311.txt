@@ -1,0 +1,8 @@
+{
+  "society_power": 7.8,
+  "state_power": 9.2,
+  "society_change": 0.2,
+  "state_change": 0.4,
+  "key_event": "World War I and Progressive Reforms",
+  "reasoning": "World War I increased state power, while Progressive reforms bolstered civil society, but corporate influence and wartime restrictions somewhat limited societal gains."
+}

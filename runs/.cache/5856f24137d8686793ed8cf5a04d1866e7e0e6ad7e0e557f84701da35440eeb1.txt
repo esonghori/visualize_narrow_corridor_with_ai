@@ -1,0 +1,19 @@
+Based on Acemoğlu and Robinson's framework, here are major trends and events in the UK from 1999-2008 that affected the balance of power between the state and society.
+
+### Trends:
+
+*   **Financialization and "Light-Touch" Regulation (entire period):** The prevailing economic policy was to minimize state regulation of the City of London, viewing its growth as a national asset. This slow-moving trend empowered a specific segment of society (the financial elite) and deliberately constrained the state's ability to oversee a critical sector of the economy.
+    *   **Effect:** Weakened the state's regulatory capacity; strengthened the power and autonomy of the financial sector.
+*   **Expansion of State Surveillance (post-2001):** Following the 9/11 attacks in the US and especially the 7/7 London bombings in 2005, the state passed a raft of counter-terrorism legislation (e.g., Terrorism Act 2000, ATCS Act 2001, Prevention of Terrorism Act 2005). This institutionalised greater powers of surveillance, data collection, and detention.
+    *   **Effect:** Strengthened the state's coercive and monitoring powers over society.
+*   **Large-scale Immigration from EU Accession Countries (post-2004):** The UK's decision not to impose transitional controls on immigration after eight Central and Eastern European countries joined the EU in 2004 led to a significant and rapid demographic shift. This altered the composition of civil society and placed new demands on state services and infrastructure.
+    *   **Effect:** Fundamentally altered the makeup and complexity of society, creating new social dynamics and pressures for the state to manage.
+
+### Events:
+
+*   **Implementation of Devolution (1999):** The formal opening of the Scottish Parliament and Welsh Assembly marked a discrete, foundational shift in the structure of the British state. Power was transferred from the central government to new, devolved institutions.
+    *   **Effect:** Weakened the central UK state, while strengthening regional civil societies by creating new, more accessible arenas for political accountability and participation.
+*   **Human Rights Act (1998) and Freedom of Information Act (2000) come into force (2000 and 2005 respectively):** These two landmark pieces of legislation became fully operational during this period. They granted citizens new legal powers to challenge the state's actions in court (HRA) and demand access to government information (FOIA).
+    *   **Effect:** Strengthened society by providing powerful tools to hold the state accountable and transparent, helping to "shackle" the Leviathan.
+*   **The Northern Rock Bank Run and its Nationalisation (2007-2008):** The first run on a major British bank in 150 years was a dramatic event that exposed the failure of the state's "light-touch" regulatory model. The government's subsequent emergency intervention and nationalisation of the bank represented a massive and sudden re-assertion of state power over the market.
+    *   **Effect:** Revealed a critical weakness in the state's regulatory power, which was then corrected by a swift and dramatic strengthening of the state's direct control over the financial sector.

@@ -1,0 +1,8 @@
+{
+  "society_power": 4.2,
+  "state_power": 7.3,
+  "society_change": -1.3,
+  "state_change": 0.8,
+  "key_event": "Iran-Iraq War and 1988 Mass Executions",
+  "reasoning": "The Iran-Iraq War and mass executions strengthened state control but weakened civil society through suppression and resource diversion."
+}

@@ -1,0 +1,8 @@
+{
+  "society_power": 8.8,
+  "state_power": 7.8,
+  "key_event": "Rise of new social movements and constitutional checks.",
+  "reasoning": "Society's power grew significantly with the maturation of new social movements (feminist, environmentalist) and key institutional victories like the 1971 Constitutional Council ruling on freedom of association. While the state's technocratic capacity remained high, its authority was eroded by economic crisis and checked by a newly assertive society, resulting in a slight decrease in its power.",
+  "society_change": 0.6,
+  "state_change": -0.2
+}

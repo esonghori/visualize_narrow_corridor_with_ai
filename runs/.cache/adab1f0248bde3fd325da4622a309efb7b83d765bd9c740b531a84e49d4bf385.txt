@@ -1,0 +1,8 @@
+{
+  "society_power": 4.0,
+  "state_power": 9.6,
+  "key_event": "WTO entry and internet growth fuels a 'Red Queen' race.",
+  "reasoning": "Massive economic growth following WTO accession supercharged the state's financial and technological capacity. Concurrently, the rapid proliferation of the internet enabled the growth of a nascent civil society and rights-defense movement, allowing society to organize and challenge state actions more effectively than at any point since 1989.",
+  "society_change": 2.0,
+  "state_change": 0.1
+}

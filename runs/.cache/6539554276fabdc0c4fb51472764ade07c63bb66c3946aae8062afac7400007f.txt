@@ -1,0 +1,8 @@
+{
+  "society_power": 7.2,
+  "state_power": 8.4,
+  "key_event": "Repression (Peterloo) vs. societal gains (legalizing unions).",
+  "reasoning": "Despite state repression like the Peterloo Massacre and Six Acts, civil society made major structural gains by legalizing trade unions and repealing religious tests for office. The state also grew more efficient through bureaucratic 'Liberal Tory' reforms, increasing its administrative capacity.",
+  "society_change": 0.7,
+  "state_change": 0.2
+}

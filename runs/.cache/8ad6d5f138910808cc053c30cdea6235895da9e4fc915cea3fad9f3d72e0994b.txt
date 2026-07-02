@@ -1,0 +1,21 @@
+Based on the framework in *The Narrow Corridor*, here are the major historical trends and events in China from 1960-1969 that affected the power of the state and society.
+
+### Trends:
+
+*   **The Atomization of Society Post-Famine (early 1960s):** The Great Leap Forward's famine, which peaked at the start of the decade, shattered social bonds and destroyed local social capital. This slow-moving demographic and social collapse left a populace focused on basic survival, not collective action.
+    *   **Effect:** Radically **weakened society**, preventing it from developing the capacity to check state power.
+*   **The Breakdown of Party-State Institutions (1966-1969):** The Cultural Revolution was a sustained assault on the formal bureaucracy of the Chinese Communist Party (CCP) and the government. Ministries, committees, and established procedures were replaced by revolutionary committees and loyalty to Mao.
+    *   **Effect:** **Weakened the institutional state**, making it less predictable and capable of routine governance, concentrating power in the hands of Mao—a classic move towards a "despotic Leviathan."
+*   **The Intensification of the Mao Personality Cult (throughout the decade):** Building throughout the 1960s, the cult of Mao created a direct, unmediated link between the supreme leader and the masses, bypassing all state and social institutions.
+    *   **Effect:** **Weakened the formal state** by making it subordinate to one man's will, while simultaneously **preventing the formation of an autonomous civil society** by channeling all political energy towards the leader.
+*   **The Militarization of Politics (1967-1969):** As the Party-State collapsed into factional chaos, the People's Liberation Army (PLA) was called in to restore order, taking over governance in many areas.
+    *   **Effect:** **Strengthened a specific coercive pillar of the state (the military)** at the expense of its civilian-bureaucratic wing, ultimately reinforcing the state's top-down control.
+
+### Events:
+
+*   **The Great Famine (Peak and Aftermath, 1960-1962):** This discrete event was a catastrophic failure of state policy, resulting in tens of millions of deaths. It demonstrated the state's absolute power over the lives of its citizens and its profound incapacity to provide basic security.
+    *   **Effect:** **Weakened the state's legitimacy and administrative competence**, while also **crushing and atomizing society**, leaving it unable to resist.
+*   **The Launch of the Cultural Revolution (May 1966):** Mao Zedong's direct call to "bombard the headquarters" unleashed a massive, state-sanctioned mobilization of youth (the Red Guards) against the established CCP bureaucracy.
+    *   **Effect:** **Weakened the institutional state** by attacking it directly, while creating a **mobilized but non-autonomous "society"** whose power was entirely derived from, and dependent on, the supreme leader.
+*   **PLA Intervention to Crush Factional Violence (starting 1967):** Following events like the Wuhan Incident, where society and parts of the state spun out of central control, Mao ordered the army to disarm the Red Guards and restore order.
+    *   **Effect:** The **state reasserted its monopoly on violence**, crushing the very "societal" forces it had unleashed. This decisively **strengthened the coercive power of the state** and ended the period of mass mobilization from below.

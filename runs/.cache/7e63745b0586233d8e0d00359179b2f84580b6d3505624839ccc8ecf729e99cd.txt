@@ -1,0 +1,37 @@
+# UK 1909–1918: Acemoğlu & Robinson's "Narrow Corridor" Framework
+
+In *The Narrow Corridor*, the "Shackled Leviathan" emerges when state and society grow in tandem, each checking and empowering the other. Britain in this period is a paradigm case of both expanding simultaneously—the classic "Red Queen" effect.
+
+## Trends
+
+- **Rising fiscal capacity of the state:** Progressive taxation (introduced/expanded via the 1909 "People's Budget"—land taxes, super-tax on high incomes) permanently strengthened the state's extractive and administrative reach.
+
+- **Growth of the nascent welfare state:** The National Insurance Act (1911) established state provision for health and unemployment, expanding the state's role in citizens' lives—strengthening state capacity while responding to (and empowering) societal demands.
+
+- **Expansion of organized labor:** Rising trade union membership and militancy (the "Great Unrest," c. 1910–1914, with major dock, rail, and mining strikes) strengthened civil society's mobilizational power.
+
+- **Democratization of the electorate:** A long-running trend toward mass suffrage, culminating in but building toward the 1918 Representation of the People Act—broadening society's formal political voice.
+
+- **The women's suffrage movement:** Sustained suffragist/suffragette organizing (WSPU, NUWSS) mobilized a previously excluded segment of society, strengthening civil society's capacity for collective action.
+
+- **Wartime economic mobilization (from 1914):** Progressive state control over industry, prices, and labor markets massively expanded state administrative capacity—though partly negotiated with unions and industry, keeping it (mostly) within the corridor.
+
+## Events
+
+- **The People's Budget (1909):** Lloyd George's redistributive budget—a discrete fiscal-political confrontation that both strengthened the state's revenue base and provoked a constitutional crisis.
+
+- **The Parliament Act (1911):** Curtailed the Lords' veto after the constitutional crisis, shifting power to the elected Commons—strengthening the accountable/representative arm of the state and, indirectly, society.
+
+- **National Insurance Act (1911):** Discrete legislative milestone (see trend above).
+
+- **Outbreak of WWI (August 1914):** The pivotal event: triggered enormous expansion of state power.
+
+- **Defence of the Realm Act (DORA, 1914):** Granted sweeping emergency powers (censorship, requisitioning, control of production)—a sharp, discrete strengthening of state coercive/administrative power over society.
+
+- **Munitions of War Act (1915) & conscription (Military Service Acts, 1916):** Direct state control over labor mobility and compulsory military service—major expansions of state power over individuals, negotiated partly with labor.
+
+- **Representation of the People Act (1918):** Enfranchised nearly all men over 21 and women over 30—a dramatic discrete expansion of society's political power, tripling the electorate.
+
+- **Easter Rising (1916, Ireland):** A violent challenge to state authority testing the corridor's limits at the Union's periphery—illustrating how the framework strained where state–society balance broke down.
+
+**Summary:** This decade exemplifies A&R's "Red Queen" dynamic—war and reform drove *both* state capacity (taxation, welfare, wartime controls) *and* societal power (unions, mass suffrage) upward together, keeping Britain within the corridor rather than tipping toward Despotic or Absent Leviathan.

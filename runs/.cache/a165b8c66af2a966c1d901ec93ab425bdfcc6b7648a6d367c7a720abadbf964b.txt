@@ -1,0 +1,37 @@
+# Chile, 1868–1877: State and Society in the Narrow Corridor Framework
+
+A caveat: some items below sit at the edges of the 1868–1877 window, and the precise year of some processes is debatable. I've kept to developments materially active during this decade.
+
+## Trends
+
+- **Nitrate and copper export expansion (esp. Atacama/Antofagasta economy).** Growing mineral and guano/nitrate wealth (in Bolivian and Peruvian territory worked by Chilean capital and labor) enlarged state fiscal capacity via customs revenue and strengthened a commercial elite. *Strengthened the state's fiscal base; strengthened an economic elite (mixed for broad society).*
+
+- **Railway and infrastructure buildout.** Continued expansion of rail (e.g., the Santiago–Valparaíso line, opened 1863, and southward extensions) and telegraph deepened the state's administrative and coercive reach into the territory. *Strengthened the state.*
+
+- **Consolidation of parliamentary/oligarchic liberalism.** The gradual erosion of the strong presidentialism of the 1833 Constitution, with liberal reforms constraining executive dominance, shifted power toward Congress and organized elite factions. *Strengthened (elite) society relative to executive state power.*
+
+- **Secularizing conflict (Church–state tensions).** Ongoing anticlerical liberal pressure over cemeteries, education, and civil authority weakened the Church's monopoly and expanded secular state jurisdiction. *Strengthened the secular state; contested a traditional social institution.*
+
+- **Demographic growth and urbanization.** Population growth and the expansion of Santiago/Valparaíso, plus an emerging urban middle and artisan class, broadened the base for civic and political organization. *Strengthened society (mobilizational capacity).*
+
+- **Frontier expansion into Araucanía.** The slow-moving military-settler "pacification" of Mapuche territory extended state administration and land control southward. *Strengthened the state (at the expense of an autonomous indigenous society).*
+
+## Events
+
+- **Constitutional/electoral reforms of the early 1870s.** Amendments reducing presidential prerogatives and reforming suffrage/incompatibility rules (culminating in reforms around 1871–1874) concretely limited executive power. *Constrained the executive; strengthened parliamentary/elite society.*
+
+- **1871 ban on immediate presidential re-election.** A discrete constitutional change ending the five-year re-election pattern. *Weakened executive continuity; strengthened institutional constraints on the state.*
+
+- **Federico Errázuriz Zañartu's presidency (1871–1876).** A period of liberal-reformist governance advancing secularization and administrative reform. *Strengthened liberal-institutional state capacity while reallocating power toward Congress.*
+
+- **1874 electoral law reform.** Broadened the franchise (notably by presuming literacy as a qualification), expanding the formal political nation. *Strengthened (a portion of) society's political participation.*
+
+- **1874 Penal Code / legal codification efforts.** Advancing systematic legal codes standardized state legal authority. *Strengthened the state's rule-of-law capacity.*
+
+- **Onset of the 1870s economic downturn.** Falling international prices and financial strain toward mid-decade squeezed public finances and living standards, heightening pressure over the mineral frontier. *Weakened the state's fiscal position; strained society.*
+
+- **Boundary treaty with Bolivia (1874).** A discrete diplomatic agreement over the Atacama/Antofagasta frontier that shaped fiscal claims and set the stage for later conflict. *Ambiguous—stabilized then destabilized state interests over resource territory.*
+
+---
+
+**Note on reliability:** I'm confident about the general framework-relevant dynamics (mineral wealth, secularization, parliamentary erosion of presidentialism, Araucanía expansion). I'm **less certain of exact dates** for several reforms (the 1871 re-election ban, 1874 electoral and penal-code changes)—please verify these specific years against a dedicated Chilean political history before relying on them.

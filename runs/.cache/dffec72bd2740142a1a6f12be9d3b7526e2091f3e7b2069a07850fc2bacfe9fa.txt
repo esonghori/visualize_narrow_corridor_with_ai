@@ -1,0 +1,8 @@
+{
+  "society_power": 0.5,
+  "state_power": 7.5,
+  "key_event": "The Cultural Revolution destroys the institutional state from within.",
+  "reasoning": "The Great Famine and Cultural Revolution shattered an already atomized society, reducing its power to near zero. State power also decreased as Mao's assault on the party bureaucracy crippled its institutional capacity, even while its ultimate coercive control remained formidable.",
+  "society_change": -0.5,
+  "state_change": -2.0
+}

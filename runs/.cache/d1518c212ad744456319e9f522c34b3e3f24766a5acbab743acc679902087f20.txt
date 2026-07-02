@@ -1,0 +1,8 @@
+{
+  "society_power": 4.0,
+  "state_power": 8.5,
+  "society_change": 1.0,
+  "state_change": 0.5,
+  "key_event": "White Revolution and 1963 Riots",
+  "reasoning": "The White Revolution strengthened the state and civil society, but the 1963 riots exposed state weakness and bolstered opposition."
+}

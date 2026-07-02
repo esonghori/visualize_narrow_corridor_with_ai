@@ -1,0 +1,8 @@
+{
+  "society_power": 2.0,
+  "state_power": 7.5,
+  "key_event": "Communist victory in the Civil War establishes a new state.",
+  "reasoning": "The KMT state collapsed due to war and hyperinflation, but was replaced by the disciplined and powerful PRC state. Simultaneously, years of war and the CPC's strategy of incorporating all social groups into the party-state decimated independent civil society.",
+  "society_change": -3.8,
+  "state_change": 4.0
+}

@@ -1,0 +1,8 @@
+{
+  "society_power": 8.0,
+  "state_power": 7.7,
+  "society_change": 0.5,
+  "state_change": 0.2,
+  "key_event": "Separation of Church and State, Dreyfus Affair",
+  "reasoning": "Secular reforms and the Dreyfus Affair strengthened civil society and state legitimacy."
+}

@@ -1,0 +1,8 @@
+{
+  "society_power": 6.0,
+  "state_power": 5.0,
+  "society_change": 0.0,
+  "state_change": 0.0,
+  "key_event": "Ratification of the Constitution and Bill of Rights",
+  "reasoning": "Civil society was moderately organized with strong protections, while the state had a functioning but limited bureaucracy."
+}

@@ -1,0 +1,8 @@
+{
+  "society_power": 9.2,
+  "state_power": 8.5,
+  "society_change": 0.3,
+  "state_change": -1.2,
+  "key_event": "Rise of labor unions and social welfare reforms",
+  "reasoning": "Labor unions and social welfare reforms strengthened civil society, while the Boer War exposed state weaknesses."
+}

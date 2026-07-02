@@ -1,0 +1,8 @@
+{
+  "society_power": 9.4,
+  "state_power": 9.5,
+  "key_event": "The 9/11 attacks and the rise of the security state.",
+  "reasoning": "The state's coercive and surveillance power surged with the post-9/11 national security apparatus, despite some glaring failures of capacity like Katrina. Society's ability to check this expansion was partially hampered by polarization, causing a slight decline in its relative power even as online mobilization tools grew.",
+  "society_change": -0.2,
+  "state_change": 0.5
+}

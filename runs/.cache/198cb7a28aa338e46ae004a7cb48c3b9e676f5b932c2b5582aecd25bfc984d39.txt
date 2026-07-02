@@ -1,0 +1,8 @@
+{
+  "society_power": 9.2,
+  "state_power": 7.8,
+  "key_event": "COVID pandemic expands state power, restricts civil liberties.",
+  "reasoning": "The state's authority surged through emergency pandemic legislation and new protest laws, significantly increasing its coercive capacity. These same measures directly weakened civil society by restricting fundamental rights of assembly and association, despite its continued influence via financial markets.",
+  "society_change": -0.6,
+  "state_change": 0.7
+}

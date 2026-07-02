@@ -1,0 +1,8 @@
+{
+  "society_power": 5.5,
+  "state_power": 7.2,
+  "key_event": "The July Revolution of 1830 and subsequent state consolidation.",
+  "reasoning": "The 1830 Revolution was a powerful demonstration of society's ability to mobilize and overthrow a regime. However, the new July Monarchy quickly reasserted state authority, brutally suppressing workers' revolts and expanding its administrative reach through new laws on education and press censorship, leading to a stronger state confronting a more organized society.",
+  "society_change": 1.5,
+  "state_change": 0.2
+}

@@ -1,0 +1,8 @@
+{
+  "society_power": 8.0,
+  "state_power": 7.5,
+  "society_change": 0.2,
+  "state_change": -1.0,
+  "key_event": "1924 Coup and 1925 Constitution",
+  "reasoning": "The 1924 coup weakened the state's stability, while the 1925 Constitution centralized power, reducing checks. Economic growth and urbanization strengthened civil society."
+}

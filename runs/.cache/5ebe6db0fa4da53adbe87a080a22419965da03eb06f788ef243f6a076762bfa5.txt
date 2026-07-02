@@ -1,0 +1,19 @@
+Based on Acemoğlu and Robinson's framework, here are the major historical trends and events in the United States from 1929-1938 that affected the balance of power between the state and civil society.
+
+### Trends:
+
+*   **Mass Unemployment and Economic Collapse (1929-1938):** The sustained economic crisis delegitimized the existing power of business elites and private institutions within civil society, which had failed to prevent or solve the Depression. This created a widespread popular demand for federal intervention.
+    *   **Effect:** Weakened a powerful segment of society (capital/business) and created a strong mandate for an expansion of state power.
+*   **The Rise of a National, Organized Labor Movement (peaking 1935-1938):** Spurred by economic desperation and new legal protections, the growth of industrial unions like the CIO created a new, powerful, and mobilized bloc within civil society capable of making demands on both capital and the state.
+    *   **Effect:** Strengthened society by giving a previously disorganized segment a powerful collective voice.
+*   **Shift in Public Ideology Towards Federal Responsibility (1932-1938):** The failure of private charity, local, and state governments to cope with the Depression's scale caused a fundamental, slow-moving shift in public opinion. Americans increasingly expected the federal government to ensure a basic level of economic security.
+    *   **Effect:** Strengthened the state by providing it with a deep well of popular legitimacy for unprecedented intervention in the economy and social welfare.
+
+### Events:
+
+*   **The Stock Market Crash of 1929 and Subsequent Banking Crises (1929-1933):** This discrete series of financial collapses acted as a catalyst, shattering the perceived competence of the financial sector and eroding the social power held by economic elites.
+    *   **Effect:** Dramatically weakened a core pillar of societal power (the financial elite) and created the power vacuum that the state would later fill.
+*   **The Passage of the National Labor Relations Act (Wagner Act) of 1935:** This legislation created a federal legal framework that protected workers' right to organize and bargain collectively. The state actively and legally empowered a segment of civil society to check the power of another (corporate management).
+    *   **Effect:** Strengthened both the state (as the arbiter of labor relations) and society (by legally empowering unions), intensifying the "Red Queen" dynamic between them.
+*   **The Passage of the Social Security Act of 1935:** This event established a direct, permanent relationship between the federal state and individual citizens for old-age pensions and unemployment insurance, bypassing previous societal institutions like family, private charity, and local relief.
+    *   **Effect:** Massively strengthened the state by creating new administrative capacities and a durable dependence of citizens upon it for their welfare.

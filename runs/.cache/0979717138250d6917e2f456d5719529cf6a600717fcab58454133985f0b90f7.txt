@@ -1,0 +1,8 @@
+{
+  "society_power": 5.5,
+  "state_power": 7.2,
+  "key_event": "Mohammad Khatami's landslide election on a 'civil society' platform.",
+  "reasoning": "Society surged in power, mobilizing through elections to install reformist Mohammad Khatami and creating a vibrant press and civic discourse. The state, while maintaining formidable coercive power, was weakened by deep internal fractures between the new elected government and the unelected hardline establishment.",
+  "society_change": 4.0,
+  "state_change": -0.8
+}

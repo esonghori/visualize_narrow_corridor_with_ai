@@ -1,0 +1,8 @@
+{
+  "society_power": 7.3,
+  "state_power": 7.8,
+  "society_change": -1.2,
+  "state_change": 1.2,
+  "key_event": "Rise of Abolitionism and Kansas-Nebraska Act",
+  "reasoning": "Abolitionism strengthened civil society but increased sectional tensions, while the Kansas-Nebraska Act weakened federal authority and exacerbated conflict."
+}

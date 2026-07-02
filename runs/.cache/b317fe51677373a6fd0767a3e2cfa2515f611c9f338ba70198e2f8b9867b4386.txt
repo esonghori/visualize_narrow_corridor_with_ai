@@ -1,0 +1,8 @@
+{
+  "society_power": 7.5,
+  "state_power": 7.0,
+  "key_event": "Transition to democracy after 'No' vote defeats Pinochet.",
+  "reasoning": "The 1988 plebiscite and return to elections massively empowered a re-emergent civil society. Simultaneously, the state's power decreased as the absolute dictatorship gave way to a 'tutelary' democracy, constrained by authoritarian constitutional enclaves and a non-subordinate military.",
+  "society_change": 3.5,
+  "state_change": -2.2
+}

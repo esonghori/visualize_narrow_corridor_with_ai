@@ -1,0 +1,19 @@
+Based on Acemoğlu and Robinson's framework, the period of 1828-1837 in Chile is defined by a dramatic shift out of a weak, contested state (risking the "Absent Leviathan") toward the construction of a powerful, centralized state, pushing Chile towards the "Despotic" side of the "Narrow Corridor."
+
+### Trends:
+
+*   **Ideological and Institutional Consolidation of Authoritarian Republicanism:** Following years of liberal experimentation and instability, the political trend shifted decisively toward a centralized, hierarchical, and impersonal state envisioned by Diego Portales. This was a slow-moving project to build institutions (a stable bureaucracy, judiciary, and military) loyal to the state itself rather than to individual caudillos.
+    *   **Effect:** Massively **strengthened the state's** capacity and durability, while **weakening society** by subordinating regional and factional interests to the central government.
+*   **Economic Stabilization and Fiscal Centralization:** The growing importance of Valparaíso as a Pacific trading hub, combined with an orderly customs and tax collection system, provided the central government with a consistent and independent revenue stream. This fiscal capacity was a slow-building but crucial trend that funded the new state's ambitions.
+    *   **Effect:** **Strengthened the state** by giving it the material resources to pay soldiers and bureaucrats, reducing its dependence on borrowing from powerful aristocrats.
+*   **Resurgence of the Landed Aristocracy:** The conservative political project was built upon an alliance with the traditional landowning elite (*pelucones*). This trend saw the re-entrenchment of a narrow, socially conservative class as the primary social base and beneficiary of the new political order, marginalizing more liberal or populist elements.
+    *   **Effect:** **Strengthened the state** by providing it with a stable and powerful domestic coalition, but **weakened civil society** as a whole by concentrating power and excluding other groups from the political process.
+
+### Events:
+
+*   **The Civil War of 1829-1830:** This discrete armed conflict between the liberal (*Pipiolos*) and conservative (*Pelucones*) factions culminated in the conservative victory at the Battle of Lircay. This event definitively ended the period of liberal federalist experimentation.
+    *   **Effect:** Decisively **strengthened the (nascent conservative) state** by eliminating its primary armed opposition. It **weakened civil society** by crushing the organized liberal faction, its press, and its political mobilization capacity.
+*   **Promulgation of the Constitution of 1833:** This was a singular political event that codified the Portalian order. The constitution created a powerful, centralized presidency with a long term and re-election, granted the executive extraordinary powers, and established a property-based census suffrage that severely limited political participation.
+    *   **Effect:** Formally and legally **strengthened the state** (specifically the executive branch) over all other actors. It **weakened society** by constitutionally restricting its ability to hold the state accountable through broad democratic means.
+*   **Outbreak of the War of the Confederation (1836):** Chile's declaration of war on the Peru-Bolivian Confederation was a major event that tested the new state. It required national resource mobilization, created a powerful external enemy, and was used as a justification for internal repression. The assassination of Diego Portales in 1837 by a mutinous army regiment, a direct consequence of the war, paradoxically galvanized support for the state and the conflict.
+    *   **Effect:** **Strengthened the state** by forcing it to develop its fiscal-military capacity and by rallying nationalist sentiment around it. It simultaneously **weakened society's** power to dissent, as opposition to the war was branded as treason.

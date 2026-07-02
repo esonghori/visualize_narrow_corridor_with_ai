@@ -1,0 +1,8 @@
+{
+  "society_power": 5.5,
+  "state_power": 6.5,
+  "society_change": 1.0,
+  "state_change": -1.0,
+  "key_event": "Liberal Reforms of 1852-1857 and Civil War of 1851-1852",
+  "reasoning": "The civil war and subsequent liberal reforms strengthened civil society by promoting more democratic governance and weakening traditional conservative power centers, while the state's power was slightly reduced due to political instability and resource diversion."
+}

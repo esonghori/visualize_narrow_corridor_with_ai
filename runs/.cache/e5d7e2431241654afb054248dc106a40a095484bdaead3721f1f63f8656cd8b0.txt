@@ -1,0 +1,8 @@
+{
+  "society_power": 8.9,
+  "state_power": 7.4,
+  "society_change": -4.0,
+  "state_change": -5.5,
+  "key_event": "Polarization, economic inequality, and 2020 election aftermath",
+  "reasoning": "Polarization and economic inequality have significantly weakened both state and civil society, while key events like the 2020 election and its aftermath further eroded trust and cohesion."
+}

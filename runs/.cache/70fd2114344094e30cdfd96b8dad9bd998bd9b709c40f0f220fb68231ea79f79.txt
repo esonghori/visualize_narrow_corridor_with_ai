@@ -1,0 +1,8 @@
+{
+  "society_power": 8.5,
+  "state_power": 9.0,
+  "key_event": "Frei's 'Revolution in Liberty' expands both state and society.",
+  "reasoning": "Eduardo Frei's government received a powerful mandate for state-led transformation, passing agrarian reform and expanding economic control. Simultaneously, its 'Promoción Popular' program and broad political mobilization massively organized and empowered civil society, particularly among urban and rural poor.",
+  "society_change": 1.5,
+  "state_change": 1.0
+}

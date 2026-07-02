@@ -1,0 +1,8 @@
+{
+  "society_power": 5.8,
+  "state_power": 7.9,
+  "society_change": -1.0,
+  "state_change": -1.4,
+  "key_event": "Economic Crisis and Political Extremism",
+  "reasoning": "The Great Depression and rise of extremism weakened both civil society and state capacity."
+}

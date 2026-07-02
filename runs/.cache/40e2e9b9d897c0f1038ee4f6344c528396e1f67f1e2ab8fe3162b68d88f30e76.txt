@@ -1,0 +1,8 @@
+{
+  "society_power": 8.8,
+  "state_power": 7.5,
+  "key_event": "The 2019 'Estallido Social' and failed constitutional process.",
+  "reasoning": "Society's power was demonstrated by its ability to force a constitutional rewrite and then reject the outcomes, though it was temporarily suppressed by the pandemic. The state's power eroded significantly due to a loss of legitimacy and political fragmentation, weakening its ability to govern effectively despite increased coercive capacity during the pandemic.",
+  "society_change": -0.2,
+  "state_change": -0.7
+}

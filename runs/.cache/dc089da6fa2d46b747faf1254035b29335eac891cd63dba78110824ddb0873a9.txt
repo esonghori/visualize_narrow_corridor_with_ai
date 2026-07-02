@@ -1,0 +1,8 @@
+{
+  "society_power": 4.5,
+  "state_power": 6.0,
+  "key_event": "Napoleon's collapse and the Constitutional Charter of 1814.",
+  "reasoning": "The state's coercive power collapsed with military defeat, and the new Bourbon monarchy was constrained by a constitution, though the Napoleonic bureaucracy endured. Society, specifically the propertied classes, gained formal representative institutions and guaranteed rights, increasing its power despite the reactionary White Terror.",
+  "society_change": 1.5,
+  "state_change": -2.0
+}

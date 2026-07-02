@@ -1,0 +1,8 @@
+{
+  "society_power": 9.0,
+  "state_power": 8.2,
+  "key_event": "Massive student protests shatter political consensus, empowering society.",
+  "reasoning": "Massive social movements, especially the 2011-2013 student protests, demonstrated society's new capacity to set the national agenda. In response, the state expanded its administrative scope through major reforms (a Red Queen effect), slightly increasing its power even as corruption scandals weakened its legitimacy.",
+  "society_change": 1.0,
+  "state_change": 0.2
+}

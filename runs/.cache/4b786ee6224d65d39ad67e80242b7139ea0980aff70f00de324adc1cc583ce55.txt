@@ -1,0 +1,8 @@
+{
+  "society_power": 8.8,
+  "state_power": 7.8,
+  "key_event": "Creation of the first federal regulatory agency, the ICC.",
+  "reasoning": "The state grew significantly more capable with civil service reform and the creation of the first federal regulatory agency (the ICC), a direct response to society's concentrated corporate power. Society's power, while immense due to trusts and organized labor, was checked by the state's suppression of radical movements after Haymarket and the destruction of autonomous Native American societies.",
+  "society_change": -0.2,
+  "state_change": 0.6
+}

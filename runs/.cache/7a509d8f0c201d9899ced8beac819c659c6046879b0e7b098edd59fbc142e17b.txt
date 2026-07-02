@@ -1,0 +1,8 @@
+{
+  "society_power": 8.4,
+  "state_power": 8.8,
+  "key_event": "Prohibition and its violent societal backlash.",
+  "reasoning": "The state's power, while formally expanded by Prohibition and the Palmer Raids, was effectively checked by widespread defiance and organized crime, reducing it from its wartime peak. Society's power grew overall as women's suffrage and new mass movements (like the KKK and UNIA) counteracted the state and corporate suppression of labor and radicals.",
+  "society_change": 0.2,
+  "state_change": -0.7
+}

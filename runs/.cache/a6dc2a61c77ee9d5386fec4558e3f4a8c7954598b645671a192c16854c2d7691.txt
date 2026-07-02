@@ -1,0 +1,8 @@
+{
+  "society_power": 7.1,
+  "state_power": 7.0,
+  "society_change": -1.1,
+  "state_change": 0.2,
+  "key_event": "Panic of 1819 and Missouri Compromise",
+  "reasoning": "Economic crisis and sectional tensions weakened civil society, while the state's regulatory and administrative roles expanded."
+}

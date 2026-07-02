@@ -1,0 +1,8 @@
+{
+  "society_power": 7.5,
+  "state_power": 6.3,
+  "society_change": 0.3,
+  "state_change": -1.5,
+  "key_event": "Algerian War and Fourth Republic instability",
+  "reasoning": "The Algerian War and political instability weakened state power, while civil society remained active in opposition."
+}

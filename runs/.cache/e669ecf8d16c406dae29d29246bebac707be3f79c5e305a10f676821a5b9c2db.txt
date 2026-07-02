@@ -1,0 +1,8 @@
+{
+  "society_power": 9.8,
+  "state_power": 7.1,
+  "key_event": "Brexit referendum showed society's power to redirect the state.",
+  "reasoning": "Society's power grew as populist movements, amplified by social media, successfully challenged the state's authority in the Brexit and Scottish referendums. State power decreased as a decade of austerity hollowed out its administrative capacity, despite gaining new surveillance tools.",
+  "society_change": 0.2,
+  "state_change": -0.5
+}

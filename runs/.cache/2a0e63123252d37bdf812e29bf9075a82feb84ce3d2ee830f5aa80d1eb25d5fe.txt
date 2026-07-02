@@ -1,0 +1,8 @@
+{
+  "society_power": 5.0,
+  "state_power": 3.5,
+  "key_event": "Increasing foreign influence and granting of concessions by the Shah.",
+  "reasoning": "The Qajar state was weak, with a rudimentary bureaucracy and military, relying on local tribal and religious leaders to govern. Conversely, society held moderate power through these same traditional networks—the ulama (clergy), bazaar merchants, and tribal confederations—which were highly organized and largely autonomous from the central government.",
+  "society_change": 0.0,
+  "state_change": 0.0
+}

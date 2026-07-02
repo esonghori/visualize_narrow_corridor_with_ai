@@ -1,0 +1,23 @@
+Based on the framework in *The Narrow Corridor*, here are major historical trends and events in the United States from 1839-1848 that affected the balance of power between the state and civil society.
+
+### Trends:
+
+*   **The Second Great Awakening's influence on reform movements:** This ongoing religious revival fueled a surge in societal organization independent of the state. Abolitionist societies, the temperance movement, and early women's rights conventions (like Seneca Falls in 1848) created powerful, mobilized networks that challenged state-sanctioned institutions (slavery) and social norms.
+    *   **Effect:** Strengthened society by building its organizational capacity and moral authority to contest state power.
+*   **Mass immigration from Ireland and Germany:** Beginning in earnest in the 1840s, this demographic wave diversified the population, created new urban social structures, and fueled both economic growth and nativist backlash. These immigrant communities formed their own social, religious, and political organizations, increasing the complexity and pluralism of civil society.
+    *   **Effect:** Strengthened society by increasing its size, diversity, and associational density.
+*   **Expansion of the Market Revolution:** The continued growth of factories, railroads, and the telegraph created new, powerful economic actors (industrialists, financiers) and new forms of social organization (nascent labor unions). This process concentrated economic power in the hands of non-state actors who could influence government policy.
+    *   **Effect:** Strengthened society, particularly its economic elites and organized labor segments.
+*   **Ideology of "Manifest Destiny":** While a broad cultural trend, it created popular societal pressure for territorial growth. This ideology was a powerful force outside the formal state, driving settlers west and creating a political mandate for state action that the government then adopted.
+    *   **Effect:** Strengthened both. It empowered a segment of society to push a national agenda, which in turn justified a massive expansion of the state's territorial and military power.
+
+### Events:
+
+*   **The Mexican-American War (1846-1848):** The war was a discrete, state-led project that required a massive expansion of the U.S. military, a national mobilization effort, and the creation of administrative capacity to govern vast new territories (the Mexican Cession). This was a fundamental act of state-building.
+    *   **Effect:** Massively strengthened the state by expanding its military, bureaucracy, and territorial domain.
+*   **Annexation of Texas (1845):** A direct precursor to the war, this act incorporated a huge new territory and its population, legally expanding the federal state's authority and responsibilities.
+    *   **Effect:** Strengthened the state by increasing its size and scope.
+*   **Repeal of the Congressional "Gag Rule" (1844):** For years, the state (via the House of Representatives) had formally refused to hear petitions from citizens regarding slavery. The rule's repeal, forced by a relentless campaign led by John Quincy Adams and abolitionist societies, was a landmark victory for civil society's ability to compel the state to listen.
+    *   **Effect:** Strengthened society by affirming its power to set the terms of national debate and hold the state accountable.
+*   **Dorr's Rebellion in Rhode Island (1841-1842):** An extra-legal movement from an un-enfranchised segment of society attempted to rewrite the state constitution. The established state government crushed the rebellion, using its monopoly on force to assert its authority, but the immense societal pressure led to the adoption of a more liberal constitution shortly thereafter.
+    *   **Effect:** Strengthened both. The state demonstrated its power to suppress insurrection, while society demonstrated its power to force fundamental political reform through mobilization.

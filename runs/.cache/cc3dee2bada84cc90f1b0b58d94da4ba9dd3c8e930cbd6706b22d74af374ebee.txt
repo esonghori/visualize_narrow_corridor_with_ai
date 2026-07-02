@@ -1,0 +1,8 @@
+{
+  "society_power": 4.5,
+  "state_power": 4.0,
+  "society_change": 1.0,
+  "state_change": -1.0,
+  "key_event": "Wuchang Uprising and May Fourth Movement",
+  "reasoning": "The Wuchang Uprising and May Fourth Movement strengthened civil society through increased nationalism and intellectual activism, while the state weakened due to the fall of the Qing Dynasty and the rise of warlordism."
+}

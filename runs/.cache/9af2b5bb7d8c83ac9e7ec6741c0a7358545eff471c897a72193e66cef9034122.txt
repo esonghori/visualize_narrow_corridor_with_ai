@@ -1,0 +1,8 @@
+{
+  "society_power": 8.5,
+  "state_power": 8.3,
+  "society_change": 0.5,
+  "state_change": 0.3,
+  "key_event": "Economic growth, urbanization, agrarian reform, and educational expansion",
+  "reasoning": "Economic growth and social reforms strengthened both civil society and state capacity, with notable increases in civic organization and state administrative reach."
+}

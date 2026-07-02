@@ -1,0 +1,8 @@
+{
+  "society_power": 7.5,
+  "state_power": 8.0,
+  "society_change": 0.5,
+  "state_change": 0.5,
+  "key_event": "Continued democratization and social reforms",
+  "reasoning": "Economic growth, social policies, and constitutional reforms strengthened both the state and civil society. The democratic consolidation and increased civic engagement further bolstered civil society's capacity."
+}

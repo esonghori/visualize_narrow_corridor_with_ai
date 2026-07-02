@@ -1,0 +1,23 @@
+Based on Acemoğlu and Robinson's framework, here are major trends and events in the U.S. from 2019-2028 affecting the balance of power between the state and society.
+
+### Trends:
+
+*   **Intensifying Political Polarization and Institutional Distrust:** A slow-moving trend where political identity has become the primary lens for social and factual interpretation. This erodes the shared norms necessary for both the state to govern effectively and for society to act cohesively as a check on power.
+    *   **Effect:** Weakens the state’s capacity for consensus and effective governance, while also fracturing society, making broad-based social mobilization against the state harder. It strengthens partisan factions *within* both the state and society at the expense of the whole.
+*   **Expansion of the Administrative and Economic State:** Driven by the pandemic, inflation, and great-power competition, the state has taken a more active role in managing public health and directing the economy through industrial policy (e.g., subsidies for semiconductors and green energy).
+    *   **Effect:** Strengthens the state by expanding its fiscal power and regulatory reach into new areas of American life and commerce.
+*   **The Proliferation of Disinformation and a Fractured Media Landscape:** The decline of legacy media and the rise of decentralized, algorithm-driven social media platforms have made it easier for misinformation and disinformation to spread, undermining a common factual basis for political discourse.
+    *   **Effect:** Weakens both. It weakens society’s ability to hold the state accountable based on objective facts, and it weakens the state’s legitimacy and ability to communicate with and lead the public.
+*   **Devolution of Major Policy Questions to the States:** Following key Supreme Court decisions, battles over fundamental rights and regulations (e.g., abortion, voting laws, environmental policy) have increasingly shifted from the federal to the state level.
+    *   **Effect:** Weakens the federal state’s power while significantly strengthening the power of individual state governments. This, in turn, forces social movements to refocus their efforts on state-level contests.
+
+### Events:
+
+*   **The COVID-19 Pandemic and Government Response (2020-2022):** The state implemented unprecedented public health mandates (lockdowns, mask/vaccine requirements) and massive fiscal interventions (CARES Act, PPP loans). This was the single largest expansion of state power into the daily lives of citizens and the economy in modern history.
+    *   **Effect:** Massively strengthened the state’s public health and economic powers; simultaneously sparked powerful societal mobilization both in support (e.g., mutual aid) and in fierce opposition (e.g., anti-lockdown/mandate protests), deepening the state-society contest.
+*   **The George Floyd Protests and Racial Justice Movement (2020):** One of the largest social mobilizations in U.S. history, directly challenging the state's legitimacy and its monopoly on the use of force, particularly regarding policing.
+    *   **Effect:** Strengthened society’s capacity to organize and challenge state power, placing the state on the defensive and forcing policy conversations around police reform at local and national levels.
+*   **The January 6th Capitol Attack (2021):** A faction of society, encouraged by political leaders, directly attacked a core institution of the state in an attempt to halt the peaceful transfer of power.
+    *   **Effect:** Revealed a profound weakness in the state's ability to defend its own institutions from internal societal threats. The subsequent law enforcement and judicial response, however, represented a powerful reassertion of the state's authority to prosecute those who challenge it violently.
+*   **The Supreme Court's Overturning of Roe v. Wade (Dobbs Decision, 2022):** A discrete act by a branch of the state that eliminated a 50-year-old federally protected right, returning the authority to regulate or ban abortion to individual states.
+    *   **Effect:** Strengthened the power of state governments over individual autonomy. It also galvanized civil society, triggering massive political organizing and electoral mobilization by pro-choice groups and solidifying the political power of anti-abortion groups.

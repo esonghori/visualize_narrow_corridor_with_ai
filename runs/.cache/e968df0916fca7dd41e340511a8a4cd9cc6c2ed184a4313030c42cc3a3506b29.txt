@@ -1,0 +1,39 @@
+# The Narrow Corridor Framework Applied to the US, 1799–1808
+
+In Acemoğlu and Robinson's terms, liberty requires a *balance* between a capable state (the "Leviathan") and a mobilized society that can check it. Here's how developments in this decade shaped that balance.
+
+## Trends
+
+- **Westward expansion and settler democracy:** Continuing migration into trans-Appalachian territories (Kentucky, Tennessee, Ohio admitted 1803) expanded land ownership and a franchise of independent farmers. This *strengthened society* by dispersing economic power, though it also demanded state capacity to organize territories.
+
+- **Erosion of property qualifications for voting:** A slow democratizing drift in several states broadened the electorate. This *strengthened society's* capacity to constrain elites.
+
+- **Growth of a partisan press and voluntary associations:** Expansion of Republican and Federalist newspapers and political clubs deepened popular political mobilization—*strengthening society's* ability to contest state power.
+
+- **Institutionalization of the party system:** The consolidation of Federalist vs. Democratic-Republican competition created durable channels for peaceful contestation—arguably *strengthening both* state legitimacy and societal voice.
+
+- **Entrenchment and expansion of slavery:** The spread of cotton cultivation (post–cotton gin) deepened a coercive, elite-dominated Southern social order. In A&R's terms this reflects a **"Despotic"** or cage-of-norms dynamic that *weakened liberty for the enslaved* and empowered a planter elite over both state and non-elite society.
+
+- **Weak but professionalizing federal fiscal/administrative capacity:** Under Jefferson, deliberate reduction of the military, debt, and internal taxes *weakened state capacity* by design (Republican ideology favored a limited Leviathan).
+
+## Events
+
+- **Kentucky and Virginia Resolutions (1798–99):** Asserted states' right to nullify federal law—*weakened the (federal) state* and asserted a competing locus of authority.
+
+- **Expiration/repeal of the Alien and Sedition Acts (1800–1802):** Rollback of coercive federal power to suppress dissent *strengthened society* and civil liberties.
+
+- **Election of 1800 and peaceful transfer of power (1801):** The first partisan turnover between rival factions demonstrated that state power could change hands without violence—a landmark *strengthening the state's legitimacy and society's* confidence in institutions.
+
+- **Judiciary Act repeal & *Marbury v. Madison* (1803):** Established judicial review, *strengthening state* institutional capacity to check itself (rule-bound Leviathan).
+
+- **Louisiana Purchase (1803):** Doubled national territory. Massively *strengthened the state* (territory, future revenue, geopolitical reach) while also expanding land for settler society—and the future terrain of slavery.
+
+- **Lewis and Clark Expedition (1804–06):** Projected state reach and knowledge across the continent—*strengthened state capacity*.
+
+- **The Embargo Act (1807–08):** An extraordinary assertion of federal economic coercion that provoked evasion and protest (esp. in New England). It *attempted to strengthen state* enforcement power but generated *societal resistance*, revealing limits of the Leviathan.
+
+- **Abolition of the Atlantic slave trade (effective 1808):** A federal exercise of moral-regulatory authority; ambiguous effect—curtailed one coercive practice while the domestic slave system intensified.
+
+---
+
+**Note:** This is a synthesis applying A&R's concepts; they do not treat this exact decade in detail, so the state/society labels are interpretive.

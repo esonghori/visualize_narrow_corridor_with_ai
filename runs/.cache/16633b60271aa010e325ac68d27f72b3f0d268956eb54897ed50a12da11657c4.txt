@@ -1,0 +1,8 @@
+{
+  "society_power": 7.2,
+  "state_power": 8.3,
+  "society_change": 0.4,
+  "state_change": -1.2,
+  "key_event": "Chilean Civil War (1891)",
+  "reasoning": "The Civil War temporarily weakened state power but strengthened legislative oversight, while economic growth and urbanization bolstered civil society."
+}

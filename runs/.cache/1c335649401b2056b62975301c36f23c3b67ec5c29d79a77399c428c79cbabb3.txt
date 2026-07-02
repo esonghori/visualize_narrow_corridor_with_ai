@@ -1,0 +1,8 @@
+{
+  "society_power": 9.6,
+  "state_power": 6.8,
+  "key_event": "Sectional crisis over slavery overwhelms federal authority.",
+  "reasoning": "The federal state's authority collapsed as it failed to manage the slavery crisis, epitomized by its abdication of power in 'Bleeding Kansas.' Meanwhile, hyper-mobilized and violently opposed societal factions (pro- and anti-slavery) grew powerful enough to overwhelm state institutions, pushing society's power to a peak.",
+  "society_change": 0.4,
+  "state_change": -1.1
+}

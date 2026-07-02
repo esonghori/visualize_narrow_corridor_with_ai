@@ -1,0 +1,23 @@
+Based on Daron Acemoğlu and James A. Robinson's framework, here are major historical trends and events in the U.S. from 1949-1958 that affected the balance of power between the state and civil society.
+
+### Trends:
+
+*   **The Growth of the National Security State:** Fueled by the Cold War and anti-communist sentiment, the U.S. saw a sustained expansion of its military, intelligence agencies (like the CIA), and federal law enforcement (FBI). This institutional trend massively increased the capacity and reach of the state, particularly the executive branch, under the justification of national defense.
+    *   **Effect:** Strengthened the state.
+*   **Post-War Economic Boom and Suburbanization:** A period of unprecedented economic growth created a larger, wealthier, and more educated middle class. The demographic shift to suburbs created new forms of civic organization (PTAs, community associations) and empowered individuals as consumers and homeowners, fostering a vibrant, albeit often conformist, civil society.
+    *   **Effect:** Strengthened society.
+*   **Peak Power of Organized Labor:** Following the consolidation of unions, culminating in the 1955 merger of the AFL and CIO, organized labor reached its peak membership and political influence. As a powerful, organized bloc within civil society, it acted as a significant counterweight to both corporate interests and state power.
+    *   **Effect:** Strengthened society.
+
+### Events:
+
+*   **The Korean War (1950-1953):** The war prompted a massive increase in military spending, the use of a peacetime draft, and the assertion of presidential power to commit troops without a formal declaration of war. This event dramatically expanded the state's fiscal and military apparatus.
+    *   **Effect:** Strengthened the state.
+*   **The Army-McCarthy Hearings (1954):** This televised spectacle marked the culmination of the Red Scare. Senator McCarthy’s downfall, driven by journalistic exposure (a societal check) and pushback from the U.S. Army (a state institution), demonstrated society’s capacity to rein in the state's most repressive overreaches, a key dynamic for staying within the "narrow corridor."
+    *   **Effect:** Strengthened society's ability to check the state.
+*   ***Brown v. Board of Education of Topeka* (1954):** This Supreme Court decision was an act of the federal state that invalidated a key legal pillar of segregation (a "cage of norms"). By doing so, it legally empowered the Civil Rights Movement, providing a powerful new tool for civil society to challenge discriminatory social structures and local state governments.
+    *   **Effect:** Strengthened both the federal state (over state governments) and civil society.
+*   **The Federal-Aid Highway Act of 1956:** This act authorized the construction of the Interstate Highway System, the largest public works project in American history. It was a massive expansion of the federal state's role in the economy, infrastructure, and national planning, directly altering the physical and economic landscape of the country.
+    *   **Effect:** Strengthened the state.
+*   **The Little Rock Crisis (1957):** President Eisenhower's deployment of the 101st Airborne Division to enforce the desegregation of Central High School was a dramatic assertion of federal state power over a recalcitrant state government. It demonstrated the state's capacity to enforce its own laws against powerful societal and local state resistance.
+    *   **Effect:** Strengthened the state (specifically, the federal state).

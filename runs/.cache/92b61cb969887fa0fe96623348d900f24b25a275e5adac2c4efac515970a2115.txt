@@ -1,0 +1,8 @@
+{
+  "society_power": 3.5,
+  "state_power": 8.0,
+  "key_event": "Louis-Napoléon's 1851 coup establishes the authoritarian Second Empire.",
+  "reasoning": "Louis-Napoléon's coup d'état and the subsequent establishment of the Second Empire massively increased the state's coercive and administrative capacity, while systematically crushing civil society through repression, censorship, and the dismantling of representative institutions.",
+  "society_change": -3.5,
+  "state_change": 2.2
+}

@@ -1,0 +1,8 @@
+{
+  "society_power": 8.8,
+  "state_power": 9.1,
+  "key_event": "Direct rule in India and civil service reform expanded state capacity.",
+  "reasoning": "The state's power grew immensely as it assumed direct rule over India and began professionalizing its bureaucracy. Society's power also increased, with an empowered press and organized labor effectively holding the state accountable for its failures in the Crimean War, keeping both forces in a tense balance.",
+  "society_change": 0.3,
+  "state_change": 0.3
+}

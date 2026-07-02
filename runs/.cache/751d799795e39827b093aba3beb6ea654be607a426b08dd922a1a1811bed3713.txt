@@ -1,0 +1,35 @@
+# UK 1799–1808: State and Society Power (Acemoğlu & Robinson framework)
+
+## Trends
+
+- **Wartime fiscal-military expansion (French Revolutionary/Napoleonic Wars):** Sustained pressure to raise revenue and armies grew the state's extractive and administrative capacity. **Strengthens state.**
+
+- **Industrial Revolution acceleration (cotton, steam, iron):** Rising manufacturing wealth and an expanding commercial/industrial middle class enlarged society's economic base and organizational capacity, though it also concentrated new elites. **Strengthens society (and state's tax base).**
+
+- **Urbanization and demographic growth:** Rapid population increase and movement into manufacturing towns (Manchester, Birmingham) created denser, more mobilizable populations, even though these towns remained politically unrepresented. **Strengthens society's latent capacity.**
+
+- **Growth of extra-parliamentary associational life and the press:** Corresponding societies, radical publishing, and reform networks matured despite suppression, building traditions of mobilization. **Strengthens society.**
+
+- **Rising proletarianization and labor grievance:** Enclosure, wage pressure, and factory discipline generated organized worker discontent that would later feed collective action. **Mixed—strengthens latent society, prompts state repression.**
+
+## Events
+
+- **Combination Acts (1799, amended 1800):** Banned workers' collective bargaining and unions. **Strengthens state / weakens organized society.**
+
+- **Suppression of radicalism / Corresponding Societies Act (1799):** Outlawed named radical societies and unlicensed political meetings, extending Pitt's repressive apparatus. **Strengthens state / weakens society.**
+
+- **Acts of Union with Ireland (1800, effective 1801):** Abolished the Dublin Parliament, creating the United Kingdom of Great Britain and Ireland and centralizing authority. **Strengthens state.**
+
+- **Introduction of income tax (1799) by Pitt:** A novel, powerful direct-taxation instrument to fund the war, greatly enhancing state fiscal reach (repealed briefly 1802, reinstated 1803). **Strengthens state.**
+
+- **Resignation of Pitt over Catholic Emancipation (1801):** George III's refusal exposed the limits of ministerial power and reaffirmed monarchical/constitutional constraints—a check on executive centralization. **Ambiguous—constrains executive.**
+
+- **Peace of Amiens (1802) and its collapse (1803):** The brief peace relaxed and then renewed wartime mobilization and taxation. **Renewal strengthens state.**
+
+- **First national census (1801):** Enhanced the state's informational/legibility capacity for governance and conscription-style planning. **Strengthens state.**
+
+- **Volunteer mobilization against invasion threat (1803–1805):** Mass raising of militia/volunteers expanded state military organization but also armed and organized large segments of society. **Strengthens both.**
+
+---
+
+*Note: Acemoğlu and Robinson themselves emphasize that Britain in this era illustrates wartime state-strengthening being (eventually) balanced by society's growing capacity—keeping the country within the "corridor." The 1799–1808 window shows the state clearly gaining ground (fiscal, repressive, territorial) while society's countervailing power was largely latent and suppressed, awaiting the post-1815 reform mobilizations.*

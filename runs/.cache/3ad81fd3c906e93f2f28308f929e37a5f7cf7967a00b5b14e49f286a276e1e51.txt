@@ -1,0 +1,21 @@
+Trends:
+- **Jacksonian democratization / Second Party System (1829-1838):** expanded white male electoral participation, conventions, partisan newspapers, rallies. **Strengthened civil society** for white men; also **strengthened party control over the state**.
+- **Growth of presidential power under Jackson:** frequent vetoes, removal power, “rotation in office,” direct appeal to voters. **Strengthened the federal executive state**, but **weakened older elite/institutional checks**.
+- **Westward settler expansion, cotton expansion, and slavery’s entrenchment:** especially across the Southeast and lower Mississippi Valley. **Strengthened settler society and slave-state coercive power**; **weakened Native nations and Black civil society**.
+- **Market revolution and transport/banking growth:** canals, early railroads, state-chartered corporations, state banks. **Strengthened both state economic governance and organized commercial society**, but increased dependence on credit/speculation.
+- **Financial decentralization after the Bank War:** decline of the Second Bank of the United States and rise of “pet banks”/state banks. **Weakened federal fiscal-financial capacity**; **strengthened state/local banking interests**.
+- **Rise of reform and voluntary associations:** abolitionism, temperance, evangelical reform, labor organizing, women’s anti-slavery societies. **Strengthened civil society**, especially non-state mobilization.
+- **Proslavery censorship and policing:** anti-literacy laws, slave patrols, mob violence against abolitionists, suppression of petitions/mail. **Strengthened Southern coercive state power**; **weakened Black and abolitionist civil society**.
+
+Events:
+- **1829 Jackson inauguration and spoils/rotation policy:** politicized appointments and tied offices to party loyalty. **Strengthened executive/party-state power**.
+- **1830 Maysville Road veto:** rejected federal funding for a local road. **Weakened national state-building through internal improvements**; shifted power toward states/localities.
+- **1830 Indian Removal Act:** authorized removal treaties and coercive displacement. **Strengthened federal/settler state coercion**; **devastated Native civil society and sovereignty**.
+- **1831 Nat Turner rebellion and aftermath:** revolt followed by harsh Southern repression. **Strengthened slave-state surveillance/coercion**; **weakened enslaved and free Black society**.
+- **1832 Worcester v. Georgia and non-enforcement:** Supreme Court recognized Cherokee rights, but removal continued. **Weakened judicial/state-of-law authority**; **strengthened executive/Georgia coercive power over Native nations**.
+- **1832 Bank veto and 1833 removal of federal deposits:** Jackson crippled the Second Bank. **Strengthened presidential power**; **weakened federal financial state capacity**.
+- **1832-1833 Nullification Crisis, Force Bill, and compromise tariff:** South Carolina challenged federal law; Jackson asserted enforcement authority. **Strengthened federal sovereignty/coercive capacity**, while compromise preserved sectional civil resistance.
+- **1833 founding of the American Anti-Slavery Society:** created a national abolitionist network. **Strengthened civil society** against slavery.
+- **1836 House “gag rule” on antislavery petitions:** Congress tabled abolition petitions automatically. **Strengthened proslavery control of state institutions**; **weakened petitioning rights/civil society**.
+- **1836 Specie Circular and 1837 Panic:** hard-money order helped trigger/compound financial collapse. **Weakened economic society and confidence in state economic management**.
+- **1838 Trail of Tears:** forced Cherokee removal under Van Buren. **Strengthened coercive settler/federal state power**; **catastrophically weakened Native society**.

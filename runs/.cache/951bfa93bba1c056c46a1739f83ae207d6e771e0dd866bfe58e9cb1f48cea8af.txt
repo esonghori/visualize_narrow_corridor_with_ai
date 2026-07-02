@@ -1,0 +1,8 @@
+{
+  "society_power": 8.5,
+  "state_power": 8.0,
+  "key_event": "Terror attacks strengthened the state, fueling societal backlash.",
+  "reasoning": "The state's power grew significantly with new surveillance laws and a centralized Macronist executive following major terror attacks. Society's traditional institutions (parties, unions) weakened, but its capacity for disruptive mobilization was proven by the spontaneous rise of the Gilets Jaunes, leading to a slight net decline in its overall power.",
+  "society_change": -0.5,
+  "state_change": 0.8
+}

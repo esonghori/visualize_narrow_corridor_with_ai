@@ -1,0 +1,8 @@
+{
+  "society_power": 5.5,
+  "state_power": 2.5,
+  "key_event": "The Tobacco Protest of 1891–1892",
+  "reasoning": "The highly coordinated Tobacco Protest proved civil society's capacity to defeat royal decrees, while the state fell deeper into debt and lost its aura of inviolability after the Shah's assassination.",
+  "society_change": 1.5,
+  "state_change": -0.5
+}

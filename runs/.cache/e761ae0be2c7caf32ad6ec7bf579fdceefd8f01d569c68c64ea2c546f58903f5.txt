@@ -1,0 +1,8 @@
+{
+  "society_power": 7.0,
+  "state_power": 5.8,
+  "key_event": "The 1848 Revolution overthrows the July Monarchy.",
+  "reasoning": "Civil society's power surged through coordinated national mobilization like the Banquet Campaign, culminating in the revolution. This event revealed the brittleness and declining legitimacy of the Orléanist state, whose authority collapsed despite earlier infrastructural gains like the national railway system.",
+  "society_change": 1.5,
+  "state_change": -1.4
+}

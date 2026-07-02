@@ -1,0 +1,8 @@
+{
+  "society_power": 5.5,
+  "state_power": 8.0,
+  "key_event": "1925 Constitution and Ibáñez's authoritarian consolidation of power.",
+  "reasoning": "While society's power peaked with Alessandri's election, it was severely weakened by Ibáñez's subsequent authoritarian crackdown. The new 1925 Constitution created a powerful executive, which Ibáñez used to centralize control and build a strong, coercive state apparatus, moving from parliamentary gridlock to presidential dominance.",
+  "society_change": -2.0,
+  "state_change": 2.0
+}

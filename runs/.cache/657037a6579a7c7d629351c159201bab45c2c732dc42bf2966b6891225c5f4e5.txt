@@ -1,0 +1,8 @@
+{
+  "society_power": 8.7,
+  "state_power": 9.2,
+  "society_change": -1.2,
+  "state_change": 0.7,
+  "key_event": "Great Depression and rise of Labour",
+  "reasoning": "The Great Depression initially weakened civil society, but the rise of the Labour Party and increased state intervention in social welfare and economic policies strengthened both state and civil society."
+}

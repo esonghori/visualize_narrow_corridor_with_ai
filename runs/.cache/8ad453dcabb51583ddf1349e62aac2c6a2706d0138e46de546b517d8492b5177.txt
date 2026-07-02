@@ -1,0 +1,8 @@
+{
+  "society_power": 6.0,
+  "state_power": 5.5,
+  "key_event": "Allied invasion and abdication of Reza Shah (1941)",
+  "reasoning": "The 1941 Allied invasion shattered Reza Shah's strong, centralized state, leading to a dramatic rebirth of civil society, including political parties and unions. While the state began to reconsolidate power through the army by the end of the decade, it remained weaker than before, and society now possessed significant organizational capacity.",
+  "society_change": 4.5,
+  "state_change": -2.3
+}

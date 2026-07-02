@@ -1,0 +1,8 @@
+{
+  "society_power": 10.0,
+  "state_power": 10.0,
+  "key_event": "Total war and the creation of the welfare state.",
+  "reasoning": "The state's power peaked with total war mobilization and the creation of the comprehensive welfare state, including the NHS. Simultaneously, a highly organized and mobilized society, empowered by the war effort and a shared vision, decisively mandated this expansion in the 1945 election, demonstrating its own ultimate power.",
+  "society_change": 0.2,
+  "state_change": 0.1
+}

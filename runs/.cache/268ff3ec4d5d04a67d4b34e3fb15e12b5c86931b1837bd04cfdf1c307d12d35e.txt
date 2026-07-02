@@ -1,0 +1,37 @@
+# France 1859–1868: State and Society in the Narrow Corridor Framework
+
+This decade covers the **"Liberal Empire"** transition of Napoleon III's Second Empire, where an authoritarian state gradually conceded ground to society.
+
+## Trends
+
+- **Industrialization and railway expansion (Crédit Mobilier, Pereire brothers)** — accelerating construction of the national rail network integrated markets and extended state administrative reach; strengthened the *state* (fiscal/infrastructural capacity) but also strengthened an emerging *bourgeois and working-class society*.
+
+- **Urbanization and Haussmann's rebuilding of Paris (ongoing through the 1860s)** — concentrated population, cleared insurrectionary quarters, and enhanced surveillance/control; primarily strengthened the *state*, though it also created dense urban working-class milieus fostering later collective action.
+
+- **Growth of an organized working class and labor consciousness** — a slow buildup toward collective organization, culminating in the founding of the French section of the **International Workingmen's Association (First International)**; strengthened *society*.
+
+- **Free-trade liberalization following the 1860 Cobden–Chevalier Treaty** — reoriented the economy, exposed protected industries to competition, and shifted the interests of business elites toward greater autonomy from the state; ambiguous, but tended to strengthen *society's* economic independence.
+
+- **Gradual erosion of the plebiscitary/authoritarian legitimacy of the regime** — declining electoral dominance of official candidates and rising opposition vote share signaled mobilizing civic capacity; strengthened *society*.
+
+## Events
+
+- **Cobden–Chevalier Free Trade Treaty (1860)** — a discrete decision (made by imperial decree, bypassing the legislature) that both demonstrated executive autonomy (*state*) and alienated protectionist interests, catalyzing opposition (*society*).
+
+- **The 1860 "November decrees" / liberal reforms** — Napoleon III granted the Corps législatif the right to debate an *address* in reply to the throne speech and allowed publication of parliamentary debates; a deliberate concession that strengthened *society* (legislative voice, press access).
+
+- **Franco-Austrian War in Italy / Battles of Magenta and Solferino (1859)** and the **annexation of Savoy and Nice (1860)** — military ventures enhancing prestige and territory, strengthening the *state*, though the Italian question strained relations with Catholic opinion.
+
+- **1863 legislative elections** — a marked surge in opposition votes (roughly two million) and the return of prominent republican and liberal deputies; strengthened *society*.
+
+- **Legalization of the right to strike (Loi Ollivier, 1864)** — repealed the ban on coalitions/strikes, a landmark concession giving workers legal collective-action capacity; strengthened *society*.
+
+- **Founding of the First International in London (1864) with active French participation** — created durable organizational infrastructure for labor; strengthened *society*.
+
+- **Press and public-meeting liberalization laws (1868)** — relaxed prior restraint on newspapers and permitted public meetings, unleashing critical journalism and opposition assembly; strengthened *society* (and weakened the state's monopoly on public discourse).
+
+- **Mexican expedition setback / Maximilian's difficulties (mid-1860s)** — a costly foreign misadventure damaging regime prestige and finances; weakened the *state*.
+
+---
+
+**Note:** The overall trajectory of 1859–1868 in the Acemoğlu–Robinson sense is a **"Shackled Leviathan"–ward movement**: a strong but authoritarian state deliberately conceding scope to a mobilizing society, partly from confidence and partly from weakness—setting up the further liberalization of 1869–1870.

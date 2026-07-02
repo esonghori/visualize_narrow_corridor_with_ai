@@ -1,0 +1,49 @@
+# The Narrow Corridor: US 2009–2018
+
+In Acemoğlu and Robinson's framework, liberty exists in the "corridor" where a Leviathan (state) and a mobilized society check each other in a "Red Queen" dynamic. Below, I map developments to shifts in state capacity/power versus societal capacity/power.
+
+## Trends
+
+- **Rising political polarization and partisan sorting** — Weakened both: eroded the shared norms that let society and state cooperate; made the "shackled Leviathan's" institutional checks feel more like partisan weapons.
+
+- **Growth of the surveillance/security state** (post-9/11 apparatus maturing; NSA bulk collection continuing) — Strengthened the state's coercive/informational power relative to society.
+
+- **Rising economic inequality and wage stagnation** — Weakened society's collective capacity, especially for lower-income groups, and fed distrust of institutions (a recurring corridor-narrowing dynamic in the book).
+
+- **Long-term decline in labor union density** — Weakened a key organizational pillar of society's countervailing power.
+
+- **Growth of concentrated corporate/tech-platform power** (dominance of large digital firms) — Ambiguous: created private power centers that can rival the state but also fragment/manipulate society's ability to organize coherently.
+
+- **Executive-branch aggrandizement across administrations** (expanded use of executive orders, administrative rulemaking, war-powers authority) — Strengthened the state, particularly the executive, relative to legislative checks.
+
+- **Declining public trust in institutions** (government, media, elections) — Weakened both: undermines the legitimacy the shackled Leviathan needs and corrodes society's confidence to mobilize constructively.
+
+- **Demographic change and immigration debates** — Reshaped societal coalitions; heightened identity-based mobilization on multiple sides.
+
+## Events
+
+- **2008–09 Financial Crisis response / Dodd-Frank (2010) and bank bailouts** — Strengthened state regulatory capacity while signaling the state's entanglement with concentrated financial power.
+
+- **Tea Party movement (2009–)** — Strengthened a strand of society's mobilization (anti-state), narrowing cooperative space.
+
+- **Affordable Care Act (2010)** — Expanded state capacity and reach into a major economic sector; became a durable polarizing flashpoint.
+
+- **Occupy Wall Street (2011)** — Brief mobilization of society around inequality, though it left limited durable organization.
+
+- **Snowden disclosures (2013)** — Society (via press/whistleblowing) checked the surveillance state, exposing and partly constraining its reach.
+
+- **Black Lives Matter (2013–)** — Significant societal mobilization contesting state coercive power (policing), strengthening civil-society voice.
+
+- **Citizens United (2010) and related campaign-finance rulings** — Amplified concentrated money in politics; arguably weakened broad-based society relative to wealthy actors.
+
+- **2016 election, foreign interference, and contested legitimacy** — Stressed the integrity of the core institution (elections) mediating state–society relations.
+
+- **Executive actions on immigration** (DACA 2012; travel-ban orders 2017 and court challenges) — Showcased executive power expansion *and* judicial/societal counter-mobilization checking it.
+
+- **#MeToo (2017–)** — Rapid societal mobilization enforcing accountability outside formal state channels.
+
+- **2017 tax legislation** — Fiscal shift with distributional effects reinforcing inequality trends.
+
+---
+
+**Caveat:** Acemoğlu and Robinson themselves treat the US as inside but under strain within the corridor; several items above (e.g., surveillance, executive power, inequality) are exactly the pressures they flag as risking a drift toward a "Despotic" imbalance, while the vigorous protest movements exemplify the societal mobilization that keeps the Red Queen running.

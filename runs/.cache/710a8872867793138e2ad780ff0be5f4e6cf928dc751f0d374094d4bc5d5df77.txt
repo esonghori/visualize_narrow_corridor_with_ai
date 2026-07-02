@@ -1,0 +1,8 @@
+{
+  "society_power": 7.5,
+  "state_power": 4.5,
+  "key_event": "The French Revolution overthrows the monarchy.",
+  "reasoning": "Society's power exploded through revolutionary mobilization, political clubs, and popular action that repeatedly dismantled state structures. The state itself fractured, and despite the brutal centralization of the Terror, its power was unstable, contested, and lacked consistent administrative control, averaging out to weak.",
+  "society_change": 0.0,
+  "state_change": 0.0
+}

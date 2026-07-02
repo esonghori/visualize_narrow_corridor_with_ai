@@ -1,0 +1,19 @@
+Based on Acemoğlu and Robinson's framework, here are the major trends and events in France from 1849-1858 that affected the balance of power between the state and civil society. This period saw a decisive shift out of the "narrow corridor" as the state's power grew immensely at society's expense.
+
+### Trends:
+
+*   **State-led economic development and infrastructure expansion:** Throughout the 1850s, the state, under Louis-Napoléon (later Napoleon III), directed a massive program of industrialization, including the rapid construction of a national railway network and the Haussmannization of Paris (beginning 1853).
+    *   **Effect:** Massively **strengthened the state** by giving it powerful tools for economic control, patronage, and military/police mobilization (railways). It also weakened society's traditional forms of resistance (e.g., Haussmann's wide boulevards were designed to prevent barricades).
+*   **Systematic political repression and censorship:** Following the 1851 coup, the Second Empire established a long-term trend of suppressing dissent. The regime censored the press, banned political meetings, used a vast network of police informants, and exiled or imprisoned thousands of political opponents (especially republicans and socialists).
+    *   **Effect:** Severely **weakened civil society** by dismantling its ability to organize, communicate, and mount collective action against the state.
+*   **Intensified administrative centralization:** Napoleon III perfected the prefectoral system, wherein centrally appointed prefects in each department held immense power over local administration, police, and public life, ensuring that the will of Paris was implemented throughout the country.
+    *   **Effect:** **Strengthened the state** by eroding local autonomy and bypassing or co-opting local societal power structures.
+
+### Events:
+
+*   **The *Loi Falloux* (March 1850):** This law greatly increased the role of the Catholic Church in the French education system, giving clergy seats on education councils and making it easier for religious orders to open schools.
+    *   **Effect:** **Strengthened a powerful, conservative element of society (the Church)**, which in turn allied with and legitimized the increasingly authoritarian state, while simultaneously weakening secular, republican elements of society.
+*   **Restriction of universal male suffrage (May 1850):** The conservative Legislative Assembly passed a law requiring a three-year residency for voting, a measure specifically designed to disenfranchise an estimated three million itinerant or recently-migrated urban workers, who were perceived as politically radical.
+    *   **Effect:** **Weakened society's** ability to challenge the elite through the ballot box, while **strengthening the state** (at this point, the conservative Assembly's control) against popular pressure.
+*   **Louis-Napoléon Bonaparte's coup d'état (December 2, 1851):** Citing deadlock with the Legislative Assembly, President Louis-Napoléon dissolved parliament, arrested his opponents, and violently crushed popular resistance. This was followed by a plebiscite confirming his authority and the proclamation of the Second Empire a year later.
+    *   **Effect:** A decisive and massive **strengthening of the state's executive power** and a corresponding **crushing of society's representative institutions** and its capacity for physical resistance. This event effectively knocked France out of the "narrow corridor" and into a form of "Despotic Leviathan."

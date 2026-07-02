@@ -1,0 +1,8 @@
+{
+  "society_power": 7.0,
+  "state_power": 8.0,
+  "society_change": -1.0,
+  "state_change": 0.3,
+  "key_event": "World War I: State Strengthens, Society Weakened",
+  "reasoning": "World War I significantly strengthened the state's control and mobilization, while civil society was weakened by war efforts and internal unrest."
+}

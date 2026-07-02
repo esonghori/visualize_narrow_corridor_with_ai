@@ -1,0 +1,26 @@
+Trends:
+- **Intensifying partisan polarization and institutional hardball** (Congressional obstruction, shutdown threats, norm erosion): **weakened state capacity** to legislate and govern; **weakened society** by reducing cross-cutting trust.
+- **Rise of digitally networked politics** via Facebook, Twitter, smartphones, online fundraising: **strengthened civil society mobilization** on left and right, but also **weakened society** through misinformation and fragmentation.
+- **Growing economic inequality and concentration of political influence** after the Great Recession recovery: **strengthened wealthy organized interests**, **weakened broad-based society**, and increased perceptions of state capture.
+- **Decline of unions, local journalism, and traditional civic intermediaries**: **weakened civil society’s** ability to organize workers, monitor government, and sustain local accountability.
+- **Expansion and contestation of the federal administrative state** through health care, financial regulation, environmental rules, immigration enforcement, and executive orders: generally **strengthened state capacity**, but often without durable legislative consensus.
+- **Growth of surveillance and security capabilities** after 9/11, visible in NSA programs and police technology: **strengthened coercive/informational state power**; provoked civil-liberties resistance.
+- **Demographic diversification and urban-rural sorting**: **strengthened plural civil society** through new constituencies, but also fueled backlash politics and polarization.
+- **Increasing state-level variation in voting rules, labor law, abortion regulation, and criminal justice**: **strengthened subnational state power** in some areas while often **weakening equal access by civil society groups**.
+
+Events:
+- **2009 American Recovery and Reinvestment Act and auto rescue**: **strengthened federal state capacity** to stabilize markets and employment during crisis.
+- **2010 Affordable Care Act**: **strengthened the state’s role** in health-insurance regulation and redistribution; also **strengthened society** for newly insured groups.
+- **2010 Dodd-Frank Act**: **strengthened regulatory state power** over finance, though unevenly; constrained parts of private economic power.
+- **2010 Citizens United v. FEC**: **strengthened wealthy donors, corporations, and outside groups** in civil society; **weakened egalitarian democratic accountability**.
+- **2009–2010 Tea Party mobilization and 2010 midterms**: **strengthened conservative civil society mobilization**; **constrained federal state action**.
+- **2013 Snowden disclosures**: revealed and challenged NSA surveillance; showed **strong state informational power** while **strengthening civil-society scrutiny**.
+- **2013 Shelby County v. Holder**: **weakened federal state enforcement** of voting-rights protections and **weakened minority civil society’s electoral power** in affected states.
+- **2014 Ferguson protests and rise of Black Lives Matter**: **strengthened civil society oversight** of policing and exposed coercive state power at the local level.
+- **2015 Obergefell v. Hodges**: **strengthened state protection of equal civil rights** and **strengthened LGBTQ civil society’s standing**.
+- **2016 election, Russian interference, and disinformation campaigns**: **weakened trust in institutions and civil society’s information environment**; exposed vulnerabilities in the democratic state.
+- **2017 Trump travel ban and immigration-enforcement escalation**: **strengthened coercive executive state power**, while courts, lawyers, protesters, and states **strengthened civil-society and institutional resistance**.
+- **2017 Tax Cuts and Jobs Act**: **weakened long-term federal fiscal capacity** while **strengthening economic elites and corporations**.
+- **2017 Women’s March and subsequent anti-Trump mobilization**: **strengthened civil society**, especially women’s, progressive, and rights-based organizations.
+- **2018 Janus v. AFSCME**: **weakened public-sector unions**, a major component of organized civil society.
+- **2018 family-separation policy at the border**: displayed **strong coercive state power**; backlash from courts, media, NGOs, and protesters **strengthened civil-society checks**.

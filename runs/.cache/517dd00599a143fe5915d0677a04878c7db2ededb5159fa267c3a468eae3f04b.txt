@@ -1,0 +1,8 @@
+{
+  "society_power": 9.3,
+  "state_power": 6.5,
+  "key_event": "Mass strikes of 1995 defeat government pension reforms.",
+  "reasoning": "Society's power was demonstrated by the massive 1995 strikes which successfully vetoed state reforms. The state's power was simultaneously diminished by ceding sovereignty through the Maastricht Treaty, large-scale privatization, and the internal division of cohabitation.",
+  "society_change": 0.3,
+  "state_change": -0.7
+}

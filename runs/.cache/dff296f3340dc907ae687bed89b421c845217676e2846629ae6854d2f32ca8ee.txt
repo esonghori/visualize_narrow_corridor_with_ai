@@ -1,0 +1,29 @@
+# Chile, 1838–1847: State and Society in the Narrow Corridor Framework
+
+**Trends:**
+
+- **Consolidation of the Portalian state (post-1833 Constitution)** — The authoritarian, centralized order institutionalized under Diego Portales matured during this decade, strengthening the state through a strong executive, a professionalized bureaucracy, and a subordinated military. *Strengthens state.*
+
+- **Growth of export-oriented mining and agriculture** — Expansion of silver mining (notably the Chañarcillo strike, from 1832 onward) and wheat/copper exports enriched the treasury and fiscal capacity, funding state institutions. *Strengthens state; ambiguous for society (concentrates wealth in landed/mining elites).*
+
+- **Fiscal centralization and customs revenue** — Reliable state income from tariffs on the growing export trade underpinned administrative and military capacity without dependence on unruly elites. *Strengthens state.*
+
+- **Persistence of oligarchic landholding and restricted suffrage** — Entrenched hacienda system and elite-dominated politics kept broad society weak and politically demobilized. *Weakens society (limits its capacity to check the state).*
+
+- **Emerging intellectual/educational infrastructure** — Arrival of figures like Andrés Bello, founding of the Universidad de Chile (1842), and growing print culture began cultivating a civil-society and intellectual base. *Strengthens society (modestly, over the longer term).*
+
+**Events:**
+
+- **War of the Confederation vs. Peru-Bolivia (1836–1839)** — Chilean victory at the Battle of Yungay (January 1839) ended the war, boosting state prestige, national cohesion, and the standing of the military/state apparatus. *Strengthens state.*
+
+- **Assassination of Diego Portales (1837)** — Occurred just before the window but shaped this period; his death paradoxically made him a martyr, entrenching the "Portalian" institutional legacy that governed the decade. *Strengthens state (as durable order).*
+
+- **Election/administration of Manuel Bulnes (president from 1841)** — The victorious Yungay general assumed the presidency, marking a relatively stable, consolidating administration that continued centralized rule. *Strengthens state.*
+
+- **Founding of the Universidad de Chile (1842)** — A discrete institutional creation that seeded elite educational and intellectual development. *Strengthens society (and state capacity).*
+
+- **The "Movimiento literario de 1842"** — A burst of intellectual and literary activity (Sarmiento, Lastarria, and others), representing early stirrings of an independent public sphere and debate. *Strengthens society.*
+
+---
+
+**Caveat:** Acemoğlu and Robinson do not, to my knowledge, treat Chile's 1838–1847 decade as a specific case study in *The Narrow Corridor*. The above applies their **Shackled Leviathan / balance-of-power** framework to well-documented Chilean history. In their terms, this decade shows a **markedly strengthening state (Despotic Leviathan tendencies)** with a **comparatively weak civil society**, placing Chile *outside* the corridor on the side of state dominance—though the nascent intellectual and educational developments hint at future societal capacity.

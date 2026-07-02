@@ -1,0 +1,23 @@
+Based on Acemoğlu and Robinson's framework, here are the major trends and events in China from 1920-1929 that affected the balance of power between the state and society.
+
+### Trends
+
+*   **Warlordism (The entire decade):** The defining political reality of the 1920s was the fragmentation of China into regions controlled by personal armies.
+    *   **Effect:** Massively **weakened the central state**, reducing it to a nominal entity in Beijing. It atomized society, but also paradoxically **strengthened local societal power** (e.g., clans, merchant guilds, secret societies) which provided protection and order in the absence of a functional state. This represents a move away from the "corridor" towards anarchy or the "War of All Against All."
+
+*   **The Intellectual Ferment of the May Fourth Movement (Legacy of 1919, continued through the 1920s):** A slow-moving cultural and intellectual trend that promoted nationalism, anti-imperialism, and the questioning of traditional Confucian norms in favor of new ideas (science, democracy, communism).
+    *   **Effect:** **Strengthened civil society** by creating new, organized social actors: student unions, political study groups, new publications, and an ideologically mobilized intelligentsia. It provided the intellectual foundation for new state-building projects but fundamentally empowered non-state actors to organize and make demands.
+
+*   **Growth of an Urban Proletariat and Bourgeoisie:** Slow but steady industrialization and trade in treaty ports like Shanghai, Guangzhou, and Tianjin created new social classes with distinct interests.
+    *   **Effect:** **Strengthened civil society** by fostering new, self-aware groups capable of collective action, such as labor unions, student federations, and chambers of commerce. These groups were independent sources of social power that a future state would have to either co-opt or crush.
+
+### Events
+
+*   **The First United Front (1924–1927):** The Kuomintang (KMT) and the newly formed Chinese Communist Party (CCP) formed an alliance to unify the country. The CCP's members joined the KMT as individuals, and the alliance received Soviet funding and organizational support.
+    *   **Effect:** Simultaneously **strengthened the KMT as a proto-state** by giving it a Leninist party structure and mass-mobilization capabilities, and **strengthened a segment of society** by organizing peasants and factory workers into powerful unions and associations under CCP leadership. This briefly created a dynamic of a strengthening state and a strengthening society moving in tandem.
+
+*   **The Northern Expedition (1926–1928):** The KMT’s military campaign, led by Chiang Kai-shek, to defeat the warlords and unify China under its authority.
+    *   **Effect:** Massively **strengthened the state** by destroying or absorbing rival warlord armies and establishing a new, centralized national government in Nanjing in 1928. This was the most significant act of state-building in the decade, creating a far more powerful "Leviathan" than had existed since 1911.
+
+*   **The Shanghai Massacre (April 12, 1927):** Chiang Kai-shek's KMT, aided by urban gangsters and industrialists, violently purged the Communists and their affiliated labor unions in Shanghai, ending the United Front.
+    *   **Effect:** A decisive event where the newly empowered **state crushed a powerful, organized part of civil society**. It **strengthened the KMT state** by eliminating an internal rival, but fundamentally **weakened civil society** by destroying its most potent, independent labor organizations. This action pushed China out of the "narrow corridor" and firmly toward a Despotic Leviathan, where the state dominates a demobilized society.

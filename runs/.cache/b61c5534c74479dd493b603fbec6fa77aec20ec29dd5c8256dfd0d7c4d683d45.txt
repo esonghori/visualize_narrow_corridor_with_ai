@@ -1,0 +1,33 @@
+I should be clear about an important limitation up front: my knowledge has a training cutoff, and I cannot reliably report on events after roughly late 2024/early 2025. So the back half of your 2019–2028 window (roughly 2025–2028) falls outside what I can verify. I'll cover what I can concretely and flag where I'm speculating or simply don't know.
+
+Using Acemoğlu and Robinson's frame (the "Red Queen" contest between a Leviathan state and a mobilized society, with liberty living in the "corridor" where the two are balanced):
+
+**Trends:**
+
+- **Erosion of intermediary bodies and rise of executive-centered governance** — Macron's presidency continued a long "hyper-presidential" concentration of decision-making; frequent recourse to Article 49.3 to pass legislation without a vote (notably the 2023 pension reform) arguably strengthened the state's autonomy while weakening deliberative/legislative checks and fueling distrust.
+
+- **Decline of traditional mediating institutions** — Continued weakening of established parties (PS, LR) and long-run decline in union membership density hollowed out organized society's classic channels, even as episodic mass mobilization remained strong. Ambiguous effect: it fragments society's sustained capacity even while street protest persists.
+
+- **Growth of the security/administrative state** — Normalization of emergency-style policing powers, expanded surveillance capacity, and post-2015 counterterrorism logics folded into ordinary law strengthened state coercive capacity.
+
+- **Fiscal and economic pressure** — High public debt, inflation post-2021, and pension-system sustainability debates constrained the state's fiscal room while intensifying distributional conflict, a persistent source of society–state friction.
+
+- **Political polarization and fragmentation** — Steady rise of both the Rassemblement National and a left bloc, shrinking the governing center. This strains the corridor by making stable state–society bargaining harder.
+
+**Events:**
+
+- **Gilets jaunes / Yellow Vests movement (2018–2019)** — A discrete, decentralized uprising outside union/party structures; demonstrated society's mobilizational capacity (strengthening society's assertiveness) but also provoked a hardened, militarized policing response (strengthening state coercion) and eventually the "Grand Débat National."
+
+- **COVID-19 pandemic and lockdowns (2020–2021)** — Sweeping state emergency powers, health pass ("passe sanitaire"), and centralized control markedly expanded state reach; sparked counter-mobilization (anti-pass protests), a state-vs-society tension.
+
+- **2022 presidential and legislative elections** — Macron re-elected, but his coalition **lost its absolute majority** in the National Assembly — a weakening of unchecked executive dominance and a modest strengthening of legislative/oppositional checks.
+
+- **2023 pension reform conflict** — Raising the retirement age via 49.3 triggered sustained mass strikes and protests; simultaneously displayed state autonomy (pushing through despite opposition) and society's mobilized resistance — a sharp Red Queen confrontation.
+
+- **2023 urban riots** (following the police killing of Nahel M.) — Intense unrest highlighted state–society breakdown in marginalized banlieues and prompted further security responses.
+
+- **2024 snap legislative elections** (after RN gains in European elections) — Produced a hung parliament divided among three blocs, further constraining executive power and deepening instability. *(This is near my knowledge boundary; details of subsequent government formation I can't reliably confirm.)*
+
+**Beyond my reliable knowledge (≈2025–2028):** I cannot responsibly identify specific events. If you're writing an analysis covering the full decade, you'd want to update this section from current sources — e.g., government-stability outcomes, any constitutional or institutional reforms, the 2027 presidential election, and further trajectory of the RN.
+
+Would you like me to go deeper on how any single item maps onto A&R's "corridor" dynamics specifically?

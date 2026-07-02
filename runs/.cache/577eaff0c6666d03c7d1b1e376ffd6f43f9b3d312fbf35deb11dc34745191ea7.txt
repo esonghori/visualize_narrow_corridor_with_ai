@@ -1,0 +1,8 @@
+{
+  "society_power": 9.0,
+  "state_power": 9.5,
+  "society_change": 0.3,
+  "state_change": 0.3,
+  "key_event": "Labour Party's welfare state reforms",
+  "reasoning": "The Labour Party's victory and implementation of the welfare state, including the NHS, strengthened both civil society and the state's capacities."
+}

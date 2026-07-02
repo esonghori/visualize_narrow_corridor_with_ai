@@ -1,0 +1,8 @@
+{
+  "society_power": 4.0,
+  "state_power": 9.0,
+  "key_event": "Economic reforms, Tiananmen protests, and the June 4th crackdown.",
+  "reasoning": "Economic reforms empowered society, culminating in massive protests, but the state's brutal crackdown in 1989 decisively crushed this movement. This reasserted the state's overwhelming coercive power, even as its direct economic control lessened.",
+  "society_change": 1.0,
+  "state_change": 0.5
+}

@@ -1,0 +1,8 @@
+{
+  "society_power": 8.0,
+  "state_power": 8.0,
+  "key_event": "Post-war societal remobilization vs. state fiscal crisis.",
+  "reasoning": "Society power surged with the post-war rise of mass-membership veterans' associations and renewed labor militancy. State power, while still formidable (as shown in the Ruhr occupation), declined from its wartime peak due to severe fiscal instability and the end of total mobilization.",
+  "society_change": 1.0,
+  "state_change": -1.5
+}

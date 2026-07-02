@@ -1,0 +1,8 @@
+{
+  "society_power": 6.0,
+  "state_power": 6.8,
+  "key_event": "The 'Liberal Empire' reforms legalizing strikes, press, and assembly.",
+  "reasoning": "A series of deliberate reforms by Napoleon III, including legalizing strikes (1864) and liberalizing press and assembly laws (1868), dramatically increased civil society's ability to organize and mobilize. This concurrently reduced the state's autocratic power, forcing it to become more responsive to political opposition and social demands.",
+  "society_change": 2.5,
+  "state_change": -1.2
+}

@@ -1,0 +1,21 @@
+Based on Daron Acemoğlu and James A. Robinson's framework, here are major historical trends and events in France from 1969-1978 that affected the balance of power between the state and civil society.
+
+### Trends
+
+*   **The End of the *Trente Glorieuses***: The post-war economic boom definitively ended with the 1973 oil crisis, leading to sustained inflation and rising unemployment ("stagflation"). This slow-moving trend eroded the state's reputation for competent economic management and fueled social discontent and labor unrest.
+    *   **Effect**: Weakened the perceived omnipotence of the state; strengthened society's oppositional elements (unions, political opposition) by giving them a powerful grievance.
+*   **The Rise of "New Social Movements"**: In the wake of May 1968, the 1970s saw the maturation of new, non-traditional forms of social mobilization. Feminist movements (MLF), environmentalist groups, and regionalist/autonomist movements (in Brittany and Corsica) became more organized and influential.
+    *   **Effect**: Strengthened and diversified civil society, creating new power centers and new demands that the centralized state had to confront.
+*   **Continued State Technocracy and *Dirigisme***: The Gaullist Fifth Republic's powerful, centralized, and technocratic state apparatus remained firmly in place. Major industrial and infrastructure projects (e.g., the expansion of nuclear power, the TGV high-speed train project) were planned and executed top-down by the state elite.
+    *   **Effect**: Maintained and arguably strengthened the institutional power and capacity of the state.
+
+### Events
+
+*   **De Gaulle's Resignation (1969)**: Charles de Gaulle staked his presidency on a referendum on regionalization and Senate reform and resigned immediately after losing. This event, a direct consequence of the May '68 crisis, demonstrated that the powerful executive of the Fifth Republic was ultimately accountable to the electorate.
+    *   **Effect**: Strengthened society by affirming its ultimate power to check the state via the ballot box.
+*   **Constitutional Council Decision on Freedom of Association (1971)**: The government tried to block the formation of a far-left group by requiring prior authorization. The Constitutional Council struck down the law, elevating the "fundamental principles recognized by the laws of the Republic" to constitutional status. This landmark decision established the Council as a powerful guardian of civil liberties.
+    *   **Effect**: Strengthened society by protecting a core right against executive overreach; strengthened the state's own internal checks and balances, pushing it further into the "Narrow Corridor" by shackling the executive.
+*   **The Lip Factory Occupation (1973)**: Workers at the Lip watch factory, facing layoffs, occupied the plant and began a famous experiment in worker self-management (*autogestion*). The event became a national symbol of post-'68 labor radicalism and social solidarity.
+    *   **Effect**: Strengthened society by demonstrating a potent, highly visible form of social power and organization independent of traditional union leadership.
+*   **Valéry Giscard d'Estaing's Social Reforms (1974-75)**: Responding to pressure from a changed society, Giscard's government passed a series of liberalizing laws. Key among them were lowering the voting age to 18, legalizing abortion (the *Loi Veil*), and making divorce easier.
+    *   **Effect**: A classic "Red Queen" dynamic. It demonstrated society's strength in forcing the state to act, while also strengthening the state's legitimacy and capacity by showing its ability to adapt and manage social change.

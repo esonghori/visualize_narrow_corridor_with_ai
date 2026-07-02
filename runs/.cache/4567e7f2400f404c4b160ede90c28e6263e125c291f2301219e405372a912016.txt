@@ -1,0 +1,8 @@
+{
+  "society_power": 7.0,
+  "state_power": 7.5,
+  "society_change": 2.5,
+  "state_change": -5.0,
+  "key_event": "1988 Plebiscite and 1990 Democratic Transition",
+  "reasoning": "The 1988 plebiscite weakened state authoritarian power, and the 1990 transition to democracy significantly strengthened civil society through enhanced democratic institutions and accountability."
+}

@@ -1,0 +1,35 @@
+# The United States, 1819–1828 (Acemoğlu–Robinson Framework)
+
+In *The Narrow Corridor*, "liberty" emerges when state and society develop in tandem—the "Red Queen effect." Here I flag whether each item strengthened/weakened the state (its capacity, reach, coercive/administrative power) or society (mobilization, participation, associational capacity to check the state).
+
+## Trends
+
+- **Westward expansion and land settlement:** Rapid population movement into the trans-Appalachian West created new states and expanded the demographic base. This *strengthened society* (dispersed, armed, self-governing settler communities with strong local autonomy) but only weakly extended federal *state* capacity, which remained thin at the periphery.
+
+- **Democratization of the franchise (property qualifications falling):** Through the 1820s states progressively eliminated property requirements for white male suffrage. This substantially *strengthened society's* mobilizational capacity and its leverage over elites—a classic broadening of popular participation.
+
+- **Market Revolution / transportation improvements:** Expansion of roads, canals (Erie Canal completed 1825), and commercial integration. This *strengthened both*: it built economic infrastructure supporting state/federal capacity and revenue, while also thickening commercial society and voluntary associations.
+
+- **Entrenchment and expansion of slavery westward:** The spread of the plantation economy created a powerful sectional interest that would *distort the state* by capturing federal institutions on behalf of a narrow oligarchy—a "Despotic" element that suppressed the liberty and civil-society capacity of enslaved people entirely.
+
+- **Growth of the "second party system" / partisan organization:** The decline of the Era of Good Feelings and rise of mass-based political organization (Jacksonian coalition-building). This *strengthened society's* capacity to organize and contest power through durable institutions.
+
+## Events
+
+- **Panic of 1819 (economic depression):** The first major peacetime financial crisis, triggering deflation, foreclosures, and popular anger at the Second Bank of the United States. It *weakened trust in the central state/national bank* and *mobilized society* (debtor relief movements, anti-Bank sentiment), feeding populist checks on elite institutions.
+
+- **McCulloch v. Maryland (1819):** The Supreme Court affirmed implied federal powers and the Bank's legitimacy, denying states the power to tax it. This *strengthened the (federal) state's* capacity and supremacy over the states.
+
+- **Missouri Compromise (1820):** Admission of Missouri (slave) and Maine (free) plus the 36°30′ line. A discrete institutional bargain that *strengthened the state's* short-term cohesion by managing sectional conflict, while institutionalizing the slave oligarchy's leverage within federal structures.
+
+- **Monroe Doctrine (1823):** Assertion of hemispheric primacy against European recolonization. This projected and *strengthened the state's* claimed sphere of authority in foreign affairs (though its enforcement capacity was then minimal).
+
+- **Gibbons v. Ogden (1824):** Broad reading of the federal commerce power. *Strengthened the federal state's* regulatory reach over interstate economic activity.
+
+- **The 1824 election and the "Corrupt Bargain":** The disputed election thrown to the House, with Adams's selection widely seen as elite deal-making. This *mobilized society* (Jacksonian grievance) and delegitimized insider control, spurring popular political organization.
+
+- **Election of 1828 (Jackson's victory):** A surge in voter turnout and mass participation delivered a popular-mandate presidency. This markedly *strengthened society's* role in and pressure on the state, inaugurating a more participatory (though racially exclusionary) political order.
+
+---
+
+**Caveat:** For AR, "society" here means the *enfranchised white male* citizenry whose participation genuinely expanded. The same period *deepened despotism* over enslaved Black Americans and Indigenous nations (the latter facing mounting removal pressure), so aggregate "liberty" gains were highly asymmetric.

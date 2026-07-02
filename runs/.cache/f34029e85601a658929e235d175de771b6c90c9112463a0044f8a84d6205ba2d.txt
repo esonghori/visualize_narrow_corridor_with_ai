@@ -1,0 +1,8 @@
+{
+  "society_power": 6.5,
+  "state_power": 6.3,
+  "society_change": 0.5,
+  "state_change": -1.0,
+  "key_event": "2009 Green Movement, internet and social media rise",
+  "reasoning": "The 2009 Green Movement and the rise of the internet strengthened civil society, while economic sanctions and internal dissent weakened state power."
+}

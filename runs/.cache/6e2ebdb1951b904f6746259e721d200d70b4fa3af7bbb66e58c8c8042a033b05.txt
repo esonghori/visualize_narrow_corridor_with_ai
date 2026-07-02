@@ -1,0 +1,8 @@
+{
+  "society_power": 8.2,
+  "state_power": 8.0,
+  "key_event": "Gaullist state established, challenged by May '68 protests.",
+  "reasoning": "The Fifth Republic's new constitution and resolution of the Algerian War created a powerful, centralized state, marking a sharp increase in its capacity. However, the massive May 1968 protests revealed a potent, mobilized civil society capable of challenging this new authority from below, placing both forces in a high-power equilibrium.",
+  "society_change": -1.0,
+  "state_change": 3.5
+}

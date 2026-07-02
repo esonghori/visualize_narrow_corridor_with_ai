@@ -1,0 +1,8 @@
+{
+  "society_power": 9.3,
+  "state_power": 7.9,
+  "society_change": 0.2,
+  "state_change": -1.0,
+  "key_event": "Growing political polarization and civil society activism",
+  "reasoning": "Political polarization weakened state effectiveness, while civil society activism strengthened civic engagement and resistance."
+}

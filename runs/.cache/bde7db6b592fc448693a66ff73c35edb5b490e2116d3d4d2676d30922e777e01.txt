@@ -1,0 +1,8 @@
+{
+  "society_power": 7.5,
+  "state_power": 7.2,
+  "society_change": 0.8,
+  "state_change": 0.4,
+  "key_event": "2005 French Constitutional Referendum and Suburban Riots",
+  "reasoning": "Civil society strengthened through mobilization and direct democracy, while state power increased but faced challenges in social cohesion and economic integration."
+}

@@ -1,0 +1,33 @@
+A note before the lists: my knowledge runs to roughly early 2025, so items in the 2025–2028 window are necessarily incomplete or speculative, and I've flagged where I'm extrapolating rather than reporting. In Acemoğlu and Robinson's terms, the "corridor" is sustained by a balance in which state and society each check and empower the other; below I try to map concrete developments onto that framework.
+
+**Trends:**
+
+- **Executive-power concentration / erosion of interbranch constraints** (institutional, slow-moving): growing use of executive orders, emergency powers, and contested claims about unitary-executive authority. Ambiguous for the "Shackled Leviathan"—it can strengthen state capacity to act while weakening the societal/institutional checks that keep the state inside the corridor.
+
+- **Judicial realignment** (institutional): a durably reshaped federal judiciary and Supreme Court altered the balance between state authority and rights-based societal claims (e.g., *Dobbs*, administrative-deference rollbacks like *Loper Bright*). Strengthens some state prerogatives, weakens others (the administrative state), and reshapes which parts of society can mobilize law as a check.
+
+- **Affective/partisan polarization and declining institutional trust** (social): weakens society's capacity to act cohesively as a check on the state and makes shared norms harder to sustain—a corrosion of the "Red Queen" cooperative dynamic.
+
+- **Media fragmentation and information ecosystems** (social/technological): social platforms and later generative-AI content weakened the shared factual basis for collective action, cutting both ways—empowering decentralized mobilization but undermining coordinated civil-society oversight.
+
+- **Rising state surveillance and data capacity** (technological/institutional): expanding capabilities strengthen state (and large-firm) power relative to individuals.
+
+- **Concentration of private economic power** (economic): dominant tech/platform firms constitute a quasi-sovereign power that both rivals and entangles with the state—complicating the simple state-vs-society binary Acemoğlu-Robinson use.
+
+- **Demographic and geographic sorting** (demographic): aging population, immigration-driven diversity, and urban–rural political sorting reshaped the coalitional structure of civil society.
+
+**Events:**
+
+- **COVID-19 pandemic (2020–22)**: massive expansion of state fiscal and regulatory capacity (lockdowns, relief spending); simultaneously triggered anti-mandate mobilization—strengthened state reach while also energizing sections of society against it.
+
+- **George Floyd protests / 2020 racial-justice movement**: a large discrete surge of civil-society mobilization; strengthened society's assertiveness (and provoked counter-mobilization).
+
+- **2020 election and its contestation, culminating in January 6, 2021**: a direct stress test of institutional constraints on power; the peaceful transfer held but norms were damaged—arguably weakened the reliability of checks while showing residual institutional resilience.
+
+- **Post-2020 wave of state-level legislation** (voting rules, abortion, education/curriculum): decentralized, contradictory shifts—strengthening some state governments' reach over rights while activating opposing civil-society mobilization.
+
+- **2022 midterms and 2024 presidential election**: consolidated the political realignment; the 2024 outcome set up an agenda of executive-capacity expansion and administrative restructuring.
+
+- **[2025 onward, largely speculative]** Efforts to restructure/reduce the federal bureaucracy and reassert executive control over agencies would, if realized, materially shift state capacity and interbranch balance; the societal response (litigation, protest, electoral pushback) would determine whether this stays inside the corridor. I can't reliably report specifics past early 2025.
+
+If you'd like, I can rework this specifically around the book's four "Leviathan" typologies (Absent, Despotic, Shackled, Paper) rather than the state/society split.

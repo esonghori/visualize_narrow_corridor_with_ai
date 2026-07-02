@@ -1,0 +1,8 @@
+{
+  "society_power": 7.0,
+  "state_power": 7.5,
+  "key_event": "Great Depression triggers state collapse and mass political mobilization.",
+  "reasoning": "The Depression shattered the Ibáñez dictatorship, unleashing societal power that organized into new mass parties and the Popular Front. Though the state rebuilt its coercive capacity under Alessandri and expanded its economic role, society's ability to organize and contest power fundamentally increased.",
+  "society_change": 1.5,
+  "state_change": -0.5
+}

@@ -1,0 +1,8 @@
+{
+  "society_power": 9.8,
+  "state_power": 9.5,
+  "key_event": "Suez Crisis shatters state prestige, galvanizes societal opposition.",
+  "reasoning": "The state's power, while entrenched by the post-war welfare consensus, was significantly undermined by the diplomatic and military failure of the Suez Crisis. Society's power remained immense, shifting from wartime unity to new forms of mass mobilization like the CND and the institutionalized influence of trade unions.",
+  "society_change": -0.2,
+  "state_change": -0.5
+}

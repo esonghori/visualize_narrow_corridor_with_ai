@@ -1,0 +1,19 @@
+Based on Acemoğlu and Robinson's framework, here are major trends and events in the United Kingdom from 1859-1868 that affected the balance of power between the state and civil society.
+
+### Trends:
+
+*   **Professionalization of the Civil Service:** Following the 1854 Northcote-Trevelyan Report, the move from a patronage-based to a meritocratic, professional bureaucracy was slowly gaining momentum. This slow-moving institutional change increased the state's efficiency, autonomy, and capacity to govern effectively.
+    *   **Effect:** Strengthened the state.
+*   **Growth of Organized Labour:** The consolidation of "New Model Unions" like the Amalgamated Society of Engineers created disciplined, well-funded organizations capable of collective bargaining and political lobbying. This trend represented a significant increase in the organizational power of a large segment of the working class.
+    *   **Effect:** Strengthened civil society.
+*   **Rising Political Consciousness and Popular Radicalism:** Building on the legacy of Chartism, a growing and increasingly literate urban population engaged in widespread political debate, forming organizations like the Reform League (est. 1865). This sustained popular pressure for democratic reform was a constant force throughout the decade.
+    *   **Effect:** Strengthened civil society by creating pressure from below to which the state had to respond.
+
+### Events:
+
+*   **The Second Reform Act (1867):** This discrete legislative act doubled the electorate, enfranchising a large portion of the urban male working class. It was a direct response to years of popular agitation and fundamentally changed the relationship between Parliament and the people, forcing political parties to compete for a much broader base of votes.
+    *   **Effect:** Massively strengthened civil society by giving it formal power to hold the state accountable ("shackling the Leviathan").
+*   **The Lancashire Cotton Famine (1861-1865):** The American Civil War's blockade of cotton exports caused a severe economic crisis and mass unemployment in northern England. The crisis forced the state to intervene through the Public Works (Manufacturing Districts) Act of 1864, expanding its role in social relief and infrastructure. Simultaneously, it spurred a vast, nationwide charitable relief effort, demonstrating civil society's capacity for self-organization.
+    *   **Effect:** Strengthened both the state (by expanding its administrative role in social welfare) and civil society (by demonstrating its organizational capacity).
+*   **The Fenian Outrages (1867):** Militant actions by Irish Republicans, including an attack in Manchester and the Clerkenwell explosion in London, constituted a direct challenge to the state's monopoly on violence. The government's decisive response—arrests, trials, executions, and heightened security—was a powerful reassertion of its core security function.
+    *   **Effect:** Strengthened the state by demonstrating and justifying its coercive and security powers.

@@ -1,0 +1,35 @@
+# China 2010–2019: State vs. Society Power (Acemoğlu-Robinson Framework)
+
+In *The Narrow Corridor*, liberty emerges from a balance where a strong state (Leviathan) is checked by an equally strong, mobilized society. China exemplifies the "Despotic Leviathan"—a powerful state facing a weak, demobilized society. Most developments in this decade further tilted this imbalance toward the state.
+
+## Trends (slow-moving: institutional, economic, demographic)
+
+- **Rise of the digital surveillance state** — Buildout of facial recognition, "Skynet" cameras, and the piloting of Social Credit systems dramatically expanded the state's capacity to monitor and preempt collective action. **Strengthened state / weakened society.**
+
+- **Economic growth deceleration and rising debt** — GDP growth slowed from ~10% to ~6%; local-government and corporate debt ballooned. This eroded the performance-legitimacy bargain the state relies on. **Weakened state (long-run).**
+
+- **Expanding middle class and urbanization** — A larger, more educated urban population creates latent capacity for civil society, though it remained largely demobilized. **Potentially strengthened society (latent).**
+
+- **Demographic decline** — Falling birth rates and looming aging (leading to the 2015 abolition of the one-child policy) foreshadow shrinking labor force and fiscal strain. **Weakened state (long-run).**
+
+- **Party reassertion over economy and private sector** — Growth of Party committees inside private firms and "state advances, private retreats" (*guojin mintui*) extended state penetration into economic life. **Strengthened state / weakened autonomous economic society.**
+
+- **Tightening ideological control in academia, NGOs, and media** — The 2016 Foreign NGO Law, ideological campaigns in universities, and crackdown on independent media systematically shrank associational space. **Strengthened state / weakened society.**
+
+## Events (discrete)
+
+- **Xi Jinping's ascension (2012–13) and anti-corruption campaign** — Consolidated personal power, disciplined rivals, and centralized authority. **Strengthened the state (and the leader specifically).**
+
+- **709 Crackdown (July 2015)** — Mass detention of ~300 human-rights lawyers and activists, decapitating a nascent rights-defense (*weiquan*) movement. **Weakened society / strengthened state.**
+
+- **Abolition of presidential term limits (March 2018)** — Removed a key institutional check, enabling indefinite rule. **Strengthened state / eroded intra-elite constraints.**
+
+- **Hong Kong Umbrella Movement (2014) and the 2019 anti-extradition protests** — Large-scale mobilization represented rare, vigorous society pushback; the state's escalating response signaled its intent to crush such capacity. **Strengthened society (momentarily) but provoked reasserted state control.**
+
+- **Onset of mass detentions in Xinjiang (from ~2017)** — Construction of "re-education" camps demonstrated the state's coercive reach against entire populations. **Strengthened state / crushed society.**
+
+- **US–China trade war (2018–19)** — External economic shock pressured the growth model and legitimacy, while being used domestically to rally nationalist support. **Ambiguous: pressured state economically, reinforced it rhetorically.**
+
+---
+
+**Net assessment:** The decade pushed China deeper into the despotic zone—state capacity (especially coercive and surveillance) grew markedly while autonomous society was systematically weakened, moving China further from A&R's "narrow corridor" of liberty.

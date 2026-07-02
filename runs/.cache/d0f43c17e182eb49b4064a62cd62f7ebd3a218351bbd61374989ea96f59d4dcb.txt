@@ -1,0 +1,8 @@
+{
+  "society_power": 3.5,
+  "state_power": 4.5,
+  "society_change": 0.0,
+  "state_change": 0.0,
+  "key_event": "Chilean War of Independence concludes",
+  "reasoning": "State power is limited and contested, while civil society has some autonomous organization but remains weak."
+}

@@ -1,0 +1,8 @@
+{
+  "society_power": 7.3,
+  "state_power": 8.6,
+  "society_change": 0.1,
+  "state_change": -1.2,
+  "key_event": "Panic of 1893 and Populist Movement",
+  "reasoning": "The economic depression and rural mobilization strengthened civil society, while state power weakened due to regulatory challenges and labor conflicts."
+}

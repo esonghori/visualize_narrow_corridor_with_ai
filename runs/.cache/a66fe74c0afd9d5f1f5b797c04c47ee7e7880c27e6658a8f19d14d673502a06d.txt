@@ -1,0 +1,8 @@
+{
+  "society_power": 8.5,
+  "state_power": 9.0,
+  "key_event": "WWII collapse and creation of a stronger, interventionist state.",
+  "reasoning": "The state collapsed but was rebuilt after 1944 with unprecedented economic control through nationalizations and administrative reach via the new social security system. While society mobilized massively in the Resistance, the post-war state disarmed militias and marginalized the powerful Communist party, reasserting its authority and slightly reducing society's relative power from its pre-war high.",
+  "society_change": -0.3,
+  "state_change": 0.8
+}

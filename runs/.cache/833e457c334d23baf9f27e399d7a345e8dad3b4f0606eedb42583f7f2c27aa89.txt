@@ -1,0 +1,8 @@
+{
+  "society_power": 6.8,
+  "state_power": 8.5,
+  "society_change": 0.5,
+  "state_change": 0.5,
+  "key_event": "War of the Pacific and labor movements",
+  "reasoning": "The War of the Pacific and constitutional reforms strengthened the state, while labor movements and the Democratic Party bolstered civil society."
+}

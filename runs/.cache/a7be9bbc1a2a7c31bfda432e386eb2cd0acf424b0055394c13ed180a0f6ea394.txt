@@ -1,0 +1,8 @@
+{
+  "society_power": 9.0,
+  "state_power": 7.5,
+  "society_change": 0.5,
+  "state_change": 1.5,
+  "key_event": "Formation of Popular Front and CORFO",
+  "reasoning": "The labor movement grew significantly, and state economic intervention increased, particularly with the Popular Front and CORFO."
+}

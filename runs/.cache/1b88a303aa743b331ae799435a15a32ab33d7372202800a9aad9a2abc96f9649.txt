@@ -1,0 +1,8 @@
+{
+  "society_power": 6.5,
+  "state_power": 8.5,
+  "key_event": "State-led industrialization (CORFO) and subsequent break with labor.",
+  "reasoning": "The state's power grew immensely with the creation of the CORFO development corporation, expanding its economic reach, and was reinforced by its successful repression of communist-led unions. Society's power, initially boosted by the Popular Front's rise, was ultimately fractured and weakened by this state action.",
+  "society_change": -0.5,
+  "state_change": 1.0
+}

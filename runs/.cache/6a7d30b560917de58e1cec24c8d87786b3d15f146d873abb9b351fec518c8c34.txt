@@ -1,0 +1,8 @@
+{
+  "society_power": 6.8,
+  "state_power": 8.3,
+  "society_change": -1.5,
+  "state_change": 0.5,
+  "key_event": "American Civil War (1861-1865)",
+  "reasoning": "The Civil War centralized federal power while weakening Southern civil society, leading to a net decrease in societal power and a modest increase in state power."
+}

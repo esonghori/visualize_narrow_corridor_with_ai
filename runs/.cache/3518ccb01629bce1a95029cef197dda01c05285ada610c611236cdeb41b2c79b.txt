@@ -1,0 +1,8 @@
+{
+  "society_power": 9.5,
+  "state_power": 9.7,
+  "key_event": "The Civil Rights Movement forces federal legislative action.",
+  "reasoning": "Society's power surged as the Civil Rights Movement demonstrated massive mobilization capacity, forcing federal action. The state grew simultaneously through the expansion of the military for the Vietnam War and new domestic authority to enforce the Civil Rights and Voting Rights Acts.",
+  "society_change": 0.5,
+  "state_change": 0.1
+}

@@ -1,0 +1,19 @@
+Based on the framework in *The Narrow Corridor*, here are the major trends and events in the United States from 1819-1828 that affected the balance of power between the state and civil society.
+
+### Trends:
+
+*   **Expansion of Universal White Male Suffrage:** The steady removal of property qualifications for voting in most states was a slow-moving institutional change that dramatically expanded the electorate. This trend empowered a broader segment of the population, making politicians more accountable to popular will rather than just to established elites.
+    *   **Effect:** Strengthened society by increasing its capacity to control and contest the state.
+*   **The Market Revolution:** The growth of a national market economy, fueled by infrastructure like the Erie Canal (completed 1825) and westward expansion, created new economic interests and a more mobile, interconnected populace. This fostered the growth of a commercial class and an organized working class, both of which developed institutions (banks, unions, political clubs) outside of direct state control.
+    *   **Effect:** Strengthened both. The state grew in its capacity to regulate commerce and fund infrastructure, but society grew even faster in its organizational complexity and economic power.
+*   **Development of Mass-Based Political Parties:** The collapse of the "Era of Good Feelings" and the one-party system gave rise to the foundations of the Second Party System. Political organization began to shift from elite caucuses to mass-based, popular movements, particularly the emerging Jacksonian coalition. These new parties were powerful institutions within civil society designed to mobilize voters and seize control of the state apparatus.
+    *   **Effect:** Strengthened society's ability to organize and hold state power accountable.
+
+### Events:
+
+*   **Marshall Court Rulings of *McCulloch v. Maryland* (1819) and *Gibbons v. Ogden* (1824):** These landmark Supreme Court decisions were discrete events that fundamentally expanded the power of the federal government. *McCulloch* affirmed the doctrine of implied powers and federal supremacy over states (prohibiting Maryland from taxing the national bank), while *Gibbons* established the federal government's exclusive power to regulate interstate commerce.
+    *   **Effect:** Strengthened the (federal) state.
+*   **The Missouri Compromise (1820):** In response to a major societal conflict over the expansion of slavery, the federal government brokered and legislated a national solution. This act demonstrated a significant expansion of the state's capacity to impose order and regulate the nation's political and geographic development, directly intervening in what had been a fiercely contested social issue.
+    *   **Effect:** Strengthened the state by asserting its authority to manage deep societal divisions.
+*   **The Election of 1824 and the "Corrupt Bargain":** When the House of Representatives chose John Quincy Adams as president despite Andrew Jackson winning a plurality of the popular and electoral vote, it was perceived by many as an illegitimate act of elite insiders defying the popular will. This event galvanized a massive societal backlash, delegitimizing the existing state leadership and fueling the populist Jacksonian movement for the next four years.
+    *   **Effect:** Weakened the state (by undermining its legitimacy) and massively strengthened and mobilized society in opposition.

@@ -1,0 +1,8 @@
+{
+  "society_power": 9.2,
+  "state_power": 4.5,
+  "key_event": "Collapse of Fourth Republic under pressure from Algerian War.",
+  "reasoning": "The Fourth Republic's chronic instability and inability to manage the Algerian War culminated in the 1958 crisis, where the army—acting as a powerful societal faction—forced the government's collapse, shattering state authority. Mobilized segments of society held immense power, while the state itself lost its monopoly on violence.",
+  "society_change": 0.7,
+  "state_change": -4.5
+}

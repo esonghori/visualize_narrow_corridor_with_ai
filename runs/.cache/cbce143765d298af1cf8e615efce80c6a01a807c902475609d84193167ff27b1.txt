@@ -1,0 +1,8 @@
+{
+  "society_power": 1.5,
+  "state_power": 9.5,
+  "key_event": "The 1973 military coup establishes a despotic Leviathan.",
+  "reasoning": "The 1973 coup replaced a fractured democratic state with a military dictatorship that systematically dismantled civil society through repression. This resulted in an overwhelmingly powerful coercive state and an atomized, nearly powerless society, exiting the Narrow Corridor.",
+  "society_change": -7.0,
+  "state_change": 0.5
+}

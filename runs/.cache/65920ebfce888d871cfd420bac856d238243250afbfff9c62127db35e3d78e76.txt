@@ -1,0 +1,8 @@
+{
+  "society_power": 8.2,
+  "state_power": 8.3,
+  "key_event": "State and corporate power defeat Populist and labor movements.",
+  "reasoning": "The state grew stronger by breaking strikes (Pullman), enacting regulations (Sherman Act), and sanctioning Jim Crow (Plessy), decisively siding with corporate power. While society mobilized powerfully through Populism and labor unions, their ultimate defeats and the disenfranchisement of Black citizens represented a net loss of society's ability to constrain elites.",
+  "society_change": -0.6,
+  "state_change": 0.5
+}

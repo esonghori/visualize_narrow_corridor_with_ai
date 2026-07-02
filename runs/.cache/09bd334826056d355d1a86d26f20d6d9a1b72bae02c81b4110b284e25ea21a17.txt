@@ -1,0 +1,8 @@
+{
+  "society_power": 3.0,
+  "state_power": 5.0,
+  "society_change": 0.0,
+  "state_change": 0.0,
+  "key_event": "Late Qing Dynasty's Self-Strengthening Movement",
+  "reasoning": "Civil society was weak but had some sporadic mobilization. The state had a functioning bureaucracy and military but was limited in reach and effectiveness."
+}

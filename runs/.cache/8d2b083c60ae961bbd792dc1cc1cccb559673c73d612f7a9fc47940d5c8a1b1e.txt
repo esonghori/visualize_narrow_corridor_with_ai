@@ -1,0 +1,8 @@
+{
+  "society_power": 7.8,
+  "state_power": 7.0,
+  "society_change": 0.3,
+  "state_change": 0.7,
+  "key_event": "May 1968 Protests, Algerian War Conclusion",
+  "reasoning": "May 1968 strengthened civil society through activism, while the Algerian War's end allowed the state to focus on domestic issues, enhancing its capacity."
+}

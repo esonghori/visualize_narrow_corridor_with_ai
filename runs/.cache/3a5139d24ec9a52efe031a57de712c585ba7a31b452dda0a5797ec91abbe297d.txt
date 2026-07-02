@@ -1,0 +1,8 @@
+{
+  "society_power": 7.0,
+  "state_power": 7.6,
+  "society_change": 0.5,
+  "state_change": -1.2,
+  "key_event": "Peterloo Massacre and growing reform movements",
+  "reasoning": "The Peterloo Massacre galvanized civil society, while reform movements and demographic shifts increased social pressure for change, slightly weakening state power."
+}

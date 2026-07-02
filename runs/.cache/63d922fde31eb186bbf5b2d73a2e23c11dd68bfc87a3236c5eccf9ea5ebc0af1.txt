@@ -1,0 +1,8 @@
+{
+  "society_power": 7.7,
+  "state_power": 6.8,
+  "society_change": 0.2,
+  "state_change": -1.0,
+  "key_event": "1995 General Strike and Maastricht Treaty",
+  "reasoning": "The 1995 General Strike demonstrated strong civil society resistance, while the Maastricht Treaty transferred powers to the EU, weakening state sovereignty."
+}

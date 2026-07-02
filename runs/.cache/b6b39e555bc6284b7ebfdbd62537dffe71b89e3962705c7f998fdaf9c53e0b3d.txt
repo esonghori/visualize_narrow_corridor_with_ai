@@ -1,0 +1,8 @@
+{
+  "society_power": 7.0,
+  "state_power": 9.5,
+  "society_change": -1.6,
+  "state_change": 0.5,
+  "key_event": "New Deal Programs, Great Depression",
+  "reasoning": "The Great Depression weakened civil society but the New Deal strengthened state power significantly."
+}

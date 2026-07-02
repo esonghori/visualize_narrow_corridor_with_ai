@@ -1,0 +1,8 @@
+{
+  "society_power": 5.8,
+  "state_power": 3.5,
+  "key_event": "Japanese invasion forces a KMT-CCP United Front.",
+  "reasoning": "The KMT state's initial consolidation was shattered by the full-scale Japanese invasion, devastating its administrative capacity. Simultaneously, intense nationalist sentiment empowered civil society and military factions to force the state into a united front, demonstrating society's increased ability to direct national policy.",
+  "society_change": 1.3,
+  "state_change": -1.0
+}

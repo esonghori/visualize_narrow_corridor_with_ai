@@ -1,0 +1,8 @@
+{
+  "society_power": 3.0,
+  "state_power": 8.0,
+  "key_event": "Suppression of 1851 Revolution solidifies state dominance.",
+  "reasoning": "State power surged after its military victory in the 1851 revolution and its extension of authority via the new Civil Code, which superseded the Church's influence. Society's power fell as the liberal opposition was crushed and exiled, and key independent institutions like the Church were decisively subordinated to the state.",
+  "society_change": -0.5,
+  "state_change": 1.0
+}

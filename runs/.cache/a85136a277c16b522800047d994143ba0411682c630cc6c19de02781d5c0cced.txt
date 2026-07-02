@@ -1,0 +1,8 @@
+{
+  "society_power": 7.5,
+  "state_power": 8.0,
+  "society_change": -2.2,
+  "state_change": 0.2,
+  "key_event": "Rise of Industrial Capitalism and Urbanization",
+  "reasoning": "Industrialization and urbanization weakened civil society by creating social tensions and inequalities, while strengthening the state through increased tax revenue and administrative demands."
+}

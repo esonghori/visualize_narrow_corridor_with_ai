@@ -1,0 +1,8 @@
+{
+  "society_power": 7.0,
+  "state_power": 5.8,
+  "society_change": 0.5,
+  "state_change": -1.5,
+  "key_event": "Economic sanctions and technological advancements",
+  "reasoning": "Economic sanctions weakened the state's financial capacity, while technological advancements and social media empowered civil society, fostering greater mobilization and political engagement."
+}

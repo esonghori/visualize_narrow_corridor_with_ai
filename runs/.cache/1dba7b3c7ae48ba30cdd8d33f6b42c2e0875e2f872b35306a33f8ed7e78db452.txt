@@ -1,0 +1,8 @@
+{
+  "society_power": 7.8,
+  "state_power": 8.5,
+  "society_change": -1.0,
+  "state_change": -1.4,
+  "key_event": "Decline of Manufacturing and Political Centralization",
+  "reasoning": "The decline of manufacturing weakened labor unions, and political centralization reduced local civil society power. State power was also somewhat diminished by European integration and economic liberalization."
+}

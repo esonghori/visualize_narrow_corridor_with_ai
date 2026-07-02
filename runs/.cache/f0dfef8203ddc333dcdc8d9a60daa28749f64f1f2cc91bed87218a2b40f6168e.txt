@@ -1,0 +1,8 @@
+{
+  "society_power": 4.0,
+  "state_power": 1.0,
+  "key_event": "Foreign occupation and state collapse during World War I.",
+  "reasoning": "The state effectively ceased to exist as a sovereign entity, becoming a battleground for foreign powers who dismantled its nascent institutions. Society's national constitutional movement was crushed, and power devolved to fragmented local actors amidst the chaos of war and famine.",
+  "society_change": -3.0,
+  "state_change": -1.5
+}

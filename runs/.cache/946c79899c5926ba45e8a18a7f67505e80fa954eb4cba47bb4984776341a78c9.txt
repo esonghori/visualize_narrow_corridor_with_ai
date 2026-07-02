@@ -1,0 +1,33 @@
+In *The Narrow Corridor*, Acemoğlu and Robinson argue that liberty emerges from a balance between a capable **state (Leviathan)** and a mobilized, vigilant **society** that can constrain it. The 1879–1888 period in the U.S. is interesting because industrialization was massively strengthening private economic power while the federal state remained comparatively weak—a "Shackled Leviathan" that struggled to keep pace with concentrated economic forces.
+
+**Trends:**
+
+- **Rapid industrialization and the rise of corporate/monopoly power (esp. railroads, Standard Oil, Carnegie steel):** Strengthened private economic elites, effectively weakening society's relative power as vast wealth concentrations escaped both state and popular constraint—an asymmetry Acemoğlu and Robinson would see as pushing outside the corridor.
+
+- **Consolidation of railroad networks and standardization (e.g., standard time zones adopted 1883):** Strengthened national economic integration and corporate coordination; ambiguous for the state, which lacked regulatory capacity to match.
+
+- **Mass immigration and urbanization:** Expanded and diversified civil society's potential base, but often channeled through urban political machines (e.g., Tammany), which could either mobilize or co-opt/weaken independent societal power.
+
+- **Growth of the labor movement (Knights of Labor membership surging mid-decade):** Strengthened society's capacity for collective mobilization against economic Leviathans.
+
+- **Persistence of a weak, patronage-based ("spoils system") federal administrative state:** Kept Leviathan shackled and low-capacity, limiting its ability to regulate the emerging industrial economy.
+
+- **Retreat from Reconstruction and entrenchment of Southern white "home rule":** Weakened both federal state capacity in the South and the political voice (society) of Black citizens, illustrating the "cage of norms" and despotic local power.
+
+**Events:**
+
+- **Pendleton Civil Service Reform Act (1883):** Strengthened state capacity by introducing merit-based hiring, a step toward a more competent (less purely patronage) bureaucracy—a modest move toward Leviathan capacity constrained by rules.
+
+- **Southern Black disenfranchisement measures and rising Jim Crow codification (throughout the decade):** Weakened society (specifically Black political participation) and legitimized despotic local control.
+
+- **The Great Southwest Railroad Strike (1886) and the Haymarket Affair (1886):** A discrete flashpoint of societal labor mobilization; the violent aftermath and backlash weakened the Knights of Labor and demonstrated the state's coercive alignment with capital.
+
+- **Wabash v. Illinois (1886):** Supreme Court struck down state regulation of interstate railroads, weakening sub-federal state regulatory power and exposing a governance vacuum.
+
+- **Interstate Commerce Act (1887):** Created the Interstate Commerce Commission—a landmark attempt to *build* federal regulatory Leviathan to check corporate power, though initially weak in enforcement.
+
+- **Dawes Severalty Act (1887):** Expanded coercive federal state power over Native Americans, breaking up tribal lands—an assertion of despotic Leviathan against Indigenous society.
+
+- **Presidential elections of 1880, 1884, 1888:** Reflected competitive electoral society, though closely contested and machine-influenced.
+
+**Caveat:** Acemoğlu and Robinson themselves don't provide a year-by-year account of this decade, so the framing above applies their *state-vs-society balance* lens to standard U.S. historiography rather than citing their specific claims about 1879–1888.

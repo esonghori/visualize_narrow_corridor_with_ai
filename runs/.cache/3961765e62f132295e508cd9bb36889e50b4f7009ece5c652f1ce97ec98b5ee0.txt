@@ -1,0 +1,8 @@
+{
+  "society_power": 1.5,
+  "state_power": 9.9,
+  "key_event": "Xi Jinping's consolidation of power and rise of digital surveillance.",
+  "reasoning": "Under Xi Jinping, the state's power became near-total through centralization, the removal of term limits, and an unprecedented digital surveillance apparatus. Concurrently, targeted actions like the '709 crackdown' and pervasive monitoring decimated civil society, atomizing dissent and erasing the limited gains of the previous decade.",
+  "society_change": -2.5,
+  "state_change": 0.3
+}

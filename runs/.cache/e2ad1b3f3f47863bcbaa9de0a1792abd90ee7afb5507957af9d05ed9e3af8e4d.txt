@@ -1,0 +1,8 @@
+{
+  "society_power": 7.0,
+  "state_power": 9.5,
+  "key_event": "World War I creates an overwhelmingly powerful total-war state.",
+  "reasoning": "The state's power surged to an overwhelming level through total war mobilization, a national income tax, and a directed economy. Simultaneously, society's power, despite the 1917 mutinies, was significantly eroded by the political truce of the Union Sacrée and devastating demographic losses.",
+  "society_change": -1.7,
+  "state_change": 1.3
+}

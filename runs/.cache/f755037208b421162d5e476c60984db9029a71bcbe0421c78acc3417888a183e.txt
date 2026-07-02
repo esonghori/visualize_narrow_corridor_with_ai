@@ -1,0 +1,8 @@
+{
+  "society_power": 7.5,
+  "state_power": 7.9,
+  "society_change": 0.5,
+  "state_change": 0.3,
+  "key_event": "Reform Act of 1832 and Factory Act of 1833",
+  "reasoning": "The Reform Act expanded the electorate, strengthening civil society, while the Factory Act marked increased state regulation."
+}

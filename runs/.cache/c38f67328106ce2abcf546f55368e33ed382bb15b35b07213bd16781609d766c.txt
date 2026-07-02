@@ -1,0 +1,8 @@
+{
+  "society_power": 4.0,
+  "state_power": 7.0,
+  "key_event": "Ultra-royalist reaction and crackdown under Charles X.",
+  "reasoning": "The state grew stronger under the reactionary policies of Charles X, using its inherited Napoleonic administration and new repressive laws to assert control. While liberal opposition grew, civil society's effective power to constrain the state was weakened by this successful political and electoral crackdown.",
+  "society_change": -0.5,
+  "state_change": 1.0
+}

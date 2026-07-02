@@ -1,0 +1,8 @@
+{
+  "society_power": 4.5,
+  "state_power": 9.0,
+  "society_change": -1.4,
+  "state_change": 0.5,
+  "key_event": "Xi Jinping's consolidation of power and tech surveillance",
+  "reasoning": "Civil society's capacity was reduced due to repression and surveillance, while the state's power was significantly strengthened through centralization and technological advancements."
+}

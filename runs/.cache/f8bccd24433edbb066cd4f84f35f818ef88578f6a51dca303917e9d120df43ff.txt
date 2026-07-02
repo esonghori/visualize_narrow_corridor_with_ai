@@ -1,0 +1,8 @@
+{
+  "society_power": 9.5,
+  "state_power": 7.8,
+  "society_change": 0.2,
+  "state_change": -1.2,
+  "key_event": "Rise of the Internet and Economic Globalization",
+  "reasoning": "The rise of the internet and economic globalization strengthened civil society's organizational capacity and influence, while reducing the state's economic and regulatory control."
+}

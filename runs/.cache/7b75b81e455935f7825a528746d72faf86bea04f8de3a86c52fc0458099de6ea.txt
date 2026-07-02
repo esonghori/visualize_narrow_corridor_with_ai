@@ -1,0 +1,8 @@
+{
+  "society_power": 7.0,
+  "state_power": 2.0,
+  "key_event": "The Constitutional Revolution and the restoration of the Majles",
+  "reasoning": "The Constitutional Revolution demonstrated unprecedented mobilization capacity by civil society, culminating in the armed overthrow of the royalist coup and the restoration of parliament. However, the conflict shattered the Qajar state's fragile authority and left its finances and monopoly on violence severely fractured.",
+  "society_change": 1.5,
+  "state_change": -0.5
+}

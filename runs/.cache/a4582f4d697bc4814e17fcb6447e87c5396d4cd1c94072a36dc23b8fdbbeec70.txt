@@ -1,0 +1,37 @@
+# France 1989–1998 through *The Narrow Corridor* Lens
+
+A note before the lists: Acemoğlu and Robinson's framework centers on the balancing of state and society (the "Red Queen" dynamic). For France, this period is dominated by two forces cutting against the *national* state's autonomous power—European integration and economic liberalization—while civil society's picture is mixed.
+
+## Trends
+
+- **Deepening European integration (Maastricht ratification 1992, convergence toward EMU 1998).** Materially transferred sovereign competences—monetary policy above all—from the French state to European institutions. *Weakened the autonomous national state* while embedding it in a larger shared-authority structure.
+
+- **Privatization and retreat of the dirigiste state.** The Balladur (1993–95) and later governments continued privatizing state champions (banks, insurers, industrials). *Weakened the state's direct economic reach*; ambiguous for society (empowered market actors, weakened state-labor bargaining).
+
+- **Persistent mass unemployment (roughly 10–12%).** Chronic joblessness strained the social model, fueled protest capacity but also disempowered workers individually. Mixed: *strained the state's legitimacy* while feeding *mobilized (but defensive) civil society*.
+
+- **Decentralization consolidating post-1982 reforms.** Continued devolution of authority to regions/départements/communes. *Diffused state power* territorially—arguably strengthening intermediate civic-political structures.
+
+- **Rise of the Front National as an electoral force.** Growing anti-immigrant, anti-establishment vote reshaped the party system. Ambiguous for the framework: a form of societal mobilization that is illiberal, pressuring but also polarizing the state-society relationship.
+
+- **Immigration and integration debates ("laïcité," banlieues tensions).** Slow-building contestation over national identity and the republican model, testing the state's assimilationist capacity and generating new civic actors.
+
+## Events
+
+- **Maastricht Treaty referendum (September 1992).** Narrow "yes" (~51%). A discrete act of *society constraining/directing the state* on the fundamental question of pooling sovereignty—the Red Queen visible in a single vote.
+
+- **1993 legislative elections.** Landslide right-wing victory ushering in Balladur's cohabitation government—accelerated liberalization and reshaped executive dynamics.
+
+- **1995 presidential election (Chirac defeats Jospin).** Ended 14 years of Mitterrand-era Socialist presidency; brought new economic-austerity orientation.
+
+- **November–December 1995 public sector strikes.** Massive mobilization against the Juppé plan for pension/social-security reform, paralyzing the country and forcing government retreat. A vivid instance of *civil society (organized labor) checking the state's reform capacity*.
+
+- **1997 dissolution and snap legislative elections.** Chirac's gamble backfired; Jospin's "plural left" won, producing a new cohabitation—an *executive miscalculation constrained by the electorate*.
+
+- **Resumption/completion of nuclear testing (1995–96) and its cessation.** State assertion of sovereign military prerogative, provoking domestic and international civic protest.
+
+- **Sans-papiers movement, incl. Saint-Bernard church occupation (1996).** Undocumented migrants and supporters directly contesting state immigration enforcement—an emergent civil-society actor.
+
+---
+
+**Caveat:** I've reasoned from general knowledge of French history in this decade rather than from a verified event-by-event dataset, so treat specific attributions (especially the strengthen/weaken judgments, which are interpretive) as arguable. The framework application is my own reading of Acemoğlu–Robinson, not a claim they analyze France 1989–1998 directly.

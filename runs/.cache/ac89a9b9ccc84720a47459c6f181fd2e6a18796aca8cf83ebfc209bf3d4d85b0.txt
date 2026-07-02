@@ -1,0 +1,29 @@
+Based on Acemoğlu and Robinson's framework, here are the major trends and events in the U.S. from 1999-2008 that affected the balance of power between the state and civil society.
+
+### Trends:
+
+*   **The expansion of the national security state and executive power:** Following 9/11, a slow-moving but profound institutional shift occurred. This included the growth of warrantless surveillance (NSA), the use of executive orders to authorize controversial interrogation techniques, and the assertion of broad presidential authority under a wartime footing.
+    *   **Effect:** Massively **strengthened the state’s** coercive and surveillance capacities, often with limited oversight, pushing it towards a more "Despotic Leviathan."
+
+*   **The rise of the internet as a tool for political mobilization:** Throughout this period, online platforms evolved from nascent communities into powerful organizing tools. Groups like MoveOn.org used the internet for fundraising and activism against the Iraq War, while the 2004 Howard Dean and 2008 Barack Obama campaigns demonstrated its power for grassroots mobilization.
+    *   **Effect:** **Strengthened society** by providing new, low-cost tools for organizing, disseminating information, and challenging state narratives, a key component of the "Red Queen" effect.
+
+*   **Financial and economic deregulation:** This trend, which began earlier, culminated in this period with policies favoring market self-regulation. The 1999 repeal of the Glass-Steagall Act and the subsequent hands-off approach to complex financial derivatives reduced the state's ability to oversee the financial sector.
+    *   **Effect:** **Weakened the state's** regulatory capacity, creating a domain where it was a "Shackled Leviathan," unable to control powerful economic actors, which led directly to the 2008 crisis.
+
+*   **Increasing political and media polarization:** The decade saw the cementing of partisan news ecosystems (e.g., Fox News, MSNBC) and a decline in cross-party consensus. The contentious 2000 election and the divisive Iraq War deepened societal fractures.
+    *   **Effect:** Arguably **weakened both.** It weakened the state's ability to act coherently and build broad consensus, while also weakening society's ability to mobilize as a unified check on state power, instead channeling its energy into partisan infighting.
+
+### Events:
+
+*   **The September 11, 2001 terrorist attacks:** This single event dramatically reshaped public attitudes and national priorities, creating an overwhelming demand for state-led security and retribution.
+    *   **Effect:** Instantly and profoundly **strengthened the state** by providing it with a powerful public mandate to expand its military, intelligence, and domestic security powers with little initial societal opposition.
+
+*   **The passage of the USA PATRIOT Act (2001) and the creation of the Department of Homeland Security (2002):** These were the immediate legislative and bureaucratic responses to 9/11. They codified new surveillance powers for the government and created a massive new state agency focused on domestic security.
+    *   **Effect:** **Strengthened the state** by creating the formal legal and institutional architecture for the post-9/11 security apparatus.
+
+*   **The failed government response to Hurricane Katrina (2005):** The catastrophic failure of local, state, and especially federal agencies (FEMA) to respond effectively to the hurricane and its aftermath was a moment of profound state incompetence.
+    *   **Effect:** **Weakened the state's** legitimacy and its perceived capacity to perform basic functions. It exposed the state as a "Paper Leviathan" in this context—powerful in name but ineffective in practice—and energized societal criticism and non-governmental relief efforts.
+
+*   **The 2008 financial crisis and the TARP bailout:** The near-collapse of the global financial system revealed the consequences of the state's weak regulatory power. The government's response, the Troubled Asset Relief Program (TARP), was an unprecedented state intervention into the private market to prevent a total collapse.
+    *   **Effect:** A dual impact. The crisis itself demonstrated the **weakness of the "Shackled" regulatory state**. However, the massive bailout response dramatically **strengthened the state's** role and power within the economy, setting a precedent for large-scale intervention.

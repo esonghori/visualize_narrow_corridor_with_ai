@@ -1,0 +1,19 @@
+Based on Acemoğlu and Robinson's framework, here are the major historical trends and events in Chile from 1898-1907 that affected the balance of power between the state and civil society.
+
+### Trends:
+
+*   **Growth and Organization of the Urban Proletariat:** Fueled by the nitrate economy and migration to cities like Santiago, Valparaíso, and the northern mining camps, a new industrial working class emerged. This demographic shift led to the formation of mutual aid societies, resistance leagues, and politically-oriented unions (*mancomunales*), creating new, durable forms of social organization outside of traditional elite control.
+    *   **Effect:** Strengthened civil society by creating a new, organized actor capable of collective action.
+*   **Intensification of "The Social Question" (*La Cuestión Social*):** Rampant inflation, abysmal working conditions, and a lack of a social safety net became the dominant domestic issue. The oligarchic state, operating under the Parliamentary Republic system, was largely unwilling or unable to address these grievances through legislation, creating a power vacuum filled by social movements.
+    *   **Effect:** Weakened the state's legitimacy and administrative capacity; strengthened (mobilized) civil society through shared grievance.
+*   **Parliamentary System Gridlock:** The political system of the "Parliamentary Republic," established after the 1891 Civil War, severely weakened the executive branch. Presidents had little power to enact policy over a Congress controlled by rival oligarchic factions, resulting in political instability and an inability to mediate growing social conflicts.
+    *   **Effect:** Weakened the executive power of the state, making it reactive and reliant on coercion rather than proactive governance.
+
+### Events:
+
+*   **The Valparaíso Dockworkers' Strike (1903):** A major strike by maritime workers in Chile's main port escalated into city-wide riots. The Germán Riesco administration responded by declaring a state of siege and using the military to violently suppress the movement, resulting in dozens of deaths.
+    *   **Effect:** Demonstrated the growing disruptive power of organized labor (strengthening society's power to act), but also affirmed the state's willingness to use its coercive monopoly on violence to protect economic interests (strengthening the state's repressive capacity).
+*   **The "Meat Riot" (*Huelga de la Carne*) in Santiago (1905):** A massive protest against a tariff on imported Argentine cattle, which raised the price of meat, culminated in a demonstration of an estimated 50,000 people. The state's response was a brutal crackdown that left hundreds dead.
+    *   **Effect:** Showcased civil society's newfound ability to mobilize a massive, cross-class urban coalition, but ultimately strengthened the state’s repressive power, confirming its role as an enforcer for the oligarchy rather than a neutral arbiter.
+*   **The Santa María de Iquique School Massacre (1907):** Striking nitrate miners and their families from across the Tarapacá region gathered in the port city of Iquique to press their demands. On December 21, President Pedro Montt authorized the army to fire on the thousands gathered in a school courtyard, killing hundreds, perhaps over two thousand.
+    *   **Effect:** A catastrophic event that immediately crushed a powerful social movement (weakening society in the short-term) while demonstrating the ultimate and brutal capacity of the state's coercive power when it perceived a fundamental threat to the economic order (massively strengthening the state's repressive dimension).

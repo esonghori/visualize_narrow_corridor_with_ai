@@ -1,0 +1,8 @@
+{
+  "society_power": 2.8,
+  "state_power": 4.5,
+  "society_change": -2.2,
+  "state_change": -1.5,
+  "key_event": "First Sino-Japanese War and Boxer Rebellion",
+  "reasoning": "The First Sino-Japanese War and the Boxer Rebellion weakened the state's authority and control, while the rise of local elites and demographic pressure eroded civil society's organizational capacity."
+}

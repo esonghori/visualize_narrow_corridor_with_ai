@@ -1,0 +1,8 @@
+{
+  "society_power": 7.6,
+  "state_power": 9.0,
+  "society_change": -1.2,
+  "state_change": -1.2,
+  "key_event": "Prohibition, Palmer Raids, 19th Amendment",
+  "reasoning": "Prohibition and Palmer Raids increased state power but weakened civil society. The 19th Amendment bolstered civil society, but the overall trend saw both state and society power slightly diminishing compared to the previous decade."
+}

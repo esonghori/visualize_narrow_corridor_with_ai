@@ -1,0 +1,8 @@
+{
+  "society_power": 9.9,
+  "state_power": 9.0,
+  "key_event": "Decline of deference and the 'Permissive Society'",
+  "reasoning": "The state's capacity and credibility were significantly weakened by economic failures, such as the 1967 devaluation, and political scandals like the Profumo Affair. Concurrently, civil society grew stronger through a cultural decline in deference, the rise of powerful unions, and successful campaigns for social liberalization.",
+  "society_change": 0.1,
+  "state_change": -0.5
+}

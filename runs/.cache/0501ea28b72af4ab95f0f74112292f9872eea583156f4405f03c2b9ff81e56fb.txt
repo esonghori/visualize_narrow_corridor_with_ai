@@ -1,0 +1,8 @@
+{
+  "society_power": 5.5,
+  "state_power": 7.0,
+  "society_change": 1.0,
+  "state_change": -1.5,
+  "key_event": "Allied Occupation and Nationalization of Oil Industry",
+  "reasoning": "The Allied occupation weakened state authority, while the push for oil nationalization and the formation of the Tudeh Party strengthened civil society."
+}

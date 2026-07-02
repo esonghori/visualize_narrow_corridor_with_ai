@@ -1,0 +1,8 @@
+{
+  "society_power": 4.0,
+  "state_power": 3.5,
+  "key_event": "Post-independence instability and overthrow of Supreme Director O'Higgins.",
+  "reasoning": "The newly independent state was weak and unstable, its authority contested by powerful regional elites who ultimately overthrew the head of state. Society's power resided within these organized aristocratic and clerical factions, which could effectively challenge the central government.",
+  "society_change": 0.0,
+  "state_change": 0.0
+}

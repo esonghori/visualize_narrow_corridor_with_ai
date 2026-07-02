@@ -1,0 +1,8 @@
+{
+  "society_power": 3.5,
+  "state_power": 7.0,
+  "key_event": "Consolidation of the centralized Portalian State after military victory.",
+  "reasoning": "State power grew significantly as military victory at Yungay and economic stability allowed the Portalian project to consolidate a professional bureaucracy and expand its reach. Society began to weakly reorganize with the return of exiles and the founding of intellectual circles, but remained largely subordinate to the strong state.",
+  "society_change": 0.5,
+  "state_change": 1.0
+}

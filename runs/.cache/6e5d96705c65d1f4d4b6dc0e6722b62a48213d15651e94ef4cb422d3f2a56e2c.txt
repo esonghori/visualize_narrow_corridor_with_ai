@@ -1,0 +1,8 @@
+{
+  "society_power": 7.6,
+  "state_power": 8.8,
+  "society_change": 0.3,
+  "state_change": 0.2,
+  "key_event": "Progressive Era Reforms and Labor Movements",
+  "reasoning": "The Progressive Era strengthened civil society through reforms and labor movements, while the state's regulatory power expanded with trust-busting and new legislation."
+}

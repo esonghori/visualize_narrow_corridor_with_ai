@@ -1,0 +1,8 @@
+{
+  "society_power": 9.3,
+  "state_power": 7.8,
+  "key_event": "Poll Tax riots force policy repeal and PM's resignation.",
+  "reasoning": "Massive societal opposition successfully defeated the Poll Tax, demonstrating society's power to veto state policy, while devolution and European integration structurally weakened the central state's authority.",
+  "society_change": 0.8,
+  "state_change": -1.2
+}

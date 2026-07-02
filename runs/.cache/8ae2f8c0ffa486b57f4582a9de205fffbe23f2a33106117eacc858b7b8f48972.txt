@@ -1,0 +1,8 @@
+{
+  "society_power": 8.5,
+  "state_power": 6.0,
+  "society_change": 0.5,
+  "state_change": -1.5,
+  "key_event": "Rise of labor movements and economic instability",
+  "reasoning": "Labor movements and economic decline strengthened civil society but weakened state capacity."
+}

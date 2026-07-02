@@ -1,0 +1,8 @@
+{
+  "society_power": 7.0,
+  "state_power": 8.5,
+  "society_change": 0.2,
+  "state_change": 0.2,
+  "key_event": "14th and 15th Amendments, Enforcement Acts",
+  "reasoning": "The 14th and 15th Amendments and Enforcement Acts strengthened civil society by empowering African Americans and enhancing state capacity to enforce civil rights, despite the weakening effects of the Compromise of 1877 and the Panic of 1873."
+}

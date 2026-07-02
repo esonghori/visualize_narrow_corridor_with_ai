@@ -1,0 +1,8 @@
+{
+  "society_power": 7.8,
+  "state_power": 8.0,
+  "society_change": 0.2,
+  "state_change": 0.2,
+  "key_event": "1909 Tarapacá Strike, 1910 Presidential Election",
+  "reasoning": "The 1909 strike and 1910 election strengthened civil society and consolidated state power through progressive policies."
+}

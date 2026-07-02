@@ -1,0 +1,8 @@
+{
+  "society_power": 3.5,
+  "state_power": 7.5,
+  "society_change": -1.8,
+  "state_change": 4.0,
+  "key_event": "Economic centralization and political repression",
+  "reasoning": "The state consolidated control through economic and political measures, while civil society was weakened through repression and ideological campaigns."
+}

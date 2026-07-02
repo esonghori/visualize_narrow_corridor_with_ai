@@ -1,0 +1,8 @@
+{
+  "society_power": 3.8,
+  "state_power": 4.0,
+  "society_change": 1.3,
+  "state_change": -1.5,
+  "key_event": "Tobacco Régie Concession and clerical opposition",
+  "reasoning": "The clerical opposition and urban middle class activism significantly strengthened civil society, while the state's authority was undermined by foreign influence and internal unrest."
+}

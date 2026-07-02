@@ -1,0 +1,8 @@
+{
+  "society_power": 8.0,
+  "state_power": 8.0,
+  "society_change": -1.0,
+  "state_change": 0.5,
+  "key_event": "Ley de Defensa Permanente de la Democracia",
+  "reasoning": "The law bolstered state power by suppressing left-wing groups, weakening civil society. Economic growth and urbanization, however, also strengthened civil society."
+}

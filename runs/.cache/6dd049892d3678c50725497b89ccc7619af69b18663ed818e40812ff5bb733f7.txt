@@ -1,0 +1,41 @@
+# The Narrow Corridor Framework Applied to the US, 1999–2008
+
+In Acemoğlu and Robinson's terms, liberty depends on a balance between a strong state (the "Leviathan") and a strong, mobilized society that constrains it. The period 1999–2008 saw a marked expansion of state (especially executive/security) capacity, with mixed effects on society's ability to check it.
+
+## Trends
+
+- **Growth of the surveillance and security apparatus** — A slow-moving institutional buildup (accelerating after 2001) of federal intelligence, data-collection, and law-enforcement capacity. *Strengthened the state* (especially the executive) relative to society.
+
+- **Expansion of executive power ("unitary executive" theory)** — Gradual institutional shift toward concentrating war, detention, and interpretive authority in the presidency via signing statements and DOJ legal opinions. *Strengthened the state*, weakened legislative/judicial checks.
+
+- **Financial deregulation and financialization** — Continued erosion of Depression-era constraints (e.g., Gramm-Leach-Bliley 1999, Commodity Futures Modernization Act 2000, lax oversight of derivatives/mortgages). *Weakened state* regulatory capacity while empowering concentrated private economic elites—a shift within society away from broad-based power.
+
+- **Rising political and media polarization** — Growth of partisan cable/talk media and the early internet reshaped civil discourse. *Ambiguous*: mobilized some segments of society but fragmented the shared norms that sustain effective societal oversight.
+
+- **Growing economic inequality** — Continued concentration of income and wealth at the top. *Weakened broad-based society* relative to elites, undermining the balanced mobilization Acemoğlu and Robinson see as essential.
+
+- **Demographic shifts and immigration growth** — Rising foreign-born and Latino population fueled contested politics over citizenship and belonging. *Ambiguous*: expanded societal constituencies while generating backlash and new state enforcement.
+
+## Events
+
+- **9/11 attacks (2001)** — Discrete shock that legitimized rapid state expansion and public deference to security authority. *Strengthened the state*; temporarily muted societal dissent.
+
+- **USA PATRIOT Act (2001)** — Statutory grant of expanded surveillance, detention, and investigative powers. *Strengthened the state* at society's expense.
+
+- **Creation of the Department of Homeland Security (2002)** — Major bureaucratic consolidation. *Strengthened state* capacity and coercive reach.
+
+- **Authorization and invasion of Iraq (2002–2003)** — Congressional delegation of war powers to the executive. *Strengthened executive state*; later galvanized an antiwar countermobilization in society.
+
+- **Guantánamo detentions, warrantless wiretapping revelations, torture disclosures (Abu Ghraib, 2004)** — Exposed unchecked coercive power, but also triggered pushback. *Strengthened state* in practice, yet *activated society* (press, courts, advocacy groups) as a check.
+
+- **Supreme Court checks on executive detention power** (*Hamdi* and *Rasul*, 2004; *Hamdan*, 2006; *Boumediene*, 2008) — Discrete judicial reassertions of oversight. *Strengthened societal/institutional constraints* on the state.
+
+- **Hurricane Katrina (2005)** — Exposed state incapacity and eroded public confidence in government competence. *Weakened perceived state effectiveness*; spurred civil-society scrutiny.
+
+- **2006 midterm elections** — Partisan turnover in Congress reasserted legislative oversight of the executive. *Strengthened institutional checks* on the state.
+
+- **Global financial crisis and TARP bailout (2007–2008)** — Discrete crisis prompting massive state intervention in markets. *Strengthened state* fiscal/regulatory reach while exposing capture by financial elites—stressing the state–society balance.
+
+---
+
+**Caveat:** Acemoğlu and Robinson stress that the *balance*, not the absolute level, of state and societal power matters. The dominant story of 1999–2008 is executive/security-state expansion with societal checks arriving reactively and unevenly—a period of stress on the "corridor" rather than a decisive exit from it.

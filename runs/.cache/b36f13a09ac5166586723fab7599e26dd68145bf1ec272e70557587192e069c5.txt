@@ -1,0 +1,8 @@
+{
+  "society_power": 8.5,
+  "state_power": 9.7,
+  "key_event": "Pandemic response and political polarization intensify state-society conflict.",
+  "reasoning": "State power increased due to unprecedented pandemic health and economic interventions, expanding its administrative reach. Meanwhile, society's high capacity for mobilization was undermined by deep polarization and disinformation, fracturing its ability to act as a cohesive check on power.",
+  "society_change": -0.4,
+  "state_change": 0.1
+}

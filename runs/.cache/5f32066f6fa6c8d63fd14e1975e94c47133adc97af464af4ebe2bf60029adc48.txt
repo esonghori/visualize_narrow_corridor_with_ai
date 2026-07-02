@@ -1,0 +1,8 @@
+{
+  "society_power": 8.7,
+  "state_power": 8.6,
+  "society_change": 0.2,
+  "state_change": 0.2,
+  "key_event": "Rise of the Labour Movement and Economic Shifts",
+  "reasoning": "The growth of trade unions and economic diversification strengthened both civil society and the state's regulatory role."
+}

@@ -1,0 +1,8 @@
+{
+  "society_power": 4.5,
+  "state_power": 7.0,
+  "society_change": -1.0,
+  "state_change": -1.5,
+  "key_event": "Napoleon's Defeat and Bourbon Restoration",
+  "reasoning": "The defeat of Napoleon and the Bourbon Restoration weakened state power and further atomized civil society."
+}

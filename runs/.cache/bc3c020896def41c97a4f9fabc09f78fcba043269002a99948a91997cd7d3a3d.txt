@@ -1,0 +1,8 @@
+{
+  "society_power": 6.0,
+  "state_power": 7.0,
+  "society_change": 1.0,
+  "state_change": -1.0,
+  "key_event": "July Revolution of 1830 strengthened civil society",
+  "reasoning": "The July Revolution weakened the state's absolute power and bolstered civil society through the rise of the middle class and increased political participation."
+}

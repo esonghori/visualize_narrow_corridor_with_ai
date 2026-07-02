@@ -1,0 +1,8 @@
+{
+  "society_power": 5.5,
+  "state_power": 7.5,
+  "key_event": "Post-civil war liberalization and elite political fusion.",
+  "reasoning": "Society's power surged as elite political organization (the Liberal-Conservative Fusion) and President Pérez's decade of liberalization created a durable check on the executive. While the state proved its coercive strength in the 1859 civil war and expanded infrastructure, its effective power was moderated by this newly empowered and organized civil society.",
+  "society_change": 2.5,
+  "state_change": -0.5
+}

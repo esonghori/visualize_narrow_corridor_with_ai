@@ -1,0 +1,8 @@
+{
+  "society_power": 5.0,
+  "state_power": 7.5,
+  "society_change": -1.0,
+  "state_change": 4.5,
+  "key_event": "Reza Khan's rise and state centralization",
+  "reasoning": "State power increased significantly due to Reza Khan's centralization and military expansion, while civil society weakened as traditional structures declined and modern, state-controlled institutions emerged."
+}

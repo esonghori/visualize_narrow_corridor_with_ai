@@ -1,0 +1,8 @@
+{
+  "society_power": 9.1,
+  "state_power": 8.2,
+  "society_change": -1.4,
+  "state_change": 0.4,
+  "key_event": "9/11 and subsequent state expansion",
+  "reasoning": "Civil society weakened by economic inequality and surveillance, while state power increased due to military expansion and the War on Terror."
+}

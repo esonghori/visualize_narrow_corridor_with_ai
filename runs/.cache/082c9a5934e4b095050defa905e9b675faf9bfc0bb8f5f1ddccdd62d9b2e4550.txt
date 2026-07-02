@@ -1,0 +1,8 @@
+{
+  "society_power": 8.0,
+  "state_power": 8.2,
+  "society_change": 0.5,
+  "state_change": 0.2,
+  "key_event": "Reform Act of 1867",
+  "reasoning": "The Reform Act of 1867 expanded the franchise, strengthening civil society. The Public Health Act of 1868 bolstered state capacity in governance."
+}

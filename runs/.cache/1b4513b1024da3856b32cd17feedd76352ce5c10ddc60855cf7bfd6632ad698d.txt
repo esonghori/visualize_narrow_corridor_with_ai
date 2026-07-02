@@ -1,0 +1,45 @@
+# The Narrow Corridor Framework Applied to the U.S., 1989–1998
+
+In Acemoğlu and Robinson's terms, the U.S. sits inside the "corridor," where the *Shackled Leviathan* depends on a balance—state and society expanding capacity in tandem. Below, items are classified by their effect on that balance.
+
+## Trends
+
+- **End of the Cold War / post-1991 "peace dividend" and defense drawdown** — *Weakened certain state capacities* (military spending fell as a share of GDP, base closures via BRAC), shrinking one core Leviathan function while freeing fiscal room.
+
+- **Rise of the commercial internet and telecommunications deregulation** — *Strengthened society* (new organizing, information, and associational channels) but also *strengthened state and corporate surveillance/regulatory reach*; ambiguous, dual-edged.
+
+- **Financialization and deregulatory momentum** — *Weakened state regulatory capacity* relative to markets; the gradual erosion of Glass-Steagall barriers (culminating just after this window) and expanding private economic power tilted toward market dominance over the state.
+
+- **Mass incarceration expansion** — *Strengthened the coercive/despotic dimension of the state* while *weakening civil society* in heavily policed communities; a slow-building carceral trend accelerating through the decade.
+
+- **Declining union membership and associational "bowling alone" tendencies** — *Weakened traditional civil society* organizations (Putnam's contemporaneous thesis), reducing society's mobilization capacity.
+
+- **Fiscal consolidation toward balanced budgets** — *Ambiguous for the state*; disciplined spending but arguably strengthened long-run state fiscal legitimacy.
+
+- **Growing partisan polarization and rise of conservative talk radio/media** — *Reshaped civil society* toward more adversarial, mobilized-but-fragmented forms.
+
+## Events
+
+- **Collapse of the USSR (1991)** — Removed the external rival justifying much despotic state capacity; *modestly weakened* the national-security state's rationale.
+
+- **Gulf War (1990–91)** — Temporarily *strengthened state* (executive/military mobilization, high presidential legitimacy).
+
+- **Passage of the Americans with Disabilities Act (1990)** — *Strengthened both*: expanded state regulatory reach and civil-society rights claims (a "corridor" co-expansion).
+
+- **1994 midterm "Republican Revolution" / Contract with America** — *Strengthened society's check on the state*; anti-statist legislative agenda constraining federal power.
+
+- **Personal Responsibility and Work Opportunity Act / welfare reform (1996)** — *Weakened the state's redistributive/social-provision arm*, devolving power downward.
+
+- **Oklahoma City bombing (1995)** — Anti-government militia violence; prompted *state security responses* (antiterrorism legislation), a reactive strengthening of coercive capacity.
+
+- **Violent Crime Control and Law Enforcement Act (1994)** — *Strengthened the coercive state* (policing funding, expanded incarceration).
+
+- **Telecommunications Act (1996)** — *Weakened state regulatory control* over media/telecom concentration.
+
+- **Government shutdowns (1995–96)** — Dramatized the state-vs-society/legislature-vs-executive contest; *temporarily paralyzed state function*.
+
+- **Clinton impeachment proceedings (1998)** — *Tested institutional checks*; demonstrated society's/legislature's constraint on executive but also revealed polarization stress on institutions.
+
+---
+
+**Caveat:** Acemoğlu and Robinson do not analyze this specific decade in detail; this is an interpretive application of their state–society balance framework, and reasonable readers might weight (especially the "ambiguous" items) differently.

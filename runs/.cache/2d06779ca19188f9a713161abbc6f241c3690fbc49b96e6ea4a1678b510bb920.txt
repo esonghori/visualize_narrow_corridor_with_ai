@@ -1,0 +1,8 @@
+{
+  "society_power": 3.0,
+  "state_power": 8.5,
+  "key_event": "Death of Mao and Deng Xiaoping's rise to power.",
+  "reasoning": "State power rebounded as the Party rebuilt its bureaucracy after the Cultural Revolution and Deng established a new, more durable basis for legitimacy in economic reform. Society power surged briefly from near-total atomization with the Democracy Wall movement, showing a new capacity for public dissent before being suppressed by the re-consolidated state.",
+  "society_change": 2.5,
+  "state_change": 1.0
+}

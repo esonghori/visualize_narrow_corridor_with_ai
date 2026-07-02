@@ -1,0 +1,8 @@
+{
+  "society_power": 9.4,
+  "state_power": 9.0,
+  "society_change": 0.2,
+  "state_change": 0.5,
+  "key_event": "Extension of Franchise and State Expansions",
+  "reasoning": "The Representation of the People Act 1918 and economic/social reforms strengthened civil society, while World War I expanded state power."
+}

@@ -1,0 +1,8 @@
+{
+  "society_power": 8.5,
+  "state_power": 8.4,
+  "society_change": 0.5,
+  "state_change": 0.2,
+  "key_event": "Reform Act 1867, Trade Union Act 1871",
+  "reasoning": "The Reform Act 1867 and Trade Union Act 1871 significantly bolstered civil society by expanding the franchise and legalizing trade unions, while the state's power modestly increased through improved public health and education systems."
+}

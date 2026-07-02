@@ -1,0 +1,8 @@
+{
+  "society_power": 7.5,
+  "state_power": 1.5,
+  "key_event": "The 1979 Islamic Revolution overthrows the Shah's monarchy.",
+  "reasoning": "A massive societal mobilization, organized through independent clerical, bazaar, and student networks, completely shattered the Shah's seemingly overwhelming petro-state, which suffered a catastrophic loss of legitimacy and coercive control, culminating in total collapse.",
+  "society_change": 6.0,
+  "state_change": -7.3
+}

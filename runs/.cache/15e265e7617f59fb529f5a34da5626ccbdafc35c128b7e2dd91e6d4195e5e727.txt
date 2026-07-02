@@ -1,0 +1,8 @@
+{
+  "society_power": 7.5,
+  "state_power": 7.5,
+  "society_change": 0.5,
+  "state_change": 0.5,
+  "key_event": "Formation of CGT, Dreyfus Affair",
+  "reasoning": "The formation of the CGT and the Dreyfus Affair strengthened civil society by galvanizing labor movements and public debate, while state power was bolstered by industrial growth, educational reforms, and military conscription."
+}

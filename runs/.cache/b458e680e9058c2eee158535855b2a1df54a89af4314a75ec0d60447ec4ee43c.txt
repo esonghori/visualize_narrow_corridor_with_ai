@@ -1,0 +1,8 @@
+{
+  "society_power": 4.9,
+  "state_power": 8.5,
+  "society_change": 1.1,
+  "state_change": 0.3,
+  "key_event": "Economic growth, middle class rise, and internet expansion",
+  "reasoning": "Economic growth and the rise of the middle class bolstered civil society through increased demands for transparency and accountability. The state's power saw marginal growth due to enhanced economic resources and global stature, but it also faced new challenges in managing social and environmental issues."
+}

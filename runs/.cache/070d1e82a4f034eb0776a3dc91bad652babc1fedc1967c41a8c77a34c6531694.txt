@@ -1,0 +1,8 @@
+{
+  "society_power": 7.0,
+  "state_power": 6.5,
+  "key_event": "Constitutional reforms empowering Congress and limiting the President.",
+  "reasoning": "Society's power grew significantly as constitutional reforms empowered the legislature and organized liberal parties took control of government. State power decreased as these same reforms intentionally weakened the executive, a trend compounded by a severe economic crisis that slashed state revenues.",
+  "society_change": 1.5,
+  "state_change": -1.0
+}

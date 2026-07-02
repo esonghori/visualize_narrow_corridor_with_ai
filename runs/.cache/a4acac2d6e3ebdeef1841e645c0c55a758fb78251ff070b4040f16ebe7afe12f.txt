@@ -1,0 +1,8 @@
+{
+  "society_power": 4.0,
+  "state_power": 8.5,
+  "key_event": "The 2009 Green Movement protests are crushed by the state.",
+  "reasoning": "The state's power grew immensely with the rise of the IRGC, oil wealth, and the consolidation of hardline control, culminating in the brutal suppression of the massive 2009 Green Movement. While the protests revealed society's mobilization capacity, their violent defeat left civil society atomized and repressed.",
+  "society_change": -1.5,
+  "state_change": 1.3
+}

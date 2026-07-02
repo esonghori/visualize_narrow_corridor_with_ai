@@ -1,0 +1,8 @@
+{
+  "society_power": 8.5,
+  "state_power": 8.8,
+  "key_event": "Repeal of the Corn Laws shows organized society's influence.",
+  "reasoning": "Society's power surged as mass organizations like the Anti-Corn Law League successfully forced major policy change, a new peak of influence. The state also grew stronger through Peel's fiscal reforms (income tax), but its catastrophic failure during the Irish Famine revealed severe limitations on its effective administrative capacity.",
+  "society_change": 0.6,
+  "state_change": 0.1
+}

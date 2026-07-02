@@ -1,0 +1,8 @@
+{
+  "society_power": 3.0,
+  "state_power": 6.0,
+  "society_change": -1.5,
+  "state_change": 1.5,
+  "key_event": "1835 Chilean Civil War and conservative consolidation",
+  "reasoning": "The state strengthened through centralization and military professionalism, while civil society weakened due to elite dominance and suppression of opposition."
+}

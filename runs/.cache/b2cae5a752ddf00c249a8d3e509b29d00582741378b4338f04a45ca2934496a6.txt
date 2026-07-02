@@ -1,0 +1,8 @@
+{
+  "society_power": 9.0,
+  "state_power": 7.2,
+  "key_event": "State-society clashes over pensions, social order, and the EU.",
+  "reasoning": "Society demonstrated immense power to check the state's agenda in the 2002 election and the 2005 EU referendum, but its organized elements failed to stop major pension reforms. The state proved its capacity to push through unpopular policy and assert coercive control during the 2005 riots, even as it ceded some sovereignty to the EU.",
+  "society_change": -0.3,
+  "state_change": 0.7
+}

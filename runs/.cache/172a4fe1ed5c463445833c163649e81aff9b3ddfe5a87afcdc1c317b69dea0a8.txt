@@ -1,0 +1,8 @@
+{
+  "society_power": 7.2,
+  "state_power": 8.8,
+  "society_change": 0.2,
+  "state_change": 0.3,
+  "key_event": "Industrialization, labor movement, regulatory reforms",
+  "reasoning": "Industrialization and labor movements strengthened civil society, while regulatory reforms bolstered state power."
+}

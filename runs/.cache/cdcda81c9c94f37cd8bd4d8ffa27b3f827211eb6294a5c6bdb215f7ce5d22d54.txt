@@ -1,0 +1,8 @@
+{
+  "society_power": 3.5,
+  "state_power": 7.0,
+  "society_change": 1.0,
+  "state_change": -1.0,
+  "key_event": "Death of Mao and Deng's return",
+  "reasoning": "The death of Mao and Deng's return weakened state control while gradually increasing societal autonomy through economic reforms and educational expansion."
+}

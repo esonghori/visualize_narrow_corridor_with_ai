@@ -1,0 +1,8 @@
+{
+  "society_power": 4.5,
+  "state_power": 8.5,
+  "society_change": -1.0,
+  "state_change": 1.0,
+  "key_event": "Reza Shah's centralization and modernization",
+  "reasoning": "Reza Shah's reforms strengthened state control and modernization, but suppressed civil society and traditional institutions."
+}

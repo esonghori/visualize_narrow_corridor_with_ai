@@ -1,0 +1,8 @@
+{
+  "society_power": 5.5,
+  "state_power": 1.0,
+  "key_event": "Xinhai Revolution and collapse into the Warlord Era.",
+  "reasoning": "The 1911 revolution shattered the central state, leading to the Warlord Era and near-zero state capacity. Meanwhile, new urban classes and nationalist sentiment fueled societal organization and mobilization, as demonstrated by the powerful May Fourth Movement.",
+  "society_change": 1.5,
+  "state_change": -0.5
+}

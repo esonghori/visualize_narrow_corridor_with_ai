@@ -1,0 +1,31 @@
+A caveat first: I can only speak with confidence about roughly 2019 through mid-2025 (my knowledge cutoff); anything in 2026–2028 I cannot reliably report, so I've limited myself to what actually happened and flagged genuine uncertainty rather than inventing events.
+
+In Acemoğlu–Robinson terms, "state" capacity means the coercive/administrative reach of the Leviathan, while "society" means the organized capacity of citizens to monitor and constrain it. Here is my honest attempt.
+
+**Trends:**
+
+- **Post-Brexit repatriation of powers (2020 onward):** Withdrawal from the EU shifted regulatory, trade, and legal authority from Brussels back to Westminster/Whitehall. This concentrated power in the central state and removed an external check, but also weakened one supranational constraint on both state and society. Net: strengthened the central state.
+
+- **Erosion of judicial and constitutional checks:** A slow-moving push to limit judicial review (Judicial Review and Courts Act 2022), reform the Human Rights Act, and repeated executive frustration with courts weakened a key society-side check on the Leviathan. Strengthened state / weakened society's leverage.
+
+- **Devolution tensions:** Persistent friction between Westminster and Scotland/Wales/Northern Ireland (Internal Market Act 2020, Supreme Court ruling against a unilateral Scottish referendum in 2022) recentralized authority. Strengthened central state, arguably weakened sub-national society/institutions.
+
+- **Fiscal strain and austerity-in-effect:** Chronic underfunding of local government, courts, and public services after COVID and the inflation shock hollowed out administrative state *capacity* even as central *authority* grew — a divergence between the state's ambitions and its effective reach.
+
+- **Declining trust and civic institutions:** Continued erosion of trust in politics (partly a demographic/media trend), decline of legacy press and rise of fragmented social media, which cut both ways — mobilizing society at moments but weakening its sustained, organized capacity.
+
+**Events:**
+
+- **COVID-19 pandemic (2020–21):** Massive emergency expansion of state power (lockdowns, Coronavirus Act, furlough/economic intervention). Dramatically strengthened the state; society largely acquiesced, though later scrutiny (the COVID Inquiry) reasserted accountability.
+
+- **Public order legislation (Police, Crime, Sentencing and Courts Act 2022; Public Order Act 2023):** Expanded powers to restrict protest. Clearly strengthened the state's coercive hand and constrained a core mode of societal mobilization.
+
+- **"Partygate" and accountability episodes (2022):** Revelations of lockdown-breaking, resulting resignations, and eventually Boris Johnson's departure — a case of society/institutions (press, Parliament, Privileges Committee) reasserting a check. Strengthened society's accountability capacity.
+
+- **The Truss mini-budget crisis (Sept–Oct 2022):** Market reaction forced a rapid reversal and the PM's resignation — a non-state check (financial markets) disciplining the executive, ambiguous for "society" proper.
+
+- **Elections and government turnover (2019 Conservative majority; July 2024 Labour landslide):** Peaceful, decisive alternations of power — evidence of a functioning corridor where society periodically reshapes the state through the ballot.
+
+- **Illegal Migration Act / Rwanda scheme litigation (2023):** Clash between executive policy and the courts (UK Supreme Court ruling the scheme unlawful, Nov 2023) — a live contest between state ambition and judicial/societal constraint.
+
+**Interpretive note:** The dominant story in 2019–2025 is a state gaining formal authority (Brexit repatriation, emergency powers, protest and judicial-review restrictions) while its *effective capacity* was strained by fiscal and administrative weakness — with society's checks (courts, press, elections, markets) still functioning but under pressure. In A&R's terms, the UK stayed within the corridor but experienced friction pulling toward a more "Despotic Leviathan" direction. For 2026–2028 specifically, I'd rather not speculate; if you're researching that period you should verify against current sources.

@@ -1,0 +1,21 @@
+Trends:
+- **Retreat of Reconstruction in the South, 1869-1878:** federal willingness to enforce Black civil and voting rights declined; **weakened the national state** in the South and **weakened Black civil society**.
+- **“Redemption” by white Democratic elites and paramilitary groups:** Ku Klux Klan, White League, Red Shirts, and similar forces used violence and intimidation to regain southern state governments; **strengthened white local civil society/party power**, **weakened Black civil society** and federal authority.
+- **Expansion of railroads, corporations, and national markets:** especially after the transcontinental railroad’s completion in 1869; **strengthened economic elites and organized private power**, while also increasing demands for state regulation.
+- **Growth of labor organization and class conflict:** Knights of Labor founded in 1869; depression after 1873 spurred strikes and worker mobilization; **strengthened working-class civil society**, but also prompted coercive state responses.
+- **Westward expansion and reservation policy:** federal military campaigns and settler expansion against Native nations; **strengthened the coercive state and settler society**, **weakened Native polities and civil society**.
+- **Spoils politics and corruption in the Grant era:** scandals such as Crédit Mobilier, the Whiskey Ring, and Indian Ring reduced trust in government; **weakened state legitimacy and administrative autonomy**.
+
+Events:
+- **1869 — Completion of the First Transcontinental Railroad:** tied national markets together and expanded federal-backed infrastructure; **strengthened state-building and corporate power**.
+- **1870 — Fifteenth Amendment ratified:** constitutionally protected voting rights regardless of race; **strengthened federal authority** and **Black political civil society**.
+- **1870 — Department of Justice created:** gave the federal government a permanent legal enforcement arm; **strengthened state capacity**.
+- **1870-1871 — Enforcement Acts and Ku Klux Klan Act:** authorized federal action against voter intimidation and conspiracies; **strengthened the national state** and **protected Black civil society**, though unevenly.
+- **1872 — Amnesty Act and winding down of Freedmen’s Bureau protections:** restored rights to many ex-Confederates and reduced federal intervention; **strengthened former Confederate elites**, **weakened Black citizens’ protection**.
+- **1873 — Panic of 1873:** triggered a long depression; **weakened state legitimacy**, intensified social conflict, and **strengthened labor mobilization**.
+- **1873 — Slaughter-House Cases:** Supreme Court narrowed the Fourteenth Amendment’s Privileges or Immunities Clause; **weakened federal civil-rights enforcement power**.
+- **1875 — Civil Rights Act:** banned racial discrimination in public accommodations, but enforcement was weak; formally **strengthened federal rights claims**, practically only modestly **strengthened Black civil society**.
+- **1876 — United States v. Cruikshank:** limited federal power to prosecute private racial violence; **weakened the national state** and **Black civil society**, strengthened local white supremacist power.
+- **1877 — Compromise of 1877 / withdrawal of federal troops from the South:** effectively ended Reconstruction; **weakened federal power in the South** and **Black political society**, strengthened “Redeemer” state governments.
+- **1877 — Great Railroad Strike:** nationwide labor uprising met with state militias and federal troops; **strengthened labor civil society temporarily**, but also displayed and reinforced **coercive state power**.
+- **1878 — Posse Comitatus Act:** restricted use of the U.S. Army in domestic law enforcement; **weakened federal coercive capacity inside states**, especially relevant after Reconstruction.

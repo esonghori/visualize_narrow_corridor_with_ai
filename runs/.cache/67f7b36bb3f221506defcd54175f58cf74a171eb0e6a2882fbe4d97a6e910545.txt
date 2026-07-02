@@ -1,0 +1,8 @@
+{
+  "society_power": 9.9,
+  "state_power": 10.0,
+  "key_event": "Rise of New Liberalism and the Labour Party.",
+  "reasoning": "The state reached overwhelming capacity through the Boer War mobilization and the creation of the welfare state with the Pensions Act. Society matched this power, institutionalizing itself through the new Labour Party and demonstrating its ability to shackle the state by reversing the Taff Vale decision.",
+  "society_change": 0.1,
+  "state_change": 0.1
+}

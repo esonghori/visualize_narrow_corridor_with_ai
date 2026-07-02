@@ -1,0 +1,8 @@
+{
+  "society_power": 3.0,
+  "state_power": 7.5,
+  "key_event": "The 1953 coup overthrew Mosaddegh, restoring the Shah's power.",
+  "reasoning": "An initial surge in societal power was decisively crushed by the 1953 coup, which re-established monarchical authority. The Shah's regime then used oil revenues and the new SAVAK secret police to systematically dismantle civil society while building a strong, coercive state apparatus.",
+  "society_change": -3.0,
+  "state_change": 2.0
+}

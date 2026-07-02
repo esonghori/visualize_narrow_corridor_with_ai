@@ -1,0 +1,19 @@
+Based on Acemoğlu and Robinson's framework, here are the major historical trends and events in Chile from 1868-1877 that affected the power of the state and civil society.
+
+### Trends:
+
+*   **Secularization of State and Public Life:** A sustained political effort by Liberal and Radical parties sought to reduce the Catholic Church's institutional power. This included debates over, and eventual reforms to, clerical immunity from civil courts (*fuero eclesiástico*) and the establishment of state-run cemeteries.
+    *   **Effect:** **Strengthened the state** by asserting its sovereignty over legal and social domains previously controlled by the Church. It also **weakened a major pillar of traditional society** (the Church) while empowering a new, mobilized segment of society (liberal political clubs).
+*   **Expansion of State-Led Infrastructure:** The Chilean state continued its significant investment in railway and telegraph line construction, particularly extending the network south from Santiago.
+    *   **Effect:** **Strengthened the state** by increasing its administrative capacity, ability to project military power, and power to integrate the national economy and collect revenue more effectively.
+*   **Rise of an Export-Oriented Oligarchy:** The growth of mining (copper, silver) and wheat exports created a wealthy and increasingly powerful class of landowners and entrepreneurs who were politically active and organized.
+    *   **Effect:** **Strengthened a specific, powerful segment of society**. This elite had the resources to influence Congress, fund political parties, and resist state actions that ran counter to their economic interests, acting as a potent check on executive power.
+
+### Events:
+
+*   **The Constitutional Reforms of 1871-1874:** A series of major constitutional amendments were passed by Congress. The most significant of these prohibited the immediate re-election of the president, increased congressional oversight of the cabinet, and reduced the executive's emergency powers.
+    *   **Effect:** **Weakened the executive branch of the state** while simultaneously **strengthening society's power as channeled through its elected legislature**. This was a deliberate effort to "shackle the Leviathan" by making the presidency more accountable to Congress.
+*   **The Election of Federico Errázuriz Zañartu (1871):** Errázuriz, leading a fusion of Liberal and Radical parties, won a highly contested election that marked a definitive shift away from the more conservative "pelucón" tradition and toward an agenda of aggressive liberal reform.
+    *   **Effect:** **Strengthened a mobilized, organized segment of society** (the liberal political parties and clubs) by giving them control of the state apparatus to enact their program, demonstrating society's ability to direct the state.
+*   **The Onset of the Economic Crisis of 1875-1876:** A global economic downturn caused a sharp drop in the prices of Chile's main exports (copper, wheat) and a contraction of foreign credit.
+    *   **Effect:** **Weakened the state** by drastically reducing its customs duties, its primary source of revenue. This financial shock constrained its capacity to govern, fund projects, and maintain social order, revealing its dependency on the international economy.

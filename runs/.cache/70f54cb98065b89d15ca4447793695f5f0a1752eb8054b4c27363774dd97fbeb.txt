@@ -1,0 +1,8 @@
+{
+  "society_power": 7.4,
+  "state_power": 8.5,
+  "society_change": 0.8,
+  "state_change": -1.2,
+  "key_event": "Brexit referendum and ensuing political uncertainty",
+  "reasoning": "Brexit negotiations weakened state authority while strengthening civil society movements and political fragmentation."
+}

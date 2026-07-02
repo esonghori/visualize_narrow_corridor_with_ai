@@ -1,0 +1,8 @@
+{
+  "society_power": 8.9,
+  "state_power": 8.8,
+  "society_change": 0.1,
+  "state_change": -1.0,
+  "key_event": "1963 Profumo Affair and 1964 Labour victory",
+  "reasoning": "Economic growth and technological advancements strengthened civil society, while political scandals and devaluation weakened state power."
+}

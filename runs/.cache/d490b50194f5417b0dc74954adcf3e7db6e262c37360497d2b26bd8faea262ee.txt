@@ -1,0 +1,8 @@
+{
+  "society_power": 2.5,
+  "state_power": 4.5,
+  "society_change": 0.0,
+  "state_change": 0.0,
+  "key_event": "Qajar rule, limited central authority, tribal confederacies",
+  "reasoning": "Civil society was atomized, with limited associational life. The state had weak power, with control often delegated to local powerbrokers and tribal leaders."
+}

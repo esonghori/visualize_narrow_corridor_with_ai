@@ -1,0 +1,8 @@
+{
+  "society_power": 6.5,
+  "state_power": 7.8,
+  "society_change": 0.5,
+  "state_change": 0.3,
+  "key_event": "Industrialization and political reform movements",
+  "reasoning": "Industrialization and political reform movements strengthened civil society, while the state's regulatory and economic roles expanded."
+}

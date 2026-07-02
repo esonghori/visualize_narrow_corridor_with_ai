@@ -1,0 +1,8 @@
+{
+  "society_power": 8.8,
+  "state_power": 7.3,
+  "society_change": 0.8,
+  "state_change": -1.4,
+  "key_event": "2019 Chilean Protests (Estallido Social)",
+  "reasoning": "The 2019 protests significantly strengthened civil society's mobilization and weakened state authority, leading to widespread demands for reform."
+}

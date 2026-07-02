@@ -1,0 +1,8 @@
+{
+  "society_power": 6.0,
+  "state_power": 3.5,
+  "key_event": "Establishment of federal government under the new Constitution.",
+  "reasoning": "The new federal government was weak, with limited administrative reach and contested authority (e.g., the Whiskey Rebellion), but a major step up from the Articles of Confederation. Civil society was vibrant, with a partisan press and new political clubs emerging from revolutionary fervor to actively debate and challenge the new state.",
+  "society_change": 0.0,
+  "state_change": 0.0
+}

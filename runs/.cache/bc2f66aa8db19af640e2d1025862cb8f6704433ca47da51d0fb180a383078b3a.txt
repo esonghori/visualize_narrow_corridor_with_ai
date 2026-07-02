@@ -1,0 +1,8 @@
+{
+  "society_power": 5.5,
+  "state_power": 3.5,
+  "society_change": 1.7,
+  "state_change": -1.5,
+  "key_event": "Constitutional Revolution (1905-1911)",
+  "reasoning": "The Constitutional Revolution significantly strengthened civil society and weakened state power by establishing a constitution and parliament, despite foreign interference."
+}

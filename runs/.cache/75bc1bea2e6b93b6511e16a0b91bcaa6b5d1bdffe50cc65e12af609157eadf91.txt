@@ -1,0 +1,8 @@
+{
+  "society_power": 9.0,
+  "state_power": 7.2,
+  "key_event": "Mitterrand's election triggers state decentralization and societal backlash.",
+  "reasoning": "Mitterrand's election led to a tug-of-war; state power, expanded by nationalizations, was checked by decentralization and cohabitation. Society proved its dominance by electing the Socialists and then forcing their government to retreat on a major school reform bill.",
+  "society_change": 0.2,
+  "state_change": -0.6
+}

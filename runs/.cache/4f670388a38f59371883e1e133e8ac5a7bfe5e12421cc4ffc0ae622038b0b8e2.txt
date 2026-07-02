@@ -1,0 +1,19 @@
+Based on Acemoğlu and Robinson's framework, here are major trends and events in the UK from 2019-2028 affecting the balance of power between the state and civil society.
+
+### Trends:
+
+*   **Post-Brexit State Building and Regulatory Divergence:** The slow, ongoing process of replacing EU laws and institutions with domestic UK ones. This involves creating new regulatory bodies, trade policies, and legal frameworks from scratch.
+    *   **Effect:** **Strengthens the state** by expanding its administrative capacity and repatriating legal sovereignty, removing an external check on its power.
+*   **Erosion of Institutional Trust and Political Polarization:** A steady decline in public trust in key institutions like Parliament, the police, and the media, coupled with deepening social divisions over issues like Brexit, cultural values, and national identity.
+    *   **Effect:** **Weakens both.** It weakens society’s ability to mobilize cohesively while also weakening the state by eroding its legitimacy and the public's consent to be governed.
+*   **Constitutional Friction and Devolution:** Persistent tension between the central UK government and devolved administrations, particularly Scotland over independence and Northern Ireland regarding post-Brexit arrangements.
+    *   **Effect:** **Weakens the central state** by challenging its authority and territorial integrity, while simultaneously **strengthening society's power** at a sub-national level as regional identities and political movements mobilize against the center.
+
+### Events:
+
+*   **The COVID-19 Pandemic Response (2020-2022):** The government's use of emergency legislation (the Coronavirus Act 2020) to impose lockdowns, mandate behaviours, and surveil the population, representing the largest expansion of state power over daily life since WWII.
+    *   **Effect:** Massively **strengthened the state** by granting it unprecedented coercive powers, while **weakening society** by severely restricting freedoms of assembly, movement, and association.
+*   **Legislative Crackdown on Protest and Dissent (2022-2023):** The passage of specific laws—notably the Police, Crime, Sentencing and Courts Act 2022 and the Public Order Act 2023—that grant police new powers to restrict protests deemed disruptive and increase penalties for activists.
+    *   **Effect:** **Strengthens the state** by giving it more legal tools to control dissent, directly **weakening society's** ability to hold power to account through public demonstration.
+*   **The "Mini-Budget" and Market-Forced Policy Reversal (Sept-Oct 2022):** The Truss government announced a radical, unfunded tax-cutting budget, triggering a rapid and severe negative reaction from financial markets, which in turn forced a complete policy U-turn and the Prime Minister's resignation.
+    *   **Effect:** A clear demonstration of society's power checking the state. It **weakened the state** (specifically, the executive's capacity for autonomous action) and showed that powerful, non-governmental actors within **society** (financial markets, institutional investors) could effectively veto government policy.

@@ -1,0 +1,8 @@
+{
+  "society_power": 7.7,
+  "state_power": 9.6,
+  "society_change": 0.2,
+  "state_change": 0.2,
+  "key_event": "Civil Rights Movement and Cold War",
+  "reasoning": "The Civil Rights Movement strengthened civil society through social activism, while the Cold War heightened national security, expanding state power."
+}

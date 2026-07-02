@@ -1,0 +1,8 @@
+{
+  "society_power": 7.3,
+  "state_power": 7.2,
+  "society_change": 0.2,
+  "state_change": 0.2,
+  "key_event": "Rise of Jacksonian Democracy",
+  "reasoning": "Jacksonian democracy expanded political participation, strengthening civil society, while centralizing executive power, enhancing state authority."
+}

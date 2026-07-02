@@ -1,0 +1,8 @@
+{
+  "society_power": 6.2,
+  "state_power": 3.0,
+  "key_event": "Tobacco Protest forces the Shah to cancel foreign concession.",
+  "reasoning": "The successful, nationwide Tobacco Protest proved society's growing ability to organize and coerce the state, representing a significant power increase. The Qajar state, weakened by this defeat, growing foreign debt, and the Shah's assassination, saw its limited authority further decline.",
+  "society_change": 1.2,
+  "state_change": -0.5
+}

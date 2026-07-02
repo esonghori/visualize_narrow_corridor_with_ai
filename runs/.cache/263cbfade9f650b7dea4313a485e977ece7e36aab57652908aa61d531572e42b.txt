@@ -1,0 +1,8 @@
+{
+  "society_power": 6.0,
+  "state_power": 7.5,
+  "society_change": 0.5,
+  "state_change": -1.5,
+  "key_event": "Economic Modernization and Industrial Growth",
+  "reasoning": "Economic growth and urbanization strengthened civil society while the failure in Mexico weakened state power."
+}

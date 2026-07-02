@@ -1,0 +1,8 @@
+{
+  "society_power": 7.5,
+  "state_power": 6.0,
+  "society_change": 1.5,
+  "state_change": -1.0,
+  "key_event": "February Revolution and 1848 Constitution",
+  "reasoning": "The February Revolution and 1848 Constitution strengthened civil society through democratization, while the state's absolute power was reduced."
+}

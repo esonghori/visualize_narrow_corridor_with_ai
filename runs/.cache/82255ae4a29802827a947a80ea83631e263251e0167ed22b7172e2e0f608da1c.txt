@@ -1,0 +1,8 @@
+{
+  "society_power": 9.0,
+  "state_power": 9.6,
+  "key_event": "Rise of the permanent national security state.",
+  "reasoning": "State power, while slightly down from its WWII peak, was institutionalized at an extremely high level by the Cold War and massive infrastructure projects. Society's power grew with peak organized labor and the empowerment of the Civil Rights movement, proving capable of checking the state's worst overreaches (McCarthyism).",
+  "society_change": 0.2,
+  "state_change": -0.2
+}

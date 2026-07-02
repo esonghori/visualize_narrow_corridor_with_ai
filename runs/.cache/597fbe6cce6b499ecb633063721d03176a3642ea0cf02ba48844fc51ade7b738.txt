@@ -1,0 +1,8 @@
+{
+  "society_power": 8.8,
+  "state_power": 9.0,
+  "society_change": -1.2,
+  "state_change": -1.5,
+  "key_event": "Decolonization and Suez Crisis",
+  "reasoning": "Decolonization and the Suez Crisis weakened state power, while civil society remained robust but slightly diminished."
+}

@@ -1,0 +1,8 @@
+{
+  "society_power": 4.5,
+  "state_power": 8.0,
+  "society_change": 0.5,
+  "state_change": -1.5,
+  "key_event": "Pro-democracy protests and 1982 financial crisis",
+  "reasoning": "Protests strengthened civil society, while the financial crisis weakened state legitimacy."
+}

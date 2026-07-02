@@ -1,0 +1,8 @@
+{
+  "society_power": 7.5,
+  "state_power": 5.8,
+  "key_event": "War of 1812 exposes state weakness, prompting nationalist strengthening.",
+  "reasoning": "Society continued to strengthen through westward expansion and economic diversification. The state, after its near-failure in the War of 1812, was deliberately empowered with a new national bank, tariffs, and a stronger military, marking a significant increase in its capacity.",
+  "society_change": 0.3,
+  "state_change": 1.3
+}

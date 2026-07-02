@@ -1,0 +1,8 @@
+{
+  "society_power": 1.5,
+  "state_power": 7.8,
+  "key_event": "Reza Shah's state-building project systematically crushes societal rivals.",
+  "reasoning": "Reza Shah's regime systematically built a centralized state with a modern army, bureaucracy, and infrastructure, dramatically increasing its coercive and administrative capacity. Simultaneously, it brutally suppressed all independent sources of societal power, including the clergy and nomadic tribes, atomizing society and making resistance nearly impossible.",
+  "society_change": -1.5,
+  "state_change": 2.3
+}

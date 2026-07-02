@@ -1,0 +1,8 @@
+{
+  "society_power": 9.0,
+  "state_power": 7.2,
+  "key_event": "The Compromise of 1877 and the end of Reconstruction.",
+  "reasoning": "The federal state's power significantly receded as it abandoned Reconstruction, bowing to judicial constraints and the successful, violent mobilization of white Southern society. While new corporate and labor forces emerged, the total power of society was slightly fractured by the violent suppression of Black civil rights, even as other segments proved their ability to overwhelm the state.",
+  "society_change": -0.3,
+  "state_change": -1.0
+}

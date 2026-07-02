@@ -1,0 +1,8 @@
+{
+  "society_power": 9.8,
+  "state_power": 9.9,
+  "key_event": "Rise of 'New Unionism' and independent labor politics.",
+  "reasoning": "Both state and society power grew in parallel. The state expanded its administrative and military capacity through collectivist policies and naval buildup, while society organized on an unprecedented scale with 'New Unionism' and the founding of the Independent Labour Party.",
+  "society_change": 0.1,
+  "state_change": 0.1
+}

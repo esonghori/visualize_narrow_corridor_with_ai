@@ -1,0 +1,8 @@
+{
+  "society_power": 8.8,
+  "state_power": 8.2,
+  "key_event": "Popular Front's victory and the Matignon Accords.",
+  "reasoning": "Civil society, radicalized by the Depression, reached a peak of mobilization with both far-right leagues and massive union strikes, demonstrating its power to challenge and capture the state. The Popular Front government, in response to this pressure, then dramatically expanded the state's administrative power over the economy through the Matignon Accords, strengthening its capacity.",
+  "society_change": 0.8,
+  "state_change": 0.2
+}

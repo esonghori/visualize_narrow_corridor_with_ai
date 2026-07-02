@@ -1,0 +1,8 @@
+{
+  "society_power": 7.5,
+  "state_power": 6.0,
+  "key_event": "Rise of organized labor confronts paralyzed oligarchic state.",
+  "reasoning": "Society's power grew significantly with the founding of national labor unions (FOCH), creating new institutions for mass mobilization. Simultaneously, the state's power declined as the Parliamentary Republic's gridlock and the fiscal shock of World War I revealed its incapacity for decisive action and extreme vulnerability.",
+  "society_change": 1.0,
+  "state_change": -1.0
+}

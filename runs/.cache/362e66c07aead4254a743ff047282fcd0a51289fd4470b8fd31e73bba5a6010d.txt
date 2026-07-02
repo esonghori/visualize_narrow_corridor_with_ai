@@ -1,0 +1,23 @@
+Based on the framework of Acemoğlu and Robinson, here are the major trends and events in the UK from 1849-1858 that affected the balance of power between the state and civil society.
+
+### Trends:
+
+*   **Professionalization of the State Bureaucracy:** Driven by critiques of aristocratic patronage and incompetence (especially during the Crimean War), there was a growing movement to create a meritocratic civil service. This trend culminated in the 1854 Northcote-Trevelyan Report, which laid the groundwork for a more capable and rationalized state apparatus.
+    *   **Effect:** Strengthened the state by increasing its administrative capacity and efficiency, a key component of a "Shackled Leviathan."
+
+*   **Expansion of Free Trade and Consolidation of Fiscal Policy:** The final repeal of the Navigation Acts (1849, 1854) and Gladstone's landmark 1853 budget institutionalized free trade. This involved the state actively dismantling old economic controls in favor of a new, predictable fiscal system based on income tax and low tariffs.
+    *   **Effect:** Strengthened both. It enhanced the state's ability to raise revenue efficiently while empowering industrial and commercial groups within society, who in turn demanded a competent, non-arbitrary state to protect trade.
+
+*   **Growth of an Organized Public Sphere:** The rise of "New Model Unions" like the Amalgamated Society of Engineers (1851) created more stable, national organizations for skilled workers. Simultaneously, the abolition of the Stamp Act (1855) and Advertisement Duty (1853)—key "taxes on knowledge"—made newspapers cheaper and more widespread, fueling a more powerful and critical press.
+    *   **Effect:** Strengthened society by improving its organizational capacity and its ability to monitor, critique, and influence the state.
+
+### Events:
+
+*   **The Great Exhibition of 1851:** This event, housed in the Crystal Palace, was a monumental display of Britain's industrial and commercial prowess. It was a joint project between the state (under Prince Albert's patronage) and the titans of civil society (engineers, manufacturers, designers).
+    *   **Effect:** Strengthened both by celebrating and reinforcing the symbiotic relationship between a capable, liberal state and a dynamic, innovative society, showcasing the success of the "Narrow Corridor."
+
+*   **The Crimean War (1853-1856):** The war was a massive exercise of state power, but logistical and administrative failures led to military disasters and immense suffering, famously reported to the public by journalists like William Howard Russell of *The Times*. The public outcry toppled the government and created immense pressure for reform.
+    *   **Effect:** The state's failures, and society's powerful reaction via the press, ultimately strengthened society's power to hold the state accountable, directly fueling the trend towards professionalization and reform (see Northcote-Trevelyan).
+
+*   **The Indian Rebellion of 1857 and the Government of India Act 1858:** The rebellion led to the dissolution of the British East India Company—a quasi-private entity that had governed India—and the imposition of direct rule by the British Crown.
+    *   **Effect:** Massively strengthened the state by replacing a corporate entity with direct, centralized, and bureaucratic imperial control, vastly expanding the formal administrative reach of the British Leviathan.

@@ -1,0 +1,8 @@
+{
+  "society_power": 8.9,
+  "state_power": 8.5,
+  "society_change": -1.5,
+  "state_change": -1.5,
+  "key_event": "General Strike of 1926",
+  "reasoning": "The General Strike of 1926 demonstrated the power of labor unions, strengthening civil society, while economic instability and political polarization weakened the state's control."
+}

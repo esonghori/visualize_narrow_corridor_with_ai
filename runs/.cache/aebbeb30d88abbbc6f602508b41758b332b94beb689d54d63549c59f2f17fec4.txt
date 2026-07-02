@@ -1,0 +1,8 @@
+{
+  "society_power": 7.2,
+  "state_power": 6.8,
+  "society_change": 0.2,
+  "state_change": 0.3,
+  "key_event": "War of 1812 and early industrialization",
+  "reasoning": "The War of 1812 strengthened national identity and state capacity, while early industrialization bolstered civil society through economic growth and new associations."
+}

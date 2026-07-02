@@ -1,0 +1,8 @@
+{
+  "society_power": 2.5,
+  "state_power": 2.8,
+  "key_event": "Humiliating defeat in the First Sino-Japanese War.",
+  "reasoning": "The Qing state's power crumbled after its shocking defeat by Japan, which destroyed its legitimacy and accelerated the decentralization of military power to regional commanders. This failure catalyzed the growth of reformist and revolutionary societies, increasing society's organizational capacity and willingness to challenge the dynasty.",
+  "society_change": 1.0,
+  "state_change": -1.2
+}

@@ -1,0 +1,8 @@
+{
+  "society_power": 3.5,
+  "state_power": 5.0,
+  "society_change": 0.7,
+  "state_change": 0.5,
+  "key_event": "Qing Reforms and Nationalism",
+  "reasoning": "Educational and constitutional reforms, along with rising nationalism, bolstered civil society, while state power saw limited gains despite modernization efforts."
+}

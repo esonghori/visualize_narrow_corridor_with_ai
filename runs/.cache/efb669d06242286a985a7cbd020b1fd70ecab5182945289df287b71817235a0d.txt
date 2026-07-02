@@ -1,0 +1,8 @@
+{
+  "society_power": 7.5,
+  "state_power": 9.8,
+  "society_change": 0.5,
+  "state_change": 0.3,
+  "key_event": "World War II and New Deal policies",
+  "reasoning": "The war and New Deal expanded state power, while labor unions and civil rights measures strengthened society."
+}

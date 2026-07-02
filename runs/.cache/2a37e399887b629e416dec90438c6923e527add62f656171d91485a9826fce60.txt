@@ -1,0 +1,8 @@
+{
+  "society_power": 4.5,
+  "state_power": 7.0,
+  "society_change": 1.5,
+  "state_change": 1.0,
+  "key_event": "Economic growth, educational reforms, and military expansion",
+  "reasoning": "Economic growth and educational reforms strengthened civil society, while military expansion and agricultural law enhanced state power."
+}

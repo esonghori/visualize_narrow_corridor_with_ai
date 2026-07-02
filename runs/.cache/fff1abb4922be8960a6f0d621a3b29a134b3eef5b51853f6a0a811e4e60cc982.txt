@@ -1,0 +1,8 @@
+{
+  "society_power": 3.0,
+  "state_power": 6.0,
+  "key_event": "Conservative victory and Constitution of 1833 build strong state.",
+  "reasoning": "The conservative victory in the 1829-1830 civil war and the subsequent authoritarian Constitution of 1833 created a powerful, centralized state with significant coercive capacity. These same events crushed the liberal opposition and legally restricted participation, dramatically weakening civil society's ability to contest state power.",
+  "society_change": -1.0,
+  "state_change": 2.5
+}

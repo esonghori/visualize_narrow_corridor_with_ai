@@ -1,0 +1,8 @@
+{
+  "society_power": 10.0,
+  "state_power": 7.2,
+  "key_event": "Union power peaks, defeating the state in major strikes.",
+  "reasoning": "State power collapsed under the weight of economic failure (culminating in an IMF loan) and its repeated defeats by organized labor. Meanwhile, the power of civil society, specifically trade unions, reached its absolute apex, capable of bringing down governments and paralyzing the country, as seen in the miners' strikes and the Winter of Discontent.",
+  "society_change": 0.1,
+  "state_change": -1.8
+}

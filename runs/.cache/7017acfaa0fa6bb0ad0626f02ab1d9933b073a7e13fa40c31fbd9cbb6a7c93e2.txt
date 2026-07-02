@@ -1,0 +1,8 @@
+{
+  "society_power": 9.3,
+  "state_power": 8.2,
+  "key_event": "The Civil War and Reconstruction forged a powerful national state.",
+  "reasoning": "The Civil War forced the creation of a powerful fiscal-military state with vast new administrative and coercive powers to defeat the rebellion and enforce Reconstruction. While the war fractured society, emancipation and Reconstruction amendments created millions of new citizens and powerful civic organizations, keeping society's power exceptionally high.",
+  "society_change": -0.3,
+  "state_change": 1.4
+}

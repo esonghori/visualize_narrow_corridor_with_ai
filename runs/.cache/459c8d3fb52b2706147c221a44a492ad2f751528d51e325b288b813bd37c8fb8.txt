@@ -1,0 +1,23 @@
+Based on Acemoğlu and Robinson's framework, here are the major historical trends and events in China from 1910-1919 that affected the balance of power between the state and society.
+
+### Trends:
+
+*   **The disintegration of central authority into regional militarism (The Warlord Era):** Following the death of Yuan Shikai in 1916, the nascent republic's central state authority collapsed. Power devolved to provincial military governors (warlords) who controlled their own territories, collected their own taxes, and commanded their own armies. This is the quintessential example of an **Absent Leviathan**.
+    *   **Effect:** Massively weakened the central state, effectively destroying its monopoly on violence. It empowered regional military actors, a form of societal power, but one that was despotic and preyed upon the general population, preventing the emergence of a broad-based, empowered civil society.
+
+*   **The rise of a new, urban intellectual and commercial class:** Fueled by the New Culture Movement, economic activity in treaty ports, and the growth of modern education, a new urban society emerged. This group—students, professors, merchants, journalists—developed networks and ideologies (e.g., nationalism, democracy, science) independent of state control, communicating through new media like journals and newspapers.
+    *   **Effect:** Strengthened civil society by creating a new, articulate, and organized base of social power capable of collective action.
+
+*   **Growth of modern nationalism as a unifying social force:** Disillusionment with the weak republic and anger at foreign encroachment (especially Japan's Twenty-One Demands in 1915) fostered a potent nationalist sentiment. This transcended old loyalties and provided a common cause for disparate social groups.
+    *   **Effect:** Strengthened society by giving it a powerful, shared ideology to mobilize against both the ineffective Chinese state and foreign powers.
+
+### Events:
+
+*   **The Xinhai Revolution (1911) and the fall of the Qing Dynasty (1912):** This discrete event shattered the millennia-old imperial state structure. The revolution was carried out by a coalition of societal actors—revolutionary groups, provincial assemblies, and mutinying New Army units—acting against a decaying central state.
+    *   **Effect:** Decisively weakened and ultimately destroyed the state (the Qing Leviathan). It temporarily empowered the societal forces that overthrew it, though these forces were too fragmented to build a capable new state immediately.
+
+*   **Yuan Shikai’s attempt to restore the monarchy (1915-1916):** As President, Yuan Shikai tried to build a new, powerful central state with himself as emperor—a classic move toward a **Despotic Leviathan**. The bid failed due to widespread opposition from provincial military leaders, republican activists, and his closest lieutenants.
+    *   **Effect:** The failure of this re-centralization effort fatally weakened the nascent national state, demonstrating that society (in the form of regional military and political elites) was too strong and fragmented for one leader to dominate.
+
+*   **The May Fourth Protests (1919):** In response to the Treaty of Versailles awarding German concessions in China to Japan, students in Beijing led massive demonstrations. The movement quickly spread to other cities, drawing in merchants and workers who organized strikes and boycotts. They successfully pressured the weak Beiyang government to refuse to sign the treaty.
+    *   **Effect:** Dramatically demonstrated the power of a mobilized civil society. It weakened the state by exposing its impotence on the world stage and its susceptibility to domestic popular pressure.

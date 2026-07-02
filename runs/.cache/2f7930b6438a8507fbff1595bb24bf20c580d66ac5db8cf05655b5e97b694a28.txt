@@ -1,0 +1,8 @@
+{
+  "society_power": 8.5,
+  "state_power": 9.0,
+  "key_event": "Thatcher government breaks the power of trade unions.",
+  "reasoning": "The state's power surged as the Thatcher government decisively defeated organized labor through legislation, centralisation, and direct confrontation like the 1984-85 miners' strike. This breaking of the unions, a core pillar of civil society, significantly reduced society's collective ability to constrain the state's economic agenda.",
+  "society_change": -1.5,
+  "state_change": 1.8
+}

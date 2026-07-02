@@ -1,0 +1,8 @@
+{
+  "society_power": 4.0,
+  "state_power": 3.0,
+  "key_event": "Weak Qajar state relies on decentralized traditional societal networks",
+  "reasoning": "The Qajar state lacked a centralized administration, standing army, or effective taxation, leaving it highly dependent on provincial elites. Meanwhile, civil society was anchored by the autonomous bazaar and Shia clergy, which possessed significant potential to resist royal power.",
+  "society_change": 0.0,
+  "state_change": 0.0
+}

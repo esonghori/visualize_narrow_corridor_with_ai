@@ -1,0 +1,8 @@
+{
+  "society_power": 3.0,
+  "state_power": 8.0,
+  "key_event": "Napoleonic state-building crushed revolutionary civil society.",
+  "reasoning": "Napoleon's coup and subsequent reforms built a powerful, centralized state with pervasive administrative, fiscal, and coercive capacity. This was achieved by systematically dismantling revolutionary-era societal power through censorship, police control, and the co-optation of independent institutions like the Church.",
+  "society_change": -4.5,
+  "state_change": 3.5
+}

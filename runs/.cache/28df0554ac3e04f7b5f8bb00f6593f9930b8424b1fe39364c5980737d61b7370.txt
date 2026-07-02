@@ -1,0 +1,8 @@
+{
+  "society_power": 6.5,
+  "state_power": 8.3,
+  "society_change": -1.0,
+  "state_change": 0.3,
+  "key_event": "Economic recovery, labor movements, Treaty of Versailles",
+  "reasoning": "Economic recovery and labor movements strengthened the state and civil society, but political polarization and the Treaty of Versailles weakened civil society."
+}

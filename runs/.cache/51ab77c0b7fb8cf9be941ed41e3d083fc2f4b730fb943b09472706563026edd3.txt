@@ -1,0 +1,8 @@
+{
+  "society_power": 3.5,
+  "state_power": 9.0,
+  "key_event": "IRGC's rise and violent suppression of mass protests.",
+  "reasoning": "The state's coercive power, consolidated under the IRGC, grew to overwhelming levels, demonstrated by the brutal 2019 crackdown. While society gained new digital tools for mobilization, economic hardship and violent state repression significantly weakened its ability to organize and effect change.",
+  "society_change": -0.5,
+  "state_change": 0.5
+}

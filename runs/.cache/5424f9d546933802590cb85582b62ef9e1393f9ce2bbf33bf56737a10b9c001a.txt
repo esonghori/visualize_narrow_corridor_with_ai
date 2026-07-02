@@ -1,0 +1,41 @@
+# The Narrow Corridor Framework Applied to the U.S., 1929–1938
+
+In Acemoğlu and Robinson's terms, the "Shackled Leviathan" requires *both* a strong state and a strong society moving in tandem within the corridor. The New Deal era is a critical case: the state expanded dramatically, raising the question of whether society expanded enough to keep pace.
+
+## Trends
+
+- **Growth of federal administrative/regulatory capacity** — The proliferation of "alphabet agencies" (SEC, FDIC, NLRB, SSA, TVA) marked a durable expansion of state capacity into finance, labor, agriculture, and welfare. *Strengthened the state.*
+
+- **The rise of organized labor** — Union membership grew substantially over the decade (accelerating after 1935), building an autonomous mobilizing capacity outside the state. *Strengthened society* (though partly channeled and legitimized *through* the state, creating interdependence).
+
+- **Fiscal and taxation expansion** — Growth of federal revenue, income taxation reach, and deficit spending gave Washington unprecedented resources and reach. *Strengthened the state.*
+
+- **Shift of power from states to the federal government** — A slow centralization of authority, later ratified by the Supreme Court, weakened the traditional decentralized structure. *Strengthened the (federal) state.*
+
+- **Great Migration and urbanization** — Continued movement of Black Americans northward and general urbanization reshaped the electorate and associational life, though civil rights capacity remained heavily constrained. *Mixed for society.*
+
+- **Economic contraction and mass unemployment** — The prolonged Depression itself eroded private economic power and self-organization while increasing dependence on the state. *Weakened society / created demand for a stronger state.*
+
+## Events
+
+- **The 1929 Stock Market Crash and onset of the Great Depression** — The precipitating shock that discredited laissez-faire and created political demand for state intervention. *Set the stage for a stronger state.*
+
+- **1932 election of Franklin D. Roosevelt** — Brought a governing coalition committed to activist government. *Strengthened the state.*
+
+- **The First Hundred Days (1933)** — Rapid passage of NIRA, AAA, TVA, emergency banking legislation — a burst of state-building. *Strengthened the state.*
+
+- **National Labor Relations (Wagner) Act, 1935** — Guaranteed collective bargaining and created the NLRB; empowered civil society while embedding it in state machinery. *Strengthened both.*
+
+- **Social Security Act, 1935** — Institutionalized federal social insurance. *Strengthened the state.*
+
+- **Schechter v. United States (1935)** and other early Court rulings striking down New Deal measures — A check on state expansion by an independent institution. *Constrained the state.*
+
+- **The 1937 "court-packing" plan** — Roosevelt's attempt to reshape the judiciary; its political defeat demonstrated society/institutions resisting unchecked executive power. *Checked the state / affirmed societal constraints.*
+
+- **The "switch in time" (1937)** — The Court's shift to upholding New Deal legislation (e.g., *Jones & Laughlin*) legitimized expanded federal power. *Strengthened the state.*
+
+- **1937–38 "Roosevelt Recession"** — Renewed downturn that weakened confidence in state economic management and slowed further expansion. *Checked the state.*
+
+---
+
+**Analytical note:** The distinctive Acemoğlu–Robinson reading is that much U.S. state expansion in this period was *paired* with (and partly channeled) societal mobilization—unions, mass electoral participation—keeping the country broadly within the corridor rather than sliding toward a Despotic Leviathan. Independent institutions (courts, federalism, elections) repeatedly checked the executive, illustrating the "Red Queen" contest of state and society growing together.

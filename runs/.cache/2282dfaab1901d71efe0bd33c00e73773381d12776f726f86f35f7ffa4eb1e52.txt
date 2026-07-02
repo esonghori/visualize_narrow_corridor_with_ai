@@ -1,0 +1,8 @@
+{
+  "society_power": 7.7,
+  "state_power": 8.8,
+  "society_change": 0.3,
+  "state_change": 0.3,
+  "key_event": "Brexit, economic inequality, and digital transformation",
+  "reasoning": "Brexit and economic inequality strengthened civil society mobilization, while digital technologies enhanced state surveillance and civil society organization."
+}

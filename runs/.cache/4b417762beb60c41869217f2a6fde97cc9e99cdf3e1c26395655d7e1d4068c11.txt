@@ -1,0 +1,22 @@
+# UK, 1869–1878: State and Society in the Narrow Corridor
+
+**Trends:**
+
+- **Expansion of the electorate and mass party organization** — Following the 1867 Reform Act, the period saw growing party machinery (e.g., the Birmingham "caucus," National Liberal Federation founded 1877). *Strengthens society*, by mobilizing and organizing wider political participation.
+- **Growth of trade unions and the labor movement** — Continued expansion of unions into the 1870s, building on legal recognition. *Strengthens society*, by giving working people collective bargaining and political voice.
+- **Professionalization and expansion of the state bureaucracy** — The post-Northcote-Trevelyan drift toward merit-based, competitive-examination civil service (formalized by Order in Council in 1870). *Strengthens the state* by enhancing administrative capacity while reducing patronage.
+- **Rising literacy and expansion of the popular press** — Mass education and cheaper newspapers expanded public opinion as a check. *Strengthens society*.
+- **Economic shift into the "Long Depression"** (from ~1873) — Falling prices, agricultural difficulty, and industrial slowdown created pressures on both government policy and organized labor. *Ambiguous*; strains both, testing state capacity and society's economic security.
+
+**Events:**
+
+- **Disestablishment of the Irish Church (1869)** — Gladstone's act removing the Anglican Church's privileged status in Ireland. *Strengthens society* (addressing grievances, reducing entrenched privilege) though also an assertion of *state* legislative reach.
+- **Forster's Elementary Education Act (1870)** — Created state-supported school boards and near-universal elementary provision. *Strengthens the state* (new public administrative role and capacity) and arguably *society* (mass literacy/mobilization capacity).
+- **Trade Union Act 1871** — Gave unions legal status and protected their funds. *Strengthens society* by legitimizing collective organization.
+- **Criminal Law Amendment Act 1871 / Conspiracy and Protection of Property Act 1875** — The 1871 act restricted picketing (weakening labor); the 1875 act reversed this, legalizing peaceful picketing. *Net strengthens society* by the end of the period.
+- **Ballot Act 1872** — Introduced the secret ballot, reducing intimidation and landlord/employer coercion of voters. *Strengthens society*.
+- **Introduction of competitive civil service exams (1870 Order in Council)** — *Strengthens the state* by professionalizing administration.
+- **Public Health Act 1875 & related sanitary/housing legislation (Artisans' Dwellings Act 1875)** — Consolidated public health administration and municipal powers. *Strengthens the state* (regulatory capacity) with benefits to society.
+- **Royal Titles Act 1876** (Victoria as Empress of India) and the **Eastern Question/Bulgarian agitation (1876–78)** — Disraeli's imperial assertiveness plus the mass "atrocities" campaign led by Gladstone. The former *strengthens the state* (imperial/executive prestige); the latter demonstrated *society's* capacity for moral mass mobilization on foreign policy.
+
+**Caveat:** Acemoğlu and Robinson treat Britain as a paradigmatic case of a country moving *within* the corridor—the state and society growing in tandem (a "Red Queen" dynamic). Most items above illustrate that mutual reinforcement rather than one side decisively dominating.

@@ -1,0 +1,19 @@
+Based on Daron Acemoğlu and James A. Robinson's framework, here are the major trends and events in France from 1909-1918 that affected the balance of power between the state and civil society.
+
+### Trends:
+
+*   **Growth of Organized Labor and Syndicalism (ongoing, peaking 1909-1914):** The growing power of trade unions, particularly the CGT (Confédération Générale du Travail), led to frequent and large-scale strikes. This slow-moving trend of societal self-organization created a powerful counterweight to both industrial capital and the government.
+    *   **Effect:** **Strengthened society** by creating organized, non-state power centers capable of disrupting the economy and demanding concessions. This forced the state to develop greater capacity for both repression and negotiation.
+*   **Establishment of a Permanent National Income Tax (passed July 1914, implemented during the war):** After decades of debate, France enacted a progressive income tax on the eve of the war. Its implementation to fund the war effort represented a fundamental shift in the state's ability to extract resources directly from society.
+    *   **Effect:** **Massively strengthened the state's** fiscal capacity, creating the bureaucratic and information-gathering tools necessary to monitor and tax the wealth of its citizens.
+*   **Sustained Mass Conscription and Demographic Loss (1914-1918):** The war institutionalized the state's total claim over the lives of its male citizens for a prolonged period. The resulting death of 1.4 million Frenchmen was a slow-bleeding demographic catastrophe.
+    *   **Effect:** **Radically strengthened the state's** coercive power while simultaneously **weakening society** through immense and irreparable human loss.
+
+### Events:
+
+*   **Declaration of the *Union Sacrée* (Sacred Union) (August 4, 1914):** In response to the German invasion, socialist and syndicalist leaders agreed to a political truce, abandoning their anti-war stance and planned general strike. Political parties suspended their normal opposition to the government.
+    *   **Effect:** **Weakened society's** institutional checks on the state by voluntarily silencing dissent, allowing the state to assume vast emergency powers with broad consensus.
+*   **Imposition of a State-Directed War Economy (*dirigisme*) (1914-1916):** As the war dragged on, the French state took unprecedented control over the economy. This included nationalizing key industries like the railways, setting prices, rationing goods, and allocating labor, effectively overriding the decisions of private firms and individuals.
+    *   **Effect:** **Dramatically strengthened the state's** administrative and economic power, subordinating large parts of civil society (private enterprise, labor markets) to its direct command.
+*   **The French Army Mutinies (Spring 1917):** Following the disastrous Nivelle Offensive, tens of thousands of French soldiers refused orders to return to the front. This was not a revolutionary uprising but a mass refusal to continue suicidal attacks—a powerful expression of society (in the form of the army's rank-and-file) pushing back against the state's demands.
+    *   **Effect:** A forceful reassertion of **society's power** that successfully compelled the state to change its military strategy, improve soldiers' living conditions, and tacitly acknowledge the limits of its coercive authority.

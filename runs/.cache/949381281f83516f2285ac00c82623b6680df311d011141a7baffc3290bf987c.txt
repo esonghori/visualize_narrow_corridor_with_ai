@@ -1,0 +1,8 @@
+{
+  "society_power": 1.5,
+  "state_power": 8.8,
+  "key_event": "Shah's White Revolution crushes clerical and secular opposition.",
+  "reasoning": "The Shah’s state-led White Revolution systematically dismantled traditional societal power structures (landlords, clergy) while expanding the state's bureaucratic reach. The brutal suppression of the 1963 uprising and systematic repression by SAVAK demonstrated overwhelming state coercion, leading to an atomized and fearful society.",
+  "society_change": -1.5,
+  "state_change": 1.3
+}

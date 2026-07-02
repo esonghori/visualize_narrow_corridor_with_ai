@@ -1,0 +1,8 @@
+{
+  "society_power": 9.6,
+  "state_power": 7.6,
+  "key_event": "Devolution and rights acts empower society, constrain state.",
+  "reasoning": "The Human Rights and Freedom of Information Acts, combined with devolution, significantly empowered civil society with new legal and political tools to check the state. While the state gained significant surveillance powers after 9/11 and 7/7, these were outweighed by the new structural constraints and decentralization of its authority.",
+  "society_change": 0.3,
+  "state_change": -0.2
+}

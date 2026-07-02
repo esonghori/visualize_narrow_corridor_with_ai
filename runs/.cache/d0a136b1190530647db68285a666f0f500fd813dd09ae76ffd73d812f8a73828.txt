@@ -1,0 +1,8 @@
+{
+  "society_power": 7.6,
+  "state_power": 8.7,
+  "society_change": 0.8,
+  "state_change": 0.2,
+  "key_event": "Devolution and EU integration",
+  "reasoning": "Devolution strengthened regional civil societies, while EU integration and economic growth had mixed impacts."
+}

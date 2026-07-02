@@ -1,0 +1,8 @@
+{
+  "society_power": 6.5,
+  "state_power": 7.0,
+  "key_event": "State massacres crush massive new worker mobilizations.",
+  "reasoning": "Society developed unprecedented capacity for mass mobilization, but its power was violently broken by a series of state massacres. The state, while administratively weak due to parliamentary gridlock, proved its coercive power was strong and decisive in defending the oligarchic order.",
+  "society_change": -1.0,
+  "state_change": 1.5
+}

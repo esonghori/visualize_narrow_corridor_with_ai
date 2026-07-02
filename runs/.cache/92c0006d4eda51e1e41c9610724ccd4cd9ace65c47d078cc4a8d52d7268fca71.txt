@@ -1,0 +1,8 @@
+{
+  "society_power": 7.0,
+  "state_power": 2.5,
+  "key_event": "The Constitutional Revolution establishes a parliament, sparking civil war.",
+  "reasoning": "Society's power surged through the Constitutional Revolution, creating a parliament and proving its ability to mobilize nationally, even deposing a shah. The Qajar state, already weak and dependent on foreign powers, saw its authority collapse into civil war despite a violent attempt to crush the new institutions.",
+  "society_change": 0.8,
+  "state_change": -0.5
+}

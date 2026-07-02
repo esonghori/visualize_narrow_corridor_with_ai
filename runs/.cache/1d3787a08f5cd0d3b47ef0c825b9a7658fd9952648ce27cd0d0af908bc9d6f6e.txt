@@ -1,0 +1,8 @@
+{
+  "society_power": 8.0,
+  "state_power": 7.7,
+  "society_change": 0.5,
+  "state_change": -1.3,
+  "key_event": "2011 Student Protests and 2014 Corruption Scandals",
+  "reasoning": "Persistent social inequality and corruption scandals weakened state legitimacy while strengthening civil society through increased mobilization and activism."
+}

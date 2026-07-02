@@ -1,0 +1,23 @@
+Based on Acemoğlu and Robinson's framework, here are major trends and events in the United Kingdom from 1809-1818 that affected the balance of power between the state and civil society.
+
+### Trends:
+
+*   **Wartime State Expansion (c. 1793-1815):** The existential threat of the Napoleonic Wars necessitated a massive expansion of the British state's fiscal and administrative capacity. This trend, peaking in this period, involved unprecedented levels of taxation (including the income tax), national debt, and military mobilization.
+    *   **Effect:** Dramatically **strengthened the state** by expanding its extractive and organizational power.
+
+*   **Industrialization and Urbanization:** The ongoing Industrial Revolution created new, concentrated urban populations and a growing industrial working class. These groups began to develop new forms of association (early unions, friendly societies) and a shared political consciousness distinct from the traditional rural order.
+    *   **Effect:** **Strengthened society** by creating new, potent social actors and new networks for collective action, increasing its capacity to make demands on the state.
+
+*   **Growth of Political Radicalism:** Fueled by economic hardship and inspired by revolutionary ideas, there was a rising tide of popular radicalism. Figures like William Cobbett (whose *Political Register* became a mass-circulation paper) and organized groups like the Hampden Clubs agitated for parliamentary reform and universal male suffrage.
+    *   **Effect:** **Strengthened society** by developing an organized, articulate political wing capable of challenging the legitimacy and structure of the existing state.
+
+### Events:
+
+*   **Luddite Uprisings (1811-1816):** A series of discrete, localized rebellions by textile workers who destroyed new machinery. This was a direct, violent challenge by a segment of society against the economic transformations underway. The state's response was severe, deploying over 12,000 troops and passing the Frame Breaking Act of 1812, which made machine-breaking a capital crime.
+    *   **Effect:** The uprisings demonstrated an emerging capacity for organized violence within society, but the state's overwhelming response **strengthened its coercive power** and its role in protecting industrial property.
+
+*   **The Corn Law of 1815:** Parliament passed a law imposing steep tariffs on imported grain, protecting the profits of the landed aristocracy at the expense of the urban population, who faced higher bread prices. This single act triggered widespread riots and became a powerful symbol of a state captured by a narrow elite.
+    *   **Effect:** An act that demonstrated the power of the elite-controlled state, it simultaneously and powerfully **strengthened and mobilized society** by creating a clear, unifying grievance for radical and middle-class reformers alike.
+
+*   **Suspension of Habeas Corpus (1817):** In response to social unrest, including the Spa Fields Riots (1816) and the Pentrich Rising (1817), Lord Liverpool's government passed the "Gagging Acts." The most significant of these was the suspension of habeas corpus, allowing the state to imprison individuals indefinitely without trial.
+    *   **Effect:** Directly **strengthened the state's** repressive capabilities while **weakening society** by stripping citizens of a fundamental legal protection against arbitrary power.

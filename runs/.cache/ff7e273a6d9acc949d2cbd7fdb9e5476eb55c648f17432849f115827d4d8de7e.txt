@@ -1,0 +1,8 @@
+{
+  "society_power": 7.9,
+  "state_power": 8.7,
+  "key_event": "The Great Reform Act of 1832",
+  "reasoning": "Society's power surged as mass mobilization secured the Great Reform Act and the abolition of slavery, proving its ability to force fundamental change. Concurrently, the state expanded its capacity by creating a professional police force and a centralized bureaucracy for the new Poor Law, making it more penetrative.",
+  "society_change": 0.7,
+  "state_change": 0.3
+}

@@ -1,0 +1,21 @@
+Based on Daron Acemoğlu and James A. Robinson's framework, here are the major trends and events in France from 1869-1878 that affected the balance of power between the state and civil society.
+
+### Trends:
+
+*   **The Rise of Organized Republicanism:** The slow consolidation of republican ideals and networks across France, especially after 1870. This was an ideological and organizational trend within society that challenged traditional monarchist and Bonapartist conceptions of the state.
+    *   **Effect:** **Strengthened society** by providing a powerful, unifying political program and a dense network of associations (committees, newspapers, Masonic lodges) capable of mobilizing voters and checking state power.
+*   **Establishment of Parliamentary Supremacy:** A gradual institutional shift, codified in the Constitutional Laws of 1875 and cemented by the 1877 crisis, that made the legislature the dominant political force over the President.
+    *   **Effect:** **Strengthened society's** ability to control the state through its elected representatives, while also **strengthening the state's** legitimacy by grounding it in popular sovereignty. This is a key move into the "narrow corridor."
+*   **The Monarchist-Republican Stalemate (1871-1876):** Following the 1871 elections, the National Assembly had a monarchist majority that was paralyzed by internal divisions (between Legitimists and Orléanists), preventing a restoration of the monarchy.
+    *   **Effect:** This elite division inadvertently **weakened the state's** potential to become a despotic monarchy and created the political space for republican societal forces to grow and eventually capture state institutions.
+
+### Events:
+
+*   **The Franco-Prussian War and Collapse of the Second Empire (1870):** The swift and total military defeat at Sedan led to the immediate disintegration of Napoleon III's imperial state.
+    *   **Effect:** Massively **weakened the state**, creating a power vacuum (an "Absent Leviathan" moment) that society, particularly in Paris, rushed to fill with the proclamation of the Third Republic.
+*   **The Paris Commune (March-May 1871):** A radical, revolutionary government established by Parisian society in opposition to the national government at Versailles.
+    *   **Effect:** A dramatic, temporary **strengthening of a segment of society** to the point of creating a rival state. It represented a fundamental challenge to the authority and legitimacy of the nascent national state.
+*   **The Suppression of the Commune ("The Bloody Week," May 1871):** The national army's brutal reconquest of Paris, resulting in tens of thousands of deaths and arrests.
+    *   **Effect:** Decisively **strengthened the (new republican) state** by demonstrating its monopoly on violence and crushing its most radical societal opposition. It simultaneously **weakened** the power of revolutionary civil society for a generation.
+*   **The *Seize Mai* (May 16th) Crisis (1877):** President MacMahon, a monarchist, dismissed the moderately republican Prime Minister and dissolved the Chamber of Deputies, triggering a constitutional crisis and new elections.
+    *   **Effect:** The subsequent Republican election victory forced the President to submit to the will of Parliament. This event decisively **strengthened society's power** (via the legislature) and **weakened the autonomous executive power of the state**, confirming that the government answered to the elected chamber, not the president.

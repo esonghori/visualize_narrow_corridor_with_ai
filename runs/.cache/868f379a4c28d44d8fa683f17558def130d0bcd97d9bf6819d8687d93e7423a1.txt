@@ -1,0 +1,8 @@
+{
+  "society_power": 6.3,
+  "state_power": 8.0,
+  "society_change": 0.3,
+  "state_change": 0.5,
+  "key_event": "Economic growth, urbanization, and constitutional reforms of 1875",
+  "reasoning": "Economic growth and urbanization modestly boosted civil society, while constitutional reforms and post-civil war consolidation significantly strengthened state power."
+}

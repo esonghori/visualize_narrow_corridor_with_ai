@@ -1,0 +1,8 @@
+{
+  "society_power": 9.0,
+  "state_power": 8.5,
+  "society_change": 0.5,
+  "state_change": -1.0,
+  "key_event": "Civil Rights and Anti-War Protests",
+  "reasoning": "Civil society strengthened through increased activism and advocacy, while state power was weakened by economic challenges and political scandals."
+}

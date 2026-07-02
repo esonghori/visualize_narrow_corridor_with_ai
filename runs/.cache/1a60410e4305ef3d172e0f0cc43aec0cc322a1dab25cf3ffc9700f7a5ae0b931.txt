@@ -1,0 +1,8 @@
+{
+  "society_power": 7.5,
+  "state_power": 7.6,
+  "society_change": 0.2,
+  "state_change": 0.4,
+  "key_event": "Abolitionist Movement, Economic Growth, Mexican-American War",
+  "reasoning": "The abolitionist movement and economic growth strengthened civil society, while state power increased due to territorial expansion and industrialization."
+}

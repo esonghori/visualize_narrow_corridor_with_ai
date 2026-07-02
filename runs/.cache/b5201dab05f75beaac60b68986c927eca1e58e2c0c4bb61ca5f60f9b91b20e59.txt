@@ -1,0 +1,8 @@
+{
+  "society_power": 7.0,
+  "state_power": 6.5,
+  "society_change": 1.0,
+  "state_change": 1.5,
+  "key_event": "Louisiana Purchase and rise of political parties",
+  "reasoning": "The Louisiana Purchase expanded state territory and influence, while the rise of political parties and democratic participation strengthened civil society."
+}

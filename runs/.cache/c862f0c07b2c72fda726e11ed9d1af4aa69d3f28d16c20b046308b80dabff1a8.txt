@@ -1,0 +1,21 @@
+Based on the framework in *The Narrow Corridor*, here are the major trends and events in France from 1829-1838 that affected the balance of power between the state and civil society.
+
+### Trends:
+
+*   **Early Industrialization and Urbanization:** The slow but steady growth of industry, particularly in textiles and metallurgy, concentrated a new, volatile working class (the proletariat) in cities like Paris and Lyon.
+    *   **Effect:** **Strengthened society** by creating new, dense social networks capable of rapid mobilization (e.g., worker societies), but also **strengthened the state** by providing a growing tax base and necessitating new forms of state control (policing, public works).
+*   **The Rise of the Bourgeoisie as the Dominant Political Class:** The July Monarchy (post-1830) cemented the political power of the *haute bourgeoisie* (bankers, industrialists, wealthy merchants) over the old landed aristocracy. The franchise, though still very limited, was tied to property taxes, empowering this class.
+    *   **Effect:** **Strengthened a specific segment of society**, which in turn captured and used state power for its own ends. This created a state "shackled" by bourgeois interests, not by society as a whole.
+*   **Persistence of Republican and Radical Opposition:** Despite the 1830 revolution, republican, Bonapartist, and early socialist secret societies and clubs continued to operate, publish, and agitate, viewing the July Monarchy as a betrayal.
+    *   **Effect:** **Strengthened society's** capacity for dissent and opposition from below, forcing the state to continually expend resources on surveillance and repression to maintain its authority.
+
+### Events:
+
+*   **The July Revolution (26–29 July 1830):** In response to King Charles X’s absolutist July Ordinances (which dissolved parliament and abolished press freedom), a coalition of Parisian journalists, students, and workers revolted and overthrew the Bourbon monarchy.
+    *   **Effect:** A dramatic and powerful demonstration of **society's strength**, successfully dismantling the existing state apparatus and replacing it with a constitutional monarchy (the July Monarchy) intended to be more accountable.
+*   **The Canut Revolts in Lyon (1831 and 1834):** Major, organized uprisings by silk workers (Canuts) demanding fixed wages and better conditions were brutally suppressed by the French army.
+    *   **Effect:** Showcased society's growing organizational power in the industrial sphere but ultimately **strengthened the state** by reasserting its monopoly on violence and its willingness to defend the interests of capital over labor.
+*   **The Guizot Law on Primary Education (1833):** This landmark law required every commune in France to establish a public primary school for boys.
+    *   **Effect:** Massively **strengthened the state** by extending its administrative and ideological reach into every town and village, creating a mechanism for national standardization and civic indoctrination.
+*   **The September Laws (1835):** Following an assassination attempt on King Louis-Philippe, the government passed a series of repressive laws that severely censored the press, restricted the rights of assembly, and streamlined trials for political dissidents.
+    *   **Effect:** Decisively **strengthened the state** at the direct expense of **weakening society**, curtailing the very tools of free expression and association that had been crucial in the 1830 revolution.

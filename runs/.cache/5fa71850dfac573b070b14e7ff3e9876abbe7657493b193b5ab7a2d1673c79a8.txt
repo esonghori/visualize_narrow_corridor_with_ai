@@ -1,0 +1,8 @@
+{
+  "society_power": 5.5,
+  "state_power": 6.5,
+  "society_change": 1.5,
+  "state_change": -2.0,
+  "key_event": "1978 National strikes and protests",
+  "reasoning": "Civil society strengthened through urbanization and education, while state power was eroded by widespread protests and international criticism."
+}

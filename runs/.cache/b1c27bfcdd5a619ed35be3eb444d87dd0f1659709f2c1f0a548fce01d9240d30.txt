@@ -1,0 +1,8 @@
+{
+  "society_power": 9.8,
+  "state_power": 9.9,
+  "key_event": "The state's massive economic intervention during the Great Depression.",
+  "reasoning": "In response to the Great Depression, the state fundamentally expanded its power over the economy and public order, seen in tariffs and the Public Order Act. Civil society demonstrated its own high capacity for mobilization through events like the Battle of Cable Street, but the state's structural power gains were more significant.",
+  "society_change": 0.1,
+  "state_change": 0.3
+}

@@ -1,0 +1,18 @@
+Trends:
+- **Post-9/11 security-state expansion**: growth of DHS, TSA, intelligence budgets, watchlists, fusion centers, and surveillance authorities; **strengthened the federal state**, especially coercive/monitoring capacity, while **weakening civil-liberties protections**.
+- **Executive-power expansion in foreign and security policy**: broader claims of commander-in-chief authority, detention, interrogation, and secrecy; **strengthened the presidency/state**, **weakened legal and civil-society checks**.
+- **Rising polarization and media fragmentation**: cable news, talk radio, blogs, and partisan sorting intensified; **weakened society’s shared norms/trust** and made collective oversight of the state harder, while encouraging unilateral state action.
+- **Decline of organized labor and associational counterweights**: private-sector union density kept falling; **weakened civil society**, especially working-class bargaining power against firms and government.
+- **Financialization, deregulation, and the housing-credit boom**: subprime lending, securitization, and household debt surged; **strengthened private financial actors**, **weakened regulatory state capacity**, and left society more vulnerable.
+- **Growth of internet-based civic mobilization**: blogs, MoveOn, Meetup, YouTube, Facebook, and online fundraising became politically important; **strengthened civil society’s organizing and scrutiny capacity**, though also fed fragmentation.
+- **Demographic change and immigration politics**: rising Latino and immigrant populations reshaped politics; **strengthened new civil-society constituencies**, but also provoked restrictionist backlash and local-state enforcement efforts.
+
+Events:
+- **1999 Seattle WTO protests**: large anti-globalization mobilization; **strengthened visible civil-society resistance**, while aggressive policing showed state coercive capacity.
+- **2000 election dispute and Bush v. Gore**: courts and election administration decided the presidency; **strengthened judicial/state authority**, but **weakened public trust** in democratic procedures.
+- **September 11, 2001 attacks**: created broad demand for protection; **dramatically strengthened the security state** and public tolerance for surveillance, detention, and war powers.
+- **2001 USA PATRIOT Act and 2002 creation of DHS/TSA**: expanded search, surveillance, immigration, and counterterrorism powers; **strengthened the state**, **weakened privacy/civil-liberty constraints**.
+- **2003 Iraq War**: expanded military and executive power; **strengthened the coercive state**, but mass antiwar protests showed **civil-society mobilization** and later eroded trust in state competence.
+- **2005 revelations of Abu Ghraib and warrantless NSA surveillance**: exposed state overreach; initially showed **state power unchecked**, but also **strengthened civil-society, press, and legal challenges**.
+- **Hurricane Katrina, 2005**: exposed failures of federal, state, and local capacity; **weakened confidence in the state**, while churches, NGOs, and local groups partly filled gaps, **strengthening civil-society salience**.
+- **2008 financial crisis and TARP**: emergency bailouts and Federal Reserve actions **strengthened state intervention capacity**, but the crash **weakened society** through foreclosures, unemployment, and distrust of elites/regulators.

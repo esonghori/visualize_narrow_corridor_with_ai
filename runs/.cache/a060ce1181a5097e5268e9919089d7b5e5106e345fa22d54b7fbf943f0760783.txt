@@ -1,0 +1,8 @@
+{
+  "society_power": 2.0,
+  "state_power": 9.5,
+  "key_event": "State-led economic boom and crackdown on Falun Gong.",
+  "reasoning": "The state's power became overwhelming, fueled by fiscal recentralization and performance legitimacy from hyper-growth. Concurrently, the state's brutal crackdown on the Falun Gong movement annihilated the most significant independent social organization, causing civil society's power to collapse.",
+  "society_change": -2.0,
+  "state_change": 0.5
+}

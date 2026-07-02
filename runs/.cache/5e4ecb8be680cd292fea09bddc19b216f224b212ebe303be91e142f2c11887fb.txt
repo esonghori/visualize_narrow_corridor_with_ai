@@ -1,0 +1,21 @@
+Based on Daron Acemoğlu and James A. Robinson's framework, here are the major trends and events in the UK from 1909-1918 that affected the balance of power between the state and civil society.
+
+### Trends:
+
+*   **Growth of Organized Labour:** The period before the war saw "The Great Unrest" (c. 1910-1914), with mass strikes by miners, dockers, and railway workers. During WWI, to ensure production, the state formally incorporated union leaders into planning, and union membership soared. This trend represented a significant increase in the organizational capacity and bargaining power of a large segment of civil society.
+    *   **Effect:** Strengthened society.
+*   **Expansion of the State's Social and Administrative Role:** Beginning with the Liberal reforms (e.g., labour exchanges in 1909, National Insurance in 1911) and massively accelerating during the war, the state's bureaucracy grew to manage vast new areas of citizens' lives, from health and unemployment to munitions production and food rationing. This created a much larger and more intrusive state apparatus.
+    *   **Effect:** Strengthened the state.
+*   **Militant Social Mobilization:** The women's suffrage movement, particularly the WSPU (Suffragettes), used increasingly militant tactics (arson, vandalism) to challenge the state's authority and demand political inclusion. This trend demonstrated society's ability to mobilize outside of traditional channels to force political change.
+    *   **Effect:** Strengthened society (by creating a potent, non-traditional political force).
+
+### Events:
+
+*   **The "People's Budget" and the Parliament Act (1909-1911):** The House of Lords' rejection of the 1909 budget triggered a constitutional crisis. The resulting Parliament Act of 1911 stripped the unelected Lords of their veto over financial bills and limited their delaying power on other legislation. This event fundamentally restructured the state, making it more responsive to the elected Commons and, by extension, to society.
+    *   **Effect:** Strengthened the (elected) state by shackling an older, aristocratic element, while also empowering society by reinforcing the primacy of its elected representatives.
+*   **The Defence of the Realm Act (DORA, 1914):** Passed immediately after the outbreak of WWI, this single act gave the state sweeping new powers, including the ability to requisition property, censor the press, and control industry and labour. It was a sudden, massive expansion of the state's coercive power over society and the economy.
+    *   **Effect:** Massively strengthened the state, significantly weakening individual liberties.
+*   **The Military Service Act (1916):** This act introduced conscription for the first time in British history. It represented an unprecedented assertion of state power, claiming ultimate authority over the lives and bodies of its male citizens for the purpose of war.
+    *   **Effect:** Strengthened the state.
+*   **The Representation of the People Act (1918):** This single piece of legislation tripled the electorate, granting suffrage to all men over 21 and most women over 30. It was a direct response to society's contribution to the war effort and a monumental step in empowering civil society to hold the newly enlarged state accountable.
+    *   **Effect:** Massively strengthened society by expanding its democratic power.

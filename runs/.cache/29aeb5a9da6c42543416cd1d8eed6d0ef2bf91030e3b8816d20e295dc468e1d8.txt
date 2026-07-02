@@ -1,0 +1,8 @@
+{
+  "society_power": 4.0,
+  "state_power": 9.2,
+  "key_event": "The 1983 mass protests reawakened civil society.",
+  "reasoning": "The state institutionalized its authoritarian power via the 1980 Constitution but lost legitimacy in the 1982 economic crisis. In response, previously atomized civil society organized mass protests, breaking the barrier of fear and demonstrating a renewed, though still limited, capacity for mobilization.",
+  "society_change": 2.5,
+  "state_change": -0.3
+}

@@ -1,0 +1,8 @@
+{
+  "society_power": 4.0,
+  "state_power": 1.5,
+  "key_event": "Boxer Rebellion's failure and subsequent Qing reforms.",
+  "reasoning": "The catastrophic failure of the Boxer Rebellion shattered the Qing state's authority, fiscal capacity, and sovereignty, causing its power to collapse. Simultaneously, state reforms ironically empowered society by creating provincial assemblies, while the abolition of the exam system and the rise of revolutionary groups created a newly organized opposition.",
+  "society_change": 1.5,
+  "state_change": -1.3
+}

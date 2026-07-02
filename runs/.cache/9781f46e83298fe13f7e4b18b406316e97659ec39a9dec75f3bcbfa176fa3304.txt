@@ -1,0 +1,8 @@
+{
+  "society_power": 9.2,
+  "state_power": 9.3,
+  "key_event": "The Second Reform Act of 1867 doubles the electorate.",
+  "reasoning": "The Second Reform Act, a direct result of popular agitation, massively empowered civil society by enfranchising urban workers. Concurrently, the state's administrative capacity grew through civil service professionalization and an expanded role in social welfare during the Cotton Famine.",
+  "society_change": 0.4,
+  "state_change": 0.2
+}

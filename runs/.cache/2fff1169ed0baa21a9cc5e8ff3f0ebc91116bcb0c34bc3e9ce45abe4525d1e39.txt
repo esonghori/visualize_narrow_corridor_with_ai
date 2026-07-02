@@ -1,0 +1,8 @@
+{
+  "society_power": 8.2,
+  "state_power": 6.4,
+  "key_event": "Rise of Jacksonian democracy and mass political parties.",
+  "reasoning": "Society's power surged due to the expansion of universal white male suffrage and the development of mass-based political parties, massively increasing popular mobilization. The state also strengthened its capacity through landmark Supreme Court rulings (McCulloch, Gibbons) and its successful management of the Missouri Compromise crisis, which expanded federal authority.",
+  "society_change": 0.7,
+  "state_change": 0.6
+}

@@ -1,0 +1,8 @@
+{
+  "society_power": 8.7,
+  "state_power": 7.8,
+  "key_event": "Societal pushback and elections create political paralysis.",
+  "reasoning": "The state demonstrated immense coercive capacity via COVID management and security expansion, but its governing effectiveness was crippled by political fragmentation and electoral defeats. Society proved its high mobilization power in massive protests and successfully constrained the executive through the ballot box, increasing its overall influence.",
+  "society_change": 0.2,
+  "state_change": -0.2
+}

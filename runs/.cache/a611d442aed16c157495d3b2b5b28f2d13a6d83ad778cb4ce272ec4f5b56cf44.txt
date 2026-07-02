@@ -1,0 +1,8 @@
+{
+  "society_power": 7.5,
+  "state_power": 7.0,
+  "society_change": 0.5,
+  "state_change": 0.5,
+  "key_event": "Mitterrand's election and nationalizations",
+  "reasoning": "Mitterrand's election strengthened civil society through social reforms and increased state control over the economy, leading to moderate gains in both axes."
+}

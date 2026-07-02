@@ -1,0 +1,8 @@
+{
+  "society_power": 6.0,
+  "state_power": 7.5,
+  "society_change": 1.0,
+  "state_change": 0.5,
+  "key_event": "Industrialization, urbanization, and growing activism",
+  "reasoning": "Industrialization and urbanization strengthened both state and civil society, with growing activism and social movements contributing to civil society's power."
+}

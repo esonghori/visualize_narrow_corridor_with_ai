@@ -1,0 +1,8 @@
+{
+  "society_power": 8.8,
+  "state_power": 9.8,
+  "key_event": "World War II mobilization and the rise of the garrison state.",
+  "reasoning": "The war effort created a state with unprecedented power over the economy and individual lives. Society's power saw a marginal net gain, as the surge in organized labor was powerful enough to prompt a legislative check via the Taft-Hartley Act.",
+  "society_change": 0.1,
+  "state_change": 0.2
+}

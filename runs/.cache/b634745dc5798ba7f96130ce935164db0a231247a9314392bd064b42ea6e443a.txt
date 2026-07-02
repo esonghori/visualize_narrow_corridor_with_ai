@@ -1,0 +1,8 @@
+{
+  "society_power": 9.0,
+  "state_power": 7.3,
+  "key_event": "The Dreyfus Affair exposes a deep state-society cleavage.",
+  "reasoning": "Society's power reached a new peak with the consolidation of organized labor (CGT), a powerful mass press, and the intense mobilization during the Dreyfus Affair. Concurrently, the state's legitimacy and authority were severely damaged by the Panama Scandal and the Dreyfus Affair, eroding public trust despite the Republic's survival of the Boulanger crisis.",
+  "society_change": 0.5,
+  "state_change": -0.5
+}

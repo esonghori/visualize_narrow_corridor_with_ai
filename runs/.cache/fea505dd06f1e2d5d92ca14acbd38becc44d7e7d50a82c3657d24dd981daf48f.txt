@@ -1,0 +1,23 @@
+Based on Acemoğlu and Robinson's framework, here are the major historical trends and events in the United States from 1829-1838 that affected the balance of power between the state and society.
+
+### Trends:
+
+*   **Expansion of universal white male suffrage:** The elimination of property requirements for voting broadened the electorate, making politicians more accountable to a wider segment of the populace. This trend increased society's ability to "shackle" the state through elections.
+    *   **Effect:** Strengthened society.
+*   **Emergence of the Second Party System:** The highly organized and competitive Democratic and Whig parties created national structures for political mobilization. These parties became key instruments of civil society for contesting power and holding the state accountable.
+    *   **Effect:** Strengthened society.
+*   **Growth of abolitionist and other reform movements:** The establishment of organizations like the American Anti-Slavery Society (1933) created a mobilized, non-state network dedicated to challenging state policies and deep-seated social norms, representing a classic assertion of societal power.
+    *   **Effect:** Strengthened society's mobilization.
+*   **Continued westward expansion:** The rapid settlement of western lands outpaced the federal government's ability to project authority and provide services. This created frontier areas with a dynamic of a relatively weak, or "Absent," Leviathan, where societal norms and local organizations held greater sway.
+    *   **Effect:** Weakened the central state's direct control; strengthened localized societal power.
+
+### Events:
+
+*   **The Nullification Crisis (1832-1833):** South Carolina's attempt to nullify federal tariffs was a direct challenge to the central state's authority. President Andrew Jackson's response, threatening military force with the Force Bill, decisively affirmed the supremacy of the federal state over individual states.
+    *   **Effect:** Strengthened the central state.
+*   **The Bank War (climaxing 1832-1834):** President Jackson vetoed the rechartering of the Second Bank of the United States and subsequently removed federal deposits. This was a dramatic assertion of executive authority against a powerful, quasi-private national institution, concentrating economic power within the executive branch of the state.
+    *   **Effect:** Strengthened the executive power of the state.
+*   **Passage of the Indian Removal Act (1830) and defiance of *Worcester v. Georgia* (1832):** The state used its legislative and executive power to dispossess Native American tribes of their land. Jackson's refusal to enforce the Supreme Court's ruling in favor of the Cherokee demonstrated the state's capacity to exercise coercive power, even in defiance of its own legal constraints, crushing the targeted society.
+    *   **Effect:** Strengthened the coercive power of the state.
+*   **The Panic of 1837:** This severe financial crisis, partially triggered by Jackson's economic policies, caused widespread economic hardship. The state's inability to mitigate the crisis weakened its popular legitimacy and spurred societal discontent and political mobilization against the incumbent administration.
+    *   **Effect:** Weakened the state's legitimacy; mobilized societal opposition.

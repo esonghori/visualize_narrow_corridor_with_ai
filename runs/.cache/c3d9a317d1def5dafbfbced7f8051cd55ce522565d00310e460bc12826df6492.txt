@@ -1,0 +1,8 @@
+{
+  "society_power": 7.2,
+  "state_power": 6.8,
+  "society_change": 1.4,
+  "state_change": -1.1,
+  "key_event": "Post-war social reforms and labor movements",
+  "reasoning": "Civil society strengthened through labor unions and social reforms, while the state initially weakened due to occupation and post-war recovery."
+}

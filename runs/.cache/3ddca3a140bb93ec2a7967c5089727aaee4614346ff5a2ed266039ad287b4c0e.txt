@@ -1,0 +1,8 @@
+{
+  "society_power": 7.8,
+  "state_power": 7.5,
+  "society_change": 0.3,
+  "state_change": 0.3,
+  "key_event": "2018 Gilets Jaunes (Yellow Vests) Movement",
+  "reasoning": "The Gilets Jaunes movement significantly strengthened civil society's mobilization, while the state faced challenges in policy implementation and maintaining authority."
+}

@@ -1,0 +1,39 @@
+# The Narrow Corridor: UK, 1839–1848
+
+In Acemoğlu and Robinson's framework, liberty emerges when state and society are *balanced*—both strong and mutually constraining. The "Shackled Leviathan" grows only when society's countervailing power expands alongside state capacity. Here is how 1839–1848 fits.
+
+## Trends
+
+- **Industrialization and urbanization (ongoing):** Rapid factory growth and the swelling of cities like Manchester concentrated workers, lowering the costs of collective action and *strengthening society's* capacity to organize—while also creating new social problems that pulled the *state* into regulation.
+
+- **Growth of an organized working-class movement:** Chartism matured from a loose set of grievances into a mass-membership movement with national coordination, petitioning, and a press—a durable expansion of *civil society's* mobilizing power.
+
+- **Free-trade / political economy shift:** The intellectual and commercial ascendancy of free-trade doctrine (Manchester School, Anti-Corn Law agitation) reflected and reinforced the rising political weight of manufacturing and commercial interests, broadening the base of *society* that could pressure the state.
+
+- **Expansion of state administrative capacity:** Incremental buildout of centralized bureaucracy (Poor Law administration, factory inspectorate, emerging public-health and railway oversight) *strengthened the state's* reach into economic and social life.
+
+- **Fiscal-institutional consolidation:** Ongoing development of a modern fiscal system (income tax reintroduced 1842, Bank Charter Act 1844 centralizing note issue) *strengthened the state's* capacity while constraining discretionary monetary action within rules.
+
+- **Demographic pressure and rural distress:** Population growth and agrarian hardship (culminating in the Irish situation) strained existing institutions and shaped the terms of both mobilization and state intervention.
+
+## Events
+
+- **Chartist petitions (1839, 1842, 1848):** Mass petitions demanding suffrage and the Charter's six points—the 1842 petition carried millions of signatures. These *strengthened society's* organized voice; their ultimate rejection showed the state's resilience but kept reform pressure alive.
+
+- **Newport Rising (1839):** Armed Chartist rising in Wales, suppressed with arrests and transportation—a moment of confrontation that revealed both society's militancy and the *state's* coercive capacity.
+
+- **Reintroduction of income tax (Peel, 1842):** A discrete fiscal reform that durably *strengthened the state's* revenue base and enabled later tariff reductions.
+
+- **Mines Act (1842) and Factory Act (1844):** Legislation restricting labor of women and children—*strengthened the state's* regulatory role while responding to societal pressure, an example of the two growing together.
+
+- **Bank Charter Act (1844):** Institutionalized monetary rules and centralized note issue—*strengthened* state fiscal-monetary institutions within a rule-bound framework.
+
+- **Repeal of the Corn Laws (1846):** A landmark policy shift responding to Anti-Corn Law League mobilization and famine pressure; it split the Tory party and demonstrated *society's* capacity to reshape national policy—a key illustration of shackled state responsiveness.
+
+- **Irish Great Famine (1845–1852, esp. onset):** Mass mortality and emigration; the state's limited relief response exposed the *narrowness* of its capacity/willingness at the periphery, weakening legitimacy in Ireland even as it tested administrative machinery.
+
+- **Chartist collapse of 1848 (Kennington Common):** The failed climactic demonstration and discredited third petition marked a temporary *setback for organized society*—yet the peaceful containment, contrasted with continental revolutions, exemplified Britain's position within the "corridor."
+
+---
+
+**Caveat:** Acemoğlu and Robinson treat Britain as a paradigm case of movement *within* the corridor, where reform came through contested but non-revolutionary channels. The period's significance is precisely this *simultaneous* growth of state capacity and societal mobilization—illustrating the balancing dynamic rather than a one-sided shift.

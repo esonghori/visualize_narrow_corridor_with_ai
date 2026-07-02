@@ -1,0 +1,8 @@
+{
+  "society_power": 8.6,
+  "state_power": 8.8,
+  "key_event": "Progressive Era reforms curb corporate power.",
+  "reasoning": "The Progressive movement saw society mobilize against corporate excess, leading to landmark reforms that significantly expanded the state's regulatory power through trust-busting and new agencies, strengthening both society's influence and the state's capacity.",
+  "society_change": 0.4,
+  "state_change": 0.5
+}

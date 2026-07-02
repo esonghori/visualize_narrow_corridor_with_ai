@@ -1,0 +1,8 @@
+{
+  "society_power": 6.5,
+  "state_power": 8.2,
+  "key_event": "State repression of radicalism after Napoleonic Wars.",
+  "reasoning": "The state's power, expanded to its zenith to defeat Napoleon, was turned inward with repressive measures like the suspension of habeas corpus to quell unrest. Simultaneously, society's organizational capacity grew, fueled by industrialization and grievances like the Corn Laws, leading to widespread radical mobilization despite the crackdown.",
+  "society_change": 0.2,
+  "state_change": 0.4
+}

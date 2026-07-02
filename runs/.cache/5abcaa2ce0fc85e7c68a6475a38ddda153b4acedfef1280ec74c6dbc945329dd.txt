@@ -1,0 +1,8 @@
+{
+  "society_power": 3.8,
+  "state_power": 8.2,
+  "society_change": -1.4,
+  "state_change": 0.7,
+  "key_event": "Tiananmen Square crackdown and economic reforms",
+  "reasoning": "The Tiananmen Square crackdown significantly weakened civil society, while economic reforms and urbanization strengthened the state."
+}

@@ -1,0 +1,8 @@
+{
+  "society_power": 7.2,
+  "state_power": 4.5,
+  "key_event": "Peaceful transfer of power in the Election of 1800.",
+  "reasoning": "Society's power grew significantly with the institutionalization of political opposition and mass social mobilization from the Second Great Awakening. The state, despite Jeffersonian cuts, enhanced its authority through the Louisiana Purchase and strengthened its legal-constitutional capacity with Marbury v. Madison.",
+  "society_change": 1.2,
+  "state_change": 1.0
+}

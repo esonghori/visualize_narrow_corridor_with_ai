@@ -1,0 +1,8 @@
+{
+  "society_power": 8.7,
+  "state_power": 8.2,
+  "key_event": "Separation of Church and State solidifies secular republican state.",
+  "reasoning": "The state grew significantly stronger by decisively subordinating the Church and army, establishing secular republican supremacy. While civil society won the Dreyfus Affair, the state's subsequent successful suppression of both clerical institutions and major labor strikes slightly reduced society's overall power from its previous peak.",
+  "society_change": -0.3,
+  "state_change": 0.9
+}

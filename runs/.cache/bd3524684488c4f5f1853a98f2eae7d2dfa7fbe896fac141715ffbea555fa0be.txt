@@ -1,0 +1,8 @@
+{
+  "society_power": 6.0,
+  "state_power": 7.5,
+  "society_change": 0.5,
+  "state_change": 1.0,
+  "key_event": "1859 Liberal Reforms and 1861 Constitutional Reform",
+  "reasoning": "Liberal reforms and constitutional changes bolstered civil liberties and state centralization."
+}

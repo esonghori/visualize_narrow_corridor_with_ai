@@ -1,0 +1,8 @@
+{
+  "society_power": 9.3,
+  "state_power": 8.0,
+  "society_change": 0.3,
+  "state_change": -1.0,
+  "key_event": "Reaganomics and economic deregulation",
+  "reasoning": "Reaganomics and conservative policies strengthened civil society by reducing state intervention in the economy and social welfare, while the state's role in regulation and control was weakened."
+}

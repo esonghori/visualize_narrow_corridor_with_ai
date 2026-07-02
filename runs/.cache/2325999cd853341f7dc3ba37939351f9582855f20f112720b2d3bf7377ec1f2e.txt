@@ -1,0 +1,8 @@
+{
+  "society_power": 9.7,
+  "state_power": 9.6,
+  "key_event": "The 1926 General Strike and its aftermath.",
+  "reasoning": "The state's power receded from its wartime peak with the loss of Ireland, despite demonstrating immense domestic strength by defeating the 1926 General Strike. Society, though empowered by universal suffrage, was also checked by the strike's failure and subsequent legal restrictions on unions.",
+  "society_change": -0.3,
+  "state_change": -0.4
+}

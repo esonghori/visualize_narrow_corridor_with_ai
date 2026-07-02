@@ -1,0 +1,8 @@
+{
+  "society_power": 3.0,
+  "state_power": 5.5,
+  "key_event": "Reza Khan's coup and consolidation of centralized state power.",
+  "reasoning": "Following his 1921 coup, Reza Khan built a modern army and bureaucracy, dramatically increasing the state's capacity by crushing autonomous rivals. This centralization came at the direct expense of society's power, as tribal confederations and regional powerbrokers were systematically eliminated.",
+  "society_change": -1.0,
+  "state_change": 4.5
+}

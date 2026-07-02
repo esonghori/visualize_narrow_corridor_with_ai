@@ -1,0 +1,8 @@
+{
+  "society_power": 10.0,
+  "state_power": 10.0,
+  "key_event": "World War I expands state power and the electorate.",
+  "reasoning": "The state, already at maximum capacity, fully exercised its power through wartime measures like conscription and the Defence of the Realm Act. Concurrently, society's power also peaked, cemented by the massive expansion of the electorate in 1918 and the rise of organized labour in exchange for wartime cooperation.",
+  "society_change": 0.1,
+  "state_change": 0.0
+}

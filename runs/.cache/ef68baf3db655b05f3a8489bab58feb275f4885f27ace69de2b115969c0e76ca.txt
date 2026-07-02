@@ -1,0 +1,8 @@
+{
+  "society_power": 6.0,
+  "state_power": 7.2,
+  "key_event": "Reaction to French Revolution: radicalism vs. state repression.",
+  "reasoning": "The British state was a powerful fiscal-military entity, effectively funding war and suppressing dissent. At the same time, a vibrant print culture and radical societies spurred by events in France demonstrated a significant, though ultimately curtailed, capacity for societal mobilization.",
+  "society_change": 0.0,
+  "state_change": 0.0
+}

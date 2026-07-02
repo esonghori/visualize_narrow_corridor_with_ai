@@ -1,0 +1,8 @@
+{
+  "society_power": 8.5,
+  "state_power": 8.9,
+  "society_change": -1.0,
+  "state_change": 0.6,
+  "key_event": "Thatcher's economic and labor reforms",
+  "reasoning": "Thatcher's reforms weakened civil society through economic liberalization and union decline, while strengthening state power through increased economic and military influence."
+}

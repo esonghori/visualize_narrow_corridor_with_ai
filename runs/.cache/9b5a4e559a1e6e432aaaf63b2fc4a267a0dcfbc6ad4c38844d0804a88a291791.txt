@@ -1,0 +1,8 @@
+{
+  "society_power": 8.0,
+  "state_power": 8.0,
+  "key_event": "Constitutional reforms remove Pinochet-era authoritarian enclaves.",
+  "reasoning": "The state consolidated its power by removing the military's constitutional tutelage, while society's power surged with Pinochet's arrest, the subsequent judicial reckoning, and massive student protests.",
+  "society_change": 0.5,
+  "state_change": 1.0
+}

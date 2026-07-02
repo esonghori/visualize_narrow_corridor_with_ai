@@ -1,0 +1,8 @@
+{
+  "society_power": 7.5,
+  "state_power": 7.0,
+  "key_event": "Seize Mai crisis confirms parliamentary supremacy over the executive.",
+  "reasoning": "The state collapsed and was rebuilt on a republican foundation with effective coercive capacity, while organized republican society achieved a decisive victory in the Seize Mai crisis, institutionalizing its control over the state through a powerful legislature.",
+  "society_change": 1.5,
+  "state_change": 0.2
+}

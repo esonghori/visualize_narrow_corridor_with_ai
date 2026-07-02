@@ -1,0 +1,26 @@
+Based on Acemoğlu and Robinson's framework, here are the major historical events and trends in France from 1809-1818 that affected the balance of power between the state and civil society.
+
+### Trends:
+
+*   **Entrenchment of the Napoleonic Centralized State:** The bureaucratic and legal apparatus of the First Empire (prefects, Gendarmerie, the Civil Code, centralized taxation) became the default mode of governance, surviving Napoleon's fall. This slow institutional consolidation created a permanent, powerful state infrastructure independent of the specific regime.
+    *   **Effect:** Massively strengthened the state's administrative capacity; weakened society's local autonomy.
+
+*   **War-Weariness and Demographic Drain:** Over a decade of relentless, large-scale conscription created profound exhaustion and demographic losses across French society, particularly in rural areas. This long-term trend fostered quiet but deep-seated opposition to the demands of the imperial war machine.
+    *   **Effect:** Weakened society through human cost; eventually weakened the state by eroding its base of popular support and manpower.
+
+*   **Solidification of a Land-Owning Bourgeoisie and Peasantry:** The legal guarantee of property rights, including for lands confiscated during the Revolution (*biens nationaux*), became an unshakeable social and economic reality. This created a large, influential class with a vested interest in the rule of law and stability, distinct from the old aristocracy.
+    *   **Effect:** Strengthened a crucial segment of society by giving it a secure economic foundation and a powerful incentive to engage with and constrain the state.
+
+### Events:
+
+*   **The Russian Campaign (1812) and the War of the Sixth Coalition (1813-14):** The catastrophic destruction of the *Grande Armée* and the subsequent invasion of France constituted a discrete, devastating military failure. This shattered the state's primary coercive tool and its myth of invincibility.
+    *   **Effect:** Dramatically weakened the state's military power, leading to its collapse.
+
+*   **The First Restoration and the Constitutional Charter (1814):** The return of the Bourbons was accompanied by the *Charte*, a royal constitution that, while granted from above, established a bicameral legislature, guaranteed individual liberties, and confirmed property rights. It created a new institutional arena for political contestation.
+    *   **Effect:** Weakened the state's potential for absolute despotism; strengthened elite society by granting it formal representative power.
+
+*   **The Hundred Days and the Battle of Waterloo (1815):** Napoleon's brief return and final defeat triggered a political crisis. His ability to rally support demonstrated deep divisions within society, but his ultimate failure led to a harsher peace and a more reactionary domestic settlement.
+    *   **Effect:** Its failure resulted in a purge of Bonapartists and a foreign occupation, which severely weakened oppositional elements in society while strengthening the restored state's resolve to use coercive power.
+
+*   **The "White Terror" (1815):** Following the Hundred Days, a wave of violent, often extra-legal, reprisals was carried out by ultra-royalists against perceived Bonapartists and revolutionaries. This was a specific period of political persecution.
+    *   **Effect:** Strengthened the restored state's (and its allies') coercive grip by violently suppressing dissent; weakened society by atomizing and terrorizing opposition.

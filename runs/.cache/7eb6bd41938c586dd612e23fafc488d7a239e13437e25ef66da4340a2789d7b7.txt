@@ -1,0 +1,25 @@
+Using the framework of Acemoğlu and Robinson’s *The Narrow Corridor*, the 1920s in Iran (Persia) represent a decisive shift away from an "Absent/Paper Leviathan" (the weak, fragmented Qajar state) toward a "Despotic Leviathan" (a centralized, autocratic state under Reza Shah Pahlavi) that systematically dismantled the power of civil society to establish a monopoly of violence.
+
+### Trends:
+*   **Military Professionalization and Centralization:** The gradual amalgamation of disparate armed factions (Cossack Brigade, Gendarmerie) into a single, modernized national standing army. 
+    *   *Effect:* **Strengthened the State** (secured a true monopoly on the legitimate use of violence); **Weakened Society** (stripped regional elites and communities of self-defense capabilities).
+*   **Erosion of Parliamentary (Majles) Autonomy:** The transformation of the Majles from an active, constitutional check on the executive into a rubber-stamp body through electoral manipulation and intimidation.
+    *   *Effect:* **Weakened Society** (neutralized the primary institutional "shackle" on the executive).
+*   **Forced Disarmament and Sedentarization of Tribes:** A continuous, decade-long military campaign to disarm nomadic and semi-nomadic tribes (such as the Bakhtiari, Qashqai, and Kurds) and force them into permanent settlements.
+    *   *Effect:* **Weakened Society** (destroyed the autonomous armed power bases that historically checked royal absolutism); **Strengthened the State**.
+*   **State-Led Secularization of Law and Education:** The gradual replacement of traditional religious Sharia courts and clerical schools with state-administered civil courts (culminating in the 1928 Civil Code) and modern state-run schools.
+    *   *Effect:* **Strengthened the State** (expanded bureaucratic and legal capacity); **Weakened Society** (eroded the financial, judicial, and cultural power of the Shia clergy, a traditional societal counterweight).
+
+---
+
+### Events:
+*   **1921 Coup d’état (February 21, 1921):** Reza Khan (later Reza Shah) and Zia'eddin Tabatabaee overthrew the Qajar cabinet in Tehran with the help of the Cossack Brigade.
+    *   *Effect:* **Strengthened the State** (established a highly centralized, military-backed executive authority after years of near-anarchy).
+*   **Crushing of Sheikh Khaz’al’s Rebellion (1924):** The military defeat and arrest of Sheikh Khaz'al of Mohammerah (modern Khorramshahr), who had ruled oil-rich Khuzestan with British-backed autonomy.
+    *   *Effect:* **Strengthened the State** (asserted fiscal and territorial control over vital oil lands); **Weakened Society** (eliminated the country's most powerful autonomous regional ruler).
+*   **Deposition of the Qajar Dynasty and Coronation of Reza Shah (October–December 1925):** The Majles formally deposed the last Qajar monarch, and Reza Khan was crowned Shah, establishing the Pahlavi dynasty.
+    *   *Effect:* **Strengthened the State** (institutionalized and legitimized autocratic executive power, moving Iran decisively down the path of the Despotic Leviathan).
+*   **Passage of the Compulsory Military Service Act (May 1925):** The enactment of two-year mandatory military conscription for all adult males.
+    *   *Effect:* **Strengthened the State** (massively expanded coercive capacity and national integration); **Weakened Society** (bypassed local tribal/clerical authorities to directly conscript youth).
+*   **Enactment of the Uniform Dress Law (December 1928):** A state decree mandating Western-style clothing and the "Pahlavi hat" for all Persian men, outlawing traditional ethnic and regional garments.
+    *   *Effect:* **Strengthened the State** (demonstrated a new, intrusive capacity to regulate the private lives of citizens); **Weakened Society** (undermined traditional cultural identities and the public authority of religious leaders).

@@ -1,0 +1,35 @@
+# UK, 1829–1838: State vs. Society in the Acemoglu–Robinson Framework
+
+**Trends:**
+
+- **Industrialization and urbanization**: The continued growth of manufacturing towns (Manchester, Birmingham, Leeds) concentrated new populations and created an assertive industrial middle class and urban working class—**strengthened society** by generating new mobilizing groups and demands for representation.
+
+- **Growth of the popular press and associational life**: Expanding newspapers, political unions, and pamphleteering deepened the capacity for collective action and public opinion—**strengthened society**.
+
+- **Fiscal-administrative modernization**: The gradual professionalization of governance (culminating in reforms like centralized poor-law administration) expanded the state's administrative reach and bureaucratic capacity—**strengthened the state**.
+
+- **Rising economic distress among agricultural and industrial laborers**: Falling wages and mechanization fueled discontent, feeding movements like the emerging Chartist and trade-union agitation—**strengthened society's mobilization**, while pressuring the state.
+
+- **Erosion of the old confessional/aristocratic settlement**: The long decline of exclusive Anglican-aristocratic monopoly on politics set the stage for enfranchisement of new groups—**shifted power toward society**.
+
+**Events:**
+
+- **Catholic Emancipation Act (1829)**: Removed most civil disabilities on Catholics, following mass mobilization (O'Connell's Catholic Association)—**strengthened society** (demonstrated concessions could be extracted) while showing the state adapting.
+
+- **Metropolitan Police Act (1829)**: Peel's creation of the London police established a permanent, centralized coercive apparatus—**strengthened the state** (enhanced monopoly on order).
+
+- **Swing Riots (1830–1831)**: Agrarian uprisings against mechanization and low wages; suppressed by state force but signaled rural society's capacity for disruption—**mobilized society**, prompted **state repression**.
+
+- **Great Reform Act (1832)**: Redistributed seats to industrial towns and expanded the franchise to more middle-class men after intense extra-parliamentary pressure—**strengthened society** by broadening representation, though it excluded the working class.
+
+- **Abolition of Slavery Act (1833)**: Product of sustained civil-society campaigning—**strengthened society's** demonstrated influence over policy.
+
+- **Factory Act (1833)**: Regulated child labor and introduced inspectors—**strengthened both**: the state's regulatory reach and society's protective claims.
+
+- **Poor Law Amendment Act (1834)**: Centralized and disciplined poor relief via workhouses and a national commission—**strengthened the state's** administrative power, provoking societal backlash.
+
+- **Municipal Corporations Act (1835)**: Reformed and standardized local government, opening town councils to elected ratepayers—**strengthened both** local state capacity and civic participation.
+
+- **Publication of the People's Charter (1838)**: Launched Chartism, articulating working-class demands (universal male suffrage, secret ballot)—**strengthened society's** organized mass mobilization.
+
+*Caveat: Acemoglu and Robinson use this era as a case of Britain moving within "the corridor"—balanced growth of state and society through contested reform rather than either overwhelming the other.*

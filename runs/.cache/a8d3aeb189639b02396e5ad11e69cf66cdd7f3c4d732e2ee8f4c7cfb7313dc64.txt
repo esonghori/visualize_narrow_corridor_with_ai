@@ -1,0 +1,1 @@
+{"society_power":4.0,"state_power":1.0,"key_event":"Dissolution of Majles, WWI occupation, and the Great Famine","reasoning":"Foreign occupation, the destruction of the Majles, and a devastating famine crushed civil society's cohesion and reduced the state to a completely bankrupt, powerless entity.","society_change":-3.0,"state_change":-1.0}

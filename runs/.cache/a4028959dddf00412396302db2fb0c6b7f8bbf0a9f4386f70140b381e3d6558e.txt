@@ -1,0 +1,8 @@
+{
+  "society_power": 4.5,
+  "state_power": 4.5,
+  "key_event": "KMT's Northern Expedition and establishment of Nanjing government.",
+  "reasoning": "The Northern Expedition forged a new, functional central state out of the warlord-era collapse, dramatically increasing state power. This new KMT state then violently suppressed organized labor and communists in the 1927 Shanghai Massacre, significantly weakening a newly mobilized civil society.",
+  "society_change": -1.0,
+  "state_change": 3.5
+}

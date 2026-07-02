@@ -1,0 +1,8 @@
+{
+  "society_power": 7.0,
+  "state_power": 8.0,
+  "key_event": "Founding of the CUT consolidates labor and women gain suffrage.",
+  "reasoning": "The state's repressive power grew with the anti-communist 'Ley Maldita,' but its overall administrative capacity was weakened by chronic economic failure. Conversely, despite repression, society's power increased significantly with the unification of the labor movement into the CUT and the massive expansion of the electorate through women's suffrage.",
+  "society_change": 0.5,
+  "state_change": -0.5
+}

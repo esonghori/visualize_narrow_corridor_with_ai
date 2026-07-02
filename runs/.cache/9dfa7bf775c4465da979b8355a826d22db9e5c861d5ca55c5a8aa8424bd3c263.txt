@@ -1,0 +1,8 @@
+{
+  "society_power": 6.0,
+  "state_power": 6.8,
+  "society_change": 1.8,
+  "state_change": -1.5,
+  "key_event": "Rise of Reform Movement and Khatami's Election",
+  "reasoning": "The reform movement and Khatami's election significantly bolstered civil society, while the state's control was challenged by increased activism and liberalization."
+}

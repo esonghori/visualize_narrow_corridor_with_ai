@@ -1,0 +1,8 @@
+{
+  "society_power": 2.5,
+  "state_power": 8.0,
+  "society_change": -1.0,
+  "state_change": 0.5,
+  "key_event": "Cultural Revolution and Great Leap Forward Famine",
+  "reasoning": "The Great Leap Forward famine weakened civil society, while the Cultural Revolution initially disrupted but ultimately strengthened state control."
+}

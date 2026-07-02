@@ -1,0 +1,8 @@
+{
+  "society_power": 6.3,
+  "state_power": 7.8,
+  "key_event": "Napoleonic Wars drive state expansion and first income tax.",
+  "reasoning": "The state's power grew significantly from the demands of war, marked by the first income tax and the Act of Union with Ireland. Simultaneously, civil society proved its influence with the successful mass campaign to abolish the slave trade, though state power grew more rapidly.",
+  "society_change": 0.3,
+  "state_change": 0.6
+}

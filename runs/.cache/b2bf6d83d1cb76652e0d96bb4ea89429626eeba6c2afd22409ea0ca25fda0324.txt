@@ -1,0 +1,8 @@
+{
+  "society_power": 8.5,
+  "state_power": 7.8,
+  "key_event": "Liberal laws grant press freedom and legalize trade unions.",
+  "reasoning": "Society's power surged due to foundational laws legalizing trade unions and guaranteeing press freedom, creating powerful new checks on the state. Simultaneously, the state strengthened its administrative capacity and reach through the creation of a national secular education system (Ferry Laws) and aggressive colonial expansion.",
+  "society_change": 1.0,
+  "state_change": 0.8
+}

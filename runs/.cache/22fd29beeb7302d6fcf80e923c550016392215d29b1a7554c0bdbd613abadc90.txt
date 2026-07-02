@@ -1,0 +1,23 @@
+Based on Acemoglu and Robinson's framework, here are the major trends and events in Iran from 1920-1929 that affected the balance of power between the state and society. This period is defined by the rapid construction of a centralized state at the expense of powerful societal actors, moving Iran from a condition of an "Absent Leviathan" towards a "Despotic Leviathan."
+
+### Trends:
+
+*   **Creation of a Unified National Army:** Over the decade, Reza Khan systematically built a modern, centralized, and loyal military, replacing the fragmented and unreliable Qajar-era forces. This was the primary instrument for state-building.
+    *   **Effect:** Massively **strengthened the state's** coercive capacity while **weakening society** by crushing autonomous societal power centers like tribal confederations and regional warlords.
+*   **Expansion of Centralized Bureaucracy and Fiscal Capacity:** The new regime established new ministries, a national tax system, and a national bank, extending the central government's reach into areas of life previously managed by local, religious, or tribal authorities.
+    *   **Effect:** **Strengthened the state** by giving it the administrative and financial tools to implement policy and extract resources directly from the population, bypassing and thus **weakening traditional societal intermediaries.**
+*   **Rise of State-Sponsored Secular Nationalism:** The regime promoted an ideology centered on the Iranian nation and its pre-Islamic past. This was disseminated through new secular schools and propaganda, seeking to create a uniform national identity loyal to the central state.
+    *   **Effect:** **Strengthened the state** by creating a unifying ideology that superseded religious and ethnic loyalties, which had been major sources of societal power. This simultaneously **weakened societal groups** (clergy, tribes) whose authority was based on those alternative identities.
+*   **Development of Modern Infrastructure:** A slow but steady program of building roads, bridges, and telegraph lines began in this period, physically connecting the country's disparate regions to the capital.
+    *   **Effect:** **Strengthened the state** by enabling it to project military power, collect taxes, and disseminate information more effectively into the provinces, eroding the geographic isolation that had long empowered local societal actors.
+
+### Events:
+
+*   **The 1921 Coup d'état:** Reza Khan, as head of the Cossack Brigade, marched on Tehran and installed himself as Minister of War in a new government, effectively seizing control of the state's military apparatus.
+    *   **Effect:** Instantly and dramatically **strengthened the state's** potential power by placing a ruthlessly effective centralizer in command of its primary coercive tool.
+*   **Suppression of Regional and Tribal Revolts (1921-1925):** Reza Khan’s new army systematically defeated major autonomous powers, including Simko Shikak in Kurdistan, the Jangalis in Gilan, and, most importantly, Sheikh Khaz’al in the oil-rich province of Khuzestan (1924).
+    *   **Effect:** A clear demonstration of the new Leviathan's power. It **strengthened the state** by eliminating direct challengers to its sovereignty and securing control over national territory and resources, while decisively **weakening society's** most powerful armed elements.
+*   **Deposition of the Qajar Dynasty (1925):** The Majles (parliament), under heavy pressure, formally deposed the last Qajar shah, Ahmad Shah, and a constituent assembly subsequently named Reza Khan the new shah, founding the Pahlavi dynasty.
+    *   **Effect:** **Strengthened the state** by replacing a weak, ineffective, and delegitimized institution of leadership with a dynamic and powerful one, consolidating the new centralized authority under a single ruler.
+*   **Abolition of Capitulations (1928):** The government unilaterally abolished the system of extraterritorial legal rights for foreign nationals, asserting that Iranian state law was supreme for everyone within its borders.
+    *   **Effect:** **Strengthened the state** by affirming its national sovereignty against foreign powers, removing an external check on its authority and enhancing its legal monopoly within its territory.

@@ -1,0 +1,31 @@
+# Chile, 1848–1857: State and Society in the Narrow Corridor Framework
+
+**Trends:**
+
+- **Economic expansion from mineral exports and the California/Australia grain boom** — The silver strike at Chañarcillo (ongoing since 1832) and, more importantly, the wheat export boom to California (post-1848 Gold Rush) and later Australia generated substantial state revenue and enriched a landowning and mercantile elite. This strengthened the state (fiscal capacity) but reinforced a hierarchical rural society, arguably keeping society narrow/dependent.
+
+- **Consolidation of the Portalian constitutional order (1833 Constitution)** — Throughout this decade the strong, centralized, authoritarian-presidential state built under Diego Portales matured institutionally, with regularized elections (managed by the executive), a professional bureaucracy, and civilian control. This strengthened the state, often at the expense of autonomous society.
+
+- **Growth of a landed oligarchy and inquilinaje (tenant labor) in the Central Valley** — Wheat prosperity entrenched large estates and dependent labor relations, weakening the autonomy and organizational capacity of the rural popular classes (weak society).
+
+- **Emergence of a liberal/reformist intelligentsia and incipient civil associations** — Influenced by 1848 European revolutions, figures around the *Sociedad de la Igualdad* (founded 1850, Francisco Bilbao, Santiago Arcos) articulated demands for broader participation. This represented a modest strengthening of civil society's mobilizational capacity.
+
+- **Railroad and infrastructure development** (e.g., Copiapó–Caldera line, 1851) — Expanded state reach, market integration, and administrative penetration; strengthened state and economy.
+
+**Events:**
+
+- **Founding and suppression of the Sociedad de la Igualdad (1850)** — This artisan/liberal association briefly organized popular political engagement; its repression by the Bulnes/Montt government weakened an emergent civil society and demonstrated state dominance.
+
+- **The 1851 Revolution / Civil War** — Provoked by the contested election of Manuel Montt, revolts erupted in La Serena and Concepción. The government's military victory decisively strengthened the centralized state and crushed regional and liberal opposition (weakened society).
+
+- **Election of Manuel Montt (1851, re-elected 1856)** — Continuation of authoritarian-presidential rule under a civilian president; consolidated executive/state power.
+
+- **The 1859 revolt's precursors — mounting elite splits (mid-1850s)** — Growing friction between government and Church (the "sacristan question," 1856) and among conservative factions began fracturing the ruling coalition, seeding later liberal-conservative realignment; this modestly opened space for oppositional political society.
+
+- **Promulgation of the Civil Code (1855, effective 1857, drafted by Andrés Bello)** — A landmark codification that rationalized law, secured property rights, and enhanced state legal capacity and administrative coherence (strengthened state).
+
+---
+
+**Caveat:** Acemoğlu and Robinson do not, to my knowledge, treat Chile's 1848–1857 period as a specific worked example in *The Narrow Corridor*. The above applies their **state capacity vs. societal power** analytic to the historical record. In their terms, this decade shows a **relatively strong, centralizing state (Leviathan) outpacing a weak, hierarchically constrained society** — closer to a "Despotic Leviathan" trajectory than movement into the corridor of "Shackled Leviathan."
+
+If you're drawing on a specific course text or dataset that pairs *The Narrow Corridor* with Chilean chronology, let me know and I can align more precisely.

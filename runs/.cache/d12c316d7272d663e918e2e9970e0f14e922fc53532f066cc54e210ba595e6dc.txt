@@ -1,0 +1,8 @@
+{
+  "society_power": 9.7,
+  "state_power": 9.8,
+  "key_event": "Third Reform Act of 1884 enfranchises most adult men.",
+  "reasoning": "The Third Reform Act massively expanded society's formal power by extending the franchise to most men. Simultaneously, the state's administrative and coercive capacity grew through imperial expansion, local government reform, and the use of Coercion Acts in Ireland, pushing both powers to near-peak levels.",
+  "society_change": 0.3,
+  "state_change": 0.2
+}

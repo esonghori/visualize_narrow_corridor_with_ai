@@ -1,0 +1,43 @@
+# The Narrow Corridor Framework Applied to the US, 1919–1928
+
+In Acemoğlu and Robinson's terms, liberty requires a balance where a strong "Shackled Leviathan" state and a mobilized society check each other. Below, items are assessed by whether they strengthened or weakened state or society (and thus the balance in the "corridor").
+
+## Trends
+
+- **Great Migration (Black Southerners northward):** Ongoing demographic shift reshaped urban political constituencies and built the base for future civil-society organizing (NAACP, urban Black churches). *Strengthened society (long-run), though Northern segregation constrained it.*
+
+- **Expansion of the administrative/regulatory state:** Continued growth of federal agencies (e.g., Commerce Dept. under Hoover, Bureau of the Budget after the 1921 Budget and Accounting Act). *Strengthened state capacity, especially fiscal-administrative.*
+
+- **Rapid industrialization and consumer economy:** Mass production (autos, electrification, radio), rising corporate concentration. *Strengthened economic elites/corporate power; ambiguous for state; weakened labor's countervailing power.*
+
+- **Decline of organized labor:** Union membership fell sharply through the decade amid "welfare capitalism," open-shop ("American Plan") drives, and hostile courts. *Weakened a key pillar of civil society.*
+
+- **Rise of mass media and national culture:** Radio, national advertising, and mass-circulation press created shared public sphere—capable of both mobilizing and homogenizing society. *Ambiguous; potential to strengthen society's coordination.*
+
+- **Nativism and immigration restriction as ideology:** Sustained anti-immigrant and racial hierarchy sentiment normalized exclusionary state action. *Strengthened despotic tendencies; weakened pluralistic society.*
+
+- **Growth of professional/associational civil society:** Expansion of civic groups, women's clubs, and reform associations post-suffrage. *Strengthened society's organizational density.*
+
+## Events
+
+- **19th Amendment ratified (1920):** Enfranchised women nationally—a major expansion of the political nation. *Strengthened society's inclusiveness and voice.*
+
+- **First Red Scare & Palmer Raids (1919–1920):** Mass arrests/deportations of suspected radicals; suppression of dissent. *Strengthened coercive/despotic state; weakened society (speech, association).*
+
+- **1919 strike wave** (Seattle General Strike, Boston Police Strike, Steel Strike): Militant labor action met with suppression. *Attempted society mobilization, largely defeated—net weakening of labor.*
+
+- **Emergency Quota Act (1921) & Johnson–Reed Immigration Act (1924):** National-origins quotas and Asian exclusion. *Strengthened state gatekeeping power along ethnic lines; weakened pluralism.*
+
+- **Revived Ku Klux Klan (peak mid-1920s):** Mass membership, including outside the South, exerting extralegal coercion and electoral influence. *A form of "despotic" society power that undermined liberty for targeted groups.*
+
+- **Prohibition (18th Amendment/Volstead Act enforcement, from 1920):** Vast new federal enforcement apparatus; spawned organized crime and normalized evasion. *Strengthened state's reach nominally but exposed enforcement limits.*
+
+- **Teapot Dome scandal (surfacing 1922–1924):** Corruption in federal oil-lease dealings. *Revealed state capture by private interests; press/Congressional exposure showed society/institutional checks operating.*
+
+- **Sacco and Vanzetti case (1920–1927 execution):** Prosecution and execution amid anti-radical, anti-immigrant sentiment galvanized protest. *Illustrated despotic state pressure; catalyzed civil-society mobilization.*
+
+- **Snyder Act / Indian Citizenship Act (1924):** Granted citizenship to Native Americans. *Nominal expansion of inclusion (though state control over tribes persisted).*
+
+---
+
+**Interpretive note:** For Acemoğlu and Robinson, the 1920s show the US state gaining administrative and coercive capacity while much of society's countervailing power (labor, immigrant communities, dissenters) was suppressed—a tilt away from the balanced "corridor," partially offset by suffrage expansion and persistent associational life.

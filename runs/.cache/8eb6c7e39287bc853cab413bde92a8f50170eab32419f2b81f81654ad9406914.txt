@@ -1,0 +1,8 @@
+{
+  "society_power": 8.9,
+  "state_power": 9.6,
+  "key_event": "Rise of social media, protest movements, and deep polarization.",
+  "reasoning": "State power was revealed as overwhelmingly high by surveillance disclosures, even as legislative gridlock persisted. Society's ability to mobilize surged with new movements, but its overall power to check the state was undermined by intense polarization and inequality.",
+  "society_change": -0.5,
+  "state_change": 0.1
+}

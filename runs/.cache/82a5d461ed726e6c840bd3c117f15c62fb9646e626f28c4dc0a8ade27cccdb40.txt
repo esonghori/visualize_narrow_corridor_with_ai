@@ -1,0 +1,8 @@
+{
+  "society_power": 8.8,
+  "state_power": 7.1,
+  "key_event": "Jacksonian democracy and assertion of federal executive power.",
+  "reasoning": "Society's power surged with the expansion of white male suffrage and the rise of mass political parties, creating unprecedented mobilization. Simultaneously, President Jackson dramatically increased the state's power by crushing the Nullification movement and the National Bank, asserting federal and executive supremacy.",
+  "society_change": 0.6,
+  "state_change": 0.7
+}

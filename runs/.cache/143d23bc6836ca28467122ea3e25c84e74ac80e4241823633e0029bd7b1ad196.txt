@@ -1,0 +1,8 @@
+{
+  "society_power": 1.5,
+  "state_power": 8.0,
+  "key_event": "Iran-Iraq War and consolidation of the revolutionary state.",
+  "reasoning": "The Iran-Iraq War provided the context for the new Islamic Republic to build a powerful, pervasive coercive apparatus (IRGC, Basij) while systematically crushing all forms of political and social opposition. This caused state power to skyrocket from its post-revolutionary collapse, while the vibrant civil society that made the revolution was effectively atomized.",
+  "society_change": -6.0,
+  "state_change": 6.5
+}
