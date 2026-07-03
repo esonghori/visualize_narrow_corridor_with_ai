@@ -29,9 +29,9 @@ LO, HI = 0.0, 10.0  # fixed rubric quadrant, origin-anchored like the book's fig
 # (x, y) in society/state units; ha/va chosen so text sits inside its zone.
 REGIONS = [
     ("Despotic\nLeviathan", 1.5, 8.7, "left"),
-    ("Shackled\nLeviathan", 5.0, 5.9, "left"),   # lower-mid corridor, clear of the end-point cluster
-    ("Paper\nLeviathan", 1.5, 3.3, "left"),
-    ("Absent\nLeviathan", 6.8, 1.3, "center"),
+    ("Shackled\nLeviathan", 7.0, 7.0, "center"),  # in the corridor by the US/UK cluster
+    ("Paper\nLeviathan", 1.0, 5.0, "left"),
+    ("Absent\nLeviathan", 5.0, 1.0, "center"),
 ]
 
 
