@@ -109,10 +109,10 @@ studies subsections.
 Then build the **ensemble (mean-across-models) atlas** — Figure 2 in the paper:
 
 ```bash
-uv run python paper/experiments/ensemble.py
+uv run python paper/experiments/ensemble.py --gif   # --gif also renders the animations for the gallery
 ```
 
-Writes `paper/experiments/results/<country>__ensemble-mean.{json,png}`, averaging
+Writes `paper/experiments/results/<country>__ensemble-mean.{json,png,gif}`, averaging
 society/state power across all available models per period (reference-model key
 events supply the turn labels). This is the paper's headline reading; the
 single-model atlas (Fig. 1) stays for legibility.

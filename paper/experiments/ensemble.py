@@ -12,6 +12,7 @@ atlas figure includes these panels. No LLM calls.
 
 from __future__ import annotations
 
+import argparse
 from statistics import fmean
 
 from analysis import REF_MODEL, load_runs
@@ -22,6 +23,11 @@ from run_experiments import COUNTRIES, RUNS_DIR, slug
 
 
 def main() -> None:
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--gif", action="store_true",
+                    help="Also render the ensemble animation (needed for the gallery).")
+    args = ap.parse_args()
+
     by_country = load_runs()
     if not by_country:
         print(f"No runs in {RUNS_DIR}. Run run_experiments.py first.")
@@ -46,6 +52,9 @@ def main() -> None:
         stem = f"{slug(country)}__ensemble-mean"
         save_path(mean, RUNS_DIR / f"{stem}.json")
         plot_path(mean, RUNS_DIR / f"{stem}.png")
+        if args.gif:
+            from narrow_corridor.animate import animate_path
+            animate_path(mean, RUNS_DIR / f"{stem}.gif")
         print(f"{country:16} mean over {len(models)} models, {len(common)} periods -> {stem}.png")
 
 
