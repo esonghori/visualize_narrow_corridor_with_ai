@@ -1,0 +1,156 @@
+======================================================================
+(1) EVENTS-AND-TRENDS PROMPT  [chain-of-thought, step 1]
+======================================================================
+Considering Daron Acemoglu and James A. Robinson's framework in *The Narrow
+Corridor: States, Societies, and the Fate of Liberty*, identify the major
+historical events and trends in United Kingdom during 1829-1838 that materially
+affected EITHER the power of the state OR the power of civil society.
+
+Be concrete and specific to 1829-1838. Distinguish slow-moving trends
+(institutional, economic, demographic) from discrete events. For each item, note
+briefly whether it strengthened or weakened the state, society, or both.
+
+Respond with two short bulleted lists:
+
+Trends:
+- ...
+
+Events:
+- ...
+
+======================================================================
+(2) MODEL RESPONSE  [events and trends]
+======================================================================
+# UK, 1829-1838: State vs. Society in the Acemoglu-Robinson Framework
+
+**Trends:**
+
+- **Industrialization and urbanization**: The continued growth of manufacturing towns (Manchester, Birmingham, Leeds) concentrated new populations and created an assertive industrial middle class and urban working class--**strengthened society** by generating new mobilizing groups and demands for representation.
+
+- **Growth of the popular press and associational life**: Expanding newspapers, political unions, and pamphleteering deepened the capacity for collective action and public opinion--**strengthened society**.
+
+- **Fiscal-administrative modernization**: The gradual professionalization of governance (culminating in reforms like centralized poor-law administration) expanded the state's administrative reach and bureaucratic capacity--**strengthened the state**.
+
+- **Rising economic distress among agricultural and industrial laborers**: Falling wages and mechanization fueled discontent, feeding movements like the emerging Chartist and trade-union agitation--**strengthened society's mobilization**, while pressuring the state.
+
+- **Erosion of the old confessional/aristocratic settlement**: The long decline of exclusive Anglican-aristocratic monopoly on politics set the stage for enfranchisement of new groups--**shifted power toward society**.
+
+**Events:**
+
+- **Catholic Emancipation Act (1829)**: Removed most civil disabilities on Catholics, following mass mobilization (O'Connell's Catholic Association)--**strengthened society** (demonstrated concessions could be extracted) while showing the state adapting.
+
+- **Metropolitan Police Act (1829)**: Peel's creation of the London police established a permanent, centralized coercive apparatus--**strengthened the state** (enhanced monopoly on order).
+
+- **Swing Riots (1830-1831)**: Agrarian uprisings against mechanization and low wages; suppressed by state force but signaled rural society's capacity for disruption--**mobilized society**, prompted **state repression**.
+
+- **Great Reform Act (1832)**: Redistributed seats to industrial towns and expanded the franchise to more middle-class men after intense extra-parliamentary pressure--**strengthened society** by broadening representation, though it excluded the working class.
+
+- **Abolition of Slavery Act (1833)**: Product of sustained civil-society campaigning--**strengthened society's** demonstrated influence over policy.
+
+- **Factory Act (1833)**: Regulated child labor and introduced inspectors--**strengthened both**: the state's regulatory reach and society's protective claims.
+
+- **Poor Law Amendment Act (1834)**: Centralized and disciplined poor relief via workhouses and a national commission--**strengthened the state's** administrative power, provoking societal backlash.
+
+- **Municipal Corporations Act (1835)**: Reformed and standardized local government, opening town councils to elected ratepayers--**strengthened both** local state capacity and civic participation.
+
+- **Publication of the People's Charter (1838)**: Launched Chartism, articulating working-class demands (universal male suffrage, secret ballot)--**strengthened society's** organized mass mobilization.
+
+*Caveat: Acemoglu and Robinson use this era as a case of Britain moving within "the corridor"--balanced growth of state and society through contested reform rather than either overwhelming the other.*
+
+======================================================================
+(3) SCORING PROMPT  [step 2; embeds the shared rubric + trajectory so far]
+======================================================================
+You are placing the country of United Kingdom in the 2D space of Acemoglu and
+Robinson's *The Narrow Corridor*: the x-axis is the power of civil society and
+the y-axis is the power of the state. We are tracing the path from 1789
+to 2020.
+
+Use this fixed 0-10 rubric so values are comparable across periods and countries.
+
+STATE POWER -- the capacity of the state to enforce its will, administer
+territory, collect taxes, and project authority:
+  0-2  collapsed / nonexistent: no effective central authority.
+  3-4  weak: limited reach, contested control, depends on local powerbrokers.
+  5-6  moderate: functioning bureaucracy and military with real but bounded reach.
+  7-8  strong: pervasive administration, effective coercion and revenue capacity.
+  9-10 overwhelming: near-total penetration of society; little it cannot enforce.
+
+SOCIETY POWER -- the capacity of civil society to organize, mobilize, hold the
+state accountable, and resist domination (norms, associations, press, protest,
+independent institutions):
+  0-2  atomized: no autonomous organization; collective action near-impossible.
+  3-4  weak: sporadic, easily suppressed mobilization.
+  5-6  moderate: real associational life and periodic effective mobilization.
+  7-8  strong: dense civic institutions routinely constraining the state.
+  9-10 dominant: society pervasively shapes and checks state action.
+
+Guidance for objectivity:
+- Judge each period on its own terms; do not assume the country trends toward
+  liberty, autocracy, or any particular corner of the space.
+- Weigh evidence both for and against a shift before settling on a number.
+- Avoid presentism: score by the standards and information of the period, not
+  by how things turned out later.
+- These two axes are independent: a strong state can coexist with a strong or a
+  weak society. Score them separately.
+
+Score the period 1829-1838, building on the established trajectory. Start
+from where United Kingdom stood at the end of 1819-1828, then apply the
+changes implied by the events and trends below. Report both the per-axis change
+and the resulting absolute values (anchored to the rubric, not just to the prior
+point). A period with little real change should show changes near 0.0.
+
+Historical events and trends in 1829-1838:
+# UK, 1829-1838: State vs. Society in the Acemoglu-Robinson Framework
+
+**Trends:**
+
+- **Industrialization and urbanization**: The continued growth of manufacturing towns (Manchester, Birmingham, Leeds) concentrated new populations and created an assertive industrial middle class and urban working class--**strengthened society** by generating new mobilizing groups and demands for representation.
+
+- **Growth of the popular press and associational life**: Expanding newspapers, political unions, and pamphleteering deepened the capacity for collective action and public opinion--**strengthened society**.
+
+- **Fiscal-administrative modernization**: The gradual professionalization of governance (culminating in reforms like centralized poor-law administration) expanded the state's administrative reach and bureaucratic capacity--**strengthened the state**.
+
+- **Rising economic distress among agricultural and industrial laborers**: Falling wages and mechanization fueled discontent, feeding movements like the emerging Chartist and trade-union agitation--**strengthened society's mobilization**, while pressuring the state.
+
+- **Erosion of the old confessional/aristocratic settlement**: The long decline of exclusive Anglican-aristocratic monopoly on politics set the stage for enfranchisement of new groups--**shifted power toward society**.
+
+**Events:**
+
+- **Catholic Emancipation Act (1829)**: Removed most civil disabilities on Catholics, following mass mobilization (O'Connell's Catholic Association)--**strengthened society** (demonstrated concessions could be extracted) while showing the state adapting.
+
+- **Metropolitan Police Act (1829)**: Peel's creation of the London police established a permanent, centralized coercive apparatus--**strengthened the state** (enhanced monopoly on order).
+
+- **Swing Riots (1830-1831)**: Agrarian uprisings against mechanization and low wages; suppressed by state force but signaled rural society's capacity for disruption--**mobilized society**, prompted **state repression**.
+
+- **Great Reform Act (1832)**: Redistributed seats to industrial towns and expanded the franchise to more middle-class men after intense extra-parliamentary pressure--**strengthened society** by broadening representation, though it excluded the working class.
+
+- **Abolition of Slavery Act (1833)**: Product of sustained civil-society campaigning--**strengthened society's** demonstrated influence over policy.
+
+- **Factory Act (1833)**: Regulated child labor and introduced inspectors--**strengthened both**: the state's regulatory reach and society's protective claims.
+
+- **Poor Law Amendment Act (1834)**: Centralized and disciplined poor relief via workhouses and a national commission--**strengthened the state's** administrative power, provoking societal backlash.
+
+- **Municipal Corporations Act (1835)**: Reformed and standardized local government, opening town councils to elected ratepayers--**strengthened both** local state capacity and civic participation.
+
+- **Publication of the People's Charter (1838)**: Launched Chartism, articulating working-class demands (universal male suffrage, secret ballot)--**strengthened society's** organized mass mobilization.
+
+*Caveat: Acemoglu and Robinson use this era as a case of Britain moving within "the corridor"--balanced growth of state and society through contested reform rather than either overwhelming the other.*
+
+Trajectory so far (period: <society_power, state_power>):
+1789-1798: <6.0, 6.5>
+1799-1808: <5.5, 7.5>
+1809-1818: <5.5, 7.5>
+1819-1828: <6.5, 7.5>
+
+Return a JSON object with exactly these fields:
+- society_power (float, 0-10): absolute society power at the end of 1829-1838
+- state_power (float, 0-10): absolute state power at the end of 1829-1838
+- society_change (float): society_power change vs. 1819-1828
+- state_change (float): state_power change vs. 1819-1828
+- key_event (string, <= ~10 words: the defining event/trend driving the change)
+- reasoning (string, 1-2 sentences justifying the values)
+
+======================================================================
+(4) MODEL RESPONSE  [validated against the PeriodScore JSON schema]
+======================================================================
+{"society_power": 7.5, "state_power": 8.0, "society_change": 1.0, "state_change": 0.5, "key_event": "Great Reform Act (1832) and rise of mass mobilization", "reasoning": "Society surged as Catholic Emancipation, the Reform Act, abolition, and Chartism demonstrated dense associational life extracting concessions, while the state modernized via the Metropolitan Police, centralized Poor Law, and factory inspection\u2014balanced growth within the corridor."}

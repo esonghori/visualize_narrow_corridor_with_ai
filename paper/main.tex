@@ -16,6 +16,14 @@
 % their references and allows bottom placement.
 \usepackage{dblfloatfix}
 
+% Verbatim transcript (appendix) with line wrapping + the few non-ASCII glyphs.
+\usepackage{listings}
+\lstset{
+  basicstyle=\scriptsize\ttfamily,
+  breaklines=true, breakindent=0pt, columns=fullflexible, keepspaces=true,
+  frame=none, xleftmargin=0pt,
+}
+
 \graphicspath{{experiments/results/}{figures/}}
 
 % Numbers/claims to fill in after running experiments are wrapped so they are
@@ -295,11 +303,9 @@ additional anchors but are out of scope here.
 
 \subsection{Trajectory atlas}
 \label{sec:atlas}
-Figure~\ref{fig:uk} reads one trajectory closely, the United Kingdom under
-\texttt{claude-opus-4-8}. The full eight-country atlas for this reference model
-(and its ensemble and V-Dem counterparts) is collected at large size in
-Appendix~\ref{app:atlases}; every model's per-country panels are in the online
-gallery, with cross-model disagreement quantified in
+Figure~\ref{fig:atlas} shows the eight trajectories under \texttt{claude-opus-4-8},
+chosen as a single reference model for legibility; every model's per-country
+panels are in the online gallery, with cross-model disagreement quantified in
 Section~\ref{sec:reliability}. Read against the book's four Leviathan types, most
 placements land where the framework expects. The \textbf{United Kingdom} stays
 inside the corridor throughout, state and society rising together (the Red
@@ -328,17 +334,23 @@ rather than crossing into state dominance. Long diagonal runs
 mark co-growth; tight loops mark oscillation in contested periods; large
 single-period jumps mark ruptures.
 
-\begin{figure}[t]
+\begin{figure*}[p]
   \centering
-  \includegraphics[width=\columnwidth]{experiments/results/united-kingdom__anthropic-claude-opus-4-8.png}
-  \caption{A single trajectory read closely: the United Kingdom under
-  \texttt{claude-opus-4-8}, society power (x) vs.\ state power (y), time-shaded
-  from early (dark) to late (bright). State and society rise together along the
-  diagonal (the Red Queen), staying inside the widening corridor (dashed) the
-  whole way, a textbook Shackled Leviathan. The full eight-country atlas is in
-  Appendix~\ref{app:atlases}.}
-  \label{fig:uk}
-\end{figure}
+  % Panels match run_experiments.py slugs: <country-slug>__<model-slug>
+  \atlas{iran-persia__anthropic-claude-opus-4-8}\hfill
+  \atlas{france__anthropic-claude-opus-4-8}\\[6pt]
+  \atlas{united-kingdom__anthropic-claude-opus-4-8}\hfill
+  \atlas{united-states__anthropic-claude-opus-4-8}\\[6pt]
+  \atlas{china__anthropic-claude-opus-4-8}\hfill
+  \atlas{chile__anthropic-claude-opus-4-8}\\[6pt]
+  \atlas{colombia__anthropic-claude-opus-4-8}\hfill
+  \atlas{democratic-republic-of-the-congo__anthropic-claude-opus-4-8}
+  \caption{Trajectory atlas (reference model \texttt{claude-opus-4-8}): society
+  power (x) vs.\ state power (y) for all eight countries, time-shaded (dark $=$
+  early, bright $=$ late); dashed lines mark the book's widening corridor
+  illustratively. Animated versions are in the online gallery.}
+  \label{fig:atlas}
+\end{figure*}
 
 \subsection{Ensemble atlas (mean across models)}
 \label{sec:ensemble}
@@ -357,6 +369,24 @@ Section~\ref{sec:reliability}) and visibly smoother for the United States, where
 the models disagree most about how fast its state grew. The corridor placements
 are unchanged: the UK, France, and the US inside the corridor, Chile entering it,
 Iran and China state-dominated, and Colombia and the Congo low.
+
+\begin{figure*}[p]
+  \centering
+  \atlas{iran-persia__ensemble-mean}\hfill
+  \atlas{france__ensemble-mean}\\[6pt]
+  \atlas{united-kingdom__ensemble-mean}\hfill
+  \atlas{united-states__ensemble-mean}\\[6pt]
+  \atlas{china__ensemble-mean}\hfill
+  \atlas{chile__ensemble-mean}\\[6pt]
+  \atlas{colombia__ensemble-mean}\hfill
+  \atlas{democratic-republic-of-the-congo__ensemble-mean}
+  \caption{Ensemble atlas: the same eight countries, each averaged across the four
+  models period by period (panels titled ``ensemble mean''). The mean damps any
+  one model's idiosyncrasy; the spread it averages over is Krippendorff's $\alpha$
+  in Table~\ref{tab:intermodel}. Time-shaded; dashed lines mark the widening
+  corridor.}
+  \label{fig:atlas-mean}
+\end{figure*}
 
 \subsection{One map, all countries}
 \label{sec:combined}
@@ -439,6 +469,25 @@ consolidated state: V-Dem places even 1880s Qajar Iran and the early United
 States near the top of the state axis, the opposite of the LLM, which reads those
 as weak states still building capacity. The comparison is thus best read as
 \emph{agreement on society, divergence on the operationalization of state power}.
+
+\begin{figure*}[p]
+  \centering
+  \atlas{iran-persia__vdem}\hfill
+  \atlas{france__vdem}\\[6pt]
+  \atlas{united-kingdom__vdem}\hfill
+  \atlas{united-states__vdem}\\[6pt]
+  \atlas{china__vdem}\hfill
+  \atlas{chile__vdem}\\[6pt]
+  \atlas{colombia__vdem}\hfill
+  \atlas{democratic-republic-of-the-congo__vdem}
+  \caption{V-Dem atlas: the same eight countries from expert codings (society $=$
+  core civil-society index $\times10$; state $=$ authority over territory $/10$)
+  at the LLM period-midpoint years. The society axis broadly agrees with the LLM
+  ensemble (Fig.~\ref{fig:atlas-mean}), but V-Dem's territorial-authority state
+  axis is near-saturated for consolidated states and misses the state-capacity
+  dynamics the LLM captures.}
+  \label{fig:vdem}
+\end{figure*}
 
 \subsection{Model comparison and reliability}
 \label{sec:reliability}
@@ -568,71 +617,6 @@ quantified rendering of a framework that has been purely qualitative, and the
 accompanying consistency check and bias discussion frame honestly what such
 LLM-generated measurements are, and are not, good for.
 
-\appendix
-\section{Full trajectory atlases}
-\label{app:atlases}
-The main text reads one trajectory closely (Fig.~\ref{fig:uk}) and maps all eight
-countries' 2020 positions together (Fig.~\ref{fig:combined}). Here are the full
-per-country atlases at readable size: the single reference model
-(Fig.~\ref{fig:atlas}), the ensemble mean across the four models
-(Fig.~\ref{fig:atlas-mean}), and the V-Dem expert codings replotted in the same
-space (Fig.~\ref{fig:vdem}).
-
-\begin{figure*}[p]
-  \centering
-  % Panels match run_experiments.py slugs: <country-slug>__<model-slug>
-  \atlas{iran-persia__anthropic-claude-opus-4-8}\hfill
-  \atlas{france__anthropic-claude-opus-4-8}\\[6pt]
-  \atlas{united-kingdom__anthropic-claude-opus-4-8}\hfill
-  \atlas{united-states__anthropic-claude-opus-4-8}\\[6pt]
-  \atlas{china__anthropic-claude-opus-4-8}\hfill
-  \atlas{chile__anthropic-claude-opus-4-8}\\[6pt]
-  \atlas{colombia__anthropic-claude-opus-4-8}\hfill
-  \atlas{democratic-republic-of-the-congo__anthropic-claude-opus-4-8}
-  \caption{Trajectory atlas (reference model \texttt{claude-opus-4-8}): society
-  power (x) vs.\ state power (y) for all eight countries, time-shaded (dark $=$
-  early, bright $=$ late); dashed lines mark the book's widening corridor
-  illustratively. Animated versions are in the online gallery.}
-  \label{fig:atlas}
-\end{figure*}
-
-\begin{figure*}[p]
-  \centering
-  \atlas{iran-persia__ensemble-mean}\hfill
-  \atlas{france__ensemble-mean}\\[6pt]
-  \atlas{united-kingdom__ensemble-mean}\hfill
-  \atlas{united-states__ensemble-mean}\\[6pt]
-  \atlas{china__ensemble-mean}\hfill
-  \atlas{chile__ensemble-mean}\\[6pt]
-  \atlas{colombia__ensemble-mean}\hfill
-  \atlas{democratic-republic-of-the-congo__ensemble-mean}
-  \caption{Ensemble atlas: the same eight countries, each averaged across the four
-  models period by period (panels titled ``ensemble mean''). The mean damps any
-  one model's idiosyncrasy; the spread it averages over is Krippendorff's $\alpha$
-  in Table~\ref{tab:intermodel}. Time-shaded; dashed lines mark the widening
-  corridor.}
-  \label{fig:atlas-mean}
-\end{figure*}
-
-\begin{figure*}[p]
-  \centering
-  \atlas{iran-persia__vdem}\hfill
-  \atlas{france__vdem}\\[6pt]
-  \atlas{united-kingdom__vdem}\hfill
-  \atlas{united-states__vdem}\\[6pt]
-  \atlas{china__vdem}\hfill
-  \atlas{chile__vdem}\\[6pt]
-  \atlas{colombia__vdem}\hfill
-  \atlas{democratic-republic-of-the-congo__vdem}
-  \caption{V-Dem atlas: the same eight countries from expert codings (society $=$
-  core civil-society index $\times10$; state $=$ authority over territory $/10$)
-  at the LLM period-midpoint years. The society axis broadly agrees with the LLM
-  ensemble (Fig.~\ref{fig:atlas-mean}), but V-Dem's territorial-authority state
-  axis is near-saturated for consolidated states and misses the state-capacity
-  dynamics the LLM captures.}
-  \label{fig:vdem}
-\end{figure*}
-
 \section*{Reproducibility}
 All code, prompts, the on-disk response cache, and every run (JSON, static
 plots, animations) are released at
@@ -644,5 +628,18 @@ hosted at \url{https://esonghori.github.io/narrow-corridor-llm/}.
 
 \bibliographystyle{plainnat}
 \bibliography{references}
+
+\appendix
+\onecolumn
+\section{Example: one period's full prompts and responses}
+\label{app:example}
+To make the two-call-per-period pipeline concrete, below is the \emph{verbatim}
+exchange for a single period, the United Kingdom in 1829--1838, under
+\texttt{claude-opus-4-8}: the chain-of-thought events prompt and the model's
+reply, then the scoring prompt (which embeds the shared $0$--$10$ rubric of
+Section~\ref{sec:method} and the trajectory so far) and the schema-validated JSON
+score it returns.
+
+\lstinputlisting{appendix_transcript.txt}
 
 \end{document}
