@@ -19,6 +19,8 @@ An accompanying short paper, [`paper/main.pdf`](./paper/main.pdf), turns this in
 
 See [`paper/RUNBOOK.md`](./paper/RUNBOOK.md) to reproduce every figure and table end to end.
 
+See https://esonghori.github.io/narrow-corridor-llm/ for accompanying animation gallery.
+
 # Methodology
 
 To improve the accuracy and relevance of the numerical values for state and society power, we apply the Chain-of-Thought technique [[3]](#3). For each historical period (e.g., a 5-year span), the LLM is first asked to identify major events and trends. This contextual narrative is then included in the next prompt, which asks the model to assign quantitative values for state and society power during that period.
