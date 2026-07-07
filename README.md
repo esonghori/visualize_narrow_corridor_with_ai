@@ -8,6 +8,9 @@ This project addresses that challenge by employing a **Large Language Model (LLM
 
 We acknowledge the risks of bias in LLMs, especially those inherited from their training data. However, we argue that, with careful prompt engineering and systematic methodology, LLMs can offer a more scalable and potentially less biased alternative to purely expert-driven approaches.
 
+<img width="293" height="450" alt="image" src="https://github.com/user-attachments/assets/352532d2-4a49-440b-acc3-b2581c1ff768" />
+
+
 # The paper and the atlas
 
 An accompanying short paper, [`paper/main.pdf`](./paper/main.pdf), turns this into a reproducible study: an **eight-country trajectory atlas** — Iran, France, the United Kingdom, the United States, China, Chile, Colombia, and the Democratic Republic of the Congo — chosen so at least one country falls in each of the book's four **Leviathan types**: Despotic (China, Iran), Shackled (UK, France, and the contested US), Paper (Colombia), and Absent (DR Congo). It compares four LLMs (Gemini, Claude, GPT, and an open-weight Qwen), checks the scores against the **V-Dem** expert index, and quantifies inter-model agreement. Because every country is scored against the same fixed rubric, all eight can be placed on one shared map of the book's regions:
