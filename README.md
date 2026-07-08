@@ -4,7 +4,10 @@ In *The Narrow Corridor: States, Societies, and the Fate of Liberty*, Daron Acem
 
 📄 **[Read the paper](./paper/main.pdf)** · 🌐 **[Interactive gallery](https://esonghori.github.io/narrow-corridor-llm/)**
 
-<img width="293" height="450" alt="The Narrow Corridor book cover" src="https://github.com/user-attachments/assets/352532d2-4a49-440b-acc3-b2581c1ff768" />
+<p>
+  <img height="400" alt="The Narrow Corridor book cover" src="https://github.com/user-attachments/assets/352532d2-4a49-440b-acc3-b2581c1ff768" />
+  <img height="400" alt="The widening corridor and the four Leviathan types" src="./paper/experiments/results/corridor-schematic.png" />
+</p>
 
 ## The atlas
 
