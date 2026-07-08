@@ -22,11 +22,11 @@ Method: for each decade the model first lists the key events & trends, *then* sc
 
 **3/** 📈 *[attach: `paper/experiments/results/all-countries__ensemble-mean.png`]*
 
-All 8 countries on one shared scale sort into the book's four Leviathan regions:
+All 12 countries on one shared scale sort into the book's regions:
 
-🇨🇳🇮🇷 above the corridor → **Despotic** · 🇬🇧🇫🇷🇺🇸🇨🇱 inside → **Shackled** · 🇨🇴 → **Paper** · 🇨🇩 → **Absent**.
+🇨🇳🇮🇷 above the corridor → **Despotic** · 🇬🇧🇫🇷🇺🇸🇮🇳🇨🇱 inside → **Shackled** · 🇨🇩🇸🇴🇱🇧 down in the weak-state region below.
 
-One fixed 0–10 rubric is what lets you plot them together.
+One fixed 0–10 rubric is what lets you plot them all together.
 
 ---
 
@@ -45,25 +45,41 @@ Chile is the drama: watch it get thrown out of the corridor at the 1973 coup —
 
 ---
 
-**6/**
+**6/** 🎬 *[attach: `docs/assets/india__ensemble-mean.gif`]*
 
-Does it mean anything? Four LLMs — Gemini 2.5 Pro, Claude Opus 4.8, GPT-5.5, and open-weight Qwen — score independently.
+The new cases stress-test the framework:
 
-Against V-Dem expert codings, "society power" tracks the civil-society index well (China ρ=.89, France .87), and the models agree with each other (Krippendorff α=.70).
-
-→ a shared, expert-consistent signal, not one model's quirk.
+🇮🇳 India climbs into the corridor — a Shackled Leviathan.
+🇱🇧 Lebanon & 🇸🇴 Somalia sink into the weak-state zone, society outrunning a barely-there state.
+🇿🇲 Zambia I pegged as a "Paper Leviathan" — but the models put it *inside* the corridor. A miss I report, not hide.
 
 ---
 
 **7/**
 
-Two caveats I lead with, not bury:
-• These indices are almost certainly in the models' training data, so agreement = *consistency*, not proven accuracy.
-• Coverage is thinnest for exactly the non-Western cases (Iran, China, Colombia, DR Congo) — the training data is English-heavy.
+A subtlety the plot can't show: **Paper vs Absent** Leviathan isn't a location — both are weak states low on the state axis. The difference is legal. A *Paper* state exists on paper but can't enforce (🇱🇧 Lebanon); an *Absent* one doesn't exist even on paper (🇸🇴 Somalia).
 
 ---
 
 **8/**
+
+Does it mean anything? Four LLMs — Gemini 2.5 Pro, Claude Opus 4.8, GPT-5.5, and open-weight Qwen — score independently.
+
+Against V-Dem expert codings, "society power" tracks the civil-society index well (China ρ=.89, France .87), and the models agree with each other (Krippendorff α=.66).
+
+→ a shared, expert-consistent signal, not one model's quirk.
+
+---
+
+**9/**
+
+Two caveats I lead with, not bury:
+• These indices are almost certainly in the models' training data, so agreement = *consistency*, not proven accuracy.
+• Coverage is thinnest for exactly the non-Western cases (Iran, China, Colombia, DR Congo, Lebanon, Somalia, Zambia) — the training data is English-heavy.
+
+---
+
+**10/**
 
 Everything's open: code, prompts, every run, the paper, and an interactive gallery where you click any trajectory to play its animation.
 
