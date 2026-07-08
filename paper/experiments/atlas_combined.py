@@ -24,13 +24,13 @@ from run_experiments import COUNTRIES, RUNS_DIR, slug
 
 LO, HI = 0.0, 10.0  # fixed rubric quadrant, origin-anchored like the book's figure
 
-# Region labels placed like the book's figure: Despotic above the corridor,
-# Shackled inside it, Paper a weak state near the origin, Absent below it.
-# (x, y) in society/state units; ha/va chosen so text sits inside its zone.
+# Region labels at the same positions as the conceptual schematic
+# (corridor_schematic.py), so the two figures line up: Despotic above the
+# corridor, Shackled inside it, Absent in the weak-state region below.
 REGIONS = [
-    ("Despotic\nLeviathan", 1.5, 8.7, "left"),
-    ("Shackled\nLeviathan", 7.0, 7.0, "center"),  # in the corridor by the US/UK cluster
-    ("Absent\nLeviathan", 5.0, 1.0, "center"),    # weak-state region; Paper/Absent split is de jure, not positional (see text)
+    ("Despotic\nLeviathan", 2.0, 8.3, "center"),
+    ("Shackled\nLeviathan", 8.0, 8.0, "center"),
+    ("Absent\nLeviathan", 7.2, 1.6, "center"),
 ]
 
 
