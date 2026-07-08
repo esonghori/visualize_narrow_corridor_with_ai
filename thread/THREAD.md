@@ -51,17 +51,11 @@ The new cases stress-test the framework:
 
 🇮🇳 India climbs into the corridor — a Shackled Leviathan.
 🇱🇧 Lebanon & 🇸🇴 Somalia sink into the weak-state zone, society outrunning a barely-there state.
-🇿🇲 Zambia I pegged as a "Paper Leviathan" — but the models put it *inside* the corridor. That may surprise readers who don't know its recent history: a stable multiparty democracy since 1991, with peaceful transfers of power.
+🇿🇲 Zambia lands *inside* the corridor — one example that may surprise readers unfamiliar with its recent history.
 
 ---
 
 **7/**
-
-A subtlety the plot can't show: **Paper vs Absent** Leviathan isn't a location — both are weak states low on the state axis. The difference is legal. A *Paper* state exists on paper but can't enforce (🇱🇧 Lebanon); an *Absent* one doesn't exist even on paper (🇸🇴 Somalia).
-
----
-
-**8/**
 
 Does it mean anything? Four LLMs — Gemini 2.5 Pro, Claude Opus 4.8, GPT-5.5, and open-weight Qwen — score independently.
 
@@ -71,7 +65,7 @@ Against V-Dem expert codings, "society power" tracks the civil-society index wel
 
 ---
 
-**9/**
+**8/**
 
 Two caveats I lead with, not bury:
 • These indices are almost certainly in the models' training data, so agreement = *consistency*, not proven accuracy.
@@ -79,7 +73,7 @@ Two caveats I lead with, not bury:
 
 ---
 
-**10/**
+**9/**
 
 Everything's open: code, prompts, every run, the paper, and an interactive gallery where you click any trajectory to play its animation.
 
