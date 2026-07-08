@@ -30,7 +30,7 @@ LO, HI = 0.0, 10.0  # fixed rubric quadrant, origin-anchored like the book's fig
 REGIONS = [
     ("Despotic\nLeviathan", 1.5, 8.7, "left"),
     ("Shackled\nLeviathan", 7.0, 7.0, "center"),  # in the corridor by the US/UK cluster
-    ("Paper\nLeviathan", 1.0, 5.0, "left"),
+    ("Paper\nLeviathan", 1.4, 1.7, "left"),   # near the origin, low-low, as in the book
     ("Absent\nLeviathan", 5.0, 1.0, "center"),
 ]
 
