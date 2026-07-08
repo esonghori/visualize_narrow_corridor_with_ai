@@ -13,7 +13,9 @@ Attach the noted media to each tweet (🎬 = animated GIF). Links: repo
 So I had LLMs do it. Here's the United States, 1789→2020, decade by decade. 🧵
 
 📄 Paper: github.com/esonghori/narrow-corridor-llm/blob/main/paper/main.pdf
+
 💻 Code: github.com/esonghori/narrow-corridor-llm
+
 🌐 Gallery: esonghori.github.io/narrow-corridor-llm
 
 ---
