@@ -51,7 +51,7 @@ The new cases stress-test the framework:
 
 🇮🇳 India climbs into the corridor — a Shackled Leviathan.
 🇱🇧 Lebanon & 🇸🇴 Somalia sink into the weak-state zone, society outrunning a barely-there state.
-🇿🇲 Zambia I pegged as a "Paper Leviathan" — but the models put it *inside* the corridor. A miss I report, not hide.
+🇿🇲 Zambia I pegged as a "Paper Leviathan" — but the models put it *inside* the corridor. That may surprise readers who don't know its recent history: a stable multiparty democracy since 1991, with peaceful transfers of power.
 
 ---
 
