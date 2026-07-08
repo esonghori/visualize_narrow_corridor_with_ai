@@ -30,8 +30,7 @@ LO, HI = 0.0, 10.0  # fixed rubric quadrant, origin-anchored like the book's fig
 REGIONS = [
     ("Despotic\nLeviathan", 1.5, 8.7, "left"),
     ("Shackled\nLeviathan", 7.0, 7.0, "center"),  # in the corridor by the US/UK cluster
-    ("Paper\nLeviathan", 1.4, 1.7, "left"),   # near the origin, low-low, as in the book
-    ("Absent\nLeviathan", 5.0, 1.0, "center"),
+    ("Absent\nLeviathan", 5.0, 1.0, "center"),    # weak-state region; Paper/Absent split is de jure, not positional (see text)
 ]
 
 
@@ -56,7 +55,7 @@ def main() -> None:
                 ha=ha, va="center", zorder=1)
 
     # one point per country: its final (2020) position, labeled
-    colors = plt.get_cmap("tab10").colors
+    colors = plt.get_cmap("tab20").colors  # >10 distinct colors for 11+ countries
     for i, p in enumerate(paths):
         per = p.periods[-1]
         x, y = p.society_power[per], p.state_power[per]

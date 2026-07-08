@@ -1,0 +1,8 @@
+{
+  "society_power": 7.6,
+  "state_power": 5.5,
+  "key_event": "Chehabist era: building a modern state to manage society.",
+  "reasoning": "In response to the 1958 crisis, the Chehabist state-building project significantly increased the state's administrative and coercive capacity. Society's power was slightly reduced as the state challenged traditional leaders, but it remained strong, bolstered by the growing power of the autonomous PLO.",
+  "society_change": -0.2,
+  "state_change": 2.3
+}

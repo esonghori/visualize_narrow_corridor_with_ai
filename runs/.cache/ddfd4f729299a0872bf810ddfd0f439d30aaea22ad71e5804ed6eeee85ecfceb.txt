@@ -1,0 +1,8 @@
+{
+  "society_power": 7.5,
+  "state_power": 4.0,
+  "society_change": 1.5,
+  "state_change": -1.5,
+  "key_event": "Jallianwala Bagh Massacre and Rowlatt Act",
+  "reasoning": "The Jallianwala Bagh Massacre and Rowlatt Act significantly weakened state legitimacy and strengthened civil society's resolve and organizational capacity."
+}

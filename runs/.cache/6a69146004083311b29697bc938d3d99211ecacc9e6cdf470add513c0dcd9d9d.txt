@@ -1,0 +1,8 @@
+{
+  "society_power": 6.0,
+  "state_power": 6.8,
+  "key_event": "Systematic erosion of civic space and executive consolidation.",
+  "reasoning": "The state consolidated coercive power, suppressing dissent by closing media outlets and arresting opposition leaders, which significantly weakened civil society. This executive aggrandizement occurred despite a fiscal crisis culminating in debt default, revealing underlying state fragility.",
+  "society_change": -1.8,
+  "state_change": 0.3
+}

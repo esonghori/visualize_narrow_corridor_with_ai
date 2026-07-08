@@ -1,0 +1,8 @@
+{
+  "society_power": 1.5,
+  "state_power": 4.5,
+  "society_change": 0.7,
+  "state_change": -1.5,
+  "key_event": "British occupation and Somali nationalist movements",
+  "reasoning": "British occupation weakened Italian control, while nationalist movements began to strengthen civil society."
+}

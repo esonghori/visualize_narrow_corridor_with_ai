@@ -1,0 +1,8 @@
+{
+  "society_power": 1.5,
+  "state_power": 1.5,
+  "society_change": 0.0,
+  "state_change": 0.0,
+  "key_event": "Italian and British protectorates established",
+  "reasoning": "Somalia had weak central authority and limited organized civil society in 1900-1909."
+}

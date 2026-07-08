@@ -1,0 +1,8 @@
+{
+  "society_power": 6.0,
+  "state_power": 3.0,
+  "key_event": "Hariri assassination and the Cedar Revolution force Syrian withdrawal.",
+  "reasoning": "State power crumbled, being subordinate to Syria and then sidelined by Hezbollah in the 2006 war, proving its lack of sovereignty. Society's power surged, demonstrated by the massive cross-sectarian Cedar Revolution that successfully ousted Syrian forces and the continued consolidation of Hezbollah's parallel state.",
+  "society_change": 1.8,
+  "state_change": -1.5
+}

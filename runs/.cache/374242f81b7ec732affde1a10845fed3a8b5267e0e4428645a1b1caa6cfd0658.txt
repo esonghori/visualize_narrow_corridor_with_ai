@@ -1,0 +1,8 @@
+{
+  "society_power": 6.5,
+  "state_power": 7.0,
+  "society_change": 0.5,
+  "state_change": -1.0,
+  "key_event": "Economic liberalization and middle class expansion",
+  "reasoning": "Economic reforms and a growing middle class strengthened civil society, while state power was somewhat reduced by economic liberalization and regional party rise."
+}

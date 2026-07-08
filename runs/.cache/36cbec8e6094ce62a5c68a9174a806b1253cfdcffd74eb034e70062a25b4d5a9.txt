@@ -1,0 +1,8 @@
+{
+  "society_power": 2.5,
+  "state_power": 3.5,
+  "key_event": "BSAC consolidates rule over Northern Rhodesia.",
+  "reasoning": "The British South Africa Company's state was weak, with a thin administration relying heavily on indirect rule through traditional chiefs. African society, while retaining traditional structures, lacked modern organizations or institutions to effectively mobilize and hold the colonial administration accountable.",
+  "society_change": 0.0,
+  "state_change": 0.0
+}

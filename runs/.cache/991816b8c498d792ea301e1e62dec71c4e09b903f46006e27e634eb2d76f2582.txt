@@ -1,0 +1,8 @@
+{
+  "society_power": 2.8,
+  "state_power": 5.2,
+  "society_change": -3.2,
+  "state_change": -3.3,
+  "key_event": "Clan-based political structure and 1961 coup attempt",
+  "reasoning": "Clan loyalties and political instability weakened state and civil society, reducing both capacities."
+}

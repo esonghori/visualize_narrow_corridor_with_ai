@@ -1,0 +1,8 @@
+{
+  "society_power": 8.5,
+  "state_power": 2.5,
+  "society_change": 0.5,
+  "state_change": -1.0,
+  "key_event": "Quit India Movement and Government of India Act 1935",
+  "reasoning": "The Quit India Movement and the Government of India Act 1935 significantly strengthened civil society while weakening the colonial state, as they increased political participation and resistance against British rule."
+}

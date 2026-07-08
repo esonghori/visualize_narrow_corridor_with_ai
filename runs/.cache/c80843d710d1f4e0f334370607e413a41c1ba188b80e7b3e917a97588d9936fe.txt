@@ -1,0 +1,8 @@
+{
+  "society_power": 7.0,
+  "state_power": 3.0,
+  "key_event": "Establishment of Federal Government amid persistent Al-Shabaab insurgency.",
+  "reasoning": "The state's power grew from near zero with the establishment of the internationally-backed Federal Government, though its capacity remained very weak and contested. Society remained powerful through clans and new urban groups, but its overall autonomy was slightly checked by the rise of both the formal state and Al-Shabaab's proto-state.",
+  "society_change": -0.5,
+  "state_change": 2.0
+}

@@ -1,0 +1,8 @@
+{
+  "society_power": 2.5,
+  "state_power": 1.5,
+  "society_change": -1.0,
+  "state_change": -1.0,
+  "key_event": "Ethiopian Intervention and Rise of Al-Shabaab",
+  "reasoning": "The Ethiopian intervention and the rise of Al-Shabaab significantly weakened both state and civil society, leading to increased conflict and instability."
+}

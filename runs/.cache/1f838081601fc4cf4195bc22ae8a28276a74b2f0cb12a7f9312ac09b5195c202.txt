@@ -1,0 +1,8 @@
+{
+  "society_power": 9.2,
+  "state_power": 6.0,
+  "key_event": "Mass mobilization (Mandal/Mandir) overwhelms a fragmenting state.",
+  "reasoning": "The state was significantly weakened by the end of single-party rule, a fiscal crisis forcing liberalization, and its catastrophic failure to prevent the Babri Masjid demolition. Simultaneously, mass mobilization around caste and religion demonstrated an overwhelmingly powerful and organized society capable of defying and dominating the state's will.",
+  "society_change": 0.8,
+  "state_change": -1.2
+}

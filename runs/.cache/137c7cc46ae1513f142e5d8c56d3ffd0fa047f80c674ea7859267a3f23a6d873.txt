@@ -1,0 +1,8 @@
+{
+  "society_power": 6.5,
+  "state_power": 3.8,
+  "key_event": "Clan politics and corruption erode the post-colonial state.",
+  "reasoning": "The post-independence state was hollowed out by pervasive clan-based politics and corruption, culminating in military failure and presidential assassination, gutting its power. Society, organized through powerful and dominant clan structures, effectively captured the state, demonstrating its superior organizational capacity.",
+  "society_change": 1.0,
+  "state_change": -3.0
+}

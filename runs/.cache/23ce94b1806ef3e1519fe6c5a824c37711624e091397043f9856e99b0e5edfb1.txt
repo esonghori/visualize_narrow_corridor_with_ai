@@ -1,0 +1,8 @@
+{
+  "society_power": 3.5,
+  "state_power": 7.0,
+  "key_event": "Founding of the Indian National Congress in 1885.",
+  "reasoning": "The British Raj possessed a strong state apparatus, with an efficient bureaucracy and army, though its reach was incomplete due to indirect rule in princely states. Civil society was nascent; the founding of the Indian National Congress created an elite-led national forum, but mobilization remained weak and easily suppressed.",
+  "society_change": 0.0,
+  "state_change": 0.0
+}

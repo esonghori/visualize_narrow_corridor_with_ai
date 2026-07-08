@@ -1,0 +1,22 @@
+Trends:
+- **Union-executive centralization, 2015-2024:** more power in the PMO/Union government, use of governors and central agencies, weaker parliamentary scrutiny. **Strengthened state; weakened federal/opposition counterweights in society.**
+- **Expansion of digital state capacity:** Aadhaar seeding, Jan Dhan, UPI, DBT, GSTN, CoWIN, digital IDs. **Strengthened state reach; partly strengthened citizens’ access to welfare, but weakened privacy/autonomy.**
+- **Tighter regulation of NGOs, media, universities, and dissent:** FCRA cancellations/amendments, UAPA/sedition cases, IT Rules, tax/ED/CBI actions. **Strengthened coercive/regulatory state; weakened civil society.**
+- **Hindu-nationalist mobilization and communal polarization:** cow-protection vigilantism, anti-conversion politics, “bulldozer” governance, Ram temple politics. **Strengthened state–majority alignment; weakened pluralist/minority civil society.**
+- **Economic formalization and datafication:** GST compliance, e-invoicing, digital payments, platform/gig work. **Strengthened fiscal/regulatory state; mixed for society, often weakening small informal actors and labor.**
+- **Welfare-beneficiary politics:** free grain, PM-Kisan, housing, LPG, toilets, health insurance. **Strengthened state legitimacy and administrative presence; strengthened poor households but increased direct dependence on state delivery.**
+- **Cheap mobile internet and social-media politics:** WhatsApp, YouTube, X/Twitter, regional-language digital publics. **Strengthened society’s mobilizing capacity, but also strengthened party/state propaganda and surveillance capacity.**
+- **Erosion of independent watchdogs:** pressure on election, information, investigative, and parliamentary institutions, with courts only intermittently checking power. **Strengthened executive state; weakened society’s institutional checks.**
+
+Events:
+- **2016 demonetization:** sudden withdrawal of ₹500/₹1,000 notes. **Strengthened state command over money; weakened informal society/economy, while accelerating digital payments.**
+- **2017 GST launch:** creation of a unified indirect-tax regime and GST Council. **Strengthened fiscal state and tax visibility; weakened some state-government autonomy and burdened small firms.**
+- **2017 Puttaswamy privacy judgment / 2018 Aadhaar judgment:** constitutionalized privacy but allowed Aadhaar for welfare/tax uses. **Strengthened society’s rights claims; also preserved digital state capacity.**
+- **2018 rollout of electoral bonds, struck down in 2024:** anonymous corporate/political funding until Supreme Court invalidation. **Initially weakened electoral transparency/civil society; 2024 ruling strengthened voter accountability.**
+- **2019 abrogation of Article 370 and Jammu & Kashmir lockdown:** ended special status, downgraded statehood, mass detentions/communications shutdown. **Strengthened central state; weakened federalism, local society, and civil liberties.**
+- **2019 Citizenship Amendment Act and 2019-20 anti-CAA protests:** nationwide protests, Shaheen Bagh, police action, Delhi violence. **State advanced citizenship agenda; civil society mobilized strongly but faced repression.**
+- **2020 COVID-19 national lockdown:** imposed with little notice under disaster powers. **Strengthened emergency state authority; weakened migrant/informal workers, while civil society relief networks also grew.**
+- **2020 FCRA Amendment and NGO account restrictions:** tighter foreign-funding controls; Amnesty India halted operations. **Strengthened state control over associational life; weakened NGOs.**
+- **2020 farm laws and 2020-21 farmers’ protest/repeal:** farmers occupied Delhi borders until laws were withdrawn. **Initially strengthened state reform power; final repeal showed strong society counterpower.**
+- **2023 Manipur ethnic violence:** prolonged breakdown of order and displacement. **Weakened state’s monopoly on order; severely weakened intercommunal civil society.**
+- **2024 general election result:** BJP lost its single-party Lok Sabha majority and formed a coalition government. **Strengthened electoral society, regional parties, and federal bargaining; constrained central executive power.**

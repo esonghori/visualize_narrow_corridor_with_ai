@@ -1,0 +1,8 @@
+{
+  "society_power": 2.5,
+  "state_power": 5.0,
+  "society_change": 0.5,
+  "state_change": -1.5,
+  "key_event": "1988 Isaaq Genocide and 1989 Hargeisa Uprising",
+  "reasoning": "The 1988 Isaaq Genocide weakened both state and society, while the 1989 Hargeisa Uprising strengthened civil resistance."
+}

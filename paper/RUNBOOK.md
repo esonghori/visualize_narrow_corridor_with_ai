@@ -70,7 +70,7 @@ not our data). If the zip is at `runs/V-Dem-CY-FullOthers-v16_csv.zip`:
 ```bash
 uv run python - <<'PY'
 import zipfile, csv, io
-KEEP = {"Iran","France","United Kingdom","United States of America","China","Chile","Colombia","Democratic Republic of the Congo"}
+KEEP = {"Iran","France","United Kingdom","United States of America","China","Chile","Colombia","Democratic Republic of the Congo","Lebanon","Zambia","Somalia","India"}
 COLS = ["country_name","year","v2xcs_ccsi","v2svstterr"]
 zf = zipfile.ZipFile("runs/V-Dem-CY-FullOthers-v16_csv.zip")
 with zf.open("V-Dem-CY-Full+Others-v16.csv") as f:

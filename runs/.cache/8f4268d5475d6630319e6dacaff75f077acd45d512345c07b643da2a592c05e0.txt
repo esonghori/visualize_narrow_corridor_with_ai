@@ -1,0 +1,8 @@
+{
+  "society_power": 7.0,
+  "state_power": 5.0,
+  "key_event": "Democratic transition followed by massive economic privatization.",
+  "reasoning": "Society's power surged with the 1991 democratic transition creating new civil society organizations, but this was tempered by the collapse of union power due to privatization. The state's power fell as it sold off its vast economic assets (ZCCM), gutting its infrastructural capacity, even as the executive branch consolidated coercive political control.",
+  "society_change": 0.5,
+  "state_change": -0.8
+}

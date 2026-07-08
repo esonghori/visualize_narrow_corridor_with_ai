@@ -1,0 +1,8 @@
+{
+  "society_power": 5.5,
+  "state_power": 4.0,
+  "society_change": 0.7,
+  "state_change": -1.0,
+  "key_event": "1958 Civil War and 1964 General Strike",
+  "reasoning": "The 1958 Civil War and 1964 General Strike highlighted civil society's growing influence while weakening state control and authority."
+}

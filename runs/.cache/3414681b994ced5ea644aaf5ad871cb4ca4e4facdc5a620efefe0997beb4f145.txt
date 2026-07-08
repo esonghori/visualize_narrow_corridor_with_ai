@@ -1,0 +1,8 @@
+{
+  "society_power": 4.2,
+  "state_power": 9.3,
+  "key_event": "Narodnik 'Going to the People' movement challenges the state",
+  "reasoning": "The state's power became overwhelming with universal military conscription. Simultaneously, radicalized society organized into populist movements and local zemstvos, increasing its ability to mobilize despite harsh repression.",
+  "society_change": 1.2,
+  "state_change": 0.4
+}

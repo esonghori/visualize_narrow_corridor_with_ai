@@ -18,14 +18,14 @@ from run_experiments import RUNS_DIR
 
 LO, HI = 0.0, 10.0
 
-# Region labels placed as in Acemoglu & Robinson: Despotic above the corridor,
-# Shackled inside it near the top, Paper a weak state near the origin, Absent
-# below the corridor. (x, y, ha) in society/state units.
+# The plane has three spatially distinct regions: Despotic above the corridor,
+# Shackled inside it, and the weak-state region below. Paper vs Absent Leviathans
+# are NOT distinguished by position (both sit low on the state axis), only by
+# whether a state exists de jure; that distinction is made in the text, not here.
 REGIONS = [
     ("Despotic\nLeviathan", 2.0, 8.3, "center"),
-    ("Shackled\nLeviathan", 8.0, 8.0, "center"),  # on the x=y diagonal, inside the corridor
-    ("Paper\nLeviathan", 1.4, 1.7, "left"),
-    ("Absent\nLeviathan", 7.4, 1.5, "center"),
+    ("Shackled\nLeviathan", 8.0, 8.0, "center"),   # on the x=y diagonal, inside the corridor
+    ("Absent\nLeviathan", 7.2, 1.6, "center"),     # weak-state region below the corridor
 ]
 
 # Curved guide arrows (start -> end, arc curvature) pointing into a region.

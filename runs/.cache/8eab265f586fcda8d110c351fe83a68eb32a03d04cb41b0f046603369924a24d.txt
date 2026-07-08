@@ -1,0 +1,8 @@
+{
+  "society_power": 3.0,
+  "state_power": 7.8,
+  "key_event": "Consolidation of the one-party state amid economic collapse.",
+  "reasoning": "The state centralized immense formal and coercive power by creating a one-party system and declaring an emergency, but its economic capacity collapsed with copper prices. Society's power was crushed as the state banned opposition parties and suppressed civil liberties, eliminating formal avenues for accountability.",
+  "society_change": -2.5,
+  "state_change": -0.7
+}

@@ -1,0 +1,8 @@
+{
+  "society_power": 6.5,
+  "state_power": 0.8,
+  "key_event": "1982 Israeli invasion and the rise of militia quasi-states.",
+  "reasoning": "The central state effectively ceased to exist, losing sovereignty and all core functions to warring factions following foreign invasions. Societal power, though fragmented and predatory, dramatically increased as sectarian militias consolidated into powerful quasi-states controlling distinct cantons.",
+  "society_change": 2.5,
+  "state_change": -0.2
+}

@@ -1,0 +1,8 @@
+{
+  "society_power": 1.2,
+  "state_power": 2.8,
+  "society_change": -1.3,
+  "state_change": 1.3,
+  "key_event": "Consolidation of Italian and British colonial control",
+  "reasoning": "Colonial consolidation strengthened state control and weakened traditional civil society, leading to a more atomized society."
+}

@@ -11,7 +11,7 @@ In *The Narrow Corridor: States, Societies, and the Fate of Liberty*, Daron Acem
 
 ## The atlas
 
-The short paper ([`paper/main.pdf`](./paper/main.pdf); reproduce it end to end via [`paper/RUNBOOK.md`](./paper/RUNBOOK.md)) builds an **eight-country trajectory atlas** — Iran, France, the United Kingdom, the United States, China, Chile, Colombia, and the Democratic Republic of the Congo — chosen so at least one country falls in each of the book's four **Leviathan types**: Despotic (China, Iran), Shackled (UK, France, US), Paper (Colombia), and Absent (DR Congo). It compares four LLMs (Gemini, Claude, GPT, and an open-weight Qwen), checks the scores against the **V-Dem** expert index, and quantifies inter-model agreement. Because every country is scored against the same fixed rubric, all eight sit on one shared map of the book's regions:
+The short paper ([`paper/main.pdf`](./paper/main.pdf); reproduce it end to end via [`paper/RUNBOOK.md`](./paper/RUNBOOK.md)) builds a **twelve-country trajectory atlas** — Iran, France, the United Kingdom, the United States, China, Chile, Colombia, the Democratic Republic of the Congo, Lebanon, Zambia, Somalia, and India — chosen so at least two countries fall in each of the book's four **Leviathan types**: Despotic (China, Iran), Shackled (UK, France, US, India), Paper (Colombia, Zambia), and Absent (DR Congo, Lebanon, Somalia). It compares four LLMs (Gemini, Claude, GPT, and an open-weight Qwen), checks the scores against the **V-Dem** expert index, and quantifies inter-model agreement. Because every country is scored against the same fixed rubric, all twelve sit on one shared map of the book's regions:
 
 ![Where each country sits in 2020, over the book's Leviathan regions](./paper/experiments/results/all-countries__ensemble-mean.png)
 
@@ -55,7 +55,7 @@ save_path(path, "runs/france.json"); plot_path(path, "runs/france.png"); animate
 uv run python scripts/build_site.py --runs paper/experiments/results --out docs
 ```
 
-Browse the hosted version at <https://esonghori.github.io/narrow-corridor-llm/>. Every run in the paper (8 countries × 4 models, plus the V-Dem and ensemble atlases) lives under [`paper/experiments/results/`](./paper/experiments/results), each with its full prompt/response transcript. One trajectory, animated (the United States, ensemble mean):
+Browse the hosted version at <https://esonghori.github.io/narrow-corridor-llm/>. Every run in the paper (12 countries × 4 models, plus the V-Dem and ensemble atlases) lives under [`paper/experiments/results/`](./paper/experiments/results), each with its full prompt/response transcript. One trajectory, animated (the United States, ensemble mean):
 
 ![US trajectory animation](./docs/assets/united-states__ensemble-mean.gif)
 

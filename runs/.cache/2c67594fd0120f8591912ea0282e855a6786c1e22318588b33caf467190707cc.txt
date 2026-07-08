@@ -1,0 +1,8 @@
+{
+  "society_power": 2.0,
+  "state_power": 3.0,
+  "society_change": 0.0,
+  "state_change": 0.0,
+  "key_event": "British South Africa Company establishes indirect rule",
+  "reasoning": "Civil society is largely atomized under colonial control; state power is weak and relies on local powerbrokers."
+}

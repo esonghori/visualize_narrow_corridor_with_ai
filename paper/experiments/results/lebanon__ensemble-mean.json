@@ -1,0 +1,106 @@
+{
+  "country": "Lebanon",
+  "model": "ensemble-mean (4 models)",
+  "periods": [
+    [
+      1918,
+      1927
+    ],
+    [
+      1928,
+      1937
+    ],
+    [
+      1938,
+      1947
+    ],
+    [
+      1948,
+      1957
+    ],
+    [
+      1958,
+      1967
+    ],
+    [
+      1968,
+      1977
+    ],
+    [
+      1978,
+      1987
+    ],
+    [
+      1988,
+      1997
+    ],
+    [
+      1998,
+      2007
+    ],
+    [
+      2008,
+      2017
+    ],
+    [
+      2018,
+      2027
+    ]
+  ],
+  "society_power": {
+    "1918-1927": 4.375,
+    "1928-1937": 4.925,
+    "1938-1947": 5.925,
+    "1948-1957": 6.25,
+    "1958-1967": 6.575,
+    "1968-1977": 5.125,
+    "1978-1987": 5.075,
+    "1988-1997": 4.05,
+    "1998-2007": 5.25,
+    "2008-2017": 5.425,
+    "2018-2027": 4.8
+  },
+  "state_power": {
+    "1918-1927": 4.2,
+    "1928-1937": 4.15,
+    "1938-1947": 4.575,
+    "1948-1957": 4.6,
+    "1958-1967": 5.275,
+    "1968-1977": 2.125,
+    "1978-1987": 1.525,
+    "1988-1997": 4.175,
+    "1998-2007": 3.425,
+    "2008-2017": 2.85,
+    "2018-2027": 1.875
+  },
+  "key_event": {
+    "1918-1927": "French Mandate creates Greater Lebanon (1920)",
+    "1928-1937": "Mandate administrative buildout; 1932 census and constitutional suspension",
+    "1938-1947": "1943 National Pact and independence crisis mobilization",
+    "1948-1957": "Confessional consolidation, merchant republic, and 1952 Rosewater Revolution",
+    "1958-1967": "Chehabist state-building amid 1958 crisis and Nasserist mobilization",
+    "1968-1977": "Outbreak of civil war and state collapse (1975)",
+    "1978-1987": "Civil war deepens; militia para-states replace collapsed central authority",
+    "1988-1997": "Taif Agreement, Aoun's defeat, militia disarmament under Syrian tutelage",
+    "1998-2007": "Cedar Revolution mobilization after Hariri assassination",
+    "2008-2017": "Hezbollah's West Beirut takeover; presidential vacuum and paralysis",
+    "2018-2027": "Financial collapse, Beirut blast, state paralysis toward Absent Leviathan"
+  },
+  "reasoning": {
+    "1918-1927": "mean of 4 models",
+    "1928-1937": "mean of 4 models",
+    "1938-1947": "mean of 4 models",
+    "1948-1957": "mean of 4 models",
+    "1958-1967": "mean of 4 models",
+    "1968-1977": "mean of 4 models",
+    "1978-1987": "mean of 4 models",
+    "1988-1997": "mean of 4 models",
+    "1998-2007": "mean of 4 models",
+    "2008-2017": "mean of 4 models",
+    "2018-2027": "mean of 4 models"
+  },
+  "events_trends_prompt": {},
+  "events_trends_response": {},
+  "score_prompt": {},
+  "score_response": {}
+}

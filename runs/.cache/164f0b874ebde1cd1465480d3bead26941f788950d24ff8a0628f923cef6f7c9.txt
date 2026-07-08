@@ -1,0 +1,35 @@
+# Somalia 2000–2009 Through *The Narrow Corridor* Framework
+
+In Acemoğlu and Robinson's terms, Somalia during this decade is a case of the "Absent Leviathan"—a weak or nonexistent state paired with a society organized around clan norms (the "cage of norms"). Below I distinguish slow-moving trends from discrete events.
+
+## Trends
+
+- **Persistent statelessness and reliance on clan/customary law (Xeer):** With no functioning central state since 1991, society was governed largely by clan elders and customary law throughout the decade. This *strengthened* a particular form of society (clan-based order) while keeping the state *absent/weak*.
+
+- **Growth of the informal economy and remittances:** Telecoms, hawala money-transfer networks, and livestock exports flourished without state regulation. This *strengthened* society's autonomous capacity but did nothing to build (and arguably undercut demand for) state fiscal capacity.
+
+- **Rise of politicized Islamism as an alternative source of order:** Over the decade, Islamic courts and Sharia-based governance gradually filled the vacuum left by the absent state, offering dispute resolution and security—*strengthening* a non-clan societal actor while remaining outside/against the formal state.
+
+- **Growth of piracy off the Somali coast (mid-to-late decade):** An expanding predatory economy that *weakened* both prospects for effective statehood and orderly civil society, while enriching armed non-state networks.
+
+- **Demographic pressure and youth unemployment:** A young, rapidly growing population with few opportunities supplied recruits to militias, courts' militias, and later al-Shabaab—*weakening* stable society and fueling armed factions.
+
+## Events
+
+- **Arta Conference and formation of the Transitional National Government (2000):** A discrete attempt to reconstitute the state; produced a weak TNG with little territorial control—a nominal *strengthening* of the state that largely failed in practice.
+
+- **Formation of the Transitional Federal Government (TFG) via the Mbagathi/Kenya talks (2004):** Created a new internationally-recognized state framework, but again with minimal capacity—an attempted *strengthening* of the state that remained largely paper-thin.
+
+- **Rise and consolidation of the Islamic Courts Union (ICU), seizing Mogadishu (mid-2006):** The ICU imposed relative order and security over much of south-central Somalia—a dramatic *strengthening* of a societal/religious governance actor (and a de facto rival "state").
+
+- **Ethiopian military invasion ousting the ICU (December 2006–2007):** Backed by the TFG, Ethiopia's intervention *weakened* the ICU order, but the occupation provoked insurgency, *weakening* both effective state authority and stable society.
+
+- **Emergence of al-Shabaab as an insurgent force (2007 onward):** The radicalization of ICU remnants into a militant movement—*weakened* the state and preyed on/coerced society.
+
+- **Deployment of AMISOM (African Union Mission), 2007:** Externally propped up the TFG's survival—a fragile, dependency-based *strengthening* of the state.
+
+- **Djibouti Agreement and election of Sharif Sheikh Ahmed as TFG president (2008–2009):** Attempted political reconciliation drawing in moderate Islamists; a modest, contested *strengthening* of state legitimacy amid ongoing conflict.
+
+---
+
+**Framework note:** Throughout, Somalia illustrates the difficulty of entering the "corridor" when the state is absent. Repeated attempts to build a Leviathan (TNG, TFG, AMISOM) failed to achieve the balanced, mutually-constraining growth of state *and* society that Acemoğlu and Robinson argue is necessary for liberty; instead, order emerged episodically from societal actors (clans, Islamic courts) rather than from a capable, accountable state.

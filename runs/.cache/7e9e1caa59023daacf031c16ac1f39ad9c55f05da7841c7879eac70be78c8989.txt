@@ -1,0 +1,8 @@
+{
+  "society_power": 7.0,
+  "state_power": 3.8,
+  "key_event": "Independence and the 1943 National Pact",
+  "reasoning": "Society's power surged as it successfully mobilized for independence and the 1943 National Pact institutionalized sectarian elites' control over the state. The new sovereign Lebanese state was thus born weak and dependent on these societal powerbrokers, giving it slightly more formal authority but limited autonomous capacity.",
+  "society_change": 1.2,
+  "state_change": 0.3
+}

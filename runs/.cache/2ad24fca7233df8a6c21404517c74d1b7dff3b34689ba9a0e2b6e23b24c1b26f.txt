@@ -1,0 +1,8 @@
+{
+  "society_power": 4.0,
+  "state_power": 3.0,
+  "society_change": 0.5,
+  "state_change": -1.0,
+  "key_event": "Cedar Revolution and 2006 Israel-Hezbollah War",
+  "reasoning": "The Cedar Revolution temporarily boosted civil society, while the 2006 war weakened state infrastructure and authority."
+}

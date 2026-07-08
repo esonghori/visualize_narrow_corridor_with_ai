@@ -1,0 +1,8 @@
+{
+  "society_power": 4.5,
+  "state_power": 2.2,
+  "key_event": "Dervish state consolidation amidst colonial stalemate and clan militarization.",
+  "reasoning": "State power saw a minor net increase as the Dervish state became more organized with a capital at Taleh, but overall state capacity remained collapsed due to the ongoing stalemate. Society power decreased as British policies and continuous warfare fueled inter-clan conflict, militarizing identity and undermining traditional cooperative norms.",
+  "society_change": -1.0,
+  "state_change": 0.4
+}

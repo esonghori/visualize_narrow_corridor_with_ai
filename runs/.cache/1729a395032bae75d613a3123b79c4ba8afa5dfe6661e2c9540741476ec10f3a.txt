@@ -1,0 +1,8 @@
+{
+  "society_power": 4.5,
+  "state_power": 3.0,
+  "society_change": -1.0,
+  "state_change": -1.0,
+  "key_event": "1970 Cairo Agreement, 1975 Outbreak of Lebanese Civil War",
+  "reasoning": "The Cairo Agreement and the onset of the Civil War significantly weakened both state authority and societal stability."
+}

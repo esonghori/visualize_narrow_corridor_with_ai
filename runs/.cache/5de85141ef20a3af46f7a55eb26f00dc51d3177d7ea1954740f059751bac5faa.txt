@@ -1,0 +1,8 @@
+{
+  "society_power": 4.0,
+  "state_power": 7.5,
+  "society_change": -1.0,
+  "state_change": 0.5,
+  "key_event": "1972 Introduction of One-Party System",
+  "reasoning": "The one-party system centralized power, weakening civil society, while state control over the economy and political life increased."
+}

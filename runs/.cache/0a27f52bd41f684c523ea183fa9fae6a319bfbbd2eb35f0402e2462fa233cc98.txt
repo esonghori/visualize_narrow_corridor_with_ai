@@ -1,0 +1,8 @@
+{
+  "society_power": 8.0,
+  "state_power": 0.5,
+  "key_event": "Collapse of the state and rise of clan-based warlords.",
+  "reasoning": "The overthrow of Siad Barre in 1991 eliminated the central state, reducing its power to nearly zero. Societal power, organized along clan lines, surged to fill the vacuum, becoming the only source of governance and order, albeit in a highly fragmented and competitive manner.",
+  "society_change": 2.8,
+  "state_change": -2.7
+}

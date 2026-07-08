@@ -1,0 +1,22 @@
+# Somalia, 1920–1929 through the *Narrow Corridor* Lens
+
+A note before the lists: Acemoğlu and Robinson's framework centers on the balance between the "Leviathan" (state capacity/despotic power) and society's countervailing power. In 1920s Somalia, most of what happened was **colonial state-building imposed from outside**, which tended to strengthen a (colonial) despotic state while weakening or bypassing indigenous society's norms and institutions—especially the clan-based, kinship-lineage order that Acemoğlu and Robinson elsewhere characterize as a strong stateless society (an "Absent Leviathan" dynamic). The northern (British Somaliland), southern (Italian Somalia), and other zones diverged, so items are flagged accordingly.
+
+## Trends
+
+- **Consolidation of Italian colonial administration in the south (slow institutional trend):** Progressive extension of Italian state apparatus—taxation, administrative districts, and coercive capacity—strengthening the (colonial, despotic) state while displacing indigenous authority; society weakened.
+- **Growth of the plantation/concession economy in the fertile Shabelle-Juba region (economic trend):** Italian agricultural concessions and forced/coerced labor recruitment strengthened extractive state capacity and colonial economic control; weakened the autonomy of local agro-pastoral communities.
+- **Persistence and resilience of segmentary clan/lineage institutions and customary law (*xeer*) (institutional/social trend):** Kinship-based dispute resolution and norms continued to organize society outside colonial reach; represents durable societal power (the "cage of norms" that also constrains state penetration).
+- **Pastoral nomadic demographic and economic base (demographic/economic trend):** The mobile, decentralized population remained difficult to tax and administer, structurally limiting state penetration—keeping much of society beyond the Leviathan's grasp.
+- **Divergent colonial trajectories across British Somaliland, Italian Somalia, and other zones (institutional trend):** Fragmentation of would-be state authority across imperial jurisdictions weakened any unified state and reinforced localized, society-level orders.
+
+## Events
+
+- **Defeat of the Dervish movement / Sayyid Mohammed Abdullah Hassan (British aerial and ground campaign, 1920):** A discrete, decisive event—British bombing of Taleh/Dervish strongholds and the collapse of the movement (Hassan died late 1920). This destroyed a two-decade indigenous state-building and resistance project, weakening a nascent *indigenous* centralizing authority while consolidating British colonial control (strengthening the colonial state, weakening one strand of society's organized power).
+- **Fascist assumption of power in Italy (1922) and its projection into Somalia:** The Mussolini government intensified centralized, authoritarian colonial policy, strengthening despotic state capacity in the south later in the decade.
+- **Governor Cesare Maria De Vecchi's arrival and aggressive "pacification"/centralization drive (appointed 1923, active mid-1920s):** Discrete administrative rupture—forcible subordination of the sultanates of the northeast (Majeerteen/Obbia) and coastal principalities to direct Italian rule; sharply strengthened the colonial state and dismantled semi-autonomous indigenous political authorities.
+- **Suppression of the Majeerteen and Hobyo/Obbia Sultanates (campaigns from ~1925 onward):** Direct military subjugation ending indigenous sultanate autonomy—strengthened colonial state, weakened established indigenous state-like institutions and society's political power.
+- **Transfer of Jubaland from Britain to Italy (1925):** Territorial/administrative event expanding Italian colonial state reach; reshaped jurisdictional boundaries with little enhancement of local societal power.
+
+---
+**Caveat on sources:** These items reflect the standard historiography of 1920s Somalia; Acemoğlu and Robinson's *Narrow Corridor* does not itself provide a detailed decade-by-decade Somali case study, so the state/society labels above are my application of their framework rather than their own coding. The most consequential single event is the 1920 collapse of the Dervish state.

@@ -1,0 +1,8 @@
+{
+  "society_power": 0.9,
+  "state_power": 9.6,
+  "key_event": "State reaction to 1848 revolutions crushes intellectual dissent.",
+  "reasoning": "While intellectual circles like the Petrashevsky Circle represented a nascent civil society, the state's fierce reaction to the 1848 European revolutions crushed this development, massively increasing its repressive power and pushing an already atomized society further into submission.",
+  "society_change": -0.4,
+  "state_change": 0.3
+}

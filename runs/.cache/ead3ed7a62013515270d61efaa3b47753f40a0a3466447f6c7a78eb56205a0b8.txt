@@ -1,0 +1,8 @@
+{
+  "society_power": 8.8,
+  "state_power": 8.5,
+  "key_event": "State centralization and Hindutva meet large-scale societal resistance.",
+  "reasoning": "The state's power grew immensely through centralization, technological penetration, and ideological assertion, demonstrated by events like the Article 370 revocation. While regulations squeezed NGOs, civil society proved its enduring power through massive, successful mobilizations like the farmers' protests, which forced a major policy reversal.",
+  "society_change": -0.9,
+  "state_change": 1.3
+}

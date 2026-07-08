@@ -22,9 +22,9 @@ from narrow_corridor.plot import plot_path
 from narrow_corridor.storage import save_path
 
 # country -> first year to score; all run through END in STEP-year periods.
-# Chosen to put at least one country in each of the book's four Leviathan types:
-# Despotic (Iran, China), Shackled/in-corridor (UK, France; US is the contested
-# case), Paper (Colombia), and Absent (DR Congo); Chile is the leave-and-reenter case.
+# Chosen to put several countries in each of the book's four Leviathan types:
+# Despotic (Iran, China), Shackled/in-corridor (UK, France, US, India),
+# Paper (Colombia, Zambia), Absent (DR Congo, Lebanon, Somalia); Chile re-enters.
 COUNTRIES: dict[str, int] = {
     "Iran (Persia)": 1880,
     "France": 1789,
@@ -34,6 +34,10 @@ COUNTRIES: dict[str, int] = {
     "Chile": 1818,
     "Colombia": 1819,                    # Paper Leviathan
     "Democratic Republic of the Congo": 1885,  # Absent Leviathan (Congo Free State on)
+    "Lebanon": 1918,                     # Absent Leviathan (mandate -> confessional state)
+    "Zambia (Northern Rhodesia)": 1911,  # Paper Leviathan (colonial -> post-colonial)
+    "Somalia": 1900,                     # Absent Leviathan (colonial -> 1991 collapse)
+    "India": 1885,                       # Shackled Leviathan under a "cage of norms"
 }
 END = 2020
 STEP = 10  # decade periods keep the sweep affordable; lower for finer paths.

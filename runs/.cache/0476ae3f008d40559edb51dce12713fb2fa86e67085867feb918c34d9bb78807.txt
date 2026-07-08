@@ -1,0 +1,8 @@
+{
+  "society_power": 6.5,
+  "state_power": 5.8,
+  "key_event": "Economic crisis fuels union-led movement for multi-party democracy.",
+  "reasoning": "A severe economic crisis and unpopular austerity measures crippled the state's capacity and legitimacy. This fueled widespread discontent, allowing a resurgent civil society, organized around trade unions, to build a powerful pro-democracy movement that directly challenged one-party rule.",
+  "society_change": 3.5,
+  "state_change": -2.0
+}

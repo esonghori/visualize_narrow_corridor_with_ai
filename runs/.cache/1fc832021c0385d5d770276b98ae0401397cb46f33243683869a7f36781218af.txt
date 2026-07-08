@@ -1,0 +1,8 @@
+{
+  "society_power": 4.0,
+  "state_power": 2.5,
+  "society_change": -1.0,
+  "state_change": -1.5,
+  "key_event": "Israeli invasions and rise of militias",
+  "reasoning": "Economic decline, political fragmentation, and Israeli invasions weakened both state and civil society."
+}

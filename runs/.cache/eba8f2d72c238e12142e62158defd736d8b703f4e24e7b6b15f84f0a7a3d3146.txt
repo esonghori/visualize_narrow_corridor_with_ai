@@ -1,0 +1,8 @@
+{
+  "society_power": 7.8,
+  "state_power": 7.5,
+  "key_event": "WWII empowers state; Quit India Movement challenges it.",
+  "reasoning": "The state's power grew immensely due to wartime mobilization and its successful suppression of the Quit India movement. Society demonstrated massive mobilization capacity but was checked by state repression and increasingly fractured by communal divisions.",
+  "society_change": -0.4,
+  "state_change": 1.3
+}

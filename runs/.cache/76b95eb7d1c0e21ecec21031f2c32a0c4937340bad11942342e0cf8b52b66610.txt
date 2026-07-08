@@ -1,0 +1,8 @@
+{
+  "society_power": 3.5,
+  "state_power": 4.5,
+  "society_change": 1.5,
+  "state_change": 1.5,
+  "key_event": "Copper mining and labor organization",
+  "reasoning": "The copper mining industry and associated labor movements strengthened both state revenue and civil society organization."
+}

@@ -1,0 +1,8 @@
+{
+  "society_power": 5.5,
+  "state_power": 1.8,
+  "key_event": "Dervish resistance to fragmented British and Italian colonial rule.",
+  "reasoning": "State power was fragmented and weak, divided between nascent colonial administrations with limited reach and the anti-colonial Dervish state. Society's power was moderate, rooted in strong, decentralized clan structures that enabled significant mobilization and resistance.",
+  "society_change": 0.0,
+  "state_change": 0.0
+}

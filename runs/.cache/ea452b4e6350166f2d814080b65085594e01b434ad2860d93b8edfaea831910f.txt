@@ -1,0 +1,8 @@
+{
+  "society_power": 5.8,
+  "state_power": 2.2,
+  "key_event": "Hezbollah's rise as a state-within-a-state amid political paralysis.",
+  "reasoning": "The state's power collapsed due to institutional decay, political vacuums, and Hezbollah's dominance over war and peace, while society showed mobilization potential in protests but remained too fragmented by sectarianism to effectively constrain the elite.",
+  "society_change": -0.2,
+  "state_change": -0.8
+}

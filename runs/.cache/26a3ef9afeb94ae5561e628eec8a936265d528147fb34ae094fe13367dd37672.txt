@@ -1,0 +1,8 @@
+{
+  "society_power": 8.2,
+  "state_power": 8.8,
+  "key_event": "Indira Gandhi's consolidation of executive power and centralization.",
+  "reasoning": "Indira Gandhi's consolidation of power, through the Congress party split and bolstered by the 1971 war victory, significantly enhanced the state's authority. While society gained new avenues of mobilization through regional parties and landmark judicial checks, the overall balance shifted towards the increasingly centralized and powerful executive.",
+  "society_change": -0.2,
+  "state_change": 0.4
+}

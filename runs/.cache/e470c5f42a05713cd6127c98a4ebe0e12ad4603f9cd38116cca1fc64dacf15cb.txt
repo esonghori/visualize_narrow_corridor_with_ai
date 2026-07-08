@@ -1,0 +1,37 @@
+# India 2015–2024 Through *The Narrow Corridor* Lens
+
+In Acemoğlu and Robinson's framework, liberty survives when a strong **state** and a mobilized **society** balance each other. Below, items are tagged for their effect on the "Shackled Leviathan" balance.
+
+## Trends
+
+- **Centralization of executive power under BJP dominance (2015–2024):** Consolidation of authority in the PMO, weakening of federal bargaining and independent institutions (ECI, judiciary, RBI autonomy debates). **Strengthens state, weakens societal check.**
+
+- **Digital state infrastructure (Aadhaar-linked welfare, UPI, Digital India):** Massive expansion of state legibility and direct-benefit-transfer capacity. **Strengthens state capacity** (classic Leviathan enhancement); ambiguous for society—empowers citizens transactionally but enables surveillance.
+
+- **Erosion of press independence and civil-society space:** Declining press-freedom rankings, FCRA amendments choking NGO foreign funding, pressure on academia. **Weakens society's mobilizational and monitoring capacity.**
+
+- **Hindu-nationalist majoritarianism as ideological project:** Gradual reframing of citizenship around religious identity. **Strengthens state's ideological reach** while fragmenting society along communal lines (weakens the *cohesive, cross-cutting* society the corridor requires).
+
+- **Economic formalization and growth with jobless-growth strains:** GST integration, rising GDP alongside unemployment and inequality. Ambiguous—**strengthens state fiscal capacity**, but persistent grievance sustains latent societal pressure.
+
+- **Judicial and institutional deference:** Slow accretion of executive-aligned appointments and delayed rulings on rights cases. **Weakens the institutionalized checks** that keep the corridor open.
+
+## Events
+
+- **Demonetization (Nov 2016):** Sudden, unilateral exercise of state power over the economy; demonstrated executive reach with minimal societal veto. **Strengthened state assertiveness, exposed weak societal check.**
+
+- **Abrogation of Article 370 / Jammu & Kashmir reorganization (Aug 2019):** Downgrading of statehood, communications lockdown, detentions. **Sharp expansion of state coercive power; suppression of regional society.**
+
+- **CAA passage and anti-CAA/NRC protests (Dec 2019–early 2020):** Citizenship Amendment Act triggered nationwide mobilization (Shaheen Bagh). **State legislative assertion + a rare, vigorous societal counter-mobilization**—a corridor-defining contest.
+
+- **COVID-19 lockdown (March 2020):** Abrupt nationwide lockdown; migrant-worker crisis revealed both state reach and its limited care capacity. **Strengthened emergency state power, strained societal trust.**
+
+- **Farmers' protests and repeal of farm laws (2020–2021):** Sustained, organized agrarian mobilization forced the government to withdraw the laws (Nov 2021). **Major demonstration of effective societal power**—the clearest "Red Queen" pushback of the period.
+
+- **Pegasus surveillance revelations (2021):** Allegations of spyware targeting journalists, activists, opposition. **Signaled expanded/covert state coercive-informational power against society.**
+
+- **2024 General Election result:** BJP lost outright majority, forced into coalition dependence (NDA allies). **Rebalancing toward society/pluralism**—electoral reassertion of societal constraint on centralized power.
+
+---
+
+**Net reading:** The 2015–2024 arc shows a **rising Leviathan** (capacity + coercion + ideological reach) against a society that was often suppressed but periodically demonstrated real countervailing force (farm-law repeal, 2024 verdict)—precisely the contested, unstable dynamic Acemoğlu and Robinson associate with a country *near* rather than securely inside the corridor.

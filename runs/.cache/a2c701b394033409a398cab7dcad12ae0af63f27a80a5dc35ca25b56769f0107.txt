@@ -1,0 +1,39 @@
+# India 1995–2004 Through the Narrow Corridor Lens
+
+In Acemoğlu and Robinson's framework, liberty emerges when state and society are balanced and both grow together ("Red Queen" dynamic). Here's how 1995–2004 developments map onto state and society capacity.
+
+## Trends
+
+- **Post-1991 liberalization maturing**: The deepening of economic reforms (deregulation, reduced License Raj) *weakened* the state's discretionary/dirigiste control over the economy while *strengthening* private economic actors and an emerging middle class—shifting power toward society.
+
+- **Coalition politics and regional party fragmentation**: The steady decline of Congress single-party dominance and rise of regional/caste-based parties (post-Mandal mobilization) *strengthened* diverse societal groups' representation but *weakened* central state coherence and decisiveness.
+
+- **IT/services boom (Bangalore, Hyderabad)**: Growth of an export-oriented tech sector created autonomous wealth centers and a globally connected professional class, *strengthening* society relative to the state.
+
+- **Judicial activism / PIL expansion**: The steady growth of Public Interest Litigation gave civil society tools to check executive power—*strengthening* society (and arguably state accountability institutions).
+
+- **Hindu nationalist (Hindutva) mobilization**: The organizational rise of the BJP/RSS network represented a form of societal mobilization that was majoritarian—ambiguous for the framework, potentially *strengthening* a "Despotic" or exclusionary trajectory rather than shackled-Leviathan liberty.
+
+- **Growth of NGO/associational sector and a liberalizing media**: Post-liberalization private/satellite television and expanding civil associations *strengthened* society's voice and monitoring capacity.
+
+- **Demographic pressure and persistent caste/rural cleavages**: Enduring inequality and the "cage of norms" (caste hierarchy) constrained genuine liberty even as formal state and market capacity grew.
+
+## Events
+
+- **BJP-led governments / NDA coalition (1998, stable 1999–2004)**: Consolidated a durable governing coalition—*strengthened* the state's executive capacity after years of instability.
+
+- **Pokhran-II nuclear tests (May 1998)**: A dramatic assertion of state power and sovereignty, *strengthening* the (despotic/security) dimension of the Leviathan and national-security bureaucracy.
+
+- **Kargil War (1999)**: Military conflict with Pakistan *strengthened* the state's coercive/military apparatus and nationalist legitimacy.
+
+- **73rd/74th Amendment implementation (panchayati raj deepening, mid-1990s)**: Devolution to local bodies (with reserved seats for women, SC/ST) *strengthened* grassroots societal participation—a genuine capacity-building for society.
+
+- **2002 Gujarat riots**: A catastrophic failure of state protection amid communal violence—revealed a state either unwilling or captured by majoritarian forces, *weakening* the inclusive/shackled quality of the Leviathan and endangering minority society.
+
+- **Right to Information momentum (grassroots MKSS campaign, late 1990s–2000s)**: Civil-society-driven transparency movement (culminating later in the 2005 RTI Act) *strengthened* society's ability to check the state.
+
+- **2004 general election ("India Shining" defeat)**: Electoral turnover returning Congress-led UPA demonstrated *societal* power to unseat incumbents—reinforcing the Red Queen accountability mechanism.
+
+---
+
+**Caveat**: The neat state-vs-society ledger is somewhat artificial for India. Acemoğlu and Robinson themselves treat India as a case where the "cage of norms" (caste) complicates the corridor—so several items above (Hindutva, the 2002 riots, caste mobilization) reflect societal *power without liberty*, which their framework distinguishes sharply from the balanced growth that sustains freedom.

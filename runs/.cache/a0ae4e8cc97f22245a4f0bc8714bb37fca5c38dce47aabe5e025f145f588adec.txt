@@ -1,0 +1,8 @@
+{
+  "society_power": 8.2,
+  "state_power": 7.5,
+  "key_event": "Federation's imposition galvanizes mass African nationalism.",
+  "reasoning": "The state strengthened its coercive power by imposing the unpopular Central African Federation and declaring a state of emergency. Simultaneously, this galvanized a more radical and organized mass nationalist movement and powerful labor unions, significantly boosting society's power to contest colonial rule.",
+  "society_change": 1.0,
+  "state_change": 1.0
+}

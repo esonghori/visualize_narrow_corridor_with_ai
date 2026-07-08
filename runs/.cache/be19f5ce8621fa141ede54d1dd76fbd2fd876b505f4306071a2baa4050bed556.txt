@@ -1,0 +1,8 @@
+{
+  "society_power": 4.2,
+  "state_power": 4.5,
+  "key_event": "Taif Agreement ends Civil War under Syrian tutelage.",
+  "reasoning": "The end of the Civil War dramatically increased state power by re-establishing central authority and disarming most militias, even under Syrian control. Conversely, society's power, formerly expressed through militia mobilization, decreased significantly as it was demobilized, co-opted, and fragmented by the new sectarian political order.",
+  "society_change": -2.3,
+  "state_change": 3.7
+}

@@ -1,0 +1,8 @@
+{
+  "society_power": 9.4,
+  "state_power": 6.8,
+  "key_event": "Civil society gains (RTI) meet resurgent state nationalism.",
+  "reasoning": "Society consolidated its power through economic independence and the successful Right to Information movement, while the state's capacity grew through nationalist assertions like the Kargil War and nuclear tests, leading to mutual strengthening.",
+  "society_change": 0.2,
+  "state_change": 0.8
+}

@@ -1,0 +1,8 @@
+{
+  "society_power": 1.3,
+  "state_power": 9.3,
+  "key_event": "Codification of law solidifies Nicholas I's bureaucratic autocracy.",
+  "reasoning": "The state's power became overwhelming as Nicholas I systematized the law (Svod Zakonov) and brutally suppressed the Polish Uprising. Simultaneously, intense censorship and ideological controls further atomized society, rendering organized opposition nearly impossible.",
+  "society_change": -0.5,
+  "state_change": 0.5
+}

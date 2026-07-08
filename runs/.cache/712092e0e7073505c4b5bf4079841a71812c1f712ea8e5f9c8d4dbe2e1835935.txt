@@ -1,0 +1,8 @@
+{
+  "society_power": 2.2,
+  "state_power": 1.8,
+  "society_change": -1.7,
+  "state_change": 0.3,
+  "key_event": "Persistent political fragmentation, economic dependence, and prolonged insurgency.",
+  "reasoning": "Political fragmentation and clannism weakened civil society, while state power slightly improved due to international aid and military operations, but remained very weak."
+}

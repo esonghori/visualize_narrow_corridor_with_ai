@@ -1,0 +1,38 @@
+# Somalia, 1990–1999 (Acemoğlu & Robinson framework)
+
+In *The Narrow Corridor*, the state's power (capacity, monopoly of violence) is set against society's power (collective organization, norms, mobilization). Somalia in the 1990s is a canonical case of the "Absent Leviathan" / "cage of norms," where the state collapsed and society reverted to clan-based (customary/*xeer*) governance.
+
+## Trends
+
+- **Progressive collapse of central state capacity** — The Siad Barre regime's patronage-based, clan-favoring state hollowed out through the late 1980s and dissolved entirely by 1991. *Weakened the state* (to near-zero) while leaving no institutional replacement.
+
+- **Reassertion of clan-based customary authority (*xeer*, elders/*guurti*)** — With no Leviathan, dispute resolution, security, and order reverted to lineage norms. In A&R terms, this is the "cage of norms" filling the vacuum. *Strengthened society's traditional organization* but constrained liberty and blocked state reconstruction.
+
+- **Rise of the warlord/faction economy** — Militias controlled through clan-based armed factions competed for territory, ports, and checkpoints. This represents fragmented, privatized coercion rather than a state monopoly of violence. *Weakened the state; distorted/militarized society.*
+
+- **War economy and predatory extraction** — Looting, "technicals," checkpoint taxation, khat trade, and control of aid became the economic base. *Weakened state fiscal capacity; entrenched armed actors within society.*
+
+- **Demographic disruption via displacement and famine mortality** — Massive internal displacement, refugee flows, and famine deaths reshaped population and shattered pre-war social structures. *Weakened both state and (formal) society.*
+
+- **Emergence of divergent regional trajectories** — The relatively peaceful, elder-negotiated order in the northwest (Somaliland) versus violent statelessness in the south. *Selectively strengthened localized society-led governance in the north.*
+
+## Events
+
+- **Fall of Siad Barre / regime collapse (January 1991)** — The discrete moment the central state ceased to function; opposition factions (esp. USC) took Mogadishu. *Sharply weakened/eliminated the state.*
+
+- **Somaliland's unilateral declaration of independence (May 1991)** — Following the SNM victory in the north, a breakaway polity began building governance through clan-conference (*shir*) processes. *Strengthened a locally rooted state-society settlement in that region.*
+
+- **USC split and Aidid–Ali Mahdi power struggle (late 1991–1992)** — The intra-clan/faction fighting over Mogadishu turned the capital into a battleground. *Weakened prospects for any restored state; militarized society.*
+
+- **1991–1992 famine** — Conflict-driven famine killed an estimated hundreds of thousands. *Devastated society; discredited factions.*
+
+- **UNITAF / Operation Restore Hope (US-led, Dec 1992) and UNOSOM II (1993)** — Foreign intervention to secure aid and attempt state reconstruction/reconciliation. *Attempted to rebuild the state from outside — ultimately failed to create durable capacity.*
+
+- **Battle of Mogadishu ("Black Hawk Down," October 1993)** — Failed effort to capture Aidid; led to US/UN withdrawal (completed 1995). *Confirmed the state-building failure; entrenched warlord power.*
+
+- **Death of Mohamed Farah Aidid (1996)** — Removed a dominant warlord but did not consolidate order; factional fragmentation continued. *No net state gain.*
+
+- **Somaliland's Borama conference (1993) and Puntland's formation (1998)** — Society-driven, elder-mediated constitutional/state-building settlements producing functioning regional administrations. *Strengthened bottom-up governance where clan consensus enabled it.*
+
+---
+**Framework note:** The decade illustrates A&R's argument that dismantling a despotic (Barre) Leviathan does not automatically produce liberty; absent a *balance* between state and society, the outcome was the Absent Leviathan, with society reverting to a restrictive cage of norms. Somaliland/Puntland are the partial exceptions where mobilized society negotiated nascent state authority.

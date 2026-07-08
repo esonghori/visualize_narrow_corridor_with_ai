@@ -1,0 +1,8 @@
+{
+  "society_power": 3.0,
+  "state_power": 8.9,
+  "key_event": "The 'Great Reforms': Emancipation, Zemstvos, and judicial reform.",
+  "reasoning": "The state demonstrated immense capacity by unilaterally emancipating the serfs and crushing the Polish revolt, boosting its power. However, the creation of local self-government (Zemstvos) and an independent judiciary provided the first significant institutional foundation for civil society, increasing its power from a near-zero base.",
+  "society_change": 1.8,
+  "state_change": 0.9
+}

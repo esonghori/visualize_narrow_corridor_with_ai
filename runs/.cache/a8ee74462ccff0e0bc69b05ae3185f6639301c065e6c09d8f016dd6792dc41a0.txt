@@ -1,0 +1,8 @@
+{
+  "society_power": 6.0,
+  "state_power": 7.0,
+  "society_change": -2.5,
+  "state_change": 4.5,
+  "key_event": "Partition, independence, and state consolidation",
+  "reasoning": "Partition weakened civil society due to displacement, while state power was significantly strengthened through independence, integration of princely states, and economic policies."
+}

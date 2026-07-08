@@ -1,0 +1,8 @@
+{
+  "society_power": 4.8,
+  "state_power": 4.5,
+  "society_change": -1.2,
+  "state_change": 0.5,
+  "key_event": "1948 Arab-Israeli War and Palestinian Exodus",
+  "reasoning": "The influx of Palestinian refugees and political crises weakened civil society, while economic growth and urbanization modestly strengthened the state."
+}

@@ -1,0 +1,8 @@
+{
+  "society_power": 6.5,
+  "state_power": 5.5,
+  "society_change": 1.5,
+  "state_change": -1.0,
+  "key_event": "1991 multi-party elections and economic liberalization",
+  "reasoning": "The 1991 elections and economic reforms strengthened civil society by fostering political pluralism and private enterprise, while the state's control over the economy and politics weakened."
+}

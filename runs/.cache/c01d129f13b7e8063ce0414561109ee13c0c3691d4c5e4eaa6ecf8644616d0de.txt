@@ -1,0 +1,38 @@
+# Lebanon 2008–2017 Through *The Narrow Corridor* Framework
+
+A note on framing: Acemoğlu and Robinson treat Lebanon as roughly a "Paper Leviathan"/weak-state case where sectarian power-sharing (consociationalism) fragments state capacity while empowering communal (not liberal) society. Much of what follows shows a state that stayed weak relative to armed non-state and sectarian actors.
+
+## Trends
+
+- **Institutional paralysis of consociationalism (Ta'if power-sharing):** Chronic cabinet deadlock and inability to legislate weakened effective state capacity, while entrenching sectarian elites' hold over society. *(Weakened state.)*
+
+- **Growth of Hezbollah as a parallel state-within-a-state:** Its military arsenal, social services, and independent foreign policy steadily eclipsed the state's monopoly on violence. *(Weakened state; strengthened one segment of "society"—sectarian, not civic.)*
+
+- **Fiscal and macroeconomic deterioration:** Rising public debt, a currency-peg dependent banking model, and stagnating growth eroded the state's material capacity to provide services. *(Weakened state.)*
+
+- **Demographic shock from Syrian refugees (from ~2011):** Over a million refugees strained infrastructure, labor markets, and public services, further overwhelming already-thin state capacity and inflaming sectarian-demographic anxieties. *(Weakened state; strained society.)*
+
+- **Chronic infrastructure/service failure (electricity, water, waste management):** Persistent shortages normalized private/sectarian provision, undermining state legitimacy but occasionally spurring cross-sectarian grievance. *(Weakened state; ambiguous for civic society.)*
+
+- **Emergence of cross-sectarian civil-society activism:** Slow accumulation of NGO, protest, and reform networks challenging the confessional order created seeds of a more *liberal* (rather than communal) society. *(Strengthened civic society.)*
+
+## Events
+
+- **May 2008 Hezbollah takeover of West Beirut / Doha Agreement:** Armed response to government moves against Hezbollah's telecom network demonstrated state impotence; the Doha deal restored fragile power-sharing on sectarian terms. *(Weakened state; entrenched sectarian actors.)*
+
+- **2011 collapse of the Hariri government:** Hezbollah-led bloc bringing down the cabinet displayed the veto power of armed factions over elected government. *(Weakened state.)*
+
+- **Presidential vacuum (May 2014–October 2016):** Over two years with no head of state exposed deep institutional dysfunction. *(Weakened state.)*
+
+- **Extension of parliament's own term (2013, 2014):** Legislators repeatedly postponed elections, suspending electoral accountability. *(Weakened state legitimacy and society's leverage.)*
+
+- **2015 "You Stink" (طلعت ريحتكم) waste-crisis protests:** Trash-collection breakdown triggered large cross-sectarian mobilization against corruption and the political class—a rare assertion of civic society. *(Strengthened civic society; challenged state/elite.)*
+
+- **October 2016 election of Michel Aoun as president & Hariri government:** Ended the vacuum via an elite bargain, partially restoring state function but reaffirming sectarian deal-making. *(Modestly strengthened state institutions; entrenched elite pact.)*
+
+- **2017 new electoral law (proportional representation):** Replaced the majoritarian system after years of deadlock—an institutional reform that (arguably) slightly opened space for non-traditional/civic candidates. *(Marginal state institutionalization; small opening for civic society.)*
+
+- **November 2017 Saad Hariri resignation episode (announced from Saudi Arabia, then rescinded):** Externally driven crisis underscored the vulnerability of Lebanese sovereignty to foreign patrons. *(Weakened state autonomy.)*
+
+---
+**Caveat:** Acemoğlu and Robinson's key distinction—between a *liberal, civic* society and *sectarian/communal* mobilization—matters here. Much of what strengthened "society" in Lebanon empowered confessional factions, which in their framework does **not** move a country toward the corridor; only the "You Stink" type of cross-sectarian activism represents the liberty-enhancing kind.

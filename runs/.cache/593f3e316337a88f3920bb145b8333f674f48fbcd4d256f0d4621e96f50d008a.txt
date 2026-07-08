@@ -1,0 +1,33 @@
+# Lebanon, 1928–1937: State vs. Society (Narrow Corridor framing)
+
+A caveat before the lists: this is the French Mandate period, so the "state" in question was substantially a colonial administration (with an emerging Lebanese governmental apparatus), which complicates the Acemoğlu-Robinson model, since much state capacity was externally imposed rather than domestically negotiated.
+
+## Trends
+
+- **Consolidation of confessional (sectarian) power-sharing institutions** — the entrenchment of proportional sectarian representation in administration and politics. This built a particular kind of state apparatus while simultaneously fragmenting "society" along communal rather than cross-cutting lines, weakening society's capacity for unified collective action against the state.
+
+- **Growth of Beirut as a commercial-financial and port hub** — expansion of trade, services, and a mercantile bourgeoisie under Mandate infrastructure investment. Strengthened certain elite segments of society and provided a tax/revenue base for the state.
+
+- **Demographic and confessional balance shifts** — continued emigration (especially Christian) and differential population growth feeding anxieties over the sectarian census baseline (the 1932 census being the last official one). Affected the legitimacy foundations of the state's power-sharing formula.
+
+- **Spread of education, press, and associational life** — expansion of newspapers, schools (missionary and national), and civic/political associations, strengthening the mobilizational capacity of civil society.
+
+- **Deepening administrative penetration by the Mandate** — French build-out of bureaucracy, security forces, and fiscal machinery, strengthening state capacity (though as a colonial imposition).
+
+## Events
+
+- **1926 Constitution's early operation and its 1927/1929 amendments** — restructuring the legislature/executive (e.g., moving toward a unicameral chamber, extending presidential terms), a discrete institutional change strengthening the formal state structure while French High Commissioner retained override power.
+
+- **The 1932 census** — the discrete enumeration that fixed the demographic reference point for confessional allocation; strengthened the institutional logic of the state's power-sharing but froze a contested balance.
+
+- **Suspension of the constitution (1932) by the High Commissioner** — Henri Ponsot's suspension amid the presidential succession crisis (the Muhammad al-Jisr candidacy controversy). This weakened the domestic Lebanese state's autonomy and civil society's electoral voice, reasserting colonial dominance.
+
+- **Great Depression's local impact (early 1930s)** — economic contraction affecting trade, remittances, and silk exports, weakening the economic base of both segments of society and straining state finances.
+
+- **The 1936 Franco-Lebanese Treaty negotiations** — the (ultimately unratified by France) treaty promising eventual independence; mobilized nationalist civil society and gestured toward strengthening an autonomous Lebanese state.
+
+- **Rise of paramilitary/youth and confessional movements (mid-1930s)** — formation of organizations like the Kataeb (Phalange, 1936) and Najjadeh; strengthened certain mobilized factions of society but along armed, sectarian lines that could later contest the state's monopoly on force.
+
+---
+
+**Reliability note:** I'm confident about the broad Mandate-era institutional and economic trends and about the 1932 census, the 1932 constitutional suspension, the 1936 treaty, and the 1936 founding of the Kataeb. I'm less certain about exact dates of specific constitutional amendments in this window—please verify those particulars against a dedicated source before relying on them.

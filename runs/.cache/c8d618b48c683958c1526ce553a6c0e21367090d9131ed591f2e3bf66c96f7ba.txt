@@ -1,0 +1,8 @@
+{
+  "society_power": 5.8,
+  "state_power": 3.5,
+  "key_event": "French suspension of constitution amid sectarian mobilization.",
+  "reasoning": "The state was weakened by economic crisis and sectarianism, culminating in the French suspension of the constitution. Societal power grew, but in a fragmented way, through sectarian networks and nationalist movements that challenged the state's authority.",
+  "society_change": 0.3,
+  "state_change": -1.3
+}

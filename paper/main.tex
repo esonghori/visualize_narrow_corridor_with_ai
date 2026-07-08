@@ -31,14 +31,12 @@
 \newcommand{\ph}[1]{\textcolor{red}{\textbf{[#1]}}}
 
 % Include an atlas panel if it has been generated, else a labeled placeholder box
-% so the paper compiles before experiments are run.
-% Appendix atlas panels: 2 per row, 4 rows per page. Height-capped so the four
-% rows fit a single page (the panels are near-square, so height is the binding
-% constraint, not width).
+% so the paper compiles before experiments are run. 3 per row (0.31\textwidth):
+% 12 panels lay out as 3+3+3+3 rows and fit a single full-page float.
 \newcommand{\atlas}[1]{%
   \IfFileExists{experiments/results/#1.png}%
-    {\includegraphics[height=0.225\textheight,keepaspectratio]{experiments/results/#1.png}}%
-    {\fbox{\parbox[c][3.4cm][c]{0.42\textwidth}{\centering\footnotesize
+    {\includegraphics[width=0.31\textwidth]{experiments/results/#1.png}}%
+    {\fbox{\parbox[c][3cm][c]{0.29\textwidth}{\centering\footnotesize
        \textcolor{red}{\texttt{\detokenize{#1}}}\\[2pt](panel not generated)}}}%
 }
 
@@ -62,9 +60,10 @@ language models (LLMs) can operationalize it. We introduce a reproducible,
 provider-agnostic pipeline that scores a country period by period using
 chain-of-thought (events first, then score) and in-context anchoring on prior
 periods, against an explicit rubric with schema-validated output. As a proof of
-concept we produce an eight-country trajectory atlas (Iran, France, the United
-Kingdom, the United States, China, Chile, Colombia, and the Democratic Republic
-of the Congo), chosen to place at least one country in each of the book's four
+concept we produce a twelve-country trajectory atlas (Iran, France, the United
+Kingdom, the United States, China, Chile, Colombia, the Democratic Republic
+of the Congo, Lebanon, Zambia, Somalia, and India), chosen to place at least two
+countries in each of the book's four
 Leviathan types, and compare four models. We assess the
 scores for consistency with an expert index (V-Dem) and for inter-model
 agreement, reading agreement as concurrent consistency rather than accuracy,
@@ -101,11 +100,11 @@ Corridor space, period by period, in a way that is reproducible, checkable
 against an established expert index, and useful to a researcher?}
 
 We take an applied, digital-humanities stance. Our primary artifact is an
-\textbf{eight-country trajectory atlas} (Iran, France, the United Kingdom, the
-United States, China, Chile, Colombia, and the Democratic Republic of the
-Congo), rendered as time-shaded paths through the
-corridor, together with the cross-country patterns those paths reveal. The eight
-are chosen so that at least one country falls in each of the book's four
+\textbf{twelve-country trajectory atlas} (Iran, France, the United Kingdom, the
+United States, China, Chile, Colombia, the Democratic Republic of the Congo,
+Lebanon, Zambia, Somalia, and India), rendered as time-shaded paths through the
+corridor, together with the cross-country patterns those paths reveal. The twelve
+are chosen so that at least two countries fall in each of the book's four
 Leviathan types (Section~\ref{sec:setup}), which lets us ask whether an LLM
 places each country in the region the book assigns it. The
 method and its validation are the backing that makes the atlas trustworthy
@@ -119,7 +118,7 @@ rather than decorative. Concretely, we contribute:
   \item \textbf{A provider-agnostic, open implementation.} Any model reachable
         through a unified interface can be swapped by changing one string; we
         release code, prompts, caches, and every run.
-  \item \textbf{A trajectory atlas and cross-country reading} of eight countries
+  \item \textbf{A trajectory atlas and cross-country reading} of twelve countries
         spanning the book's four Leviathan types.
   \item \textbf{An interactive, publicly hosted web gallery.} A static site
         (GitHub Pages) presenting every trajectory as a time-shaded plot with
@@ -212,12 +211,14 @@ regions in this style.
 \begin{figure}[t]
   \centering
   \includegraphics[width=\columnwidth]{experiments/results/corridor-schematic.png}
-  \caption{The Narrow Corridor and its four Leviathan types, drawn in our
-  (society, state) plot style. The dashed lines are the book's \emph{widening}
-  corridor; a country whose path stays inside it is a Shackled Leviathan (the
-  arrow shows a path climbing the corridor), one above it a Despotic Leviathan,
-  one below it an Absent Leviathan, and a weak state near the origin a Paper
-  Leviathan. After~\citet{acemoglu2019narrow}.}
+  \caption{The Narrow Corridor, drawn in our (society, state) plot style. The
+  dashed lines are the book's \emph{widening} corridor; a country whose path
+  stays inside it is a Shackled Leviathan (the arrow shows a path climbing the
+  corridor), one above it a Despotic Leviathan, and one in the weak-state region
+  below it an Absent Leviathan. The plane has only these three positions: the
+  fourth type, the Paper Leviathan, also sits in the low-state region and is
+  distinguished from the Absent Leviathan not by location but \emph{de jure}
+  (Section~\ref{sec:setup}). After~\citet{acemoglu2019narrow}.}
   \label{fig:corridor}
 \end{figure}
 
@@ -270,23 +271,33 @@ gallery at \url{https://esonghori.github.io/narrow-corridor-llm/}.
 \section{Experimental Setup}
 \label{sec:setup}
 
-\paragraph{Countries.} We study eight countries, chosen so that at least one
-falls in each of the four Leviathan types the book defines. \textbf{China} and
-\textbf{Iran (Persia)} are candidate \emph{Despotic} Leviathans (a strong state
-over a weak society); the \textbf{United Kingdom}, \textbf{France}, and the \textbf{United States} are
-candidate \emph{Shackled} Leviathans (state and society balanced inside the
-corridor); \textbf{Colombia} is a
-candidate \emph{Paper} Leviathan (a state strong on paper but with little real
-reach into society or territory); and the \textbf{Democratic Republic of the
-Congo} is a candidate \emph{Absent} Leviathan (a state too weak to govern much of
-its territory). \textbf{Chile} is included as a leave-and-re-enter case around
-the 1973 coup. Labeling each a ``candidate'' is deliberate: whether the LLM
-actually places a country in its assigned region is a question we test, not an
-assumption (Section~\ref{sec:atlas}). Each country is scored from a
-country-appropriate start year through 2020 (a common cutoff for consistency
-across cases) in decade (10-year) periods, giving 14--24 periods per country
-(Table~\ref{tab:validation} lists windows and counts). Eight countries is a proof
-of concept, not a basis for cross-national generalization.
+\paragraph{Countries.} We study twelve countries, chosen so that at least two
+fall in each of the four Leviathan types the book defines. \textbf{China} and
+\textbf{Iran (Persia)} are candidate
+\emph{Despotic} Leviathans (a strong state over a weak society); the
+\textbf{United Kingdom}, \textbf{France}, the \textbf{United States}, and
+\textbf{India} are candidate \emph{Shackled} Leviathans (state and society
+balanced inside the corridor, India's under the ``cage of norms'' the book
+stresses); \textbf{Colombia}, \textbf{Zambia (Northern Rhodesia)}, and
+\textbf{Lebanon} are candidate \emph{Paper} Leviathans (a state that exists on
+paper, a constitution and formal institutions, but cannot enforce its authority);
+and the \textbf{Democratic Republic of the Congo} and \textbf{Somalia} are
+candidate \emph{Absent} Leviathans (a state that is effectively absent, lacking
+even the forms of one). \textbf{Chile} is included as a leave-and-re-enter case
+around the 1973 coup. Crucially, the Paper and Absent types are \emph{not}
+distinguished by position in the (society, state) plane, both are weak states low
+on the state axis, but \emph{de jure}: a Paper Leviathan has the forms of a state
+it cannot enforce (Lebanon), an Absent Leviathan lacks even those (Somalia). Our
+figures therefore label only the three spatially distinct regions (Despotic
+above the corridor, Shackled inside it, and the weak-state region below); the
+Paper/Absent distinction is drawn here in the text. Labeling each a
+``candidate'' is deliberate: whether the LLM actually places a country in its
+assigned region, and in the corridor's expected part, is a question we test, not
+an assumption (Section~\ref{sec:atlas}). Each country is scored from a country-appropriate
+start year through 2020 (a common cutoff for consistency across cases) in decade
+(10-year) periods, giving 11--24 periods per country
+(Table~\ref{tab:validation} lists windows and counts). Twelve countries is a
+proof of concept, not a basis for cross-national generalization.
 
 \paragraph{Models.} We compare four models from four families (Google,
 Anthropic, OpenAI, Alibaba): three closed-weight models (\texttt{gemini-2.5-pro},
@@ -319,7 +330,7 @@ additional anchors but are out of scope here.
 
 \subsection{Trajectory atlas}
 \label{sec:atlas}
-Figure~\ref{fig:atlas} shows the eight trajectories under \texttt{claude-opus-4-8},
+Figure~\ref{fig:atlas} shows the twelve trajectories under \texttt{claude-opus-4-8},
 chosen as a single reference model for legibility; every model's per-country
 panels are in the online gallery, with cross-model disagreement quantified in
 Section~\ref{sec:reliability}. Read against the book's four Leviathan types, most
@@ -346,23 +357,40 @@ Absent-Leviathan label describes. The \textbf{United States} is another
 Shackled Leviathan, much like the UK: state and society grow strong together and
 it ends inside the corridor, if with a somewhat stronger state tilt than the UK.
 Its state axis climbs faster than the UK's, but it stays within the corridor
-rather than crossing into state dominance. Long diagonal runs
-mark co-growth; tight loops mark oscillation in contested periods; large
-single-period jumps mark ruptures.
+rather than crossing into state dominance. The four newer cases stretch the atlas
+further. \textbf{Lebanon} and \textbf{Somalia} end deep in the weak-state region
+below the corridor (society $\approx4.8$ and $4.6$, state $\approx1.9$ and $2.6$),
+a society outrunning a state that is barely present: Lebanon's state erodes
+across the 1975--90 civil war and the post-2019 collapse, Somalia's stays low and
+flat throughout. They illustrate the Paper/Absent point directly, sitting in the
+same low-state region while differing only \emph{de jure}
+(Section~\ref{sec:setup}). \textbf{Zambia} is the surprise: hypothesized a Paper
+Leviathan, the models instead carry it \emph{into} the corridor by 2020 (society
+$\approx5.8$, state $\approx6.0$), reading its post-1991 multiparty era as genuine
+balanced growth rather than a hollow paper state, a candidate whose assigned label
+the LLM does not confirm. \textbf{India} lands where the book places it, a
+Shackled Leviathan (society $\approx8.0$, state $\approx8.5$): a strong colonial
+state in 1885 that its society gradually catches and checks, ending high on both
+axes. Long diagonal runs mark co-growth; tight loops mark oscillation in contested
+periods; large single-period jumps mark ruptures.
 
 \begin{figure*}[p]
   \centering
   % Panels match run_experiments.py slugs: <country-slug>__<model-slug>
   \atlas{iran-persia__anthropic-claude-opus-4-8}\hfill
-  \atlas{france__anthropic-claude-opus-4-8}\\[6pt]
-  \atlas{united-kingdom__anthropic-claude-opus-4-8}\hfill
-  \atlas{united-states__anthropic-claude-opus-4-8}\\[6pt]
+  \atlas{france__anthropic-claude-opus-4-8}\hfill
+  \atlas{united-kingdom__anthropic-claude-opus-4-8}\\[6pt]
+  \atlas{united-states__anthropic-claude-opus-4-8}\hfill
   \atlas{china__anthropic-claude-opus-4-8}\hfill
   \atlas{chile__anthropic-claude-opus-4-8}\\[6pt]
   \atlas{colombia__anthropic-claude-opus-4-8}\hfill
-  \atlas{democratic-republic-of-the-congo__anthropic-claude-opus-4-8}
+  \atlas{democratic-republic-of-the-congo__anthropic-claude-opus-4-8}\hfill
+  \atlas{lebanon__anthropic-claude-opus-4-8}\\[6pt]
+  \atlas{zambia-northern-rhodesia__anthropic-claude-opus-4-8}\hfill
+  \atlas{somalia__anthropic-claude-opus-4-8}\hfill
+  \atlas{india__anthropic-claude-opus-4-8}
   \caption{Trajectory atlas (reference model \texttt{claude-opus-4-8}): society
-  power (x) vs.\ state power (y) for all eight countries, time-shaded (dark $=$
+  power (x) vs.\ state power (y) for all twelve countries, time-shaded (dark $=$
   early, bright $=$ late); dashed lines mark the book's widening corridor
   illustratively. Animated versions are in the online gallery.}
   \label{fig:atlas}
@@ -389,14 +417,18 @@ Iran and China state-dominated, and Colombia and the Congo low.
 \begin{figure*}[p]
   \centering
   \atlas{iran-persia__ensemble-mean}\hfill
-  \atlas{france__ensemble-mean}\\[6pt]
-  \atlas{united-kingdom__ensemble-mean}\hfill
-  \atlas{united-states__ensemble-mean}\\[6pt]
+  \atlas{france__ensemble-mean}\hfill
+  \atlas{united-kingdom__ensemble-mean}\\[6pt]
+  \atlas{united-states__ensemble-mean}\hfill
   \atlas{china__ensemble-mean}\hfill
   \atlas{chile__ensemble-mean}\\[6pt]
   \atlas{colombia__ensemble-mean}\hfill
-  \atlas{democratic-republic-of-the-congo__ensemble-mean}
-  \caption{Ensemble atlas: the same eight countries, each averaged across the four
+  \atlas{democratic-republic-of-the-congo__ensemble-mean}\hfill
+  \atlas{lebanon__ensemble-mean}\\[6pt]
+  \atlas{zambia-northern-rhodesia__ensemble-mean}\hfill
+  \atlas{somalia__ensemble-mean}\hfill
+  \atlas{india__ensemble-mean}
+  \caption{Ensemble atlas: the same twelve countries, each averaged across the four
   models period by period (panels titled ``ensemble mean''). The mean damps any
   one model's idiosyncrasy; the spread it averages over is Krippendorff's $\alpha$
   in Table~\ref{tab:intermodel}. Time-shaded; dashed lines mark the widening
@@ -412,13 +444,16 @@ one country, and this is a real question rather than a given: does the shared
 rubric actually put every country on one scale? Our design bets that it does. The
 fixed $0$--$10$ anchors (Section~\ref{sec:method}) are country-independent, so a
 $7$ on the state axis is meant to denote the same level of state capacity for the
-Congo as for China. Figure~\ref{fig:combined} overlays all eight ensemble-mean
+Congo as for China. Figure~\ref{fig:combined} overlays all twelve ensemble-mean
 paths in one space to test that bet. The relative placement is broadly sensible:
 the Despotic cases (China, Iran) sit high on the state axis with weak society, the
-Shackled cases (UK, France, and the US) climb the diagonal into the strong-both
-upper-right, and the Paper and Absent cases sit lower and further from that corner,
-Colombia at moderate levels in the lower corridor and the Congo near the
-weak-state origin. That the countries sort
+Shackled cases (UK, France, the US, and India) climb the diagonal into the
+strong-both upper-right, and the weak-state cases fall below and left of the
+corridor, the Congo, Somalia, and Lebanon down in the low-state region (society
+ahead of a barely-present state) and Colombia at the corridor's lower edge.
+The one country that lands off its assigned region is Zambia: a candidate Paper
+Leviathan the models place inside the corridor rather than below it. That the
+countries otherwise sort
 into the book's regions on a single common scale is evidence the rubric transports
 across countries well enough for a joint reading. It is not proof: the shared
 training-data biases that may inflate a score could do so consistently across
@@ -433,7 +468,7 @@ cross-country atlas, not a metric one.
     {\fbox{\parbox[c][6cm][c]{0.6\textwidth}{\centering\footnotesize
        \textcolor{red}{\texttt{all-countries\_\_ensemble-mean}}\\[2pt]
        (run \texttt{atlas\_combined.py})}}}%
-  \caption{All eight countries' ensemble-mean trajectories in one shared
+  \caption{All twelve countries' ensemble-mean trajectories in one shared
   (society, state) space, the direct analogue of the book's single-plane map. An
   open marker is each country's start year, a filled marker and label its last
   period; dashed lines mark the book's widening corridor. Because every country is
@@ -489,14 +524,18 @@ as weak states still building capacity. The comparison is thus best read as
 \begin{figure*}[p]
   \centering
   \atlas{iran-persia__vdem}\hfill
-  \atlas{france__vdem}\\[6pt]
-  \atlas{united-kingdom__vdem}\hfill
-  \atlas{united-states__vdem}\\[6pt]
+  \atlas{france__vdem}\hfill
+  \atlas{united-kingdom__vdem}\\[6pt]
+  \atlas{united-states__vdem}\hfill
   \atlas{china__vdem}\hfill
   \atlas{chile__vdem}\\[6pt]
   \atlas{colombia__vdem}\hfill
-  \atlas{democratic-republic-of-the-congo__vdem}
-  \caption{V-Dem atlas: the same eight countries from expert codings (society $=$
+  \atlas{democratic-republic-of-the-congo__vdem}\hfill
+  \atlas{lebanon__vdem}\\[6pt]
+  \atlas{zambia-northern-rhodesia__vdem}\hfill
+  \atlas{somalia__vdem}\hfill
+  \atlas{india__vdem}
+  \caption{V-Dem atlas: the same twelve countries from expert codings (society $=$
   core civil-society index $\times10$; state $=$ authority over territory $/10$)
   at the LLM period-midpoint years. The society axis broadly agrees with the LLM
   ensemble (Fig.~\ref{fig:atlas-mean}), but V-Dem's territorial-authority state
@@ -569,9 +608,9 @@ judgment.
 \paragraph{What an LLM changes.} An LLM annotator is fast, cheap at scale,
 and \emph{transparent in its instructions}: the rubric and prompts are explicit
 artifacts that can be inspected, criticized, versioned, and re-run identically.
-To put a number on ``cheap,'' the entire eight-country, four-model sweep in this
-paper (on the order of $1{,}200$ scoring and event calls) cost roughly \$10 in
-API charges and ran in a couple of hours on one laptop; an expert-panel coding of
+To put a number on ``cheap,'' the entire twelve-country, four-model sweep in this
+paper (on the order of $1{,}600$ scoring and event calls) cost roughly \$15 in
+API charges and ran in a few hours on one laptop; an expert-panel coding of
 the same country-periods would cost orders of magnitude more in time and money.
 Its bias, however, is \emph{opaque in origin}: it reflects the distribution of
 its training data~\citep{bender2021dangers,santurkar2023whose,feng2023pretraining},
@@ -616,7 +655,7 @@ can propagate an early mis-score through the whole trajectory; we do not ablate
 it here. \emph{Model idiosyncrasy.} We report the mean-across-models atlas
 (Fig.~\ref{fig:atlas-mean}) as the headline reading and quantify per-axis spread
 (Section~\ref{sec:reliability}); still, all four are English-centric LLMs and may
-share bias. \emph{Scale and statistics.} Eight countries and short per-country
+share bias. \emph{Scale and statistics.} Twelve countries and short per-country
 series preclude cross-national generalization or strong significance claims. We
 deliberately keep the study small; the natural next steps, a purpose-built human
 coding of this exact task (beyond the V-Dem comparison we already report),
@@ -628,7 +667,7 @@ We presented, as a proof of concept, a method and a provider-agnostic tool that
 operationalize the Narrow Corridor's (state, society) space into reproducible
 trajectories, together with a protocol for checking their consistency with
 expert consensus and their reliability across models, and released it as a
-one-command exercise. The resulting eight-country atlas is a first
+one-command exercise. The resulting twelve-country atlas is a first
 quantified rendering of a framework that has been purely qualitative, and the
 accompanying consistency check and bias discussion frame honestly what such
 LLM-generated measurements are, and are not, good for.

@@ -1,0 +1,8 @@
+{
+  "society_power": 7.8,
+  "state_power": 3.2,
+  "key_event": "The 1952 'Rosewater Revolution' forces president's resignation.",
+  "reasoning": "The state's authority significantly weakened due to its inability to manage demographic shocks and its loss of legitimacy from a pro-Western foreign policy. Society's power surged, proven decisively by the 1952 'Rosewater Revolution' where cross-sectarian popular mobilization successfully forced the president to resign.",
+  "society_change": 0.8,
+  "state_change": -0.6
+}

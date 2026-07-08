@@ -1,0 +1,8 @@
+{
+  "society_power": 9.7,
+  "state_power": 7.2,
+  "key_event": "Anti-corruption protests and RTI Act empower a mobilized society.",
+  "reasoning": "Society's power surged with the Right to Information Act and mass anti-corruption protests, while the state's administrative capacity grew via the Aadhaar ID system, even as its legitimacy was severely damaged by major scandals.",
+  "society_change": 0.3,
+  "state_change": 0.4
+}

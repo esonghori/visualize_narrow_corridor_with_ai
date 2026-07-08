@@ -1,0 +1,8 @@
+{
+  "society_power": 7.5,
+  "state_power": 1.0,
+  "key_event": "Rise and fall of the Islamic Courts Union (ICU).",
+  "reasoning": "The state remained a 'paper leviathan,' a non-entity propped up by foreign intervention but controlling almost no territory. Societal power, demonstrated by the ICU's ability to create order and then Al-Shabaab's potent insurgency, remained overwhelmingly dominant, though fractured by the conflict.",
+  "society_change": -0.5,
+  "state_change": 0.5
+}

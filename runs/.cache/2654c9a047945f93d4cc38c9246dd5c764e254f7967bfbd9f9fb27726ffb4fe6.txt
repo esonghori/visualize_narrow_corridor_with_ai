@@ -1,0 +1,8 @@
+{
+  "society_power": 3.0,
+  "state_power": 2.0,
+  "society_change": 0.5,
+  "state_change": -3.0,
+  "key_event": "Fall of Siad Barre and clan fragmentation",
+  "reasoning": "Clan fragmentation and the fall of Siad Barre weakened the state, while local civil society gained limited strength."
+}

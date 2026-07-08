@@ -1,0 +1,8 @@
+{
+  "society_power": 4.0,
+  "state_power": 5.0,
+  "society_change": 0.5,
+  "state_change": 0.5,
+  "key_event": "1935 Copper Mining Strike and 1938 Native Reserves Crisis",
+  "reasoning": "The strikes and land crises strengthened civil society through organization and resistance, while the state's economic dependence on copper and wartime priorities moderately increased its power."
+}

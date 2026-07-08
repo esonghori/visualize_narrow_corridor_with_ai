@@ -1,0 +1,8 @@
+{
+  "society_power": 8.4,
+  "state_power": 8.4,
+  "key_event": "Linguistic reorganization of states in response to societal pressure.",
+  "reasoning": "State power grew through centralized economic planning and asserting authority over regional governments, but its prestige was checked by the 1962 war. Society's power also grew, proven by its ability to force the linguistic reorganization of states, showcasing a robust check on state authority.",
+  "society_change": 0.4,
+  "state_change": 0.2
+}

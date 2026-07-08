@@ -1,0 +1,8 @@
+{
+  "society_power": 4.0,
+  "state_power": 1.0,
+  "key_event": "Descent into civil war and state collapse.",
+  "reasoning": "The state effectively collapsed as the Cairo Agreement formalized its loss of sovereignty and its army disintegrated, leaving it with no coercive power. Though society was highly mobilized, its power fractured into warring sectarian militias, destroying the cohesive civic institutions that had previously checked the state.",
+  "society_change": -3.6,
+  "state_change": -4.5
+}

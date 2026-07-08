@@ -1,0 +1,8 @@
+{
+  "society_power": 8.0,
+  "state_power": 8.2,
+  "key_event": "Independence, Partition, and consolidation of the new state.",
+  "reasoning": "The state was briefly overwhelmed by Partition but massively consolidated its power by integrating princely states and building a national administrative framework. Society was fractured by Partition but was simultaneously empowered by the new Constitution, universal franchise, and successful mass movements for linguistic states, giving it robust new tools for accountability.",
+  "society_change": 0.2,
+  "state_change": 0.7
+}

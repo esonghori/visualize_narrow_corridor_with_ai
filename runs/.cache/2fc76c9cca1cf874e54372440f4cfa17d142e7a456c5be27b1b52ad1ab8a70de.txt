@@ -1,0 +1,8 @@
+{
+  "society_power": 6.5,
+  "state_power": 7.5,
+  "society_change": 0.5,
+  "state_change": 0.5,
+  "key_event": "Economic Nationalization, Green Revolution, Language Riots",
+  "reasoning": "Economic nationalization and the Green Revolution strengthened the state, while language riots and the Bihar famine strengthened civil society."
+}

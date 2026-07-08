@@ -1,0 +1,8 @@
+{
+  "society_power": 5.5,
+  "state_power": 4.8,
+  "key_event": "Establishment of the French Mandate and Greater Lebanon.",
+  "reasoning": "The French Mandate began building a modern state with a functioning bureaucracy, but its power was limited by its reliance on French military backing and negotiation with local sectarian elites. These powerful, organized communities represented a moderate societal check, shaping the new state's institutions and constraining its reach.",
+  "society_change": 0.0,
+  "state_change": 0.0
+}

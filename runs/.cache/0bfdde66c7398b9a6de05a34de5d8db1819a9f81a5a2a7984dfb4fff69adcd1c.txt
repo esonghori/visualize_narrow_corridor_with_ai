@@ -1,0 +1,8 @@
+{
+  "society_power": 1.5,
+  "state_power": 5.8,
+  "key_event": "Fascist state-building and mobilization for Ethiopian War.",
+  "reasoning": "The Fascist colonial administration systematically expanded its bureaucratic and coercive power, culminating in the invasion of Ethiopia. It simultaneously dismantled traditional clan authority and economic systems, causing society's capacity for collective action to collapse toward atomization.",
+  "society_change": -1.0,
+  "state_change": 1.6
+}

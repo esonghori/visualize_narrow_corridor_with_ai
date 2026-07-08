@@ -1,0 +1,8 @@
+{
+  "society_power": 8.2,
+  "state_power": 6.2,
+  "key_event": "The Salt March and mass Civil Disobedience Movement.",
+  "reasoning": "Society's power surged dramatically as the Indian National Congress organized mass civil disobedience, forcing the colonial state to negotiate with nationalist leaders as equals. The state's authority was severely eroded as it could not enforce its will against unified popular opposition, despite retaining its coercive apparatus.",
+  "society_change": 1.2,
+  "state_change": -0.6
+}

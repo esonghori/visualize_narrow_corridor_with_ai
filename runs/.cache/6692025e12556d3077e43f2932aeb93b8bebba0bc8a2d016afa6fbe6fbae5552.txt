@@ -1,0 +1,8 @@
+{
+  "society_power": 2.0,
+  "state_power": 6.5,
+  "society_change": -1.8,
+  "state_change": 1.3,
+  "key_event": "Military coup and centralization of power under Siad Barre",
+  "reasoning": "The military coup strengthened state power, while economic decline and clan tensions weakened civil society."
+}

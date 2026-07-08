@@ -1,0 +1,8 @@
+{
+  "society_power": 4.5,
+  "state_power": 3.5,
+  "society_change": 1.5,
+  "state_change": -1.0,
+  "key_event": "Swadeshi Movement and Partition of Bengal",
+  "reasoning": "Nationalist movements and Swadeshi increased civil society strength, while state inefficiencies and protests weakened state power."
+}

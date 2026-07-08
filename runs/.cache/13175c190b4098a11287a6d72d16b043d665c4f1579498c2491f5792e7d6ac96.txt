@@ -1,0 +1,8 @@
+{
+  "society_power": 5.5,
+  "state_power": 8.5,
+  "key_event": "Independence and UNIP's consolidation of a one-party state.",
+  "reasoning": "Upon independence, the dominant nationalist movement (UNIP) became the state, absorbing society's power while rapidly expanding its own control over the economy through nationalizations, creating a powerful but increasingly despotic Leviathan.",
+  "society_change": -2.7,
+  "state_change": 1.0
+}

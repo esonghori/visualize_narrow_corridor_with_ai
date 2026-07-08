@@ -1,0 +1,8 @@
+{
+  "society_power": 5.2,
+  "state_power": 3.2,
+  "key_event": "Rise of armed clan insurgencies against a predatory state.",
+  "reasoning": "The state's power collapsed as it degenerated into a narrow, predatory clan apparatus, losing legitimacy and administrative capacity. In response, society's power grew in a fractured, militarized way as armed clan opposition movements mobilized to resist and ultimately destroy the state.",
+  "society_change": 1.7,
+  "state_change": -2.3
+}

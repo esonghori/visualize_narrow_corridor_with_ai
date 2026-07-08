@@ -1,0 +1,8 @@
+{
+  "society_power": 2.2,
+  "state_power": 8.3,
+  "key_event": "Victory over Napoleon boosts state and awakens officer corps.",
+  "reasoning": "The state's overwhelming victory in the Patriotic War of 1812 massively enhanced its prestige and coercive capacity. Concurrently, the exposure of the officer corps to European ideas led to the first secret political societies, a nascent but important increase in organized civil society's power.",
+  "society_change": 0.7,
+  "state_change": 0.5
+}

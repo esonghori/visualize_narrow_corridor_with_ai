@@ -1,0 +1,8 @@
+{
+  "society_power": 7.8,
+  "state_power": 6.5,
+  "key_event": "Civil society defeats President Chiluba's third-term bid.",
+  "reasoning": "Civil society demonstrated immense power by defeating President Chiluba's unconstitutional third-term bid, while the state's capacity grew significantly due to a commodity boom and massive debt relief.",
+  "society_change": 0.8,
+  "state_change": 1.5
+}

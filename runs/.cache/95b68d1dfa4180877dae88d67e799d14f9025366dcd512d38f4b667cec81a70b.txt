@@ -1,0 +1,8 @@
+{
+  "society_power": 5.5,
+  "state_power": 6.0,
+  "society_change": -1.0,
+  "state_change": 0.5,
+  "key_event": "Amnesty Law and 2001 Electoral Fraud",
+  "reasoning": "The amnesty law and electoral fraud allegations undermined civil society's trust and accountability, while the state consolidated power and demonstrated administrative capacity."
+}

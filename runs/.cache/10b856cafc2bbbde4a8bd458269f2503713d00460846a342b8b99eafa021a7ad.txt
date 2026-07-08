@@ -1,0 +1,8 @@
+{
+  "society_power": 7.2,
+  "state_power": 6.5,
+  "key_event": "Formation of African National Congress and Mineworkers' Union.",
+  "reasoning": "Society's power surged with the creation of powerful, nationwide political and labor organizations (NRANC and AMWU), representing a major leap in mobilization capacity. The colonial state's power slightly receded as it was forced to make political concessions and now faced a far more organized opposition, constraining its previously unchallenged authority.",
+  "society_change": 2.2,
+  "state_change": -0.3
+}

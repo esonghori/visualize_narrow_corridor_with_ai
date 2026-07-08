@@ -1,0 +1,8 @@
+{
+  "society_power": 6.0,
+  "state_power": 6.0,
+  "society_change": 1.0,
+  "state_change": 0.5,
+  "key_event": "1958 Founding of UNIP",
+  "reasoning": "The founding of UNIP significantly strengthened civil society, while increased economic investment and urbanization moderately bolstered state power."
+}

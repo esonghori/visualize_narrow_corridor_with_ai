@@ -1,0 +1,8 @@
+{
+  "society_power": 8.0,
+  "state_power": 8.0,
+  "society_change": 1.0,
+  "state_change": 0.5,
+  "key_event": "RTI Act and Anti-Corruption Movement",
+  "reasoning": "The RTI Act and anti-corruption movement significantly bolstered civil society, while economic growth and NREGA enhanced state power."
+}

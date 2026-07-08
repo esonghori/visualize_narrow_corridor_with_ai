@@ -1,0 +1,8 @@
+{
+  "society_power": 7.0,
+  "state_power": 6.8,
+  "key_event": "Gandhi's rise and the mass Non-Cooperation Movement.",
+  "reasoning": "Society's power surged as Gandhi transformed the INC into a mass movement capable of nationwide mobilization, directly challenging the state's legitimacy. While the colonial state retained strong coercive capacity, its effective control was weakened by the loss of consent and legitimacy following events like the Jallianwala Bagh massacre.",
+  "society_change": 1.5,
+  "state_change": -0.3
+}

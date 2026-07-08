@@ -1,0 +1,130 @@
+{
+  "country": "India",
+  "model": "ensemble-mean (4 models)",
+  "periods": [
+    [
+      1885,
+      1894
+    ],
+    [
+      1895,
+      1904
+    ],
+    [
+      1905,
+      1914
+    ],
+    [
+      1915,
+      1924
+    ],
+    [
+      1925,
+      1934
+    ],
+    [
+      1935,
+      1944
+    ],
+    [
+      1945,
+      1954
+    ],
+    [
+      1955,
+      1964
+    ],
+    [
+      1965,
+      1974
+    ],
+    [
+      1975,
+      1984
+    ],
+    [
+      1985,
+      1994
+    ],
+    [
+      1995,
+      2004
+    ],
+    [
+      2005,
+      2014
+    ],
+    [
+      2015,
+      2024
+    ]
+  ],
+  "society_power": {
+    "1885-1894": 3.5,
+    "1895-1904": 4.1,
+    "1905-1914": 5.25,
+    "1915-1924": 6.75,
+    "1925-1934": 7.55,
+    "1935-1944": 7.375,
+    "1945-1954": 7.15,
+    "1955-1964": 7.4,
+    "1965-1974": 7.2,
+    "1975-1984": 7.325,
+    "1985-1994": 7.85,
+    "1995-2004": 8.2,
+    "2005-2014": 8.725,
+    "2015-2024": 8.025
+  },
+  "state_power": {
+    "1885-1894": 6.375,
+    "1895-1904": 6.575,
+    "1905-1914": 6.925,
+    "1915-1924": 6.7,
+    "1925-1934": 6.375,
+    "1935-1944": 6.7,
+    "1945-1954": 7.9,
+    "1955-1964": 8.2,
+    "1965-1974": 8.5,
+    "1975-1984": 7.9,
+    "1985-1994": 7.2,
+    "1995-2004": 7.5,
+    "2005-2014": 7.775,
+    "2015-2024": 8.5
+  },
+  "key_event": {
+    "1885-1894": "British Raj consolidated; Indian National Congress founded (1885)",
+    "1895-1904": "Curzon centralization and coercive famine/plague management",
+    "1905-1914": "Swadeshi movement and Bengal partition backlash",
+    "1915-1924": "Gandhi's mass Non-Cooperation Movement transforms Congress into mass politics",
+    "1925-1934": "Salt March / Civil Disobedience and Purna Swaraj declaration",
+    "1935-1944": "Wartime state expansion, Quit India repression, Bengal Famine",
+    "1945-1954": "Independence, Constitution, and first universal-franchise elections",
+    "1955-1964": "Nehruvian state-led industrialization and permit-license Raj expansion",
+    "1965-1974": "Indira Gandhi's personalization of power amid rising mobilization",
+    "1975-1984": "Emergency then 1977 electoral ouster; Punjab insurgency",
+    "1985-1994": "Babri Masjid demolition; Mandal mobilization; 1991 liberalization",
+    "1995-2004": "Liberalization, IT boom, PIL/RTI, and coalition-era societal mobilization",
+    "2005-2014": "RTI, rights-based laws, and anti-corruption mass mobilization",
+    "2015-2024": "BJP centralization and digital state vs. periodic societal pushback"
+  },
+  "reasoning": {
+    "1885-1894": "mean of 4 models",
+    "1895-1904": "mean of 4 models",
+    "1905-1914": "mean of 4 models",
+    "1915-1924": "mean of 4 models",
+    "1925-1934": "mean of 4 models",
+    "1935-1944": "mean of 4 models",
+    "1945-1954": "mean of 4 models",
+    "1955-1964": "mean of 4 models",
+    "1965-1974": "mean of 4 models",
+    "1975-1984": "mean of 4 models",
+    "1985-1994": "mean of 4 models",
+    "1995-2004": "mean of 4 models",
+    "2005-2014": "mean of 4 models",
+    "2015-2024": "mean of 4 models"
+  },
+  "events_trends_prompt": {},
+  "events_trends_response": {},
+  "score_prompt": {},
+  "score_response": {}
+}

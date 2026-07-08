@@ -1,0 +1,8 @@
+{
+  "society_power": 7.2,
+  "state_power": 8.5,
+  "society_change": -1.0,
+  "state_change": 0.5,
+  "key_event": "Political polarization and Farmers' Protests",
+  "reasoning": "Political polarization strengthened the state while weakening civil society, but significant protests like the farmers' movement provided a counterbalance."
+}

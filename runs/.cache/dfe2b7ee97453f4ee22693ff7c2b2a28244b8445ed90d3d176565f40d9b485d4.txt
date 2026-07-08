@@ -1,0 +1,8 @@
+{
+  "society_power": 5.5,
+  "state_power": 6.8,
+  "key_event": "UN Trusteeship builds a state; political parties mobilize society.",
+  "reasoning": "The UN Trusteeship systematically built the institutions of a modern state, increasing its administrative and coercive capacity. Simultaneously, political parties like the Somali Youth League grew into mass movements that contested the first elections, strengthening civil society's ability to organize and engage with the new state.",
+  "society_change": 1.0,
+  "state_change": 0.6
+}

@@ -1,0 +1,35 @@
+# India 1895–1904: State and Society through the *Narrow Corridor* Lens
+
+A note on the framework: Acemoğlu and Robinson describe liberty as emerging when a "Shackled Leviathan" balances a strong state against a mobilized society. In colonial India, the "state" was the British Raj (a despotic, extractive Leviathan), so "strengthening the state" often meant strengthening an *unaccountable* power over Indians, while "strengthening society" meant nascent Indian civil/political mobilization.
+
+## Trends
+
+- **Consolidation of colonial administrative capacity** (institutional): Continued professionalization of the ICS, expansion of railways, telegraph, and irrigation works. Strengthened the state's despotic reach and fiscal/logistical penetration; weakened autonomous local society by displacing indigenous authority.
+
+- **Growth of Indian nationalist political consciousness** (institutional/social): The Indian National Congress (founded 1885) continued meeting annually, and a more assertive "extremist" strand (Tilak) gained ground against "moderates." Slowly strengthened society's organizational capacity.
+
+- **Expansion of English-language education and vernacular press** (institutional/social): A growing educated professional class and proliferating newspapers created networks for mobilization. Strengthened society; the state responded with attempts at press control.
+
+- **Commercialization and export-orientation of agriculture** (economic): Increasing cash-crop dependence and revenue demands left cultivators vulnerable to price and monsoon shocks. Weakened rural society's resilience; entrenched extractive state revenue structures.
+
+- **Demographic vulnerability and recurrent subsistence crises** (demographic): Population under chronic strain from famine and plague mortality in this decade. Weakened society's capacity; strained (and partly discredited) state legitimacy.
+
+## Events
+
+- **Great Famine of 1896–1897 and 1899–1900 (the "late Victorian holocaust")** (event): Massive mortality across central and western India. Exposed the extractive, unaccountable character of the Leviathan; galvanized nationalist critique (e.g., Naoroji's "drain theory," Dutt's economic history). Weakened state legitimacy; catalyzed societal grievance.
+
+- **Bubonic plague epidemic (from 1896, esp. Bombay)** (event): Coercive public-health measures—forced segregation, house searches, hospitalization—provoked resentment. Strengthened state despotic intervention while inflaming society.
+
+- **Assassination of Plague Commissioner W.C. Rand at Poona (1897)** by the Chapekar brothers (event): Early act of anti-colonial violence responding to plague coercion. Reflected society's radicalization; state responded with repression.
+
+- **Sedition trial of Bal Gangadhar Tilak (1897)** (event): Prosecution for writings tied to unrest. State asserted coercive control over the press; simultaneously created a nationalist martyr-figure, mobilizing society.
+
+- **Passage of famine relief reforms / Famine Commission (1898, 1901)** (event): Codification of relief obligations. Modestly expanded the state's welfare responsibilities (a step toward accountability), though limited in practice.
+
+- **Lord Curzon's viceroyalty (1899–1905) and his centralizing reforms** (event/trend-in-formation): Administrative "efficiency," the Indian Universities Act (1904), and the Ancient Monuments Act. Strengthened state capacity and control over education; alienated Indian elites—seeding the mobilization that would explode with the 1905 Bengal partition (just outside the window).
+
+- **Founding of colonial economic/famine infrastructure debates** (event): Publication of R.C. Dutt's *Economic History of India* (1901–1904). Provided society with an intellectual/ideological arsenal against extraction.
+
+---
+
+**Caveat:** This period predates the great mobilizations (1905 Swadeshi movement, later Gandhian mass politics). The dominant dynamic in 1895–1904 is a *strengthening despotic Leviathan* (Curzonian centralization + coercive crisis management) meeting an *awakening but not-yet-mass* society—India remaining well *outside* the corridor, but with the events of this decade (famine, plague coercion, sedition trials) supplying grievances that pushed society toward the mobilization to come.

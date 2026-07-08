@@ -1,0 +1,8 @@
+{
+  "society_power": 1.2,
+  "state_power": 8.0,
+  "key_event": "Defeat in the Crimean War exposes the state's weakness.",
+  "reasoning": "Russia's shocking defeat in the Crimean War shattered the myth of its overwhelming power, revealing deep administrative and economic rot, causing a significant drop in state capacity. The crisis forced the new Tsar to begin reforms from above, creating a slight opening for a still-atomized society.",
+  "society_change": 0.3,
+  "state_change": -1.6
+}

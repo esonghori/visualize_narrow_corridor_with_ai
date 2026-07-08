@@ -1,0 +1,8 @@
+{
+  "society_power": 1.0,
+  "state_power": 7.5,
+  "key_event": "Autocratic crackdown in response to French Revolution.",
+  "reasoning": "The Russian state was a powerful autocracy with a large military and bureaucracy, capable of enforcing serfdom and expanding its territory. In contrast, society was atomized, with the vast majority of the population enserfed and any independent intellectual activity harshly repressed, particularly after the French Revolution.",
+  "society_change": 0.0,
+  "state_change": 0.0
+}

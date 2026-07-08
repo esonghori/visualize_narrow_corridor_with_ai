@@ -1,0 +1,8 @@
+{
+  "society_power": 0.8,
+  "state_power": 5.0,
+  "society_change": -1.2,
+  "state_change": 1.5,
+  "key_event": "Formation of Italian East Africa",
+  "reasoning": "Repression of local resistance and Italian consolidation weakened civil society, while state control and infrastructure improved."
+}

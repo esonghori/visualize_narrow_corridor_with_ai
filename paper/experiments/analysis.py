@@ -47,6 +47,7 @@ EXT_STATE_COL = "v2svstterr"
 # full country name.
 DISPLAY_NAME = {
     "Democratic Republic of the Congo": "DR Congo",
+    "Zambia (Northern Rhodesia)": "Zambia",
 }
 
 # LLM country name -> external-dataset country name
@@ -59,6 +60,10 @@ COUNTRY_TO_EXT = {
     "Chile": "Chile",
     "Colombia": "Colombia",
     "Democratic Republic of the Congo": "Democratic Republic of the Congo",
+    "Lebanon": "Lebanon",
+    "Zambia (Northern Rhodesia)": "Zambia",
+    "Somalia": "Somalia",
+    "India": "India",
 }
 
 

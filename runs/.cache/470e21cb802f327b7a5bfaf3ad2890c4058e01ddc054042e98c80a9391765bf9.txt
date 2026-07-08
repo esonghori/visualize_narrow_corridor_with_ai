@@ -1,0 +1,8 @@
+{
+  "society_power": 3.0,
+  "state_power": 4.0,
+  "society_change": 0.0,
+  "state_change": 0.0,
+  "key_event": "French Mandate established",
+  "reasoning": "Civil society was weak but emerging, while the state was weak under French control."
+}

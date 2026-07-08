@@ -1,0 +1,8 @@
+{
+  "society_power": 1.5,
+  "state_power": 7.8,
+  "key_event": "Alexander I's ministerial reforms rationalize state administration.",
+  "reasoning": "State power grew through bureaucratic centralization and war mobilization, despite defeats. Society's power, while still atomized by serfdom, ticked up as the assassination of Paul I demonstrated a violent, elite check on the autocrat.",
+  "society_change": 0.5,
+  "state_change": 0.3
+}

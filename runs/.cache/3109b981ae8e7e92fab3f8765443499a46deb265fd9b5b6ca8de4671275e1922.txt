@@ -1,0 +1,21 @@
+Based on Acemoğlu and Robinson's framework, here are the major historical events and trends in the Russian Empire from 1809-1818 that affected the balance of power between the state and society.
+
+### Trends:
+
+*   **Bureaucratic Rationalization:** The administrative reforms initiated by Mikhail Speransky, though curtailed, represented a slow-moving effort to create a more efficient, centralized, and powerful state apparatus governed by predictable laws rather than pure autocratic whim. This trend aimed to move Russia towards a more modern, capable Leviathan.
+    *   **Effect:** Strengthened the state's administrative capacity.
+*   **Entrenchment of Serfdom:** Despite the intellectual ferment of the era and Tsar Alexander I's private misgivings, the institution of serfdom remained the fundamental organizing principle of the economy and society. The massive military levies for the Napoleonic Wars reinforced its utility to the state, keeping the vast majority of the population bound and powerless.
+    *   **Effect:** Maintained the socio-economic foundation of state power while decisively weakening and "caging" society.
+*   **Emergence of a Politicized Officer Corps:** Russian officers campaigning across Europe from 1812-1815 were exposed to Western European political ideas, legal systems, and standards of living. This experience created a slow-burning trend of political consciousness and liberal aspirations within a key segment of the elite.
+    *   **Effect:** Strengthened a nascent civil society by creating a small but influential group with political goals independent of, and often in opposition to, the autocratic state.
+
+### Events:
+
+*   **Establishment of the State Council (1810) and Fall of Speransky (1812):** The creation of the State Council was a discrete event that rationalized the legislative process, making the state's law-making function more orderly and systematic. However, the subsequent dismissal of its architect, Speransky, under pressure from conservative nobility, demonstrated society's (specifically, the elite's) power to check state-led modernization that threatened its vested interests.
+    *   **Effect:** The Council strengthened the state's apparatus; Speransky's fall demonstrated the power of elite society to resist state-driven reform.
+*   **The Patriotic War of 1812:** Napoleon's invasion was a critical event that required a total mobilization of both the Russian state and its people. The state raised vast armies, and society responded with partisan warfare and a surge of patriotic sentiment. The ultimate victory massively enhanced the prestige and power of the Tsar and the Russian military state.
+    *   **Effect:** Massively strengthened the state's legitimacy and coercive power, while also temporarily empowering society through mass participation and fostering a national consciousness.
+*   **Creation of Constitutional Polities on the Empire's Periphery (Finland 1809, Poland 1815):** Tsar Alexander I, as Grand Duke of Finland and King of Poland, granted these territories liberal constitutions and significant autonomy. These were specific acts of statecraft that stood in stark contrast to the autocracy within Russia proper.
+    *   **Effect:** Strengthened the state by consolidating the empire, but also inadvertently provided a model of limited government that fueled liberal demands within Russian society.
+*   **Founding of the First Secret Societies (e.g., Union of Salvation, 1816):** As a direct result of their European experiences, a group of guards officers founded the first of the Decembrist secret societies. This was a concrete organizational step to discuss and plan for the abolition of serfdom and the introduction of a constitution.
+    *   **Effect:** A clear, though clandestine, strengthening of civil society's ability to organize for political change against the state.

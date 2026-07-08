@@ -1,0 +1,8 @@
+{
+  "society_power": 4.0,
+  "state_power": 7.3,
+  "key_event": "State overreach during famine and plague sparks societal backlash.",
+  "reasoning": "Viceroy Curzon's drive for efficiency and the state's coercive plague response increased its power, but these actions and disastrous famine relief efforts galvanized nationalist opposition, strengthening civil society's capacity to mobilize.",
+  "society_change": 0.5,
+  "state_change": 0.3
+}

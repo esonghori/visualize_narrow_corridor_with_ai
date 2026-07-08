@@ -1,0 +1,8 @@
+{
+  "society_power": 4.0,
+  "state_power": 5.5,
+  "key_event": "Transfer from company rule to a formal British Protectorate.",
+  "reasoning": "State power surged with the establishment of a formal British colonial administration, replacing weaker company rule. Society also gained power, primarily through institutionalized settler representation and the first modern African political associations.",
+  "society_change": 1.5,
+  "state_change": 2.0
+}

@@ -1,0 +1,8 @@
+{
+  "society_power": 2.5,
+  "state_power": 4.2,
+  "key_event": "Colonial defeat of Dervish State and Sultanates.",
+  "reasoning": "The colonial state's military defeat of the Dervish State and the subjugation of the Sultanates decisively crushed the primary centers of societal power. This allowed the new Fascist administration to build a more coercive, extractive state apparatus with much greater territorial control.",
+  "society_change": -2.0,
+  "state_change": 2.0
+}

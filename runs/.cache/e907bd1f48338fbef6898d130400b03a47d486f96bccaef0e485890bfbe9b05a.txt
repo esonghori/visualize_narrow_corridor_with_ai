@@ -1,0 +1,8 @@
+{
+  "society_power": 3.5,
+  "state_power": 5.5,
+  "key_event": "Barre's socialist state-building and collapse in the Ogaden War.",
+  "reasoning": "Siad Barre's regime dramatically increased state power through centralization and militarization, while systematically crushing civil society and traditional clan structures. However, the state's catastrophic defeat in the Ogaden War shattered its military and legitimacy, leading to a resurgence of fragmented, clan-based opposition.",
+  "society_change": -3.0,
+  "state_change": 1.7
+}
