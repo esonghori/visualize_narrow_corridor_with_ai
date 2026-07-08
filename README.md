@@ -6,12 +6,12 @@ In *The Narrow Corridor: States, Societies, and the Fate of Liberty*, Daron Acem
 
 <p>
   <img height="400" alt="The Narrow Corridor book cover" src="https://github.com/user-attachments/assets/352532d2-4a49-440b-acc3-b2581c1ff768" />
-  <img height="400" alt="The widening corridor and the four Leviathan types" src="./paper/experiments/results/corridor-schematic.png" />
+  <img height="400" alt="The Narrow Corridor and its Leviathan regions" src="./paper/experiments/results/corridor-schematic.png" />
 </p>
 
 ## The atlas
 
-The short paper ([`paper/main.pdf`](./paper/main.pdf); reproduce it end to end via [`paper/RUNBOOK.md`](./paper/RUNBOOK.md)) builds a **twelve-country trajectory atlas** — Iran, France, the United Kingdom, the United States, China, Chile, Colombia, the Democratic Republic of the Congo, Lebanon, Zambia, Somalia, and India — chosen so at least two countries fall in each of the book's four **Leviathan types**: Despotic (China, Iran), Shackled (UK, France, US, India), Paper (Colombia, Zambia), and Absent (DR Congo, Lebanon, Somalia). It compares four LLMs (Gemini, Claude, GPT, and an open-weight Qwen), checks the scores against the **V-Dem** expert index, and quantifies inter-model agreement. Because every country is scored against the same fixed rubric, all twelve sit on one shared map of the book's regions:
+The short paper ([`paper/main.pdf`](./paper/main.pdf); reproduce it end to end via [`paper/RUNBOOK.md`](./paper/RUNBOOK.md)) builds a **twelve-country trajectory atlas** — Iran, France, the United Kingdom, the United States, China, Chile, Colombia, the Democratic Republic of the Congo, Lebanon, Zambia, Somalia, and India — chosen so at least two countries fall in each of the book's four **Leviathan types**: Despotic (China, Iran), Shackled (UK, France, US, India), Paper (Colombia, Zambia, Lebanon), and Absent (DR Congo, Somalia). It compares four LLMs (Gemini, Claude, GPT, and an open-weight Qwen), checks the scores against the **V-Dem** expert index, and quantifies inter-model agreement. Because every country is scored against the same fixed rubric, all twelve sit on one shared map of the book's regions:
 
 ![Where each country sits in 2020, over the book's Leviathan regions](./paper/experiments/results/all-countries__ensemble-mean.png)
 
