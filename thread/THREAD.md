@@ -12,8 +12,8 @@ Attach the noted media to each tweet (🎬 = animated GIF). Links: repo
 
 So I had LLMs do it. Here's the United States, 1789→2020, decade by decade. 🧵
 
-Code: github.com/esonghori/narrow-corridor-llm
-Gallery: esonghori.github.io/narrow-corridor-llm
+💻 Code: github.com/esonghori/narrow-corridor-llm
+🎮 Gallery: esonghori.github.io/narrow-corridor-llm
 
 ---
 
@@ -73,12 +73,3 @@ Against V-Dem expert codings, "society power" tracks the civil-society index wel
 Two caveats I lead with, not bury:
 • These indices are almost certainly in the models' training data, so agreement = *consistency*, not proven accuracy.
 • Coverage is thinnest for exactly the non-Western cases (Iran, China, Colombia, DR Congo, Lebanon, Somalia, Zambia) — the training data is English-heavy.
-
----
-
-**9/**
-
-Everything's open: code, prompts, every run, the paper, and an interactive gallery where you click any trajectory to play its animation.
-
-Repo: github.com/esonghori/narrow-corridor-llm
-Gallery: esonghori.github.io/narrow-corridor-llm
