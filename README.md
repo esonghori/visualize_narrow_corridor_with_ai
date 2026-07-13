@@ -2,7 +2,7 @@
 
 In *The Narrow Corridor: States, Societies, and the Fate of Liberty*, Daron Acemoglu and James A. Robinson [[1]](#1) — awarded the 2024 Nobel Prize in Economics in part for the body of institutional research this book belongs to — trace national histories as paths through a two-dimensional **(state power, society power)** space, with a narrow *corridor* between the two axes where liberty is sustained. But the book plots none: quantifying the two axes at each historical moment is the labor-intensive, judgment-laden task that has kept the framework qualitative. This project asks whether a **large language model (LLM)** can operationalize it. It scores a country period by period, using chain-of-thought [[3]](#3) (events first, then a score) and in-context anchoring [[4]](#4) on prior periods against an explicit 0–10 rubric, returning schema-validated scores, to produce reproducible trajectories that can be checked against an expert index (V-Dem).
 
-📄 **[Read the paper](./paper/main.pdf)** · 🌐 **[Interactive gallery](https://esonghori.github.io/narrow-corridor-llm/)**
+📄 **[Read the paper](./paper/main.pdf)** · 🌐 **[Interactive gallery](https://esonghori.com/narrow-corridor-llm/gallery/)** · 📝 **[Project page](https://esonghori.com/narrow-corridor-llm/)**
 
 <p>
   <img height="400" alt="The Narrow Corridor book cover" src="https://github.com/user-attachments/assets/352532d2-4a49-440b-acc3-b2581c1ff768" />
@@ -55,7 +55,7 @@ save_path(path, "runs/france.json"); plot_path(path, "runs/france.png"); animate
 uv run python scripts/build_site.py --runs paper/experiments/results --out docs
 ```
 
-Browse the hosted version at <https://esonghori.github.io/narrow-corridor-llm/>. Every run in the paper (12 countries × 4 models, plus the V-Dem and ensemble atlases) lives under [`paper/experiments/results/`](./paper/experiments/results), each with its full prompt/response transcript. One trajectory, animated (the United States, ensemble mean):
+Browse the hosted version at <https://esonghori.com/narrow-corridor-llm/gallery/>. Every run in the paper (12 countries × 4 models, plus the V-Dem and ensemble atlases) lives under [`paper/experiments/results/`](./paper/experiments/results), each with its full prompt/response transcript. One trajectory, animated (the United States, ensemble mean):
 
 ![US trajectory animation](./docs/assets/united-states__ensemble-mean.gif)
 
