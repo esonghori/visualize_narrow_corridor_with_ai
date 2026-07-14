@@ -1,0 +1,8 @@
+{
+  "society_power": 8.0,
+  "state_power": 7.5,
+  "key_event": "Adoption of foundational republican laws (press, unions, education).",
+  "reasoning": "The state's power grew by taking control of education (Lois Ferry), while society's power was massively boosted by landmark laws legalizing unions and granting freedom of the press and assembly, moving France deeper into the 'corridor'.",
+  "society_change": 0.5,
+  "state_change": 0.5
+}

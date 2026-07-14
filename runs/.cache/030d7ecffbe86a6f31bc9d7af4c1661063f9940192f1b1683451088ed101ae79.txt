@@ -1,0 +1,8 @@
+{
+  "society_power": 6.0,
+  "state_power": 3.0,
+  "key_event": "Assassination of Hariri triggers the Cedar Revolution and Syrian withdrawal.",
+  "reasoning": "The 2005 Cedar Revolution showed a massive surge in society's power to mobilize and force change. However, the state was critically weakened, its sovereignty shattered by Hezbollah's 2006 war and the ensuing political paralysis.",
+  "society_change": 2.5,
+  "state_change": -1.5
+}

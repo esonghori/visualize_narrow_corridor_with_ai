@@ -1,0 +1,8 @@
+{
+  "society_power": 3.5,
+  "state_power": 8.5,
+  "key_event": "The 2009 Green Movement and its subsequent suppression.",
+  "reasoning": "While the rise of digital media and civic campaigns showed societal potential, the state, empowered by oil revenues and security apparatuses like the IRGC, decisively crushed the mass mobilization of 2009. This event demonstrated the state's vast coercive power and left civil society severely weakened and suppressed.",
+  "society_change": -2.0,
+  "state_change": 1.5
+}

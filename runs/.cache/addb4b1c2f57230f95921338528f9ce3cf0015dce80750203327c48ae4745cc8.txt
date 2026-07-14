@@ -1,0 +1,8 @@
+{
+  "society_power": 4.0,
+  "state_power": 6.0,
+  "society_change": 0.5,
+  "state_change": 0.5,
+  "key_event": "义和团运动、清末新政",
+  "reasoning": "义和团运动增强了社会反抗力量，清末新政短期内加强了国家权力。"
+}

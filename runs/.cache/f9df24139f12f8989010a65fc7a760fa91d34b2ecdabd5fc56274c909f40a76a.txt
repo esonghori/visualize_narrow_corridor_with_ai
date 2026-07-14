@@ -1,0 +1,8 @@
+{
+  "society_power": 0.5,
+  "state_power": 4.5,
+  "key_event": "The Cultural Revolution shatters the state and atomizes society.",
+  "reasoning": "The Cultural Revolution dismantled the party-state bureaucracy, causing state power to collapse into near anarchy. Society was further atomized, mobilized by Mao as a political weapon rather than an independent force, wiping out any vestiges of autonomous organization.",
+  "society_change": -0.5,
+  "state_change": -5.0
+}

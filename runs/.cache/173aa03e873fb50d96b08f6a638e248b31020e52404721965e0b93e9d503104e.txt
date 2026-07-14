@@ -1,0 +1,8 @@
+{
+  "society_power": 9.0,
+  "state_power": 8.5,
+  "society_change": 0.4,
+  "state_change": 0.5,
+  "key_event": "Crecimiento de la participación política y sindicalismo",
+  "reasoning": "El fortalecimiento de la sociedad civil a través de mayor participación política y sindicalismo, junto con una respuesta estatal más activa en políticas sociales y económicas."
+}

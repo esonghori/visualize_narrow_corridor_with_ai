@@ -1,0 +1,8 @@
+{
+  "society_power": 9.4,
+  "state_power": 6.8,
+  "key_event": "Societal victories (EU referendum, CPE) check a constrained state.",
+  "reasoning": "State power is diluted by European integration (Euro) and high-profile domestic political defeats (CPE, EU referendum), despite new security powers. Simultaneously, civil society demonstrates its immense mobilization capacity by forcing the state's retreat on these key issues, pushing its power to a new peak.",
+  "society_change": 0.2,
+  "state_change": -0.5
+}

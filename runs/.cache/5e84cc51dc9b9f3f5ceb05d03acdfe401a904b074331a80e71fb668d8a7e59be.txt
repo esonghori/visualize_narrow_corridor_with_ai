@@ -1,0 +1,8 @@
+{
+  "society_power": 7.5,
+  "state_power": 7.0,
+  "society_change": 1.5,
+  "state_change": -1.0,
+  "key_event": "Referéndum de 1988 y elecciones de 1989",
+  "reasoning": "La transición democrática fortaleció la sociedad civil, pero el poder del Estado se vio limitado inicialmente."
+}

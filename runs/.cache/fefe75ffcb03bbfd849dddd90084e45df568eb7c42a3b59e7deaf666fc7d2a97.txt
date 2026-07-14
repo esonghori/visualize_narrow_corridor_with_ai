@@ -1,0 +1,8 @@
+{
+  "society_power": 4.5,
+  "state_power": 5.5,
+  "society_change": -1.5,
+  "state_change": -2.5,
+  "key_event": "Défaites militaires, fin de l'Empire, début de la Restauration",
+  "reasoning": "Les défaites militaires et la Restauration affaiblissent l'État, tandis que l'opinion publique critique gagne en influence malgré la censure, renforçant modérément la société civile."
+}

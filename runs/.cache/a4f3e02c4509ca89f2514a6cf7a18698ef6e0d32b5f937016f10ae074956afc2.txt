@@ -1,0 +1,8 @@
+{
+  "society_power": 4.5,
+  "state_power": 9.5,
+  "society_change": 0.5,
+  "state_change": 0.5,
+  "key_event": "经济改革深化，香港与澳门回归",
+  "reasoning": "经济改革增强了社会的经济参与，而香港与澳门回归进一步巩固了国家的主权和控制力。"
+}

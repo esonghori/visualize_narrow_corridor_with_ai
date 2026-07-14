@@ -1,0 +1,8 @@
+{
+  "society_power": 5.5,
+  "state_power": 7.5,
+  "key_event": "Liberalización política limita al ejecutivo y fortalece al Congreso.",
+  "reasoning": "La capacidad coercitiva y administrativa del Estado se mantuvo fuerte, como demostró al aplastar la rebelión de 1859. Sin embargo, la posterior apertura liberal bajo Pérez y el auge de los partidos políticos fortalecieron a la sociedad, que ahora podía limitar al poder ejecutivo a través del Congreso.",
+  "society_change": 1.4,
+  "state_change": -0.3
+}

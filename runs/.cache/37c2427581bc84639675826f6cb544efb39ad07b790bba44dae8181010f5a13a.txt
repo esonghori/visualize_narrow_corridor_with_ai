@@ -1,0 +1,8 @@
+{
+  "society_power": 3.0,
+  "state_power": 8.2,
+  "key_event": "The rise and fall of the JCPOA amid widespread protests.",
+  "reasoning": "The state's coercive power remained formidable, crushing major protests, though its economic capacity was weakened by the collapse of the nuclear deal. Society showed mobilization capacity in elections and protests, but was ultimately weakened by severe economic hardship and effective repression.",
+  "society_change": -0.5,
+  "state_change": -0.3
+}

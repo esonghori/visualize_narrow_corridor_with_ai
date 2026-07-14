@@ -1,0 +1,8 @@
+{
+  "society_power": 4.0,
+  "state_power": 5.0,
+  "society_change": 0.5,
+  "state_change": 1.0,
+  "key_event": "Anthony Perrier's Tobacco Régie and Russo-Persian Agreement",
+  "reasoning": "تقویت دولت به دلیل افزایش تمرکز قدرت و روابط خارجی، در حالی که جامعه مدنی نیز به تدریج قوی‌تر شد اما هنوز محدود بود."
+}

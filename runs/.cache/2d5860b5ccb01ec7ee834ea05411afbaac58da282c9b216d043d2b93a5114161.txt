@@ -1,0 +1,8 @@
+{
+  "society_power": 6.0,
+  "state_power": 8.0,
+  "society_change": -1.5,
+  "state_change": 1.0,
+  "key_event": "Revolución de las Ollas Comunes y Huelga de Funcionarios",
+  "reasoning": "A pesar del fortalecimiento estatal económico, la creciente oposición y movilización social debilitaron significativamente el poder de la sociedad civil."
+}

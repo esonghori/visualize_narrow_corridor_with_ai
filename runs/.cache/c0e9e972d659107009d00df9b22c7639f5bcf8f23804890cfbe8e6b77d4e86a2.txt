@@ -1,0 +1,8 @@
+{
+  "society_power": 8.7,
+  "state_power": 8.5,
+  "society_change": 0.3,
+  "state_change": -2.0,
+  "key_event": "Les manifestations de mai 1968",
+  "reasoning": "Les manifestations de mai 1968 ont fortement renforcé la société civile, exposant les faiblesses de l'État gaulliste et conduisant à une réorganisation politique et sociale."
+}

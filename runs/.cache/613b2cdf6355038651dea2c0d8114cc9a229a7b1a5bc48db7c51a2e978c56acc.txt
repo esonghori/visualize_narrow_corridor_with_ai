@@ -1,0 +1,8 @@
+{
+  "society_power": 7.5,
+  "state_power": 7.0,
+  "key_event": "La crise du 16 mai 1877 établit la suprématie parlementaire.",
+  "reasoning": "L'effondrement de l'Empire en 1870 a brisé le Léviathan despotique, tandis que la victoire républicaine de 1877 a consacré le pouvoir d'une société organisée par le suffrage universel sur un État reconstruit mais désormais enchaîné par le parlement.",
+  "society_change": 2.0,
+  "state_change": -1.0
+}

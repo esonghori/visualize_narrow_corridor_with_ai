@@ -1,0 +1,8 @@
+{
+  "society_power": 5.8,
+  "state_power": 8.2,
+  "key_event": "Liberal reforms grant rights of strike, assembly, and press.",
+  "reasoning": "The state, weakened by the Mexican fiasco and seeking new political support, made deliberate concessions (legalizing strikes, liberalizing the press). These reforms significantly empowered a resurgent civil society, even as the state's core administrative capacity remained very high, though less absolute.",
+  "society_change": 2.3,
+  "state_change": -0.6
+}

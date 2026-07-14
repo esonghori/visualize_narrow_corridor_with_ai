@@ -1,0 +1,8 @@
+{
+  "society_power": 3.5,
+  "state_power": 4.0,
+  "society_change": 0.0,
+  "state_change": 0.0,
+  "key_event": "تأسیس مدارس نوین، جنبش صuir",
+  "reasoning": "جامعه‌ی مدنی ضعیف ولی در حال سازمان‌یابی؛ دولت قدرت محدودی داشت."
+}

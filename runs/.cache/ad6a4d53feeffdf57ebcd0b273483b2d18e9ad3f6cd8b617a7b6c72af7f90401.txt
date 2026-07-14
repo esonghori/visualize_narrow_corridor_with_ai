@@ -1,0 +1,35 @@
+# Chile 1888-1897: Poder del Estado y de la Sociedad (marco *The Narrow Corridor*)
+
+Una advertencia previa: el marco Estado/Sociedad de Acemoğlu y Robinson aplicado a este período debe usarse con cautela, y algunos de los elementos siguientes tienen matices interpretativos. A continuación una lectura razonada.
+
+## Tendencias (lentas: institucionales, económicas, demográficas)
+
+- **Auge salitrero (nitrato) del norte tras la Guerra del Pacífico.** Los ingresos por derechos de exportación del salitre fortalecieron materialmente al Estado (fisco robusto sin depender de impuestos internos), aunque paradójicamente esa autonomía fiscal podía debilitar el vínculo de rendición de cuentas con la sociedad. **Fortalece al Estado.**
+
+- **Predominio del capital británico en el salitre y penetración de intereses privados extranjeros.** Concentró poder económico fuera del control estatal y social chileno. **Debilita relativamente tanto al Estado como a sectores de la sociedad civil local.**
+
+- **Fortalecimiento del Congreso y de las élites oligárquicas frente al Ejecutivo.** Tendencia institucional hacia el parlamentarismo, con partidos y facciones oligárquicas consolidando poder. Refuerza a un segmento de la "sociedad política" (élites) frente al Estado ejecutivo. **Debilita al Estado central/Ejecutivo; fortalece a las élites.**
+
+- **Urbanización, crecimiento minero-portuario y surgimiento de una clase obrera y mesocrática.** Expansión de sectores sociales movilizables (mineros, trabajadores urbanos), base incipiente de organización social. **Fortalece a la sociedad.**
+
+- **Expansión de prensa, asociaciones y vida cívica urbana.** Mayor capacidad de articulación de demandas. **Fortalece a la sociedad.**
+
+- **Debilidades fiscales-monetarias y debates sobre el papel moneda/convertibilidad.** Inestabilidad institucional que erosionó la capacidad estatal de gestión coherente. **Debilita al Estado.**
+
+## Acontecimientos (puntuales)
+
+- **Guerra Civil de 1891 (conflicto entre el presidente Balmaceda y el Congreso).** Acontecimiento central del período: el Congreso, apoyado por la Armada y sectores oligárquicos, derrotó al Ejecutivo. **Debilita fuertemente al Estado (Ejecutivo); fortalece a las élites congresistas/oligárquicas.**
+
+- **Suicidio de Balmaceda (1891) y colapso del proyecto presidencialista/desarrollista.** Cierra la posibilidad de un Estado central fuerte con vocación de invertir los ingresos del salitre. **Debilita al Estado.**
+
+- **Instauración del régimen parlamentario (post-1891).** Predominio del Congreso y de la Ley de la Comuna Autónoma (1891), que descentralizó y entregó poder electoral/administrativo a las élites locales. **Fortalece a las élites locales; debilita al Estado central.**
+
+- **Ley de Comuna Autónoma (1891).** Traspasó atribuciones a los municipios controlados por élites, favoreciendo cohecho y clientelismo. **Debilita al Estado central; ambivalente para la sociedad (autonomía local pero capturada por élites).**
+
+- **Tensiones diplomáticas con Estados Unidos (incidente del *Baltimore*, 1891).** Presión externa sobre un Estado ya debilitado por la guerra civil. **Debilita al Estado.**
+
+- **Continuación de la ocupación/pacificación de la Araucanía y colonización del sur.** Expansión territorial y de la presencia estatal, aunque coercitiva sobre pueblos mapuche. **Fortalece la penetración territorial del Estado; debilita a la sociedad mapuche.**
+
+---
+
+**Nota de rigor:** El período 1888-1897 no tiene un hito único claramente delimitado en sus extremos dentro de la literatura estándar (a diferencia de 1879-1883 o 1891). Si tu marco de análisis requiere fechas exactas de subeventos (p. ej. mes de leyes específicas) o quieres profundizar en cómo Acemoğlu y Robinson clasificarían Chile respecto al "corredor", conviene contrastar estos puntos con fuentes historiográficas específicas.

@@ -1,0 +1,8 @@
+{
+  "society_power": 8.6,
+  "state_power": 8.5,
+  "key_event": "Victoire du Front Populaire et Accords de Matignon.",
+  "reasoning": "L'instabilité ministérielle chronique a affaibli la capacité d'action de l'État, tandis que la mobilisation massive de la société (Front Populaire, grèves de 1936) a permis d'obtenir des droits sociaux sans précédent, renforçant son pouvoir organisé malgré une polarisation extrême.",
+  "society_change": 0.8,
+  "state_change": -0.8
+}

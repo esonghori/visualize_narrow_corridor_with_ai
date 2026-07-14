@@ -1,0 +1,8 @@
+{
+  "society_power": 6.2,
+  "state_power": 7.5,
+  "key_event": "The 1925 Constitution creates a strong presidentialist state.",
+  "reasoning": "Military interventions and the new 1925 Constitution dismantled the parliamentary system, radically increasing the state's executive power. This broke the oligarchy's control, and while new social movements were rising, overall societal power to constrain the now-strengthened state was diminished.",
+  "society_change": -2.0,
+  "state_change": 2.0
+}

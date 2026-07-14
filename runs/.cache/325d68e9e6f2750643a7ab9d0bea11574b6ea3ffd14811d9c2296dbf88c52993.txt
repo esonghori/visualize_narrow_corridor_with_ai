@@ -1,0 +1,8 @@
+{
+  "society_power": 6.0,
+  "state_power": 6.5,
+  "society_change": 0.7,
+  "state_change": 1.5,
+  "key_event": "九·一八事变，西安事变",
+  "reasoning": "九·一八事变增强了国家军事权力，西安事变促进了公民社会的动员与团结。"
+}

@@ -1,0 +1,26 @@
+Absolument. En s'appuyant sur le cadre d'analyse d'Acemoğlu et Robinson, voici les tendances et événements majeurs en France entre 1809 et 1818 qui ont affecté l'équilibre de pouvoir entre l'État et la société.
+
+### Tendances :
+
+-   **La pérennité des structures administratives napoléoniennes.** L'appareil d'État centralisé (préfets, Code Civil, Conseil d'État, gendarmerie) mis en place par Napoléon a survécu à la chute de l'Empire et a été conservé par la Restauration. Cette continuité a assuré la persistance d'un Léviathan puissant et capable d'administrer le territoire et la population de manière uniforme.
+    -   **Effet :** Renforcement durable du **pouvoir de l'État**.
+
+-   **La consolidation de la propriété privée post-révolutionnaire.** La période a confirmé le transfert des biens nationaux et la fin des privilèges féodaux, créant une vaste classe de propriétaires terriens (bourgeoisie et paysannerie). Ces groupes, dont les droits étaient garantis par le Code Civil puis par la Charte, formaient une société civile avec un intérêt matériel direct à la stabilité et à la limitation de l'arbitraire de l'État.
+    -   **Effet :** Renforcement du **pouvoir de la société**.
+
+-   **L'épuisement démographique et économique dû aux guerres.** La conscription massive et quasi-continue ("l'impôt du sang") et la pression fiscale pour financer les campagnes militaires jusqu'en 1815 ont lourdement pesé sur la population. Cette ponction a affaibli le tissu social et économique, tout en démontrant l'immense capacité d'extraction de l'État impérial.
+    -   **Effet :** Renforcement de la capacité de **l'État** (extractive) au détriment de la vitalité de **la société** (affaiblie).
+
+### Événements :
+
+-   **La débâcle militaire de 1812-1814 (Campagne de Russie, Campagne de France).** La destruction de la Grande Armée et l'invasion du territoire national ont provoqué l'effondrement du Premier Empire. Cet échec militaire a anéanti la légitimité et la capacité coercitive du régime napoléonien, entraînant une vacance du pouvoir.
+    -   **Effet :** Affaiblissement brutal du **pouvoir de l'État**.
+
+-   **L'octroi de la Charte constitutionnelle (1814).** Imposée par les circonstances, cette charte a contraint le roi restauré, Louis XVIII, à reconnaître des droits fondamentaux (égalité devant la loi, libertés individuelles, droit de propriété) et à partager le pouvoir avec un parlement bicaméral (même si le suffrage était très restreint). C'était une première tentative d'enchaîner le Léviathan monarchique.
+    -   **Effet :** Renforcement du **pouvoir de la société** (en lui donnant des garanties juridiques et une voix institutionnelle).
+
+-   **Les Cent-Jours et la Terreur Blanche (1815).** Le retour éphémère de Napoléon, sa défaite finale à Waterloo, et la vague de violence royaliste qui s'ensuivit ont illustré l'extrême fragilité de l'État et la profonde division de la société. La Terreur Blanche, en particulier, a montré des pans de la société s'arrogeant le monopole de la violence, symptôme d'un État incapable de l'imposer.
+    -   **Effet :** Affaiblissement simultané de **l'État** (incapable d'assurer l'ordre) et de **la société** (fracturée et en conflit).
+
+-   **Le départ des armées d'occupation (1818).** Le paiement anticipé des indemnités de guerre par le gouvernement Richelieu a permis le retrait des troupes alliées qui occupaient la France depuis 1815. Cet événement a restauré la pleine souveraineté de la France et la crédibilité de son appareil d'État.
+    -   **Effet :** Renforcement du **pouvoir de l'État**.

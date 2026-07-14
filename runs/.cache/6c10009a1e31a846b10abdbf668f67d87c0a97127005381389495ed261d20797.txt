@@ -1,0 +1,8 @@
+{
+  "society_power": 5.5,
+  "state_power": 7.7,
+  "society_change": 1.0,
+  "state_change": 0.2,
+  "key_event": "Réformes constitutionnelles et développement industriel",
+  "reasoning": "Les réformes politiques libérales et l'expansion industrielle ont renforcé à la fois l'État et la société civile, bien que l'État ait bénéficié davantage des réforms économiques."
+}

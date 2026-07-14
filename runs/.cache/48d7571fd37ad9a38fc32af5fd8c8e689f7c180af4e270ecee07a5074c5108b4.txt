@@ -1,0 +1,8 @@
+{
+  "society_power": 2.5,
+  "state_power": 6.0,
+  "society_change": -1.5,
+  "state_change": 2.0,
+  "key_event": "Fortalecimiento oligarquía y centralización del poder",
+  "reasoning": "La consolidación de la oligarquía y la centralización política fortalecieron al Estado mientras debilitaban la sociedad civil."
+}

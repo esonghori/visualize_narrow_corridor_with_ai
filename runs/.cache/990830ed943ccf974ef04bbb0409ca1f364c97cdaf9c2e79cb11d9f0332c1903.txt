@@ -1,0 +1,8 @@
+{
+  "society_power": 3.0,
+  "state_power": 7.0,
+  "society_change": 0.5,
+  "state_change": 1.0,
+  "key_event": "Fortalecimiento institucional y economía",
+  "reasoning": "El fortalecimiento institucional y el auge económico aumentaron el poder del Estado. La sociedad civil mostró mejor organización, pero de forma gradual."
+}

@@ -1,0 +1,8 @@
+{
+  "society_power": 8.5,
+  "state_power": 7.8,
+  "society_change": 0.5,
+  "state_change": -1.7,
+  "key_event": "Protestas estudiantiles de 2011 y reformas progresistas",
+  "reasoning": "Las protestas estudiantiles fortalecieron la sociedad civil y las reformas progresistas, aunque desafiantes, reforzaron la capacidad del Estado, pero también revelaron limitaciones."
+}

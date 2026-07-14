@@ -1,0 +1,8 @@
+{
+  "society_power": 5.0,
+  "state_power": 6.0,
+  "society_change": 0.5,
+  "state_change": 0.5,
+  "key_event": "Crise économique et sociale (1820-1822)",
+  "reasoning": "La crise économique a renforcé la société civile face à l'inaction de l'État, qui a vu sa légitimité contestée."
+}

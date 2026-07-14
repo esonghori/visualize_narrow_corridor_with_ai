@@ -1,0 +1,8 @@
+{
+  "society_power": 9.2,
+  "state_power": 7.3,
+  "society_change": 0.7,
+  "state_change": -1.7,
+  "key_event": "Estallido Social de 2019 y movilizaciones sustentadas",
+  "reasoning": "El estallido social y las protestas constantes fortalecieron significativamente la sociedad civil, mientras que la presión redujo la capacidad del Estado para implementar cambios efectivos."
+}

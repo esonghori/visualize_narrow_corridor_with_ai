@@ -1,0 +1,8 @@
+{
+  "society_power": 3.0,
+  "state_power": 8.0,
+  "key_event": "Tiananmen crackdown crushes societal mobilization, reasserting state dominance.",
+  "reasoning": "Economic reforms and intellectual openness greatly increased social power, culminating in the 1989 protests. However, the state's violent suppression demonstrated its overwhelming coercive capacity, crushing organized political opposition and solidifying its power into the 'strong' category.",
+  "society_change": 0.5,
+  "state_change": 1.5
+}

@@ -1,0 +1,8 @@
+{
+  "society_power": 8.5,
+  "state_power": 8.5,
+  "society_change": 0.3,
+  "state_change": -1.2,
+  "key_event": "Renforcement des syndicats et réformes sociales",
+  "reasoning": "Le mouvement ouvrier et syndical s'est renforcé, tandis que les difficultés économiques ont temporairement affaibli l'État, malgré des réformes sociales importantes."
+}

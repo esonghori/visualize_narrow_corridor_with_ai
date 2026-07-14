@@ -1,0 +1,8 @@
+{
+  "society_power": 4.5,
+  "state_power": 4.5,
+  "society_change": 0.5,
+  "state_change": -1.5,
+  "key_event": "辛亥革命，军阀割据",
+  "reasoning": "辛亥革命削弱了国家权力，军阀割据导致中央权威进一步下降，但社会动员有所增强。"
+}

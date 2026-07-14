@@ -1,0 +1,8 @@
+{
+  "society_power": 4.5,
+  "state_power": 10.0,
+  "society_change": -1.0,
+  "state_change": 0.0,
+  "key_event": "互联网监管加强，全面深化改革",
+  "reasoning": "互联网监管的加强和全面深化改革显著提升了国家权力，而公民社会的自由表达和组织能力受到限制。"
+}

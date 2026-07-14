@@ -1,0 +1,8 @@
+{
+  "society_power": 7.0,
+  "state_power": 5.5,
+  "society_change": 0.0,
+  "state_change": 0.0,
+  "key_event": "Révolution française, constitution de 1791",
+  "reasoning": "La Révolution accroît considérablement le pouvoir de la société, tandis que l'État reste modéré avec une administration en reconstruction."
+}

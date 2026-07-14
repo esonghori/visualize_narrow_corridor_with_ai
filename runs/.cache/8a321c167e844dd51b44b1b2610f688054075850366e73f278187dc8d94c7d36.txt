@@ -1,0 +1,8 @@
+{
+  "society_power": 3.5,
+  "state_power": 8.5,
+  "society_change": 0.5,
+  "state_change": -1.0,
+  "key_event": "文化大革命结束, 邓小平复出",
+  "reasoning": "文化大革命结束减少了社会的极端压制，邓小平复出推动了初步改革，增强了社会活力。国家控制有所减弱，但仍保持强权。"
+}

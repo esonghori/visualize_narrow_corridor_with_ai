@@ -1,0 +1,8 @@
+{
+  "society_power": 4.1,
+  "state_power": 7.8,
+  "key_event": "La derrota de la Revolución de 1851 consolida el poder estatal.",
+  "reasoning": "El poder del Estado creció inmensamente tras aplastar la Revolución de 1851 e imponer la uniformidad legal con el Código Civil. Los intentos de la sociedad por organizarse fueron brutalmente reprimidos, lo que debilitó su capacidad para desafiar al gobierno central.",
+  "society_change": -0.2,
+  "state_change": 0.8
+}

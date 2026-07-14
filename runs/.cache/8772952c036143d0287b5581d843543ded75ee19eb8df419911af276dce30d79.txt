@@ -1,0 +1,38 @@
+# La France 1889-1898 selon le cadre d'Acemoğlu & Robinson
+
+*Rappel du cadre : le « couloir étroit » suppose un équilibre entre un État puissant (capacité, coercition, bureaucratie) et une société civile mobilisée capable de le contraindre. Le Léviathan « bridé » naît de cette compétition équilibrée.*
+
+## Tendances (processus lents)
+
+- **Consolidation institutionnelle de la IIIe République** : enracinement progressif du régime parlementaire après 1875-1877, stabilisation des lois constitutionnelles → **renforce l'État** (légitimité, capacité).
+
+- **Lois scolaires de Jules Ferry (effets prolongés dans les années 1890)** : école laïque, gratuite et obligatoire, formation d'instituteurs (« hussards noirs ») → **renforce l'État** (capacité d'encadrement, nationalisation des esprits) mais aussi **la société** (alphabétisation, capacité de mobilisation citoyenne).
+
+- **Industrialisation et urbanisation** (2e révolution industrielle, essor du chemin de fer, mines, métallurgie) → **renforce l'État** (base fiscale) et **la société** (concentration ouvrière, capacité d'action collective).
+
+- **Structuration du mouvement ouvrier et socialiste** : montée des syndicats vers la loi de 1884 déjà acquise, développement des Bourses du travail, courants guesdistes/possibilistes → **renforce la société**.
+
+- **Croissance de la presse de masse** (après la loi libérale de 1881), tirages massifs, opinion publique structurée → **renforce la société** (contre-pouvoir, capacité de contestation).
+
+- **Anticléricalisme et tension Église/État** : montée lente d'un clivage qui débouchera sur la séparation de 1905 → recompose l'équilibre entre **État** et corps intermédiaires religieux.
+
+- **Stagnation démographique française** (natalité faible relativement à l'Allemagne), obsession de la « revanche » → pression sur la **capacité militaire de l'État**.
+
+## Événements (chocs ponctuels)
+
+- **Crise boulangiste (apogée 1889, élection de Paris janv. 1889, fuite de Boulanger avril 1889)** : menace césariste-plébiscitaire → sa défaite **renforce l'État républicain** parlementaire face à la tentation autoritaire, tout en révélant la puissance de mobilisation de la **société**.
+
+- **Exposition universelle de 1889 (Tour Eiffel)** : vitrine de la puissance et du prestige de l'État républicain → **renforce l'État** (légitimité symbolique).
+
+- **Scandale de Panama (1892-1893)** : corruption parlementaire massive, discrédit de la classe politique → **affaiblit l'État** (légitimité), mais **renforce la société** (rôle de la presse d'investigation comme contre-pouvoir).
+
+- **Alliance franco-russe (1891-1894)** : accord diplomatique et militaire → **renforce l'État** (sécurité extérieure, sortie de l'isolement).
+
+- **Vague d'attentats anarchistes et « lois scélérates » (1893-1894)** : attentats (Vaillant, Henry), assassinat du président Sadi Carnot (1894) → l'État répond par une **extension de la coercition** (lois restreignant la presse et l'association) → **renforce l'État répressif** au détriment des libertés de la **société**.
+
+- **Affaire Dreyfus : condamnation (1894), puis relance (1896-1898)**, culminant avec le **« J'accuse » de Zola (13 janvier 1898)** → mobilisation intense de la **société** (intellectuels, ligues, pétitions) contre l'appareil d'État (armée, justice) → **renforce durablement la société civile** comme force de contrainte sur l'État, moment fondateur du « couloir » à la française.
+
+- **Élections législatives de 1898** : contexte de polarisation dreyfusarde et poussée des extrêmes → tension entre légitimité étatique et mobilisation sociétale.
+
+---
+*Synthèse* : la période combine un **renforcement de la capacité étatique** (école, industrie, diplomatie, répression) et une **montée simultanée du pouvoir sociétal** (presse, syndicats, intellectuels), l'Affaire Dreyfus incarnant précisément la dynamique de « compétition équilibrée » qui, selon Acemoğlu et Robinson, maintient un pays *dans* le couloir étroit de la liberté.

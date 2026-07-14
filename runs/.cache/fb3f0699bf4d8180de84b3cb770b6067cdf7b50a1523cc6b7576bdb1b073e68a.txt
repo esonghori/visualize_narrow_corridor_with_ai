@@ -1,0 +1,8 @@
+{
+  "society_power": 8.0,
+  "state_power": 5.0,
+  "key_event": "The Chehabist project's attempt to build a modern state.",
+  "reasoning": "The Chehabist project significantly increased the state's administrative and security capabilities, moving it from weak to medium, as seen in the foiling of the 1961 coup. However, society remained very powerful, with the rise of armed Palestinian factions offsetting the state's new checks on traditional leaders, resulting in only a slight decrease in society's overall dominance.",
+  "society_change": -0.5,
+  "state_change": 1.5
+}

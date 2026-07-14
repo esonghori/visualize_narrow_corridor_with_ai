@@ -1,0 +1,8 @@
+{
+  "society_power": 3.8,
+  "state_power": 9.2,
+  "key_event": "National protests from 1983 challenge the military dictatorship.",
+  "reasoning": "The state institutionalized its overwhelming power with the 1980 Constitution, but its absolute authority was slightly eroded by the protests. These protests, born from economic crisis, marked the rebirth of an organized civil society, moving from near-total atomization to a renewed capacity for mobilization.",
+  "society_change": 2.3,
+  "state_change": -0.3
+}

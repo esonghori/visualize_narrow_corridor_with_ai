@@ -1,0 +1,8 @@
+{
+  "society_power": 9.6,
+  "state_power": 7.2,
+  "society_change": 0.1,
+  "state_change": -1.3,
+  "key_event": "Décentralisation et affaires de retraites",
+  "reasoning": "La décentralisation et la mobilisation contre la réforme des retraites ont renforcé la société civile, tandis que le pouvoir de l'État a été amoindri par ces défis et par les réformes économiques."
+}

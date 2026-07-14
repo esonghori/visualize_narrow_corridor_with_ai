@@ -1,0 +1,8 @@
+{
+  "society_power": 8.9,
+  "state_power": 8.3,
+  "society_change": 0.2,
+  "state_change": -1.2,
+  "key_event": "Loi Veil et manifestations 1977-1978",
+  "reasoning": "La loi Veil et les manifestations ont renforcé la société civile, alors que l'État a affronté des défis économiques et sociaux, affaiblissant son autorité."
+}

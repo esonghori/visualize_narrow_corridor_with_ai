@@ -1,0 +1,8 @@
+{
+  "society_power": 7.5,
+  "state_power": 8.0,
+  "key_event": "Creación de CORFO y el Estado desarrollista",
+  "reasoning": "El poder del Estado creció decisivamente con la creación de la CORFO y su nuevo rol planificador, alcanzando una capacidad de intervención económica sin precedentes. Simultáneamente, el poder de la sociedad se fortaleció con la consolidación del movimiento sindical y la clase media, que accedieron directamente a la política a través del Frente Popular.",
+  "society_change": 0.7,
+  "state_change": 1.0
+}

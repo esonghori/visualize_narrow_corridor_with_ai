@@ -1,0 +1,8 @@
+{
+  "society_power": 6.5,
+  "state_power": 4.0,
+  "key_event": "The 1936 general strike forces restoration of the constitution.",
+  "reasoning": "The successful 1936 general strike demonstrated a major leap in society's capacity to mobilize and constrain authority, while the state itself was weakened by the French suspension of its institutions and by internal sectarian paralysis.",
+  "society_change": 1.0,
+  "state_change": -0.5
+}

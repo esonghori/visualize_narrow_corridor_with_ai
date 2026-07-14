@@ -1,0 +1,8 @@
+{
+  "society_power": 8.3,
+  "state_power": 7.0,
+  "society_change": 0.8,
+  "state_change": 0.2,
+  "key_event": "Fortalecimiento de sindicatos y movilización obrera",
+  "reasoning": "La organización sindical y los movimientos obreros ganaron fuerza, mientras que el Estado mantuvo un papel moderado pero firme."
+}

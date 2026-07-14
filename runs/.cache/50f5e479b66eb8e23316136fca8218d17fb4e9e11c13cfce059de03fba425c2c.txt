@@ -1,0 +1,8 @@
+{
+  "society_power": 3.8,
+  "state_power": 3.5,
+  "key_event": "Defeat in Sino-Japanese War fuels reforms, crushed by coup.",
+  "reasoning": "The Qing state's power was critically weakened by its devastating military defeat and subsequent fiscal crisis. This same national humiliation spurred unprecedented social mobilization among intellectuals for institutional reform, which, despite being violently suppressed, represented a net growth in societal organization and capacity.",
+  "society_change": 0.3,
+  "state_change": -1.0
+}

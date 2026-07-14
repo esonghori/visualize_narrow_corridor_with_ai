@@ -16,10 +16,12 @@ and tables, and interpret the results. All commands run from the **repo root**.
 | §Cross-country patterns (prose) | `paper/experiments/summarize.py` | `paper/experiments/derived/summary.csv` + stdout |
 | §Qualitative case studies (prose) | `paper/experiments/summarize.py` | `paper/experiments/derived/<country>.csv` |
 | Interactive gallery (contribution) | `scripts/build_site.py` | `docs/` static site |
+| Fig. §Prompt-language sensitivity | `paper/experiments/lang_ablation.py` | `results_lang/lang-ablation.png` + `derived/lang_ablation.csv` |
 
-> The paper's Future Work items (human expert-coder baseline, prompt/period
-> ablations, non-English prompting probe, additional indices, ensemble atlas)
-> are **intentionally not scripted** — they are out of scope for this paper.
+> The remaining Future Work items (human expert-coder baseline, prompt/period
+> granularity ablations, additional indices) are **intentionally not scripted** —
+> they are out of scope for this paper. The non-English prompting probe *is* now
+> scripted (`lang_ablation.py`, Step 3b).
 
 ## Prerequisites
 
@@ -128,6 +130,28 @@ uv run python paper/experiments/atlas_combined.py
 
 Writes `paper/experiments/results/all-countries__ensemble-mean.png`. Needs the
 ensemble runs above, so run `ensemble.py` first.
+
+### Step 3b — Prompt-language ablation (Fig. §Prompt-language sensitivity)
+
+Re-runs the full four-model ensemble with the prompts (country name included)
+translated into each showcase country's own language (French→France,
+Chinese→China, Persian→Iran, Spanish→Chile, Arabic→Lebanon) and overlays each
+result against the English trajectory:
+
+```bash
+uv run python paper/experiments/lang_ablation.py            # generate + figures
+uv run python paper/experiments/lang_ablation.py --no-run   # figures only, from cache
+```
+
+Translated runs land in `paper/experiments/results_lang/` (kept out of
+`results/` so `analysis.py` never counts them as extra raters). Only the prompt
+*prose* is translated; the rubric and the requested (English) JSON fields are
+held fixed (`prompts.py`), so scores stay comparable. Cost is ~one extra ensemble
+per country (~$3–6, cached/resumable). Outputs: `results_lang/lang-ablation.png`
+(combined 3-panel), per-country `results_lang/<country>__lang-compare-<lang>.png`,
+and `derived/lang_ablation.csv` (per-period displacement, RMSD, endpoint shift,
+first-difference ρ between the two languages). Fill the `\ph{}` numbers in
+§Prompt-language sensitivity from that CSV.
 
 ## Step 4 — Build the gallery
 

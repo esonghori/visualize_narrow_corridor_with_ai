@@ -1,0 +1,8 @@
+{
+  "society_power": 5.2,
+  "state_power": 3.5,
+  "key_event": "Lucha por la formación del Estado tras la independencia.",
+  "reasoning": "El incipiente Estado era débil, con una autoridad disputada por las élites regionales, lo que limitaba su control territorial y capacidad administrativa. Por el contrario, una sociedad dominada por facciones aristocráticas organizadas demostró ser lo suficientemente fuerte como para derrocar gobiernos e impedir la consolidación de un poder central.",
+  "society_change": 0.0,
+  "state_change": 0.0
+}

@@ -1,0 +1,43 @@
+# La France 1799-1808 à travers *The Narrow Corridor*
+
+Dans le cadre d'Acemoğlu et Robinson, cette période illustre principalement le renforcement du **Léviathan despotique** : un État qui gagne massivement en capacité tandis que la société civile perd ses moyens de le contraindre.
+
+## Tendances (lentes, institutionnelles/économiques/démographiques)
+
+- **Centralisation administrative croissante** (préfets à partir de 1800) : maillage territorial par des agents nommés depuis Paris → **renforce fortement l'État**, affaiblit les contre-pouvoirs locaux.
+
+- **Construction d'un État fiscal moderne** (régie des contributions directes, cadastre lancé, Banque de France 1800) : capacité extractive et financière accrue → **renforce l'État**.
+
+- **Codification juridique** (travaux menant au Code civil de 1804) : uniformisation du droit, sécurité de la propriété, mais aussi subordination juridique (autorité maritale, restriction du divorce) → **renforce l'État**, effet **ambigu pour la société** (garanties de propriété mais recul des libertés individuelles/féminines).
+
+- **Militarisation et conscription permanente** : la mobilisation continue nourrit l'appareil d'État et draine les ressources de la société → **renforce l'État, affaiblit la société**.
+
+- **Encadrement croissant de l'opinion** : réduction progressive du nombre de journaux, censure, surveillance policière (Fouché) → **affaiblit la société civile**.
+
+- **Réconciliation avec l'Église** (dynamique du Concordat) : neutralisation d'une source d'autonomie sociale en la plaçant sous tutelle étatique → **renforce l'État**.
+
+- **Émergence d'une élite de notables** fondée sur la propriété et le service à l'État, remplaçant la mobilisation populaire révolutionnaire → **affaiblit la mobilisation autonome de la société**.
+
+## Événements (ponctuels)
+
+- **Coup d'État du 18 Brumaire (nov. 1799)** : liquidation du Directoire, prise du pouvoir par Bonaparte → **renforce l'État exécutif, affaiblit les assemblées représentatives**.
+
+- **Constitution de l'an VIII (déc. 1799)** : pouvoir concentré dans le Premier consul, assemblées affaiblies, plébiscite comme légitimation → **renforce l'État**.
+
+- **Concordat (1801, promulgué 1802)** : accord avec la papauté → **renforce l'État** (contrôle du clergé).
+
+- **Consulat à vie (1802)** : plébiscite entérinant le pouvoir personnel → **renforce l'État, affaiblit la société**.
+
+- **Promulgation du Code civil (1804)** : voir ci-dessus, effet structurant durable.
+
+- **Proclamation de l'Empire (mai 1804) et sacre (déc. 1804)** : personnalisation héréditaire du pouvoir → **renforce l'État despotique**.
+
+- **Paix d'Amiens (1802) puis reprise de la guerre (1803)** : la parenthèse de paix, brève, ne suffit pas à relâcher l'emprise militaire ; la reprise réactive la logique de guerre permanente → **renforce l'État**.
+
+- **Répression des oppositions** (élimination des royalistes/jacobins, exécution du duc d'Enghien 1804) : intimidation des contre-pouvoirs → **affaiblit la société**.
+
+- **Instauration de la noblesse d'Empire (1808)** : recréation d'une hiérarchie de statut liée au service impérial → **renforce l'État**.
+
+---
+
+**Synthèse dans le cadre du « corridor étroit »** : sur 1799-1808, presque tous les vecteurs poussent dans le même sens — un État dont la capacité (fiscale, juridique, militaire, administrative) explose, face à une société civile progressivement démobilisée, censurée et réduite au statut de notables/administrés. La France s'éloigne du « corridor » de la liberté vers un **Léviathan despotique** hautement capable mais non contraint.

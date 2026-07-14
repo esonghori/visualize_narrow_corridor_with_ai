@@ -1,0 +1,8 @@
+{
+  "society_power": 5.5,
+  "state_power": 3.5,
+  "key_event": "Growing foreign concessions under a weak Qajar state.",
+  "reasoning": "The Qajar state under Naser al-Din Shah had limited administrative and military reach, relying on local notables and contending with foreign influence. In contrast, society's power was considerable, vested in strong, traditional networks of the clergy, bazaar merchants, and powerful tribal confederations that effectively checked central authority.",
+  "society_change": 0.0,
+  "state_change": 0.0
+}

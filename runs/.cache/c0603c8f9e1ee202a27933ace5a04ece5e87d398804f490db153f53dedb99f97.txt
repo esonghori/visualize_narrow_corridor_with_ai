@@ -1,0 +1,8 @@
+{
+  "society_power": 1.5,
+  "state_power": 9.8,
+  "key_event": "Digital authoritarianism and the systematic suppression of civil society.",
+  "reasoning": "State power became nearly absolute through digital surveillance and the centralization of political authority under Xi Jinping. Simultaneously, a systematic crackdown on lawyers, NGOs, and online speech decimated an already weak civil society, leading to its near-atomization.",
+  "society_change": -2.3,
+  "state_change": 0.3
+}

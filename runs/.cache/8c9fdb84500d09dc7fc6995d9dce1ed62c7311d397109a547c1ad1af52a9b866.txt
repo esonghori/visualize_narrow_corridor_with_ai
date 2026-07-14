@@ -1,0 +1,8 @@
+{
+  "society_power": 2.8,
+  "state_power": 3.5,
+  "society_change": -1.3,
+  "state_change": 0.6,
+  "key_event": "اتفاق الطائف والتدخل السوري",
+  "reasoning": " agreement led to a more centralized state, while Syrian intervention weakened civil society by reinforcing sectarian and political divisions."
+}

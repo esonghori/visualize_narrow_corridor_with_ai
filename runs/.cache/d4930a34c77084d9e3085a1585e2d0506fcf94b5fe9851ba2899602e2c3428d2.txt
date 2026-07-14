@@ -1,0 +1,39 @@
+# La France 1999-2008 selon le cadre d'Acemoğlu-Robinson
+
+Rappel du cadre : le « corridor étroit » suppose un équilibre dynamique entre un État capable (le « Léviathan enchaîné ») et une société civile mobilisée capable de le contrôler. Voici les éléments matériels pour la France.
+
+## Tendances (lentes : institutionnelles, économiques, démographiques)
+
+- **Intégration européenne et adoption de l'euro (1999 scriptural, 2002 fiduciaire)** : transfert de souveraineté monétaire et budgétaire vers Bruxelles/Francfort → *affaiblit l'autonomie de l'État français* tout en le contraignant par des règles externes (Pacte de stabilité).
+
+- **Décentralisation « Acte II » (réforme constitutionnelle de 2003, lois Raffarin)** : redistribution de compétences vers les régions/départements → *reconfigure l'État* (moins centralisé, potentiellement plus proche de la société).
+
+- **Réduction du temps de travail (35 heures, montée en charge post-2000) puis remises en cause (loi Fillon 2005, « travailler plus » 2007)** : bras de fer durable État/société sur la norme sociale → mobilise la *société* (syndicats) mais l'État conserve l'initiative législative.
+
+- **Vieillissement démographique et tensions sur les retraites** : pression structurelle justifiant les réformes → *renforce la légitimité interventionniste de l'État* mais nourrit la contestation sociale.
+
+- **Tension urbaine et relégation des banlieues** : chômage, ségrégation spatiale, sentiment de discrimination → *érosion de la capacité de l'État* à assurer sa présence légitime sur tout le territoire ; société civile fragmentée plutôt que renforcée.
+
+- **Judiciarisation et montée des affaires politico-financières** : autonomie croissante de la justice/médias → *contrepoids sociétal* renforcé face au pouvoir exécutif.
+
+- **Réduction du mandat présidentiel (quinquennat, appliqué dès 2002) et inversion du calendrier électoral** : renforce le fait majoritaire et la prééminence présidentielle → *renforce l'État exécutif*.
+
+## Événements (ponctuels)
+
+- **21 avril 2002 – Le Pen au 2ᵉ tour de la présidentielle** : choc démocratique, mobilisation civique massive de l'entre-deux-tours → *sursaut de la société civile*, mais révèle sa fragilité et la défiance envers l'État.
+
+- **Grèves et mobilisations contre la réforme des retraites (2003)** : la société conteste, l'État maintient sa réforme → *test d'équilibre*, avantage à l'État.
+
+- **Référendum du 29 mai 2005 (rejet du Traité constitutionnel européen)** : la société civile désavoue les élites → *affirmation forte de la société* contre l'État et l'orientation européenne des dirigeants.
+
+- **Émeutes urbaines de l'automne 2005 et état d'urgence** : recours à un dispositif d'exception (loi de 1955) → *affirmation coercitive de l'État* mais aveu de la rupture du contrat social dans les quartiers.
+
+- **Crise du CPE (Contrat première embauche, printemps 2006)** : retrait de la loi sous la pression étudiante/syndicale → *victoire nette de la société civile* sur l'État.
+
+- **Élection de Nicolas Sarkozy (mai 2007)** et **réforme constitutionnelle du 23 juillet 2008** : renforcement des pouvoirs présidentiels mais aussi de certains droits du Parlement et création du Défenseur des droits / QPC → *ambivalent : renforce l'exécutif tout en créant de nouveaux contrepoids*.
+
+- **Début de la crise financière mondiale (2008)** : intervention massive de l'État pour sauver le système bancaire → *renforcement conjoncturel de la capacité d'intervention de l'État*.
+
+---
+
+**Lecture d'ensemble** : sur la période, la France reste dans le corridor mais avec des tensions caractéristiques — un exécutif se renforçant institutionnellement (quinquennat, réforme de 2008, réponse à la crise) face à une société civile encore capable de blocages spectaculaires (2005, 2006), tandis que l'européanisation et les fractures territoriales viennent brouiller l'équilibre État/société.

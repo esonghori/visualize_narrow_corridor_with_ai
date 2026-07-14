@@ -1,0 +1,8 @@
+{
+  "society_power": 8.0,
+  "state_power": 6.2,
+  "key_event": "Rise of organized labor and brutal state repression ('Cuestión Social').",
+  "reasoning": "The state demonstrated greater coercive capacity through violent repression (Iquique massacre) and administrative reach with legal reforms, despite a weak executive. Society's power increased as the organized labor movement emerged as a new, potent force capable of mass mobilization, adding to the continued dominance of the parliamentary oligarchy.",
+  "society_change": 0.2,
+  "state_change": 0.4
+}

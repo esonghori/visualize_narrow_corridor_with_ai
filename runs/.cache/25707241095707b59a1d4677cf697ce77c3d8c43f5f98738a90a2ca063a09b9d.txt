@@ -1,0 +1,8 @@
+{
+  "society_power": 5.5,
+  "state_power": 6.0,
+  "key_event": "The fall of the Empire and the constitutional Charter of 1814.",
+  "reasoning": "The state's coercive power collapsed with military defeat, though its administrative structures largely survived. Concurrently, the Charter of 1814 created new institutions and rights, empowering societal elites to constrain the restored monarchy.",
+  "society_change": 2.0,
+  "state_change": -3.0
+}

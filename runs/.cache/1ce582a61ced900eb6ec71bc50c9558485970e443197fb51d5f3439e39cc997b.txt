@@ -1,0 +1,8 @@
+{
+  "society_power": 5.5,
+  "state_power": 4.2,
+  "key_event": "Japanese invasion spurs nationalism, forcing state into total war.",
+  "reasoning": "The Nationalist government's state-building efforts increased its power, but this was limited by internal fragmentation and the devastating war. Meanwhile, powerful anti-Japanese nationalism created a mobilized society that successfully pressured and constrained the state's policies.",
+  "society_change": 1.0,
+  "state_change": 1.2
+}

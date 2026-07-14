@@ -1,0 +1,8 @@
+{
+  "society_power": 5.5,
+  "state_power": 6.5,
+  "key_event": "The fall of the Empire and the Charter of 1814.",
+  "reasoning": "The military collapse of the Napoleonic state significantly reduced its power, despite the survival of its administrative structures. Simultaneously, the Constitutional Charter of 1814 provided society, particularly property owners, with new institutional rights and a representative voice, strengthening it considerably.",
+  "society_change": 2.0,
+  "state_change": -2.0
+}

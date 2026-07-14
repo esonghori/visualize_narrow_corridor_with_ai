@@ -1,0 +1,23 @@
+Claro, aquí tienes un análisis de Chile entre 1868 y 1877, utilizando el marco de Acemoğlu y Robinson, centrado en los cambios en el poder del Estado y la sociedad civil.
+
+Este período corresponde al final de la presidencia de José Joaquín Pérez y la totalidad de la de Federico Errázuriz Zañartu, una fase clave de la "República Liberal" donde la sociedad, a través de sus élites liberales, buscó activamente limitar el poder del Estado centralizado heredado de la era conservadora.
+
+### **Tendencias (1868-1877)**
+
+*   **Proceso de secularización institucional:** Fue una tendencia sostenida durante toda la década. El debate sobre el rol de la Iglesia Católica en la educación, los registros civiles y la ley se intensificó. Esto reflejó el esfuerzo de una parte de la sociedad (élites liberales, masonería, intelectuales) por arrebatarle a la Iglesia su poder social y transferir esas funciones al Estado.
+    *   **Efecto:** Fortaleció al Estado secular (al asumir nuevas funciones) y fortaleció a la sociedad civil (al crear un espacio de libertades individuales y de pensamiento fuera del control eclesiástico).
+*   **Crecimiento económico y diversificación de las élites:** La continua expansión de la minería (plata, cobre) y la agricultura de exportación (trigo) consolidó a una élite económica (mineros, banqueros, grandes comerciantes) que no siempre coincidía con la tradicional aristocracia terrateniente. Esta nueva élite demandaba mayor libertad económica y política, y financió periódicos y clubes políticos para presionar por reformas.
+    *   **Efecto:** Fortaleció a la sociedad, creando nuevos centros de poder económico e influencia capaces de desafiar y negociar con el Estado.
+*   **Expansión de la infraestructura y la burocracia estatal:** El Estado continuó su expansión a través de la construcción de ferrocarriles, la mejora de puertos y el crecimiento del sistema educativo y administrativo. Aunque eran proyectos estatales, también conectaban y empoderaban a las regiones y a los actores económicos privados.
+    *   **Efecto:** Fortaleció al Estado (aumentando su capacidad logística y administrativa) y, a la vez, a la sociedad (facilitando el comercio y la comunicación, lo que ayudó a la articulación de intereses sociales a nivel nacional).
+
+### **Acontecimientos (1868-1877)**
+
+*   **Reforma constitucional que prohíbe la reelección presidencial (1871):** Impulsada por el Congreso al final del decenio de Pérez, esta fue una medida puntual y directa para limitar el poder del Presidente, la figura central del Estado autoritario del siglo XIX. Se buscaba evitar la perpetuación en el poder y la concentración de la autoridad ejecutiva.
+    *   **Efecto:** Debilitó el poder del Estado (específicamente del poder ejecutivo) y fortaleció a la sociedad (a través del Congreso y los partidos, que ganaron poder relativo).
+*   **Promulgación del Código Penal (1874):** Este hito reemplazó la dispersa legislación colonial con un cuerpo legal unificado y moderno. Crucialmente, tipificó delitos que antes estaban bajo la jurisdicción de la Iglesia (como la blasfemia o la sodomía), subordinándolos a la ley y los tribunales del Estado.
+    *   **Efecto:** Fortaleció masivamente al Estado, consolidando su monopolio sobre la justicia y la ley en detrimento de poderes paralelos como la Iglesia.
+*   **Ley de Organización y Atribuciones de los Tribunales (1875):** Esta ley fundamental estableció la independencia del Poder Judicial respecto del Ejecutivo. Creó una estructura judicial jerárquica y autónoma, un pilar del Estado de derecho liberal.
+    *   **Efecto:** Debilitó al Estado en su forma monolítica y ejecutivista, pero fortaleció la estructura estatal en su conjunto al crear un contrapeso interno. Primordialmente, fortaleció a la sociedad al garantizarle una vía de defensa contra el poder arbitrario del gobierno.
+*   **Inicio de la crisis económica internacional (c. 1875-1876):** La caída de los precios internacionales de la plata, el cobre y el trigo golpeó duramente a la economía chilena, altamente dependiente de las exportaciones. Esto provocó una crisis fiscal, desempleo y malestar social.
+    *   **Efecto:** Debilitó tanto al Estado (por la caída drástica de sus ingresos fiscales) como a la sociedad (por el empobrecimiento y la inestabilidad económica).

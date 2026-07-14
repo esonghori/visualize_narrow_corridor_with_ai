@@ -1,0 +1,26 @@
+Absolument. Voici une analyse des événements et tendances en France de 1899 à 1908, interprétée à travers le cadre du "corridor étroit" d'Acemoğlu et Robinson, qui met en balance le pouvoir de l'État (Léviathan) et celui de la société.
+
+### Tendances :
+
+*   **La consolidation de l'État républicain et la "Républicanisation" des institutions.** Le "Bloc des Gauches", arrivé au pouvoir suite à l'Affaire Dreyfus, a systématiquement utilisé l'appareil d'État (administration, armée, éducation) pour asseoir l'idéologie républicaine et laïque, purgeant les éléments jugés hostiles (monarchistes, cléricaux).
+    *   **Effet :** Renforce l'État en augmentant sa cohésion interne et sa capacité à mettre en œuvre un projet politique sur l'ensemble du territoire.
+
+*   **La montée en puissance du syndicalisme révolutionnaire.** La croissance industrielle a entraîné une structuration de plus en plus forte du mouvement ouvrier au sein de la Confédération Générale du Travail (CGT). Cette tendance de fond a vu la société s'organiser pour créer un contre-pouvoir massif face au patronat et à l'État, culminant dans de nombreuses grèves.
+    *   **Effet :** Renforce la société en lui donnant une voix et un pouvoir de négociation (et de confrontation) inédits. Cela a forcé l'État à développer de nouvelles capacités pour gérer ce pouvoir (voir la création du Ministère du Travail ci-dessous).
+
+*   **La laïcisation de l'espace public.** Au-delà de la loi de 1905, toute la période est marquée par une tendance de fond où l'État étend son contrôle sur des domaines autrefois dominés par l'Église (éducation, assistance sociale), définissant un espace public neutre sous son autorité exclusive.
+    *   **Effet :** Renforce l'État en brisant le pouvoir d'une institution concurrente (l'Église catholique), qui était l'un des piliers les plus structurés et anciens de la société civile.
+
+### Événements :
+
+*   **Le dénouement de l'Affaire Dreyfus (procès de Rennes en 1899, grâce présidentielle, réhabilitation en 1906).** Cet événement est un cas d'école de la mobilisation de la société (intellectuels, presse, ligues comme la Ligue des Droits de l'Homme) pour forcer l'État (en particulier son armée et une partie de sa justice) à admettre son erreur et à se soumettre au droit.
+    *   **Effet :** Renforce la société en démontrant sa capacité à contrôler et à corriger l'État. Paradoxalement, cela renforce aussi la légitimité de l'État républicain sur le long terme en affirmant la primauté du pouvoir civil et de la justice. C'est l'effet "Red Queen" : la société et l'État se renforcent mutuellement dans leur confrontation.
+
+*   **La loi de séparation des Églises et de l'État (1905).** Acte législatif majeur, il met fin unilatéralement au Concordat de 1801. L'État cesse de financer les cultes mais affirme surtout sa suprématie totale dans la sphère publique, reléguant la religion à la sphère privée.
+    *   **Effet :** Renforce massivement l'État en lui donnant le monopole de la définition des normes dans l'espace public et en affaiblissant institutionnellement et financièrement un acteur majeur de la société.
+
+*   **L'adoption de la Charte d'Amiens par la CGT (1906).** Lors de son congrès, le principal syndicat français a affirmé son indépendance vis-à-vis de tous les partis politiques et a fixé la "grève générale" comme son objectif. C'est l'acte de naissance formel du syndicalisme révolutionnaire.
+    *   **Effet :** Renforce la société en la dotant d'une doctrine et d'une organisation de lutte autonome, un contre-pouvoir clair face à l'État et au capital.
+
+*   **La création du Ministère du Travail et de la Prévoyance Sociale (1906).** En réponse directe à la montée de la pression syndicale et aux grandes grèves (comme celle de Courrières), l'État se dote d'une nouvelle administration pour gérer, négocier et légiférer sur les questions sociales.
+    *   **Effet :** Renforce l'État en augmentant sa capacité bureaucratique et sa compétence pour "encager" la société. C'est une réponse directe à la montée en puissance de la société : pour rester dans le "corridor", le Léviathan doit s'adapter et devenir plus complexe.

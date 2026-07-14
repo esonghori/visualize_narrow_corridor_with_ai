@@ -1,0 +1,8 @@
+{
+  "society_power": 6.8,
+  "state_power": 7.0,
+  "key_event": "Great Depression triggers state collapse and authoritarian reconstruction.",
+  "reasoning": "The state's power collapsed into anarchy (1931-32) before being forcefully rebuilt under Alessandri, ending slightly weaker due to its demonstrated fragility. Society was repressed but also showed its power by ousting a dictator and, crucially, built lasting organizational strength through new mass political parties like the Socialists and the Popular Front.",
+  "society_change": 0.6,
+  "state_change": -0.5
+}

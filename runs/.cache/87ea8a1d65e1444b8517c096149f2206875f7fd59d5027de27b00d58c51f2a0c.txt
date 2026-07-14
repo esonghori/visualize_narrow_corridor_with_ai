@@ -1,0 +1,8 @@
+{
+  "society_power": 7.8,
+  "state_power": 9.3,
+  "key_event": "Post-war reconstruction and financial stabilization.",
+  "reasoning": "State power, while losing its total wartime footing, was structurally reinforced by fiscal modernization and Poincaré's stabilization. Society's power rebounded vigorously with the rise of massive veterans' associations and the return of intense political and union activity.",
+  "society_change": 1.8,
+  "state_change": -0.2
+}

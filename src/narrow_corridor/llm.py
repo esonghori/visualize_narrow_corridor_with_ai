@@ -68,6 +68,16 @@ def _raw_completion(model: str, prompt: str, response_format=None, *, max_attemp
     }
     if response_format is not None:
         kwargs["response_format"] = response_format
+    if model.startswith("openrouter/"):
+        # OpenRouter multiplexes several backends per model. Its default order can
+        # land on a rate-limited backend (DeepInfra 429) and then fall through to
+        # one that can't serve the model the requested way (Novita -> 400). Steer
+        # it to any healthy chat backend and let it fall back among them; this is
+        # the difference between qwen dropping out and staying in the ensemble.
+        kwargs["extra_body"] = {
+            "provider": {"sort": "throughput", "allow_fallbacks": True,
+                         "ignore": ["Novita"]}
+        }
 
     last_error: Exception | None = None
     for attempt in range(max_attempts):

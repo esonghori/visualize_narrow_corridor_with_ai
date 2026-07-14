@@ -1,0 +1,8 @@
+{
+  "society_power": 9.0,
+  "state_power": 8.3,
+  "key_event": "Victory of Dreyfusards and 1901 law on associations.",
+  "reasoning": "Society's power is massively reinforced by the victory in the Dreyfus Affair and the 1901 law on associations, demonstrating its capacity to control the state. Simultaneously, the state strengthens its own sovereignty and administrative reach through the 1905 law separating it from the Church.",
+  "society_change": 0.5,
+  "state_change": 0.3
+}

@@ -1,0 +1,8 @@
+{
+  "society_power": 8.9,
+  "state_power": 8.1,
+  "key_event": "New social movements force reforms as economic growth stalls.",
+  "reasoning": "Society's power grew significantly with new movements achieving major victories (abortion rights, constitutional review). Concurrently, the state's economic mastery faltered with the oil shock and its executive power was checked by new institutional constraints, causing a slight decline in its overall power.",
+  "society_change": 0.4,
+  "state_change": -0.3
+}

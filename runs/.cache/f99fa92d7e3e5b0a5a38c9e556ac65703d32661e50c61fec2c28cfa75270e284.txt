@@ -1,0 +1,8 @@
+{
+  "society_power": 8.3,
+  "state_power": 8.2,
+  "key_event": "The great liberal laws institutionalize civil society and counter-powers.",
+  "reasoning": "The Republican state strengthens its administrative and ideological capacity through school laws and colonial expansion. Simultaneously, society's power surges dramatically thanks to fundamental liberal laws on the press, unions, and municipal autonomy, creating a dense network of counter-powers.",
+  "society_change": 0.7,
+  "state_change": 0.4
+}

@@ -1,0 +1,8 @@
+{
+  "society_power": 4.5,
+  "state_power": 7.5,
+  "key_event": "Ultra-royalist reaction and repressive laws after 1820.",
+  "reasoning": "Under Charles X, the state's power grew significantly through repressive laws (censorship, double vote) and symbolic acts (dissolution of the National Guard), while directly suppressing the organizational capacity of a still-developing civil society.",
+  "society_change": -1.0,
+  "state_change": 1.0
+}

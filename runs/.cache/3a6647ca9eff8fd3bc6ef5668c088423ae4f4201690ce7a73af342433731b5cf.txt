@@ -1,0 +1,8 @@
+{
+  "society_power": 3.0,
+  "state_power": 5.0,
+  "society_change": 0.0,
+  "state_change": 0.0,
+  "key_event": "清朝晚期，内外交困",
+  "reasoning": "社会动员有限，主要依赖地方精英；国家权力中等，官僚体系和军队勉强维持。"
+}

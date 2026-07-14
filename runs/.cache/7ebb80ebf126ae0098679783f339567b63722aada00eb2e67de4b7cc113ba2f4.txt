@@ -1,0 +1,8 @@
+{
+  "society_power": 6.5,
+  "state_power": 7.0,
+  "society_change": -2.5,
+  "state_change": -1.5,
+  "key_event": "Golpe de Estado de 1973 y represión militar",
+  "reasoning": "El golpe de Estado y la represión militar debilitaron significativamente la sociedad civil, mientras que el Estado autoritario fortaleció su control pero perdió legitimidad."
+}

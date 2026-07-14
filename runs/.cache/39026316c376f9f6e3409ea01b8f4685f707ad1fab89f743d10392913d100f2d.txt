@@ -1,0 +1,8 @@
+{
+  "society_power": 1.0,
+  "state_power": 8.0,
+  "key_event": "Consolidation of Reza Shah's authoritarian state.",
+  "reasoning": "The state systematically dismantled all independent centers of power—tribes, clergy, bazaaris—through military, economic, and cultural centralization. This process, marked by events like the Goharshad suppression and forced unveiling, led to a surge in state capacity and the atomization of society.",
+  "society_change": -1.0,
+  "state_change": 2.5
+}

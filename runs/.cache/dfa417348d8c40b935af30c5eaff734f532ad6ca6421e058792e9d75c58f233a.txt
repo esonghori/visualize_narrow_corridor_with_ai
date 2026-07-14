@@ -1,0 +1,8 @@
+{
+  "society_power": 8.0,
+  "state_power": 2.0,
+  "key_event": "The Iranian Revolution of 1979 overthrows the Shah's regime.",
+  "reasoning": "State power, peaking mid-decade due to oil wealth, completely collapsed in the face of a mass revolutionary movement. Society, organized primarily through religious networks, transformed from atomized to dominant, successfully overthrowing the powerful Pahlavi state.",
+  "society_change": 7.0,
+  "state_change": -6.5
+}

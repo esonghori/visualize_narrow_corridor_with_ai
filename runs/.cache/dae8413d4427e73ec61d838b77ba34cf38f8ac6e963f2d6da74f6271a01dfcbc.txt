@@ -1,0 +1,8 @@
+{
+  "society_power": 7.5,
+  "state_power": 6.0,
+  "key_event": "La campagne des banquets mobilise la société contre un État rigide.",
+  "reasoning": "La société civile a démontré une capacité d'organisation nationale sans précédent avec la campagne des banquets, renforçant son pouvoir. Pendant ce temps, l'État, bien que développant ses infrastructures (loi sur les chemins de fer), a vu son pouvoir s'éroder en raison de son immobilisme politique et de son incapacité à gérer la crise économique, perdant ainsi une grande partie de sa légitimité.",
+  "society_change": 1.0,
+  "state_change": -1.0
+}

@@ -1,0 +1,39 @@
+# La France 1809-1818 selon le cadre d'Acemoğlu et Robinson
+
+*Rappel du cadre : le « couloir étroit » repose sur l'équilibre dynamique entre pouvoir de l'État (Léviathan) et pouvoir de la société. Voici les facteurs matériels pour cette période.*
+
+## Tendances (processus lents)
+
+- **Consolidation de l'appareil administratif napoléonien** (préfets, Code civil, système fiscal centralisé, Banque de France) : renforce durablement l'**État**, y compris après 1815 car la Restauration hérite de ces structures.
+
+- **Conscription militaire permanente et « impôt du sang »** : renforce l'**État** (capacité d'extraction militaire) mais épuise et affaiblit la **société** (démographie, résistances rurales au recrutement).
+
+- **Blocus continental et ses effets économiques** : distorsion du commerce, essor de certaines industries protégées (textile, betterave sucrière) mais asphyxie des ports atlantiques (Bordeaux, Nantes) — affaiblit l'économie et donc indirectement la base matérielle de l'**État**.
+
+- **Épuisement démographique et lassitude de la guerre** (pertes cumulées jusqu'en 1814) : affaiblit à la fois la capacité mobilisatrice de l'**État** et la vitalité de la **société**.
+
+- **Persistance de la codification juridique et de l'égalité civile** : stabilise les attentes sociales et limite l'arbitraire — potentiellement structurant pour un équilibre État/société.
+
+- **Retour progressif d'une vie parlementaire et de la presse sous la Charte de 1814** : lent renforcement de la **société** organisée (notables, chambres).
+
+## Événements (ruptures ponctuelles)
+
+- **Campagne de Russie (1812)** : catastrophe militaire qui affaiblit brutalement l'**État** napoléonien (perte de la Grande Armée).
+
+- **Campagne d'Allemagne et défaite de Leipzig (1813)** : effondrement de l'emprise extérieure, affaiblissement de l'**État**.
+
+- **Invasion de la France et abdication de Napoléon (1814)** : effondrement du Léviathan napoléonien ; occupation étrangère affaiblissant l'**État**.
+
+- **Première Restauration et octroi de la Charte constitutionnelle (1814)** : recompose l'**État** sur base monarchique constitutionnelle et donne un cadre à la **société** (chambres, libertés limitées).
+
+- **Cent-Jours et Waterloo (1815)** : brève reprise puis effondrement définitif ; discrédite l'aventure impériale.
+
+- **Seconde Restauration, occupation alliée et indemnités de guerre (1815)** : affaiblit l'**État** (souveraineté sous tutelle, charge financière).
+
+- **Terreur blanche (1815-1816)** : violence de faction affaiblissant la cohésion de la **société** et révélant les tensions internes.
+
+- **Chambre « introuvable » puis dissolution (1815-1816)** : affrontement entre ultraroyalistes et pouvoir royal — négociation vive du curseur État/société.
+
+- **Fin de l'occupation étrangère (Congrès d'Aix-la-Chapelle, 1818)** : restaure la souveraineté et **renforce l'État** restauré.
+
+*Note : l'intervalle 1809-1818 illustre bien la thèse du couloir — un État très puissant mais peu contraint (Empire) s'effondre, puis émerge sous la Restauration un compromis institutionnel (Charte) tentant d'articuler pouvoir étatique et société organisée.*

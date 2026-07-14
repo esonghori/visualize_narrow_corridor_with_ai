@@ -1,0 +1,8 @@
+{
+  "society_power": 8.5,
+  "state_power": 8.4,
+  "key_event": "La Ve République renforce l'État, défié par Mai 68.",
+  "reasoning": "La Ve République a construit un État puissant et stable, capable de résoudre la crise algérienne et de piloter l'économie. Cependant, la modernisation rapide a nourri une société civile très puissante, dont la capacité de mobilisation a explosé en Mai 68, paralysant le pays et prouvant qu'elle pouvait contester directement ce nouvel État fort.",
+  "society_change": -0.3,
+  "state_change": 4.4
+}

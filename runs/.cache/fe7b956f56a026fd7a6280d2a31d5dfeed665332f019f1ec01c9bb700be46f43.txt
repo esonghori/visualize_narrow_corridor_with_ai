@@ -1,0 +1,8 @@
+{
+  "society_power": 4.1,
+  "state_power": 2.8,
+  "society_change": 0.3,
+  "state_change": -1.0,
+  "key_event": "ollowerance of Hezbollah, economic crisis, and presidential vacuum",
+  "reasoning": "تعاظم دور حزب الله وتدهور الاقتصاد أضعف الدولة بشكل كبير، بينما Society saw modest gains in civil activism despite divisions."
+}

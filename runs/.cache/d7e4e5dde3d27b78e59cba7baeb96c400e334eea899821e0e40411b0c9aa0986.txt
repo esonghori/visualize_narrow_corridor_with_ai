@@ -1,0 +1,23 @@
+Absolument. Voici une analyse de la période 1799-1808 en France à travers le prisme d'Acemoğlu et Robinson, en distinguant les tendances de fond des événements ponctuels.
+
+### Tendances :
+
+*   **Centralisation administrative et étatique :** La création du corps des préfets (loi du 28 pluviôse an VIII - 1800) incarne une tendance de fond à la rationalisation et à la concentration du pouvoir. Les préfets, nommés et révoqués par Paris, agissent comme des "empereurs au petit pied" dans les départements, court-circuitant les pouvoirs locaux et les anciennes structures sociales autonomes.
+    *   **Effet : Renforce massivement le pouvoir de l'État** en créant une chaîne de commandement directe et efficace ; **affaiblit la société civile** en érodant les corps intermédiaires et l'autonomie politique locale.
+
+*   **Unification et codification du droit :** La longue élaboration et la mise en œuvre du Code Civil (promulgué en 1804) remplacent le mosaïque de coutumes et de lois de l'Ancien Régime par un système juridique unique, laïc et uniforme.
+    *   **Effet : Renforce l'État** qui devient l'unique source et garant du droit. Simultanément, il **structure et renforce certains pans de la société civile** (notamment la bourgeoisie) en garantissant de manière prévisible la propriété privée et la liberté de contrat, socle du développement économique.
+
+*   **Contrôle de l'information et pacification sociale :** La période voit une réduction drastique du nombre de journaux, l'établissement d'une censure systématique et le développement d'une police politique efficace (sous Fouché). L'État s'octroie le monopole de l'expression publique légitime.
+    *   **Effet : Renforce l'État** en lui donnant les moyens de façonner l'opinion et de réprimer la dissidence ; **affaiblit massivement la société civile** en la privant de sa capacité à critiquer, débattre et s'organiser politiquement.
+
+### Événements :
+
+*   **Le coup d'État du 18 Brumaire an VIII (9 novembre 1799) :** Cet événement met fin au régime du Directoire, caractérisé par une certaine instabilité mais aussi par une vie politique (certes chaotique) animée par des assemblées. Il instaure le Consulat, qui concentre le pouvoir exécutif entre les mains de Bonaparte.
+    *   **Effet : Renforce l'État (le pouvoir exécutif) de façon spectaculaire** au détriment du pouvoir législatif ; **affaiblit la société** en mettant fin à la représentation politique et au jeu des factions qui, malgré leurs défauts, constituaient une forme de contrôle sur le pouvoir.
+
+*   **La signature du Concordat (15 juillet 1801) :** Cet accord avec le Pape Pie VII met fin à la guerre religieuse issue de la Révolution. L'Église catholique renonce aux biens confisqués et l'État reconnaît le catholicisme comme la "religion de la grande majorité des Français", salarie le clergé et nomme les évêques (qui reçoivent l'investiture canonique du Pape).
+    *   **Effet : Renforce l'État** qui pacifie le pays et transforme l'Église en un instrument de contrôle social et d'administration au service du régime ; **affaiblit la société civile** en subordonnant une de ses institutions les plus puissantes et autonomes (l'Église) au pouvoir politique.
+
+*   **La création de la Banque de France (18 janvier 1800) :** Institution privée à sa création mais étroitement contrôlée par l'État, elle obtient le monopole de l'émission de billets pour Paris. Cet événement, suivi de la création du Franc germinal (1803), stabilise le système monétaire.
+    *   **Effet : Renforce l'État** en lui donnant un puissant outil pour financer ses politiques (notamment militaires) et stabiliser l'économie nationale ; bénéficie indirectement à la société (secteur commercial) mais le gain en termes de contrôle et de puissance est avant tout pour l'État.

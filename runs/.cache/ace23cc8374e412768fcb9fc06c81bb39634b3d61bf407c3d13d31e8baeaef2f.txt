@@ -1,0 +1,8 @@
+{
+  "society_power": 7.0,
+  "state_power": 8.7,
+  "society_change": 0.5,
+  "state_change": 0.4,
+  "key_event": "Guerra del Pacífico y fortalecimiento económico",
+  "reasoning": "La guerra consolidó el poder estatal y el crecimiento económico fortaleció la sociedad civil."
+}

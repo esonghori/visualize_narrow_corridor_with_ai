@@ -1,0 +1,8 @@
+{
+  "society_power": 7.5,
+  "state_power": 2.5,
+  "key_event": "Syrian war deepens institutional paralysis and Hezbollah's dominance.",
+  "reasoning": "State power eroded due to systemic institutional paralysis and the Syrian war's spillover, while the power of organized sectarian society, particularly Hezbollah, grew to dominate and disable state functions.",
+  "society_change": 1.5,
+  "state_change": -0.5
+}

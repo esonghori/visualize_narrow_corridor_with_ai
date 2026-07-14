@@ -1,0 +1,8 @@
+{
+  "society_power": 9.2,
+  "state_power": 7.5,
+  "key_event": "Terror attacks boost state power, social media fuels new protests.",
+  "reasoning": "The state's power grew significantly with sweeping security laws following the 2015-2016 attacks. Simultaneously, while traditional unions declined, society demonstrated a new and potent mobilization capacity through social media, culminating in the Gilets Jaunes movement.",
+  "society_change": -0.2,
+  "state_change": 0.7
+}

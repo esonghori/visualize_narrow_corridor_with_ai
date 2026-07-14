@@ -1,0 +1,8 @@
+{
+  "society_power": 3.5,
+  "state_power": 8.5,
+  "key_event": "Consolidation napoléonienne : centralisation, codification, contrôle social.",
+  "reasoning": "Le coup d'État de Brumaire et les réformes napoléoniennes (préfets, Code Civil, Concordat) ont bâti un État extrêmement centralisé et puissant, tout en démantelant la vie politique et la capacité d'organisation de la société par la censure et la police.",
+  "society_change": -4.0,
+  "state_change": 2.0
+}

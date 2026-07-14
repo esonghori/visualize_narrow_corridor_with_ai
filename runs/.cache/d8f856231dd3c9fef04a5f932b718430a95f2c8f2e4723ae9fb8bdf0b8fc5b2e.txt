@@ -1,0 +1,8 @@
+{
+  "society_power": 6.8,
+  "state_power": 7.0,
+  "key_event": "El plebiscito de 1988 y la transición a la democracia.",
+  "reasoning": "La sociedad civil demostró un poder inmenso al derrotar a la dictadura en el plebiscito, forzando una transición que elevó su poder. Al mismo tiempo, el poder del Estado se redujo al pasar de una autocracia casi absoluta a una democracia tutelada, cuyo poder estaba limitado por enclaves autoritarios y la autonomía militar.",
+  "society_change": 3.0,
+  "state_change": -2.2
+}

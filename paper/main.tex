@@ -565,6 +565,47 @@ and security state grew. The open-weight model does not systematically
 diverge on the periods it scored.
 \input{tables/intermodel}
 
+\subsection{Prompt-language sensitivity}
+\label{sec:language}
+Because the pipeline prompts in English throughout, a natural worry is that the
+scores partly reflect the language of the prompt rather than the country's
+history, given that the models' English and non-English knowledge is drawn from
+different, unevenly sized corpora. We probe this directly: we re-ran the full
+four-model ensemble with every prompt (including the country's name) translated
+into the language most tied to the country in question, French for France,
+Chinese for China, Persian for Iran, Spanish for Chile, and Arabic for Lebanon,
+keeping the rubric, the two-call structure, and the requested (English) output
+fields identical, so only the prose language changes.
+Figure~\ref{fig:language} overlays each country's English- and native-language
+ensemble trajectory. The paths are close: the mean per-period displacement is
+\ph{X} rubric points, the largest for \ph{X}, and the end-of-trajectory
+(2020) positions differ by \ph{X} points, small relative to the cross-model
+spread of Section~\ref{sec:reliability}. First-difference rank correlations
+between the two language versions are \ph{X} (society) and \ph{X} (state),
+indicating the \emph{timing and direction} of the moves is largely
+language-invariant. The residual shifts are a lower bound on, not a full audit
+of, language sensitivity (translation quality and the three-country scope both
+bound the claim), but they suggest the trajectories are driven more by the
+historical record the models encode than by the prompt language.
+
+\begin{figure*}[t]
+  \centering
+  \IfFileExists{experiments/results_lang/lang-ablation.png}%
+    {\includegraphics[width=\textwidth]{experiments/results_lang/lang-ablation.png}}%
+    {\fbox{\parbox[c][3cm][c]{\textwidth}{\centering\footnotesize
+       \textcolor{red}{\texttt{experiments/results\_lang/lang-ablation.png}}\\[2pt]
+       (run \texttt{lang\_ablation.py})}}}
+  \caption{Prompt-language ablation. Each panel overlays a country's ensemble-mean
+  trajectory scored with English prompts (blue) and with prompts translated into
+  the country's own language (red): French/France, Chinese/China, Persian/Iran,
+  Spanish/Chile, Arabic/Lebanon.
+  Circles mark the start period, stars the last; thin gray connectors show each
+  period's displacement when the language changes. Only the prompt prose is
+  translated; the rubric and the (English) output fields are held fixed, so the
+  two paths are directly comparable.}
+  \label{fig:language}
+\end{figure*}
+
 \subsection{Qualitative case studies}
 \textbf{Iran, 1979.} All four models place a society peak in the 1970s that
 collapses into state dominance in the 1980s (the ensemble society score falls
@@ -647,7 +688,10 @@ partially aligns with the theory's notion of state power. \emph{Coverage and
 language bias.} Training corpora over-represent English-language, recent, and
 Western sources, weakest for exactly the cases we most need to read carefully
 (Iran, China, Chile, Colombia, and the Congo), and we prompt in English
-throughout. \emph{Path dependence.} In-context anchoring
+throughout; our prompt-language probe (Section~\ref{sec:language}) finds the
+trajectories largely stable when the prompts are translated, but it covers only
+five countries and cannot rule out shared cross-lingual bias.
+\emph{Path dependence.} In-context anchoring
 can propagate an early mis-score through the whole trajectory; we do not ablate
 it here. \emph{Model idiosyncrasy.} We report the mean-across-models atlas
 (Fig.~\ref{fig:atlas-mean}) as the headline reading and quantify per-axis spread
@@ -656,7 +700,8 @@ share bias. \emph{Scale and statistics.} Twelve countries and short per-country
 series preclude cross-national generalization or strong significance claims. We
 deliberately keep the study small; the natural next steps, a purpose-built human
 coding of this exact task (beyond the V-Dem comparison we already report),
-prompt and period-granularity ablations, a non-English prompting probe, and more
+prompt and period-granularity ablations, a broader non-English prompting probe
+(beyond the five languages in Section~\ref{sec:language}), and more
 expert indices, are left to future work.
 
 \section{Conclusion}

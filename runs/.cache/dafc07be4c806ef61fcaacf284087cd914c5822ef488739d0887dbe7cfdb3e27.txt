@@ -1,0 +1,8 @@
+{
+  "society_power": 6.2,
+  "state_power": 8.6,
+  "key_event": "Victory in the War of the Pacific and saltpeter boom.",
+  "reasoning": "The state's power surged immensely due to the victory in the War of the Pacific and the vast new saltpeter revenues, which funded military and bureaucratic expansion. Society's power slightly receded as the state's secularizing laws weakened the Church, a key civic institution, an effect only partially offset by expanded male suffrage.",
+  "society_change": -0.3,
+  "state_change": 1.4
+}

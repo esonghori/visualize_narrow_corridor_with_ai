@@ -1,0 +1,8 @@
+{
+  "society_power": 5.8,
+  "state_power": 6.8,
+  "society_change": -1.2,
+  "state_change": 1.3,
+  "key_event": "انقلاب 28 مرداد 1332 (1953)",
+  "reasoning": "کودتای 1953 قدرت دولت را تقویت و جامعه مدنی را تضعیف کرد."
+}

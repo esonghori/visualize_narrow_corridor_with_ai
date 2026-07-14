@@ -1,0 +1,8 @@
+{
+  "society_power": 5.5,
+  "state_power": 9.5,
+  "key_event": "World War I and the 'Union Sacrée'.",
+  "reasoning": "The First World War led to an immense and unprecedented expansion of state power through mass mobilization, censorship, and economic dirigisme. Simultaneously, the 'Union Sacrée' saw civil society voluntarily subordinate itself to the war effort, drastically reducing its capacity for contestation, although the 1917 mutinies showed the ultimate limits of state coercion.",
+  "society_change": -3.5,
+  "state_change": 1.2
+}

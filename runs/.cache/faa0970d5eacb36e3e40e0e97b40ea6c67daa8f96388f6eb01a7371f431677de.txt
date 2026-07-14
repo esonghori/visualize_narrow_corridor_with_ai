@@ -1,0 +1,8 @@
+{
+  "society_power": 6.5,
+  "state_power": 1.5,
+  "key_event": "State collapse after 1911 Revolution, rise of social movements.",
+  "reasoning": "The Xinhai Revolution and Yuan Shikai's death shattered the central state, leading to the warlord era and a collapse in state capacity. In this power vacuum, an increasingly organized civil society, culminating in the May Fourth Movement, demonstrated unprecedented power to influence national politics.",
+  "society_change": 1.5,
+  "state_change": -1.0
+}

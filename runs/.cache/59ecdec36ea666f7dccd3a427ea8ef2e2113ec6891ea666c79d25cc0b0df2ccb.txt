@@ -1,0 +1,8 @@
+{
+  "society_power": 8.2,
+  "state_power": 5.5,
+  "key_event": "Crisis del salitre por la PGM y auge del movimiento obrero.",
+  "reasoning": "La sociedad se fortaleció con la consolidación de un movimiento obrero nacional (FOCH), que se sumó a la ya poderosa élite parlamentaria. Al mismo tiempo, el Estado se debilitó gravemente por la crisis fiscal causada por la Primera Guerra Mundial, que diezmó sus ingresos del salitre y agravó su parálisis ejecutiva.",
+  "society_change": 0.2,
+  "state_change": -0.7
+}

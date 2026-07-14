@@ -1,0 +1,8 @@
+{
+  "society_power": 8.3,
+  "state_power": 8.1,
+  "society_change": 0.8,
+  "state_change": -1.6,
+  "key_event": "Montée du nationalisme, crise économique, Front Populaire",
+  "reasoning": "La montée du nationalisme et les mouvements sociaux ont renforcé la société civile, tandis que la crise économique et les événements comme la manifestation du 6 février 1934 ont affaibli l'État."
+}

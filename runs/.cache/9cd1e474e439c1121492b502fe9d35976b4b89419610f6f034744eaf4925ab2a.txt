@@ -1,0 +1,8 @@
+{
+  "society_power": 7.0,
+  "state_power": 7.5,
+  "society_change": 1.5,
+  "state_change": -1.2,
+  "key_event": "Adoption de la Troisième République, montée du socialisme",
+  "reasoning": "La société civile se renforce par la démocratie et le syndicalisme, tandis que l'État perd en autorité mais gagne en légitimité."
+}

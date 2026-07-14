@@ -1,0 +1,8 @@
+{
+  "society_power": 4.0,
+  "state_power": 9.0,
+  "society_change": 0.5,
+  "state_change": 0.5,
+  "key_event": "经济改革与1989年政治风波",
+  "reasoning": "经济改革增强了社会的经济自主性，但1989年政治风波加强了国家的控制。"
+}

@@ -1,0 +1,8 @@
+{
+  "society_power": 3.5,
+  "state_power": 1.0,
+  "key_event": "WWI occupation and Great Famine collapse the central state.",
+  "reasoning": "State power effectively collapsed due to foreign occupation, internal fragmentation, and inability to function during the Great Famine. Societal power also plummeted as the Majles was dissolved and the population was atomized by war and starvation, though regional and nationalist movements showed some resilience.",
+  "society_change": -4.3,
+  "state_change": -1.2
+}

@@ -1,0 +1,8 @@
+{
+  "society_power": 4.0,
+  "state_power": 3.5,
+  "society_change": 0.0,
+  "state_change": 0.0,
+  "key_event": "نفوذ القوى_wait... wait... القوى العظمى و-formed... تشكيل الحكومة",
+  "reasoning": "تأثير القوى العظمى، وجود هياكل حكومية مبكرة BUT ضعف القوة الحقيقية للدولة."
+}

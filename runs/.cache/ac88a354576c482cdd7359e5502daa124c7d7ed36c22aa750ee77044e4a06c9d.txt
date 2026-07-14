@@ -1,0 +1,8 @@
+{
+  "society_power": 7.5,
+  "state_power": 6.5,
+  "key_event": "Revolutionary overthrow of the Ancien Régime.",
+  "reasoning": "The state's power first collapsed then was rebuilt with an unprecedented, though unstable, capacity for coercion and mobilization during the Terror. Society's power exploded through new assemblies, political clubs, and popular uprisings that successfully dismantled the old order.",
+  "society_change": 0.0,
+  "state_change": 0.0
+}

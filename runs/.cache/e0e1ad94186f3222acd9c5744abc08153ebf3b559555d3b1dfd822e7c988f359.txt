@@ -1,0 +1,8 @@
+{
+  "society_power": 2.0,
+  "state_power": 7.0,
+  "key_event": "Communist victory in the Civil War establishes a new, powerful state.",
+  "reasoning": "The KMT state's collapse from war and hyperinflation was replaced by the CCP's highly organized new state, which rose by mobilizing and subordinating society. This process destroyed the old, independent civil society, leading to a sharp increase in state power and a dramatic decrease in societal autonomy.",
+  "society_change": -3.5,
+  "state_change": 2.8
+}

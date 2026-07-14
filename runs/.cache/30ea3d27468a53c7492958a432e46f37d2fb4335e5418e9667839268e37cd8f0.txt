@@ -1,0 +1,8 @@
+{
+  "society_power": 6.3,
+  "state_power": 5.0,
+  "society_change": 0.6,
+  "state_change": -1.0,
+  "key_event": "Révolutions de 1848 et mouvement ouvrier",
+  "reasoning": "La société civile s'est renforcée par la croissance du mouvement ouvrier et la révolution de 1848, tandis que l'État a perdu en autorité et en légitimité."
+}

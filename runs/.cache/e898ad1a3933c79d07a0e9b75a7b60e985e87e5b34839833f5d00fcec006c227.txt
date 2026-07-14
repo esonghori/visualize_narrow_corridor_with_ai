@@ -1,0 +1,8 @@
+{
+  "society_power": 6.5,
+  "state_power": 7.0,
+  "key_event": "The July Revolution of 1830 overthrows the king.",
+  "reasoning": "The 1830 Revolution was a major victory for society, proving its capacity to discipline the state and empowering the bourgeoisie. However, the new regime preserved and reinforced the state's administrative and coercive powers (e.g. the 1835 September Laws), resulting in a powerful state now facing a much more organised society.",
+  "society_change": 1.5,
+  "state_change": -0.5
+}

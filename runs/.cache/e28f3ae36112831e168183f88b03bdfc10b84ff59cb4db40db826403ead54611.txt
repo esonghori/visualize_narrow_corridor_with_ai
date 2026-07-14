@@ -1,0 +1,8 @@
+{
+  "society_power": 8.4,
+  "state_power": 9.0,
+  "society_change": 0.1,
+  "state_change": 0.2,
+  "key_event": "Nationalisation, expansion de l'État-providence, retour de De Gaulle",
+  "reasoning": "La société civile reste forte, malgré une légère augmentation du pouvoir de l'État, principalement due à la nationalisation et à l'expansion de l'État-providence. Le retour de De Gaulle renforce les institutions et les pouvoirs présidentiels."
+}

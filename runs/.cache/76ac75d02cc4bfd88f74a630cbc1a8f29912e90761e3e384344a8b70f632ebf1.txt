@@ -1,0 +1,8 @@
+{
+  "society_power": 8.2,
+  "state_power": 7.7,
+  "key_event": "Women's suffrage and union unification versus state repression.",
+  "reasoning": "Society's power grew significantly with women's suffrage and the creation of the CUT union confederation, fostering massive mobilization. The state's administrative capacity was weakened by economic crisis, though it demonstrated high coercive power by outlawing the Communist Party and violently suppressing protests.",
+  "society_change": 0.7,
+  "state_change": -0.3
+}

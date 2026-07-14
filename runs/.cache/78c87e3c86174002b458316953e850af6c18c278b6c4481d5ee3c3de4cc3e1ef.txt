@@ -1,0 +1,45 @@
+# La France 1879-1888 selon le cadre d'Acemoğlu-Robinson
+
+Dans *The Narrow Corridor*, la « liberté » naît d'un équilibre entre un État puissant et une société capable de le contrôler (l'« effet de la Reine Rouge »). Voici une lecture de la période.
+
+## Tendances (lentes : institutionnelles, économiques, démographiques)
+
+- **Consolidation de la République parlementaire** (après la démission de Mac-Mahon en janvier 1879, majorité républicaine aux deux chambres) : renforce **l'État** en le stabilisant, mais aussi **la société** via un régime plus représentatif.
+
+- **Lois scolaires Ferry (1881-1882 : gratuité, laïcité, obligation)** : renforcent puissamment **l'État** (formation des citoyens, contrôle idéologique, recul de l'Église) tout en dotant **la société** de capacités civiques par l'alphabétisation.
+
+- **Expansion coloniale** (Tunisie 1881, Tonkin/Annam, Congo, Madagascar) : accroît la capacité administrative et militaire de **l'État**.
+
+- **Dépression économique longue** (« Grande Dépression » 1873-1896, crise agricole liée au phylloxéra et à la concurrence céréalière) : affaiblit la base économique et nourrit le mécontentement social, fragilisant potentiellement **l'État**.
+
+- **Stagnation démographique française** (natalité faible, contraste avec l'Allemagne) : contrainte structurelle sur la puissance militaire et économique de **l'État**.
+
+- **Structuration du mouvement ouvrier et syndical** (progression du socialisme, courants guesdiste et possibiliste) : renforce **la société** comme contre-pouvoir organisé.
+
+- **Développement de la presse et de l'opinion publique** : renforce **la société** (mobilisation, surveillance des gouvernants).
+
+## Événements (ponctuels)
+
+- **Démission de Mac-Mahon et élection de Jules Grévy (janvier 1879)** : bascule décisive vers la prépondérance parlementaire — renforce **la société** face au pouvoir exécutif personnel.
+
+- **Amnistie des communards (1880)** et **institution du 14 juillet comme fête nationale (1880)** : réintègrent une partie de la société contestataire et légitiment le régime — renforcent **l'État et la société** (réconciliation civique).
+
+- **Lois sur les libertés publiques : liberté de réunion (1881), liberté de la presse (loi du 29 juillet 1881), liberté syndicale (loi Waldeck-Rousseau, 1884)** : renforcent nettement **la société** (droits d'association et d'expression codifiés).
+
+- **Loi sur les municipalités / élection des maires (1882-1884)** : décentralisation démocratique renforçant **la société** locale.
+
+- **Rétablissement du divorce (loi Naquet, 1884)** : recul de l'emprise religieuse, extension des libertés individuelles — renforce **la société**.
+
+- **Krach de l'Union Générale (1882)** : choc financier aggravant la crise — affaiblit temporairement la confiance dans l'ordre établi.
+
+- **Grève de Decazeville (1886)** : conflit ouvrier marquant, catalyseur du socialisme parlementaire — expression et renforcement de **la société** mobilisée.
+
+- **Crise boulangiste (à partir de 1886-1888)** : montée d'un mouvement plébiscitaire/autoritaire autour du général Boulanger — menace pour l'équilibre du « corridor », risque de dérive vers un pouvoir personnel affaiblissant le contrôle de **la société** sur **l'État**.
+
+- **Scandale des décorations (1887)** entraînant la **démission de Grévy** : crise de légitimité affaiblissant l'exécutif, mais illustrant la capacité de contrôle de la société/du parlement.
+
+---
+
+**Synthèse (perspective Acemoğlu-Robinson)** : la période 1879-1888 voit un rare mouvement *simultané* de renforcement de l'État (école, colonies, administration) **et** de la société (libertés de presse, syndicale, d'association), caractéristique d'une progression *dans* le « corridor étroit ». Le boulangisme représente toutefois la première grande épreuve de cet équilibre, testant si la société conservera sa capacité à brider l'État.
+
+Souhaitez-vous que j'approfondisse un axe (par exemple les lois Ferry ou le boulangisme) dans cette grille conceptuelle ?

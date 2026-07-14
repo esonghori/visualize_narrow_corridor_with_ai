@@ -1,0 +1,8 @@
+{
+  "society_power": 4.5,
+  "state_power": 8.5,
+  "society_change": -1.0,
+  "state_change": 2.5,
+  "key_event": "计划经济体制建立与农村集体化运动",
+  "reasoning": "计划经济和农村集体化增强了国家控制，但社会自主性减弱。"
+}

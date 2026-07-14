@@ -1,0 +1,8 @@
+{
+  "society_power": 4.0,
+  "state_power": 5.8,
+  "key_event": "Victoria conservadora en la guerra civil y Constitución de 1833.",
+  "reasoning": "La victoria conservadora en la guerra civil y la Constitución de 1833 establecieron un Estado autoritario y centralizado, aniquilando a la oposición liberal y restringiendo drásticamente la participación, lo que aumentó masivamente el poder estatal a costa del de la sociedad.",
+  "society_change": -1.2,
+  "state_change": 2.3
+}

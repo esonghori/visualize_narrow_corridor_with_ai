@@ -1,0 +1,8 @@
+{
+  "society_power": 9.3,
+  "state_power": 7.7,
+  "society_change": -3.3,
+  "state_change": 0.5,
+  "key_event": "Manifestations contre la Loi Travail, Mouvement des Gilets Jaunes",
+  "reasoning": "La société civile s'est mobilisée fortement, mais a subi des affaiblissements structurels. L'État a renforcé sa capacité de gestion des crises et de régulation."
+}

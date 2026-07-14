@@ -1,0 +1,8 @@
+{
+  "society_power": 5.5,
+  "state_power": 8.0,
+  "key_event": "Liberalization laws granting rights to strike, assemble, and publish.",
+  "reasoning": "While the state remains strong, demonstrated by its ability to impose free trade, it voluntarily cedes some control, slightly reducing its absolute power. Society's power grows substantially as new laws grant foundational rights to strike, assemble, and publish, enabling organized opposition and public debate.",
+  "society_change": 2.0,
+  "state_change": -0.5
+}

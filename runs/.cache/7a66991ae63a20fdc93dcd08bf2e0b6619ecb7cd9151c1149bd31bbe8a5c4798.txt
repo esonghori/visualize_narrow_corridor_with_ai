@@ -1,0 +1,8 @@
+{
+  "society_power": 8.8,
+  "state_power": 4.0,
+  "key_event": "Collapse of the Fourth Republic during the Algerian War.",
+  "reasoning": "The state's power collapsed due to the institutional paralysis of the Fourth Republic and its inability to manage the Algerian crisis, which empowered the army against it. Society remained highly mobilized through powerful unions and movements, though its deep polarization slightly tempered its power compared to the post-Liberation peak.",
+  "society_change": -0.3,
+  "state_change": -5.6
+}

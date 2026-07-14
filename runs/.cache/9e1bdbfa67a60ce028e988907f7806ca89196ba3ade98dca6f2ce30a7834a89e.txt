@@ -1,0 +1,8 @@
+{
+  "society_power": 1.0,
+  "state_power": 9.5,
+  "key_event": "State consolidates total control via collectivization and political campaigns.",
+  "reasoning": "The new communist state established overwhelming control through land reform, collectivization, and the danwei/hukou systems. Simultaneously, political campaigns like the Anti-Rightist Movement systematically dismantled all independent social, economic, and intellectual bases of power, leaving society atomized.",
+  "society_change": -1.0,
+  "state_change": 2.5
+}

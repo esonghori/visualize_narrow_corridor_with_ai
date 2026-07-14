@@ -1,0 +1,8 @@
+{
+  "society_power": 8.7,
+  "state_power": 8.3,
+  "key_event": "L'Affaire Dreyfus révèle la puissance d'une société civile mobilisée.",
+  "reasoning": "Le pouvoir de la société est massivement renforcé par l'Affaire Dreyfus, qui prouve sa capacité à contester l'État, tandis que ce dernier consolide son assise institutionnelle et ses outils répressifs (fin du boulangisme, lois scélérates) malgré les scandales.",
+  "society_change": 0.4,
+  "state_change": 0.1
+}

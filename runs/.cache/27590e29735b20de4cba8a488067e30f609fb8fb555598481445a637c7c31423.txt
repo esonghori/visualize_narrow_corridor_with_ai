@@ -1,0 +1,8 @@
+{
+  "society_power": 8.8,
+  "state_power": 7.5,
+  "society_change": 0.5,
+  "state_change": 0.5,
+  "key_event": "Fortalecimiento sindical y leyes laborales progresistas",
+  "reasoning": "Las reformas laborales y el fortalecimiento de los sindicatos aumentaron el poder de la sociedad, mientras que la industrialización y la Segunda Guerra Mundial fortalecieron el Estado."
+}

@@ -1,0 +1,8 @@
+{
+  "society_power": 4.2,
+  "state_power": 3.8,
+  "society_change": 0.2,
+  "state_change": -1.0,
+  "key_event": "Increased tensions and limited economic development",
+  "reasoning": "The increase in sectarian tensions and economic inequality weakened civil society, while the state's power was undermined by growing internal and external pressures, despite some symbolic progress towards independence."
+}

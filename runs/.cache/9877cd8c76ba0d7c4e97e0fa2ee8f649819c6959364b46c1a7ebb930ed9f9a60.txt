@@ -1,0 +1,8 @@
+{
+  "society_power": 2.0,
+  "state_power": 5.5,
+  "key_event": "Rise of Reza Khan and creation of a modern, centralized state.",
+  "reasoning": "The state's power surged with the creation of a modern national army and bureaucracy that crushed regional rivals. This same consolidation of power systematically dismantled traditional sources of societal organization (tribes, clergy, regional powers), leading to a sharp decline in society's ability to resist.",
+  "society_change": -1.5,
+  "state_change": 4.5
+}

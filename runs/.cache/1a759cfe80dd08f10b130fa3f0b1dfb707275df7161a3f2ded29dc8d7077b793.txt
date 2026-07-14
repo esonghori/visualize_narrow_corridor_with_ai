@@ -1,0 +1,8 @@
+{
+  "society_power": 8.6,
+  "state_power": 8.3,
+  "key_event": "State power surge (COVID) vs. weakened mass mobilizations.",
+  "reasoning": "The state's power grew significantly through COVID-19 measures and its ability to override massive social protest (pension reform), while society's power, though capable of huge mobilization, was weakened by the decline of its traditional intermediary bodies and its inability to force policy changes.",
+  "society_change": -0.6,
+  "state_change": 0.8
+}

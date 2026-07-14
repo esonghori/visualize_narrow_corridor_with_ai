@@ -1,0 +1,8 @@
+{
+  "society_power": 6.0,
+  "state_power": 7.7,
+  "key_event": "Revolution of 1830 empowers society, new regime consolidates state.",
+  "reasoning": "The 1830 Revolution demonstrates a massive increase in society's ability to impose its will, but the new Orléanist regime responds by strengthening the state's administrative (Loi Guizot) and coercive (repression of revolts, laws of 1835) capacities to control this mobilized society.",
+  "society_change": 1.5,
+  "state_change": 0.2
+}

@@ -1,0 +1,8 @@
+{
+  "society_power": 5.3,
+  "state_power": 5.0,
+  "society_change": 0.8,
+  "state_change": 0.5,
+  "key_event": "五四运动、北伐战争",
+  "reasoning": "五四运动增强了公民社会的力量，北伐战争提高了中央政府的权威。"
+}

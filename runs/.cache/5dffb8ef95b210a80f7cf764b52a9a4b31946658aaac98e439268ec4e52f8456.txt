@@ -1,0 +1,8 @@
+{
+  "society_power": 5.5,
+  "state_power": 8.0,
+  "society_change": 1.0,
+  "state_change": 0.5,
+  "key_event": "Reforma electoral de 1861 y expansión económica",
+  "reasoning": "La reforma electoral y el crecimiento económico fortalecieron a la sociedad civil, mientras que la descentralización y la rápida resolución de la Guerra Civil de 1859 incrementaron el poder estatal."
+}

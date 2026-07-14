@@ -16,6 +16,8 @@ def get_narrow_corridor(
     end_year: int = 2025,
     step_years: int = 5,
     *,
+    lang: str = "en",
+    prompt_country: str | None = None,
     cache_dir: Path = DEFAULT_CACHE_DIR,
     use_cache: bool = True,
 ) -> NarrowCorridorPath:
@@ -24,7 +26,15 @@ def get_narrow_corridor(
     For each period (except the first) we first ask the model to list events and
     trends (Chain-of-Thought), then feed that narrative plus all prior periods'
     scores (In-Context Learning) into a structured scoring call.
+
+    ``lang`` selects the prompt language ("en"/"fr"/"zh"/"fa"); only the prose is
+    translated, the returned scores are language-neutral (see prompts.py).
+    ``prompt_country`` is the name used *inside* the prompts (default: ``country``);
+    the language ablation passes the country's native-language name here so the
+    prompt is fully in one language, while ``country`` stays the English canonical
+    name used for storage, slugs, and figures.
     """
+    prompt_country = prompt_country or country
     path = NarrowCorridorPath(country=country, model=model)
 
     def record(period: Period, score, raw: str, et_prompt: str, et_resp: str, sc_prompt: str):
@@ -44,7 +54,7 @@ def get_narrow_corridor(
 
     # ----- first period (bootstrap, absolute values) ------------------------
     initial: Period = (start_year, start_year + step_years - 1)
-    sc_prompt = prompts.bootstrap_score_prompt(country, start_year, end_year, initial)
+    sc_prompt = prompts.bootstrap_score_prompt(prompt_country, start_year, end_year, initial, lang)
     score, raw = complete_structured(
         model, sc_prompt, cache_dir=cache_dir, use_cache=use_cache
     )
@@ -59,17 +69,18 @@ def get_narrow_corridor(
     for year in range(start_year + step_years, end_year, step_years):
         period: Period = (year, year + step_years - 1)
 
-        et_prompt = prompts.events_trends_prompt(country, period)
+        et_prompt = prompts.events_trends_prompt(prompt_country, period, lang)
         et_resp = complete_text(model, et_prompt, cache_dir=cache_dir, use_cache=use_cache)
 
         sc_prompt = prompts.score_prompt(
-            country=country,
+            country=prompt_country,
             start_year=start_year,
             end_year=end_year,
             period=period,
             previous_period=previous_period,
             events_trends_text=et_resp,
             previous_scores_text=previous_scores_text,
+            lang=lang,
         )
         score, raw = complete_structured(
             model,

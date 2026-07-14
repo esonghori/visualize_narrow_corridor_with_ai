@@ -1,0 +1,8 @@
+{
+  "society_power": 3.5,
+  "state_power": 5.5,
+  "society_change": 0.5,
+  "state_change": 0.5,
+  "key_event": "甲午战争与戊戌变法",
+  "reasoning": "甲午战争暴露了国家的弱化，但戊戌变法增强了公民社会的觉醒。"
+}

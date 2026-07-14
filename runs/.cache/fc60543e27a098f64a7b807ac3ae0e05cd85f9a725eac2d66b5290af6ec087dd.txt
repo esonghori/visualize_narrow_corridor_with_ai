@@ -1,0 +1,8 @@
+{
+  "society_power": 4.0,
+  "state_power": 1.5,
+  "key_event": "Outbreak of civil war and collapse of the state.",
+  "reasoning": "The state effectively collapsed, ceding sovereignty with the Cairo Agreement and disintegrating with the 1975 civil war. Society's power became fragmented and militarized; while armed factions became dominant, broader civil society was decimated by the conflict, resulting in a net loss of cohesive power.",
+  "society_change": -4.0,
+  "state_change": -3.5
+}

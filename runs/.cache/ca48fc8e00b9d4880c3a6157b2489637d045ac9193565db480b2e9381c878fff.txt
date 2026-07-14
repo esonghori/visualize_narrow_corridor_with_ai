@@ -1,0 +1,8 @@
+{
+  "society_power": 9.1,
+  "state_power": 7.9,
+  "key_event": "L'alternance de 1981 et la grande vague de décentralisation.",
+  "reasoning": "La société s'est renforcée structurellement grâce à la décentralisation et à la libéralisation des médias, qui ont créé de nouveaux contre-pouvoirs. Le pouvoir de l'État, bien qu'accru économiquement par les nationalisations, a été contraint par la montée en puissance des pouvoirs locaux, les règles européennes et la cohabitation.",
+  "society_change": 0.2,
+  "state_change": -0.2
+}

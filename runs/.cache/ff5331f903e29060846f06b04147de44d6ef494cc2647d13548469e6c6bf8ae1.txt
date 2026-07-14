@@ -1,0 +1,8 @@
+{
+  "society_power": 8.6,
+  "state_power": 8.0,
+  "society_change": -1.2,
+  "state_change": 0.5,
+  "key_event": "Prohibición del Partido Comunista; Ley de Asociaciones Profesionales",
+  "reasoning": "La prohibición del Partido Comunista debilitó a la sociedad civil, mientras que la Ley de Asociaciones Profesionales y el crecimiento económico fortalecieron al Estado."
+}

@@ -1,0 +1,8 @@
+{
+  "society_power": 7.6,
+  "state_power": 7.8,
+  "key_event": "Establishment of the parliamentary Third Republic after military defeat.",
+  "reasoning": "The collapse of the Empire after the 1870 defeat shattered state power, which then brutally reasserted itself against the Commune before being constitutionally redefined. Society, mobilized around republicanism, gained immense influence, culminating in the 1877 crisis which established parliamentary supremacy over the executive, creating a strong but constrained state.",
+  "society_change": 1.8,
+  "state_change": -0.4
+}

@@ -1,0 +1,8 @@
+{
+  "society_power": 9.5,
+  "state_power": 7.5,
+  "society_change": 0.2,
+  "state_change": -1.2,
+  "key_event": "Mouvements sociaux et Gilets Jaunes",
+  "reasoning": "Les mouvements sociaux et la polarisation politique ont renforcé la société civile, tandis que l'État a vu sa capacité d'action affaiblie."
+}

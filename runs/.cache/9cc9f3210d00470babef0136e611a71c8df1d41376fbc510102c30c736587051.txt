@@ -1,0 +1,8 @@
+{
+  "society_power": 8.5,
+  "state_power": 6.8,
+  "society_change": 0.5,
+  "state_change": -1.2,
+  "key_event": "Crecimiento sindical y movilización obrera",
+  "reasoning": "El crecimiento sindical y la huelga de Iquique fortalecieron la sociedad civil, mientras que la Revolución Constitucional de 1924 debilitó temporalmente al Estado."
+}

@@ -1,0 +1,8 @@
+{
+  "society_power": 7.2,
+  "state_power": 7.8,
+  "society_change": 0.2,
+  "state_change": -1.0,
+  "key_event": "Guerra Civil de 1891 y reformas parlamentarias",
+  "reasoning": "La Guerra Civil de 1891 y las reformas posteriores debilitaron el poder ejecutivo, fortaleciendo el Congreso y ampliando la representación política de la sociedad."
+}

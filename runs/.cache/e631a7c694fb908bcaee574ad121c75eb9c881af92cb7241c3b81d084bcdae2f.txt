@@ -1,0 +1,8 @@
+{
+  "society_power": 3.0,
+  "state_power": 4.0,
+  "society_change": 0.0,
+  "state_change": 0.0,
+  "key_event": "Primera Independencia, caos político inicial",
+  "reasoning": "La sociedad tenía movimientos esporádicos de resistencia, mientras el Estado luchaba por consolidar su autoridad. El poder estatal era limitado y dependía de facciones locales."
+}

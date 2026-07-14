@@ -1,0 +1,8 @@
+{
+  "society_power": 6.0,
+  "state_power": 9.5,
+  "key_event": "La Première Guerre mondiale et l'Union Sacrée.",
+  "reasoning": "La Première Guerre mondiale a provoqué une expansion sans précédent du pouvoir de l'État par le dirigisme économique et la mobilisation totale. Simultanément, l'Union Sacrée a entraîné une subordination volontaire de la société civile, réduisant considérablement sa capacité à contraindre l'État, malgré les regains de contestation en 1917.",
+  "society_change": -2.8,
+  "state_change": 0.8
+}

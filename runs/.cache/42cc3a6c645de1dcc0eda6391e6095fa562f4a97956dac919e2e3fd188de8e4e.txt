@@ -1,0 +1,8 @@
+{
+  "society_power": 5.0,
+  "state_power": 8.0,
+  "society_change": -2.0,
+  "state_change": 2.5,
+  "key_event": "Coup d'État du 18 Brumaire, centralisation administrative",
+  "reasoning": "La prise de pouvoir par Napoléon et la centralisation administrative ont fortement réduit les pouvoirs de la société civile, tandis que l'État a renforcé son contrôle et ses capacités."
+}

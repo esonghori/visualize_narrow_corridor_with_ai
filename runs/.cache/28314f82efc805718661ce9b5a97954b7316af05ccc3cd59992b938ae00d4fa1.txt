@@ -1,0 +1,8 @@
+{
+  "society_power": 8.5,
+  "state_power": 8.8,
+  "society_change": 0.2,
+  "state_change": 0.7,
+  "key_event": "Libération, nationalisation, modernisation administrative",
+  "reasoning": "La Libération et les réformes post-guerre ont renforcé l'État et les syndicats."
+}

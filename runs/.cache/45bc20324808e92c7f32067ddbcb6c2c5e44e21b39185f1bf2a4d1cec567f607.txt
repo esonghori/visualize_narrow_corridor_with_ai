@@ -1,0 +1,8 @@
+{
+  "society_power": 7.5,
+  "state_power": 7.3,
+  "key_event": "La Campagne des Banquets et la Révolution de 1848.",
+  "reasoning": "La société civile, galvanisée par la crise économique et les idéologies nouvelles, démontre une capacité de mobilisation nationale sans précédent avec les Banquets. En face, le pouvoir de l'État, bien que doté d'une administration forte, s'érode par son immobilisme politique et sa perte de légitimité, le rendant fragile jusqu'à la rupture.",
+  "society_change": 1.5,
+  "state_change": -0.4
+}

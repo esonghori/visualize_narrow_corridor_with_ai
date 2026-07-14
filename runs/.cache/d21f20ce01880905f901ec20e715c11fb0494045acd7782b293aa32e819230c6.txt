@@ -1,0 +1,8 @@
+{
+  "society_power": 8.5,
+  "state_power": 8.0,
+  "key_event": "L'affaire Dreyfus galvanise la société contre l'État.",
+  "reasoning": "L'État renforce son appareil idéologique et répressif (école, lois scélérates), tandis que la société se dote de puissants outils de mobilisation (presse, intellectuels dreyfusards), renforçant les deux camps dans leur confrontation.",
+  "society_change": 0.5,
+  "state_change": 0.5
+}

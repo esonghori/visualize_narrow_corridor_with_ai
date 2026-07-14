@@ -1,0 +1,8 @@
+{
+  "society_power": 8.2,
+  "state_power": 8.7,
+  "society_change": 0.7,
+  "state_change": 0.4,
+  "key_event": "Montée du syndicalisme et Première Guerre Mondiale",
+  "reasoning": "La montée du syndicalisme a renforcé la société civile, tandis que la Première Guerre Mondiale a accru le pouvoir de l'État."
+}

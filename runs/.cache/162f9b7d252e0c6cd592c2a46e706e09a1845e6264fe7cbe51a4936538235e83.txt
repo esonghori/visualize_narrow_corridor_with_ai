@@ -1,0 +1,8 @@
+{
+  "society_power": 5.5,
+  "state_power": 6.0,
+  "society_change": -1.5,
+  "state_change": -1.5,
+  "key_event": "抗日战争胜利，内战爆发",
+  "reasoning": "抗日战争胜利增强了国家威望，但内战爆发削弱了国民政府的统一与稳定性，社会动员能力下降。"
+}

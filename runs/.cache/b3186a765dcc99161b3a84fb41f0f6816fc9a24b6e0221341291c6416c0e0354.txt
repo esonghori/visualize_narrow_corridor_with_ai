@@ -1,0 +1,8 @@
+{
+  "society_power": 6.5,
+  "state_power": 8.3,
+  "society_change": 1.0,
+  "state_change": 0.3,
+  "key_event": "Reformas educativas y democratización política",
+  "reasoning": "Las reformas educativas y la democratización política fortalecieron la sociedad, mientras que el Estado se mantuvo fuerte."
+}

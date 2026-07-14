@@ -1,0 +1,8 @@
+{
+  "society_power": 2.0,
+  "state_power": 9.0,
+  "key_event": "State power consolidates post-1989; social organization suppressed.",
+  "reasoning": "In the wake of the 1989 crackdown, Deng's Southern Tour fueled rapid economic growth that vastly strengthened the state's fiscal and coercive capacity. Meanwhile, the severe suppression of independent social organizations like Falun Gong demonstrated the state's overwhelming dominance and pushed civil society toward atomization.",
+  "society_change": -1.0,
+  "state_change": 1.0
+}

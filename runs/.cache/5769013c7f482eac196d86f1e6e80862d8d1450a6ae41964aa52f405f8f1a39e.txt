@@ -1,0 +1,8 @@
+{
+  "society_power": 4.5,
+  "state_power": 7.5,
+  "society_change": 1.5,
+  "state_change": 0.5,
+  "key_event": "Consolidación de instituciones y Revolución de 1851",
+  "reasoning": "La consolidación de instituciones fortaleció al Estado, mientras que la Revolución de 1851 impulsó la conciencia y organización social."
+}

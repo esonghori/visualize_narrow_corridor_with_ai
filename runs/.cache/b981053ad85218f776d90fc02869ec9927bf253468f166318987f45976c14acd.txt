@@ -1,0 +1,8 @@
+{
+  "society_power": 8.2,
+  "state_power": 6.3,
+  "key_event": "Estallido social y los fracasados procesos constitucionales.",
+  "reasoning": "La legitimidad y capacidad del Estado se erosionaron por la protesta y la fragmentación política, mientras que la sociedad demostró un inmenso poder de veto mediante la movilización masiva y los plebiscitos, aunque esta energía luego se disipó en fatiga.",
+  "society_change": -0.5,
+  "state_change": -1.0
+}

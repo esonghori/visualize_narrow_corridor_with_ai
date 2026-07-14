@@ -1,0 +1,8 @@
+{
+  "society_power": 3.5,
+  "state_power": 8.5,
+  "key_event": "Coup d'État of Louis-Napoléon establishing an authoritarian Second Empire.",
+  "reasoning": "Following his 1851 coup d'état, Louis-Napoléon Bonaparte dismantled republican institutions and brutally repressed all opposition, drastically increasing state power. Civil society, deprived of its political rights and under intense surveillance, saw its capacity for collective action collapse.",
+  "society_change": -4.0,
+  "state_change": 2.5
+}

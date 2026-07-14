@@ -1,0 +1,8 @@
+{
+  "society_power": 3.8,
+  "state_power": 9.5,
+  "key_event": "WTO entry and internet growth fueled both state and society.",
+  "reasoning": "Economic integration and new technology vastly increased the state's financial and surveillance capacities, making it overwhelming. Simultaneously, the internet and rights-consciousness fueled a new, more active civil society, capable of winning sporadic victories but ultimately contained by the state's power.",
+  "society_change": 1.8,
+  "state_change": 0.5
+}

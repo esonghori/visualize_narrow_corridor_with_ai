@@ -1,0 +1,8 @@
+{
+  "society_power": 7.5,
+  "state_power": 6.5,
+  "key_event": "Révolution, Terreur et naissance d'un État centralisé.",
+  "reasoning": "L'effondrement de l'Ancien Régime a libéré un pouvoir sociétal immense qui a renversé la monarchie. Cependant, l'État révolutionnaire qui en a résulté a construit une capacité administrative et militaire beaucoup plus puissante et centralisée que la précédente, notamment par la Terreur et la levée en masse.",
+  "society_change": 0.0,
+  "state_change": 0.0
+}

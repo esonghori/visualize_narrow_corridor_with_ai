@@ -1,0 +1,8 @@
+{
+  "society_power": 4.3,
+  "state_power": 7.0,
+  "key_event": "Consolidation of the Portalian state after victory in war.",
+  "reasoning": "The state's power surged due to the victory over the Peru-Bolivian Confederation and the undisputed consolidation of the 1833 Constitution. Society saw a slight strengthening through the emergence of an independent press and intellectual circles, though its overall power remained limited.",
+  "society_change": 0.3,
+  "state_change": 1.2
+}

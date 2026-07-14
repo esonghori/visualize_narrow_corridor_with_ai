@@ -1,0 +1,8 @@
+{
+  "society_power": 7.8,
+  "state_power": 5.8,
+  "key_event": "Guerra Civil de 1891 e instauración de la República Parlamentaria.",
+  "reasoning": "La victoria de las fuerzas congresistas en la Guerra Civil de 1891 debilitó drásticamente el poder ejecutivo del Estado e instauró un régimen parlamentario que subordinó el gobierno a la élite oligárquica, aumentando inmensamente el poder de esta facción de la sociedad.",
+  "society_change": 1.6,
+  "state_change": -2.8
+}

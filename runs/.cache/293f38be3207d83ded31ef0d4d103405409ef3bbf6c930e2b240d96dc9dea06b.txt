@@ -1,0 +1,8 @@
+{
+  "society_power": 1.5,
+  "state_power": 9.5,
+  "key_event": "Golpe de Estado de 1973 y consolidación de la dictadura.",
+  "reasoning": "El golpe de Estado de 1973 reemplazó un Estado democrático colapsado por la polarización con una dictadura militar que elevó el poder estatal a un nivel despótico y aniquiló sistemáticamente a la sociedad civil organizada.",
+  "society_change": -7.3,
+  "state_change": 0.9
+}

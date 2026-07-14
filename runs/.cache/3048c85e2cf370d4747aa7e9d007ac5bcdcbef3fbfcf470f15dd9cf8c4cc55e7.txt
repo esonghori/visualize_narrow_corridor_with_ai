@@ -1,0 +1,8 @@
+{
+  "society_power": 7.5,
+  "state_power": 7.3,
+  "society_change": 0.3,
+  "state_change": -1.5,
+  "key_event": "Consolidación del parlamentarismo y crecimiento de sindicatos",
+  "reasoning": "El parlamentarismo y el crecimiento de sindicatos fortalecen a la sociedad civil, mientras que el poder presidencial se debilita."
+}

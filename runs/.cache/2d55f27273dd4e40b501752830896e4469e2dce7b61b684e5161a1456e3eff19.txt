@@ -1,0 +1,8 @@
+{
+  "society_power": 3.5,
+  "state_power": 9.0,
+  "key_event": "Napoleonic centralization through prefects, Code Civil, and police.",
+  "reasoning": "Through the coup of 18 Brumaire, Napoleon constructed a highly centralized and efficient state with an immense capacity for administration, taxation, and coercion. Simultaneously, civil society was systematically dismantled by suppressing the press, eliminating political opposition, and co-opting autonomous institutions, causing its power to plummet.",
+  "society_change": -4.0,
+  "state_change": 2.5
+}

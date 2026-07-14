@@ -1,0 +1,8 @@
+{
+  "society_power": 7.0,
+  "state_power": 4.0,
+  "key_event": "Allied invasion and abdication of Reza Shah in 1941.",
+  "reasoning": "The collapse of Reza Shah's despotic state after the 1941 Allied invasion created a power vacuum, allowing for an explosive resurgence of civil society (parties, press, unions). Although the state began a slow recovery after resolving the Azerbaijan crisis, it remained weak and was consistently constrained by this newly empowered, pluralistic society.",
+  "society_change": 6.0,
+  "state_change": -4.0
+}

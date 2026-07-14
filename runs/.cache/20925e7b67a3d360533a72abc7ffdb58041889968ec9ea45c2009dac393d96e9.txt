@@ -1,0 +1,8 @@
+{
+  "society_power": 8.8,
+  "state_power": 8.6,
+  "key_event": "Frei's 'Revolución en Libertad' empowers both state and society.",
+  "reasoning": "The state gained immense economic power via the 'Chilenización del Cobre' and a strong reformist mandate, expanding its capacity. Simultaneously, society's organizational density surged through state-sponsored 'Promoción Popular' and the growth of mass political parties, creating a dynamic of intense competition.",
+  "society_change": 0.6,
+  "state_change": 0.9
+}

@@ -1,0 +1,8 @@
+{
+  "society_power": 6.5,
+  "state_power": 7.2,
+  "key_event": "Reformas liberales que limitan al ejecutivo y secularizan el Estado.",
+  "reasoning": "El poder de la sociedad creció significativamente gracias a reformas que limitaron al presidente (fin de la reelección) y crearon un poder judicial independiente, empoderando al Congreso y las élites. Aunque el Estado ganó funciones seculares y unificó la ley (Código Penal), estas nuevas restricciones y una severa crisis fiscal redujeron ligeramente su poder ejecutivo concentrado.",
+  "society_change": 1.0,
+  "state_change": -0.3
+}

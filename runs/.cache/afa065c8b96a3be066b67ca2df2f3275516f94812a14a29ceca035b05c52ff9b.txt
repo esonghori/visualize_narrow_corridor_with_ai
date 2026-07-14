@@ -1,0 +1,39 @@
+# La France 1869-1878 selon le cadre d'Acemoğlu et Robinson
+
+Rappel du cadre : le « corridor étroit » suppose un équilibre entre **pouvoir de l'État** (capacité administrative, fiscale, coercitive) et **pouvoir de la société** (mobilisation civique, associations, presse, participation politique). La liberté naît de leur compétition équilibrée (« effet Reine Rouge »).
+
+## Tendances (mouvements lents)
+
+- **Libéralisation de l'Empire (Empire libéral, à partir de 1869-1870)** : élargissement des prérogatives du Corps législatif, relâchement de la censure → **renforce la société** face à un exécutif jusque-là dominant.
+
+- **Industrialisation et urbanisation continues** (chemins de fer, concentration ouvrière parisienne et lyonnaise) → **renforce la société** en densifiant des classes capables de mobilisation collective (mouvement ouvrier).
+
+- **Alphabétisation et essor de la presse d'opinion** → **renforce la société** (capacité de contestation et de coordination).
+
+- **Consolidation d'une administration centralisée héritée (préfets, fiscalité, armée)** : la machine étatique reste robuste malgré les changements de régime → **maintient/renforce l'État**.
+
+- **Structuration du mouvement républicain et laïque** (réseaux d'élus, ligues, francs-maçons) préparant l'enracinement institutionnel de la République → **renforce la société** de manière durable.
+
+- **Tension démographique et militaire avec la Prusse/Allemagne**, poussant à un renforcement de l'appareil coercitif et de la conscription → **renforce l'État** (capacité militaire).
+
+## Événements (chocs ponctuels)
+
+- **Guerre franco-prussienne et défaite de Sedan (1870)** : effondrement de l'Empire → **affaiblit brutalement l'État**, ouvrant un vide de pouvoir.
+
+- **Proclamation de la République (4 septembre 1870)** et gouvernement de Défense nationale → mobilisation civique, **renforce la société**, mais État fragilisé.
+
+- **Commune de Paris (mars-mai 1871)** : autogestion municipale insurrectionnelle → poussée extrême du **pouvoir de la société** (au-delà du corridor, vers l'anarchie/State absent selon le cadre).
+
+- **Semaine sanglante et répression (mai 1871)** : écrasement de la Commune, milliers de morts et déportations → **renforce violemment l'État** et **affaiblit durablement la société** (mouvement ouvrier décapité pour une décennie).
+
+- **Traité de Francfort (1871)** : perte de l'Alsace-Moselle et indemnité de guerre → contrainte sur les capacités de l'État, mais mobilisation nationale pour payer rapidement.
+
+- **Lois constitutionnelles de 1875** : institutionnalisation de la IIIe République (Sénat, présidence, Chambre) → **équilibre l'État et la société** dans un cadre stable (entrée/maintien dans le corridor).
+
+- **Crise du 16 mai 1877** : tentative de MacMahon d'imposer un exécutif fort contre la majorité parlementaire → conflit direct État/société ; la **victoire électorale républicaine affaiblit l'exécutif personnel et renforce la souveraineté parlementaire** (société).
+
+- **Consolidation républicaine aux élections de 1877-1878** → **renforce durablement la société** organisée et verrouille le régime parlementaire.
+
+## Synthèse interprétative
+
+La décennie illustre un passage **du hors-corridor au corridor** : l'Empire (État dominant) s'effondre, la Commune représente un débordement de la société, la répression rétablit un État fort, puis les lois de 1875 et la crise de 1877 produisent l'équilibre compétitif caractéristique de la liberté selon Acemoğlu et Robinson.

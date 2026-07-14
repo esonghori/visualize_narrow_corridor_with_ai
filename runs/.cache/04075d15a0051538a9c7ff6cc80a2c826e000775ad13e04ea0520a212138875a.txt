@@ -1,0 +1,8 @@
+{
+  "society_power": 7.8,
+  "state_power": 2.2,
+  "key_event": "The Constitutional Revolution establishes a parliament.",
+  "reasoning": "Society's power surged through the Constitutional Revolution, which created formal institutions like the Majles to check the monarchy. Meanwhile, the state's power was decimated by foreign debt, the 1907 Anglo-Russian agreement partitioning its sovereignty, and the ultimate military defeat of the Shah's forces.",
+  "society_change": 1.0,
+  "state_change": -0.6
+}

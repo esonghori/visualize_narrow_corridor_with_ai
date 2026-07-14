@@ -1,0 +1,8 @@
+{
+  "society_power": 5.0,
+  "state_power": 10.0,
+  "society_change": 0.5,
+  "state_change": 0.5,
+  "key_event": "经济市场化与互联网发展",
+  "reasoning": "经济市场化和互联网发展增强了公民社会的组织能力，但国家权力也因经济实力和监管加强而增强。"
+}

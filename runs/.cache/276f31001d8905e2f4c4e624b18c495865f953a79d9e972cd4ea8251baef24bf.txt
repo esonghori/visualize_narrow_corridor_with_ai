@@ -1,0 +1,8 @@
+{
+  "society_power": 2.5,
+  "state_power": 6.5,
+  "key_event": "Mao's death ends the Cultural Revolution, ushering in reform.",
+  "reasoning": "The state restored its governing capacity after the chaos of the Cultural Revolution, while spontaneous protests and early economic reforms marked the re-emergence of social power from near-total atomization.",
+  "society_change": 2.0,
+  "state_change": 2.0
+}

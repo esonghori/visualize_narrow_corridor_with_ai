@@ -1,0 +1,8 @@
+{
+  "society_power": 8.7,
+  "state_power": 7.3,
+  "key_event": "The massive student protests of 2011 and subsequent mobilizations.",
+  "reasoning": "A cycle of massive social mobilizations, amplified by digital tools and fueled by corruption scandals, significantly empowered civil society. This eroded the state's legitimacy and political capital, weakening it despite its administrative capacities remaining robust.",
+  "society_change": 0.8,
+  "state_change": -0.5
+}

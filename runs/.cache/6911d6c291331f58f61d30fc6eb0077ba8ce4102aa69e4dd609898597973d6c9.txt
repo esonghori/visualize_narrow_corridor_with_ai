@@ -1,0 +1,8 @@
+{
+  "society_power": 7.5,
+  "state_power": 7.8,
+  "society_change": 0.5,
+  "state_change": 0.3,
+  "key_event": "Républicanisation politique, expansion de l'éducation",
+  "reasoning": "La républicanisation politique et l'expansion de l'éducation renforcent à la fois l'État et la société civile, malgré quelques affaiblissements temporaires."
+}

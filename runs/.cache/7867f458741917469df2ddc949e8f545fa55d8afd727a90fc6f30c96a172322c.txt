@@ -1,0 +1,27 @@
+Claro. A continuación se presentan las tendencias y acontecimientos en Chile (1908-1917) analizados bajo el marco de Acemoğlu y Robinson, centrados en el poder relativo del Estado y la sociedad.
+
+Este período corresponde a la fase madura de la "República Parlamentaria", un sistema que, en términos del marco, se asemeja a un **"Leviatán Encadenado"** (*Shackled Leviathan*): un Estado con instituciones formales pero con su poder ejecutivo fuertemente limitado por una élite social y política organizada en el Congreso.
+
+---
+
+### **Tendencias (1908-1917)**
+
+-   **Agudización de la "Cuestión Social":** El crecimiento de un proletariado urbano y minero sin derechos laborales, viviendo en condiciones precarias, fue una tendencia de fondo. Esto provocó una organización obrera creciente en sindicatos y mutuales.
+    -   **Efecto:** **Fortaleció a la sociedad civil** al crear nuevos actores colectivos (el movimiento obrero) con capacidad de movilización y demandas concretas, que desafiaban tanto a la élite económica como a la inacción estatal.
+
+-   **Dependencia fiscal del salitre:** La economía y, crucialmente, los ingresos del Estado dependían abrumadoramente de los impuestos a la exportación del salitre. Esta dependencia generaba una gran volatilidad en las finanzas públicas, sujeta a los vaivenes del mercado mundial.
+    -   **Efecto:** Ambiguo. Por un lado, **fortaleció la capacidad del Estado** al proveerle de enormes recursos sin necesidad de imponer impuestos directos a la élite. Por otro, **debilitó estructuralmente al Estado** al hacerlo extremadamente vulnerable a shocks externos, como demostró el inicio de la Primera Guerra Mundial.
+
+-   **Consolidación de la disfuncionalidad parlamentaria:** La práctica de la "rotativa ministerial" y la primacía del Congreso sobre el Presidente se consolidaron, llevando a una parálisis gubernamental y a la incapacidad del Estado para implementar políticas a largo plazo o reformas sociales significativas.
+    -   **Efecto:** **Debilitó al Estado** en su capacidad ejecutiva y coherencia. El poder no estaba ausente, sino capturado y fragmentado por una facción de la sociedad (la oligarquía parlamentaria), impidiendo que el Leviatán actuara de forma autónoma.
+
+### **Acontecimientos (1908-1917)**
+
+-   **Fundación de la Federación Obrera de Chile (FOCH) (1909):** Aunque inicialmente mutualista, la creación de una organización de alcance nacional para los trabajadores marcó un hito en la articulación del movimiento obrero.
+    -   **Efecto:** **Fortaleció decisivamente a la sociedad civil**, dándole una estructura y una voz más potente y unificada para presionar por sus intereses frente al Estado y los empleadores.
+
+-   **Inicio de la Primera Guerra Mundial (1914):** El conflicto europeo interrumpió bruscamente el comercio del salitre, principal pilar fiscal de Chile, al cerrar el mercado alemán. Esto provocó una crisis económica, desempleo masivo y agitación social.
+    -   **Efecto:** **Debilitó drásticamente al Estado** al colapsar su principal fuente de ingresos. Al mismo tiempo, el descontento social resultante **fortaleció la presión de la sociedad civil** sobre un aparato estatal repentinamente empobrecido e ineficaz.
+
+-   **Promulgación de la "Ley de la Silla" (1914):** Esta fue una de las primeras leyes laborales de Chile, que obligaba a los empleadores a proporcionar asientos a sus empleados. Aunque modesta, fue una victoria simbólica del movimiento obrero.
+    -   **Efecto:** Demostró un ligero reequilibrio. **Fortaleció a la sociedad civil** al mostrar que su presión podía traducirse en legislación. Simultáneamente, representó un tímido **fortalecimiento del Estado** en su capacidad regulatoria, al intervenir por primera vez, aunque mínimamente, en la relación capital-trabajo, un pequeño paso hacia el "Corredor Estrecho".

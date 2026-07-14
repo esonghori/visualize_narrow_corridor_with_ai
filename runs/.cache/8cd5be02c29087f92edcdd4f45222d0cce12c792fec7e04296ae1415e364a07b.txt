@@ -1,0 +1,8 @@
+{
+  "society_power": 9.2,
+  "state_power": 7.3,
+  "key_event": "Les grèves de 1995 forcent le retrait d'une réforme majeure.",
+  "reasoning": "Le pouvoir de l'État est nettement contraint par l'intégration européenne (Maastricht) et les cohabitations, tandis que la société démontre une formidable capacité de veto lors des grèves de 1995, forçant le gouvernement à reculer.",
+  "society_change": 0.1,
+  "state_change": -0.6
+}

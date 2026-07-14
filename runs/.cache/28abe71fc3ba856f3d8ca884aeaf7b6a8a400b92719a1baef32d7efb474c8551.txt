@@ -1,0 +1,8 @@
+{
+  "society_power": 5.0,
+  "state_power": 7.5,
+  "key_event": "The ultra-royalist reaction under Charles X.",
+  "reasoning": "The state's power grew significantly as the ultra-royalist government passed repressive laws, successfully projected military force, and dismantled societal counter-powers. Society's power slightly decreased as its key tools of expression (press, representation) were actively curtailed, despite the underlying economic growth of the liberal bourgeoisie.",
+  "society_change": -0.5,
+  "state_change": 1.5
+}

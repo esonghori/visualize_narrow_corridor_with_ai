@@ -1,0 +1,8 @@
+{
+  "society_power": 1.5,
+  "state_power": 8.0,
+  "key_event": "The Iran-Iraq War and consolidation of the revolutionary state.",
+  "reasoning": "The Iran-Iraq War provided the new revolutionary state the justification and means to build a powerful security apparatus and control the economy. This process, combined with the violent suppression of all political opposition, crushed the once-mobilized civil society and created a strong, despotic state.",
+  "society_change": -6.5,
+  "state_change": 6.0
+}

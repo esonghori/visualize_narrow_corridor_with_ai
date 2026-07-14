@@ -1,0 +1,8 @@
+{
+  "society_power": 5.7,
+  "state_power": 5.8,
+  "society_change": 0.7,
+  "state_change": -1.2,
+  "key_event": "Révolte des canuts, Insurrection de Paris",
+  "reasoning": "La mobilisation sociale s'est renforcée malgré la répression, tandis que l'État a vu sa capacité économique et financière s'affaiblir."
+}

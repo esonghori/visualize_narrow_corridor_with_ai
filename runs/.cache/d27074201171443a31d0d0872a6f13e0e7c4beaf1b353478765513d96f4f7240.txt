@@ -1,0 +1,8 @@
+{
+  "society_power": 7.9,
+  "state_power": 7.8,
+  "key_event": "Reformas subordinan a militares y la \"Revolución Pingüina\" muestra poder social.",
+  "reasoning": "El Estado consolidó su poder democrático al subordinar a las Fuerzas Armadas (reformas de 2005), mientras la sociedad civil demostró una capacidad de movilización sin precedentes desde 1990 con la masiva protesta estudiantil de 2006.",
+  "society_change": 1.1,
+  "state_change": 0.8
+}
