@@ -76,3 +76,13 @@ Against V-Dem expert codings, "society power" tracks the civil-society index wel
 Two caveats I lead with, not bury:
 • These indices are almost certainly in the models' training data, so agreement = *consistency*, not proven accuracy.
 • Coverage is thinnest for exactly the non-Western cases (Iran, China, Colombia, DR Congo, Lebanon, Somalia, Zambia) — the training data is English-heavy.
+
+---
+
+**9/** 📊 *[attach: `paper/experiments/results_lang/lang-ablation.png`]*
+
+Does prompting in English bias the scores? I re-ran the whole ensemble with every prompt fully translated — 🇫🇷 France in French, 🇨🇳 China in Chinese, 🇮🇷 Iran in Persian, 🇨🇱 Chile in Spanish, 🇱🇧 Lebanon in Arabic.
+
+The paths barely move (first-difference ρ ≈ 0.86–0.99). So prompt language isn't the lever — the trajectory is driven by the history the model encodes, not the surface language.
+
+⚠️ Caveat: the models often still *reason* in English even when prompted in another language. So this shows the prompt language isn't the bias — not that the English/Western-corpus bias is gone.

@@ -28,6 +28,8 @@ MODEL_ORDER = [
     "openai/gpt-4o",
     "openrouter/qwen/qwen-2.5-72b-instruct",
 ]
+LANG_NAMES = {"fr": "French", "zh": "Chinese", "fa": "Persian",
+              "es": "Spanish", "ar": "Arabic"}
 
 
 def _order_key(value: str, order: list[str]):
@@ -56,7 +58,25 @@ def discover(runs: Path):
     return items
 
 
-def build(runs: Path, out: Path) -> int:
+def discover_ablation(lang_dir: Path):
+    """[(country, lang_name, png_path)] for the prompt-language comparison figures.
+
+    Files are '<slug>__lang-compare-<lang>.png'; the real country name comes from
+    the sibling '<slug>__ensemble-mean__<lang>.json' saved by lang_ablation.py.
+    """
+    items = []
+    for png in sorted(lang_dir.glob("*__lang-compare-*.png")):
+        slug, _, lang = png.stem.partition("__lang-compare-")
+        j = lang_dir / f"{slug}__ensemble-mean__{lang}.json"
+        try:
+            country = json.loads(j.read_text())["country"]
+        except Exception:
+            country = slug
+        items.append((country, LANG_NAMES.get(lang, lang), png))
+    return sorted(items, key=lambda t: _order_key(t[0], COUNTRY_ORDER))
+
+
+def build(runs: Path, out: Path, lang_dir: Path | None = None) -> int:
     items = discover(runs)
     assets = out / "assets"
     assets.mkdir(parents=True, exist_ok=True)
@@ -105,9 +125,32 @@ def build(runs: Path, out: Path) -> int:
         "then re-run this script.</p>"
     )
 
+    # Optional prompt-language ablation block (English vs native-language paths).
+    ablation = ""
+    ab_items = discover_ablation(lang_dir) if lang_dir and lang_dir.exists() else []
+    if ab_items:
+        cards = []
+        for country, lang_name, png in ab_items:
+            shutil.copy2(png, assets / png.name)
+            cards.append(
+                f'<figure class="acard"><img loading="lazy" src="assets/{escape(png.name)}" '
+                f'alt="{escape(country)} — English vs {escape(lang_name)} prompts">'
+                f"<figcaption>{escape(country)} — English vs {escape(lang_name)}</figcaption></figure>"
+            )
+        ablation = (
+            '<section class="ablation"><h2>Prompt-language ablation</h2>'
+            "<p>Does the prompt's language bias the scores? Each country's ensemble "
+            "trajectory scored with English prompts (blue) vs. prompts translated "
+            "into its own language (red); gray connectors show each period's shift. "
+            "The paths stay close, so the trajectories are driven more by the history "
+            "the models encode than by the prompt language.</p>"
+            f'<div class="abgrid">{"".join(cards)}</div></section>'
+        )
+
     html = _TEMPLATE.format(
         filters=filters,
         sections="\n".join(sections),
+        ablation=ablation,
         note=note,
         n=len(items),
         n_countries=len(countries),
@@ -162,6 +205,13 @@ _TEMPLATE = """<!doctype html>
   .imgwrap.playing .badge {{ background:var(--accent); }}
   figcaption {{ padding:.5rem .7rem; font-size:.8rem; color:var(--muted); font-family:ui-monospace,Menlo,monospace; }}
   .empty {{ color:var(--muted); }}
+  .ablation {{ margin-top:2.5rem; }}
+  .ablation h2 {{ font-size:1.25rem; border-bottom:2px solid var(--accent); padding-bottom:.2rem; margin:2rem 0 .6rem; }}
+  .ablation p {{ color:var(--muted); max-width:65ch; margin:.2rem 0 1rem; }}
+  .abgrid {{ display:grid; grid-template-columns:repeat(auto-fill,minmax(360px,1fr)); gap:1rem; }}
+  .acard {{ margin:0; border:1px solid var(--line); border-radius:10px; overflow:hidden; background:#fff; }}
+  .acard img {{ width:100%; display:block; }}
+  .acard figcaption {{ padding:.5rem .7rem; font-size:.8rem; color:var(--muted); }}
   footer {{ max-width:1100px; margin:0 auto; padding:2rem 1.25rem; color:var(--muted); font-size:.85rem; border-top:1px solid var(--line); }}
 </style>
 </head>
@@ -179,6 +229,7 @@ _TEMPLATE = """<!doctype html>
 <main>
 {note}
 {sections}
+{ablation}
 </main>
 <footer>
   Generated from committed run outputs. Axes: society power (x) vs. state power (y);
@@ -222,8 +273,10 @@ def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--runs", type=Path, default=Path("runs"), help="Directory of run outputs.")
     ap.add_argument("--out", type=Path, default=Path("docs"), help="Site output directory.")
+    ap.add_argument("--lang-dir", type=Path, default=None,
+                    help="Optional results_lang/ dir; adds the prompt-language ablation section.")
     args = ap.parse_args()
-    build(args.runs, args.out)
+    build(args.runs, args.out, args.lang_dir)
 
 
 if __name__ == "__main__":

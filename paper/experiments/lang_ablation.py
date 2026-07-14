@@ -113,10 +113,25 @@ def _diff(seq):
     return [b - a for a, b in zip(seq, seq[1:])]
 
 
+def _smooth(x, y):
+    """B-spline smoothing, same as narrow_corridor.plot._gradient_line, so the
+    ablation paths read like the atlas figures rather than as raw polylines."""
+    import numpy as np
+    from scipy.interpolate import make_interp_spline
+    n = len(x)
+    if n <= 2:
+        return np.asarray(x, float), np.asarray(y, float)
+    t = np.arange(n)
+    ts = np.linspace(0, t.max(), 300)
+    k = min(3, n - 1)
+    return make_interp_spline(t, x, k=k)(ts), make_interp_spline(t, y, k=k)(ts)
+
+
 def _draw_path(ax, path, color, label):
     x = [path.society_power[p] for p in path.periods]
     y = [path.state_power[p] for p in path.periods]
-    ax.plot(x, y, "-", color=color, lw=2, label=label, zorder=3)
+    xs, ys = _smooth(x, y)
+    ax.plot(xs, ys, "-", color=color, lw=2, label=label, zorder=3)
     ax.scatter(x, y, color=color, s=28, zorder=4, edgecolors="white", linewidths=0.5)
     ax.scatter([x[0]], [y[0]], color=color, s=110, marker="o", zorder=5,
                edgecolors="black", linewidths=0.8)   # start (hollow-ish)

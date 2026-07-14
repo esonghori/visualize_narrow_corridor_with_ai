@@ -577,16 +577,30 @@ Chinese for China, Persian for Iran, Spanish for Chile, and Arabic for Lebanon,
 keeping the rubric, the two-call structure, and the requested (English) output
 fields identical, so only the prose language changes.
 Figure~\ref{fig:language} overlays each country's English- and native-language
-ensemble trajectory. The paths are close: the mean per-period displacement is
-\ph{X} rubric points, the largest for \ph{X}, and the end-of-trajectory
-(2020) positions differ by \ph{X} points, small relative to the cross-model
-spread of Section~\ref{sec:reliability}. First-difference rank correlations
-between the two language versions are \ph{X} (society) and \ph{X} (state),
-indicating the \emph{timing and direction} of the moves is largely
-language-invariant. The residual shifts are a lower bound on, not a full audit
-of, language sensitivity (translation quality and the three-country scope both
-bound the claim), but they suggest the trajectories are driven more by the
-historical record the models encode than by the prompt language.
+ensemble trajectory. The paths track each other closely: the root-mean-square
+per-period displacement between the two language versions is $0.3$--$0.5$ rubric
+points (largest for Iran, $0.53$), and the end-of-trajectory ($2020$) positions
+differ by $0.08$--$0.56$ points (mean $0.33$)---both small relative to the
+cross-model spread of Section~\ref{sec:reliability}. First-difference rank
+correlations between the two language versions are high on both axes
+(society $\rho=0.86$--$0.99$, state $\rho=0.88$--$0.98$), so the \emph{timing and
+direction} of the moves is largely language-invariant.
+
+We read this as prompt language having little effect on the scores, and
+therefore little effect on their accuracy: switching the prompt out of English
+neither removes nor amplifies the trajectories, which suggests the effect of the
+predominantly English, Western-leaning training corpus on \emph{these}
+measurements is small. We caution, however, that this is not evidence the
+underlying corpus bias is absent. The language a model is \emph{prompted} in and
+the language it \emph{reasons} in need not coincide: under our translated prompts
+the models frequently produced their chain-of-thought and key-event summaries in
+English regardless of the prompt language. Translating the prompt therefore
+changes the interface, not necessarily the evidence base the scores rest on, and
+does not by itself pull the model off its English- and Western-centric sources.
+The residual shifts are thus a lower bound on, not a full audit of, language
+sensitivity (translation quality and the five-country scope also bound the
+claim), but they do suggest the trajectories are driven more by the historical
+record the models encode than by the surface language of the prompt.
 
 \begin{figure*}[t]
   \centering

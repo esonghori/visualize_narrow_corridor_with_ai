@@ -156,8 +156,12 @@ first-difference ρ between the two languages). Fill the `\ph{}` numbers in
 ## Step 4 — Build the gallery
 
 ```bash
-uv run python scripts/build_site.py --runs paper/experiments/results --out docs
+uv run python scripts/build_site.py --runs paper/experiments/results --out docs \
+    --lang-dir paper/experiments/results_lang   # adds the prompt-language ablation section
 ```
+
+Then deploy the gallery to the website (rsyncs `docs/` into the sibling
+`../website` repo and pushes it): `bash scripts/deploy-to-website.sh`.
 
 ## Step 5 — Compile the paper
 
