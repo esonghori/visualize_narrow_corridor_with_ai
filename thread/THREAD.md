@@ -51,27 +51,7 @@ Chile is the drama: watch it get thrown out of the corridor at the 1973 coup (so
 
 ---
 
-**6/** 🎬 *[attach: `docs/assets/india__ensemble-mean.gif`]*
-
-The new cases stress-test the framework:
-
-🇮🇳 India climbs into the corridor: a Shackled Leviathan.
-🇱🇧 Lebanon & 🇸🇴 Somalia sink into the weak-state zone, society outrunning a barely-there state.
-🇿🇲 Zambia lands *inside* the corridor: one example that may surprise readers unfamiliar with its recent history.
-
----
-
-**7/**
-
-Does it mean anything? Four LLMs (Gemini 2.5 Pro, Claude Opus 4.8, GPT-5.5, and open-weight Qwen) score independently.
-
-Against V-Dem expert codings, "society power" tracks the civil-society index well (China ρ=.89, France .87), and the models agree with each other (Krippendorff α=.66).
-
-→ a shared, expert-consistent signal, not one model's quirk.
-
----
-
-**8/**
+**6/**
 
 Two caveats I lead with, not bury:
 • These indices are almost certainly in the models' training data, so agreement = *consistency*, not proven accuracy.
@@ -79,10 +59,22 @@ Two caveats I lead with, not bury:
 
 ---
 
-**9/** 📊 *[attach: `paper/experiments/results_lang/lang-ablation.png`]*
+**7/** 📊 *[attach: `paper/experiments/results_lang/lang-ablation.png`]*
 
 Does prompting in English bias the scores? I re-ran the whole ensemble with every prompt fully translated: 🇫🇷 France in French, 🇨🇳 China in Chinese, 🇮🇷 Iran in Persian, 🇨🇱 Chile in Spanish, 🇱🇧 Lebanon in Arabic.
 
 The paths barely move (first-difference ρ ≈ 0.86–0.99). So prompt language isn't the lever; the trajectory is driven by the history the model encodes, not the surface language.
 
 ⚠️ Caveat: the models often still *reason* in English even when prompted in another language. So this shows the prompt language isn't the bias, not that the English/Western-corpus bias is gone.
+
+---
+
+**8/**
+
+Does it hold up? Four LLMs (Gemini 2.5 Pro, Claude Opus 4.8, GPT-5.5, and open-weight Qwen) score independently.
+
+Against V-Dem expert codings, "society power" tracks the civil-society index well (China ρ=.89, France .87), and the models agree with each other (Krippendorff α=.66): a shared, expert-consistent signal, not one model's quirk.
+
+The takeaway: the book's two axes, left qualitative for years, can be operationalized at scale. An LLM turns a country's history into a reproducible path through the corridor, cheap enough to run for the whole world and checkable against expert data.
+
+📄 arxiv.org/abs/2607.18319 · 💻 github.com/esonghori/narrow-corridor-llm · 🌐 esonghori.com/narrow-corridor-llm/gallery
