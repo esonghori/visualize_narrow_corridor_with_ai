@@ -166,6 +166,14 @@ _TEMPLATE = """<!doctype html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-TXR8WB0XKL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){{dataLayer.push(arguments);}}
+  gtag('js', new Date());
+  gtag('config', 'G-TXR8WB0XKL');
+</script>
 <title>Narrow Corridor — Trajectory Atlas</title>
 <meta name="description" content="Interactive gallery of LLM-scored trajectories through Acemoglu and Robinson's Narrow Corridor — twelve countries mapped in state-power vs. society-power space across four large language models, checked against the V-Dem index.">
 <meta name="author" content="Ebrahim M. Songhori">
