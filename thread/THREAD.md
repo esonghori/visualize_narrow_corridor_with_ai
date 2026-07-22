@@ -71,9 +71,13 @@ The paths barely move (first-difference ρ ≈ 0.86–0.99). So prompt language 
 
 **8/**
 
-Does it hold up? Four LLMs (Gemini 2.5 Pro, Claude Opus 4.8, GPT-5.5, and open-weight Qwen) score independently.
+Does it hold up? Four LLMs (Gemini 2.5 Pro, Claude Opus 4.8, GPT-5.5, and open-weight Qwen) score each country independently, and both axes check out.
 
-Against V-Dem expert codings, "society power" tracks the civil-society index well (China ρ=.89, France .87), and the models agree with each other (Krippendorff α=.66): a shared, expert-consistent signal, not one model's quirk.
+vs V-Dem expert codings, each axis lines up with the measure built for it:
+• society power ↔ civil-society index (China ρ=.89, France .87)
+• state power ↔ control over territory (Somalia ρ=.97, US .84)
+
+The models also agree with each other on the period-to-period moves: Krippendorff α=.66 for society, .68 for state. A shared, expert-consistent signal on both axes, not one model's quirk.
 
 The takeaway: the book's two axes, left qualitative for years, can be operationalized at scale. An LLM turns a country's history into a reproducible path through the corridor, cheap enough to run for the whole world and checkable against expert data.
 
